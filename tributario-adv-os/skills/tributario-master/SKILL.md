@@ -30,6 +30,7 @@ Porta de entrada de toda demanda. Tres frentes, tres esferas:
 - **Esferas:** federal (Uniao/Receita/PGFN) · estadual (ICMS/ITCMD/IPVA) · municipal (ISS/IPTU/ITBI).
 
 > Crimes tributarios (Lei 8.137/90) → **interface com o plugin criminal**; aqui o foco e o tributo.
+> **Isencao de IRPF por doenca grave** (art. 6 XIV Lei 7.713/88 — proventos de aposentadoria/pensao/reforma) → **interface com o plugin `isencao-ir-doenca-adv-os`** (produto dedicado; dado de saude sensivel, LGPD art. 11). Trate aqui so se o caso ja escalou para contencioso fiscal amplo.
 
 ## 1. IDENTIDADE
 
@@ -112,6 +113,7 @@ Modo `checkpoint` (default) ou `--continuo`.
 | Planejar / regimes / elisao | planejamento-tributario |
 | Parcelar / transacao / REFIS | parcelamento-transacao |
 | Reforma / CBS / IBS / transicao | reforma-tributaria |
+| Isencao IRPF por doenca grave (proventos) | → plugin `isencao-ir-doenca-adv-os` |
 | Revisar antes de entregar | revisao-final-tributaria |
 
 ## 7. ENCERRAMENTO

@@ -1,7 +1,29 @@
+# ==========================================================================
+# Marketplace PÚBLICO — NENHUM dado de cliente pode entrar aqui (LGPD + sigilo OAB).
+# Os CHASSIS de peça genéricos vivem em templates/pecas/ e SÃO versionados.
+# O que se barra abaixo é dado REAL de caso (mora fora do repo, em casos/ ou no acervo).
+# ==========================================================================
+
+# Caches
 __pycache__/
 *.pyc
+*.pyo
 *.json.tmp
-# estado/persona/casos do operador nunca versionam (LGPD)
-**/consumidor/
+
+# Dados de caso / cliente — barrados por NOME (robusto contra git add -A descuidado)
 **/casos/
 **/CASO.md
+**/MEMORY.md
+**/arquivos/
+
+# Estado runtime do operador (gerado por /start — nunca versiona)
+**/cowork-state.json
+**/.hook-state.json
+**/.memory-evolver-pending.json
+**/.snapshots/
+**/persona.md
+**/config.md
+**/settings.local.json
+
+# NOTA: as versões .tpl (persona.md.tpl, config.md.tpl, CASO.md.tpl, MEMORY-caso.md.tpl)
+# são TEMPLATES e permanecem versionadas — os padrões acima não as alcançam.

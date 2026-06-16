@@ -3,7 +3,7 @@
 Hook PostToolUse(Edit|Write) — anti-flap.
 
 Objetivo: detectar edicao de arquivo dentro de um COWORK e gravar sinalizacao em
-<COWORK>/familia/.memory-evolver-pending.json. A SKILL `memoria-de-caso-familia` e a que
+<COWORK>/familia/.memory-evolver-pending.json. A SKILL `memory-evolver` e a que
 efetivamente consolida o MEMORY.md (LLM aplica regras de admissao + bloat). Este
 hook apenas registra o evento de forma silenciosa e debounced.
 
@@ -25,7 +25,7 @@ Output: sempre exit 0 (nao bloqueia fluxo). Imprime uma linha informativa em std
 se pulou + razao (debug-friendly).
 
 Este hook NAO invoca LLM. Apenas marca pending. A consolidacao da memoria
-acontece quando o usuario ou outra skill invocar memoria-de-caso-familia/cowork-doctor.
+acontece quando o usuario ou outra skill invocar memory-evolver/cowork-doctor.
 """
 
 from __future__ import annotations
@@ -127,7 +127,7 @@ def main() -> int:
         sys.stderr.write(f"[post-edit] skip: debounce ativo ({DEBOUNCE_SECONDS}s) para {file_path}\n")
         return 0
 
-    # Registrar pending (memoria-de-caso-familia le e processa depois)
+    # Registrar pending (memory-evolver le e processa depois)
     pending_path = cowork / "familia" / ".memory-evolver-pending.json"
     pending_path.parent.mkdir(parents=True, exist_ok=True)
     pending: list = []

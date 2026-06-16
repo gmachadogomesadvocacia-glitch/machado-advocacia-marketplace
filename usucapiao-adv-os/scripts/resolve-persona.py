@@ -110,7 +110,7 @@ def main() -> int:
 
     # Header de diagnostico no comeco (nao interfere com markdown renderizado)
     if source == "fallback":
-        sys.stderr.write(f"[usucapiao-adv-os] Persona: FALLBACK (nenhuma persona configurada, rode /start)\n")
+        sys.stderr.write(f"[usucapiao-adv-os] Persona: FALLBACK (nenhuma persona configurada, rode /start-usucapiao)\n")
     else:
         sys.stderr.write(f"[usucapiao-adv-os] Persona carregada de {source}: {path}\n")
 

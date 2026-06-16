@@ -1,0 +1,22 @@
+---
+description: Wizard de configuracao inicial do plugin no escritorio — cria persona, config, pasta de casos e aponta IMOB_PERSONA no settings.local.json. Rode na primeira vez.
+allowed-tools: Read, Write, Edit, Bash, Glob, Grep
+argument-hint: [opcional]
+---
+
+Voce foi acionado pelo comando `/start-imobiliario` do plugin imobiliario-adv-os.
+
+Argumento recebido: `$ARGUMENTS`
+
+**Objetivo:** conduzir o wizard de configuracao do plugin no ambiente do operador, gravando a identidade do escritorio fora do plugin distribuido.
+
+## PROTOCOLO
+1. **Verificar estado** — se ja existir `imobiliario/cowork-state.json`, avisar que o plugin esta configurado e oferecer reconfigurar; senao, seguir o wizard.
+2. **Acionar a skill `onboarding-imobiliario`** — conduzir as perguntas: advogado (nome, OAB/UF/numero), firma, cidade/UF, email, tom/intensidade; frentes (locacao / contratos-imobiliarios / direitos-reais-posse / consultivo); pares de polo atendidos (locador x locatario, comprador x vendedor, possuidor x esbulhador, condominio x condomino, fiduciante x credor fiduciario); ferramentas.
+3. **Inicializar o estado** — rodar `python scripts/state.py init <cowork>` e gravar os campos coletados via `python scripts/state.py set`.
+4. **Renderizar artefatos** — `persona.md.tpl` -> `<cwd>/imobiliario/persona.md` e `config.md.tpl` -> `<cwd>/imobiliario/config.md`, populando `{{FRENTES}}`, `{{POLOS}}` (pares de polo) e `{{POLO_CLIENTE}}`; criar a pasta `<cwd>/imobiliario/casos/`.
+5. **Apontar a persona** — gravar `IMOB_PERSONA` no `settings.local.json` apontando para a `persona.md` criada (variaveis do engine: `IMOB_PERSONA`, `IMOB_COWORK_PATH`, `IMOB_STATE_FILE`).
+6. **Alerta de sigilo** — se o workspace for pasta sincronizada (OneDrive/iCloud/Google Drive/Dropbox), avisar sobre sigilo OAB + LGPD; a pasta `imobiliario/casos/` e gitignored.
+7. **Encerrar** confirmando a identidade gravada e sugerindo `/status-imobiliario` e `/triagem`.
+
+**Skill a acionar:** `onboarding-imobiliario`.

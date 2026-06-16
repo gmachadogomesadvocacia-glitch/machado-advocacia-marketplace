@@ -78,6 +78,15 @@
       "author": {
         "name": "Machado Advocacia"
       }
+    },
+    {
+      "name": "criminal-adv-os",
+      "version": "0.1.0",
+      "source": "./criminal-adv-os",
+      "description": "Sistema operacional do advogado criminalista brasileiro (Direito Penal e Processo Penal), no padrao Adv-OS. Cobre as SEIS FASES — INVESTIGACAO/INQUERITO (flagrante, prisoes preventiva/temporaria, relaxamento, liberdade provisoria, audiencia de custodia), ACAO PENAL (resposta a acusacao art. 396-A CPP, instrucao, alegacoes finais, absolvicao sumaria), TRIBUNAL DO JURI (pronuncia/impronuncia/desclassificacao, plenario, quesitos), RECURSOS (apelacao, RESE, embargos, HC/RHC), EXECUCAO PENAL (LEP 7.210/84 — progressao, livramento, remicao, incidentes) e ACORDOS DESPENALIZADORES (ANPP art. 28-A CPP, transacao penal, suspensao condicional do processo, Lei 9.099). Side-aware: defesa (investigado/reu/sentenciado) x assistencia de acusacao (vitima). 20 skills (Tier 0-3), 4 Camadas, 13 Proibicoes Absolutas (lei penal no tempo, prescricao, dosimetria trifasica, garantias, vedacao etico-penal de orientar crime/destruir prova/coagir, sigilo reforcado), Selo de Validacao Legal Previa e Suprema Corte R1-R4; engine com persona em runtime e 13 commands. Interfaces: crimes tributarios (Lei 8.137) <- tributario-adv-os; crimes de transito (CTB) <- transito-adv-os; violencia domestica/Maria da Penha <-> familia-sucessoes-adv-os. Onboarding via /start-criminal.",
+      "author": {
+        "name": "Machado Advocacia"
+      }
     }
   ]
 }

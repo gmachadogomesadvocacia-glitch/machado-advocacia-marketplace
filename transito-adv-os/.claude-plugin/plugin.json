@@ -1,0 +1,9 @@
+{
+  "name": "transito-adv-os",
+  "version": "0.1.0",
+  "description": "Sistema operacional do advogado de Direito de Transito brasileiro (recursos de multas e CNH), no padrao Adv-OS. Base: CTB Lei 9.503/97 + Lei 14.071/2020 + Resolucoes CONTRAN. Cobre TRES EIXOS — ADMINISTRATIVO (defesa previa/da autuacao, recurso a JARI 1a instancia, recurso ao CETRAN 2a instancia), CNH/HABILITACAO (processo de suspensao do direito de dirigir por pontuacao 20/30/40 pts ou infracao autossuspensiva; cassacao; reabilitacao; indicacao do real condutor) e JUDICIAL (acao anulatoria de multa/auto de infracao; mandado de seguranca — vicio formal, direito liquido e certo, liminar) — mais a ANALISE de vicios/nulidades do auto de infracao. Foco: defesa do condutor/proprietario. 20 skills (Tier 0-3), 4 Camadas, 13 Proibicoes Absolutas (prazos administrativos preclusivos; dupla notificacao Sum. 312 STJ; norma vigente na infracao; vedacao de fraude de pontuacao/indicacao falsa de condutor — crime art. 299 CP), Selo de Validacao Legal Previa e Suprema Corte R1-R4; engine com persona em runtime e 13 commands. Interfaces: crime de transito (embriaguez art. 306, homicidio culposo 302 CTB) -> criminal-adv-os; reparacao civil do acidente / DPVAT -> civel-adv-os. Persona em runtime via /start-transito.",
+  "author": {
+    "name": "Machado Advocacia"
+  },
+  "license": "MIT"
+}

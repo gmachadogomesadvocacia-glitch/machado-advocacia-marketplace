@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.json.tmp
+# estado/persona/casos do operador nunca versionam (LGPD)
+**/consumidor/
+**/casos/
+**/CASO.md

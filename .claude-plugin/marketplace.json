@@ -1,0 +1,20 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "machado-advocacia-marketplace",
+  "version": "1.0.0",
+  "description": "Marketplace dos plugins juridicos do escritorio Machado Advocacia, no padrao Adv-OS. Sistemas operacionais do advogado brasileiro por area do direito.",
+  "owner": {
+    "name": "Gustavo Machado Gomes"
+  },
+  "plugins": [
+    {
+      "name": "consumidor-adv-os",
+      "version": "0.1.0",
+      "source": "./consumidor-adv-os",
+      "description": "Sistema operacional do advogado de Direito do Consumidor e Bancario. Atende os dois polos (consumidor e fornecedor) com orquestrador side-aware e triagem 4D (polo x eixo x esfera x rito). 35 skills + 14 commands cobrindo os 13 eixos do consumo, governanca de 4 Camadas, Selo de Validacao Legal Previa e Suprema Corte R1-R4. Persona em runtime via /start-consumidor.",
+      "author": {
+        "name": "Machado Advocacia"
+      }
+    }
+  ]
+}

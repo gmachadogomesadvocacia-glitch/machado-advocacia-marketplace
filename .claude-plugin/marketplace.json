@@ -42,6 +42,15 @@
       "author": {
         "name": "Machado Advocacia"
       }
+    },
+    {
+      "name": "isencao-ir-doenca-adv-os",
+      "version": "0.1.0",
+      "source": "./isencao-ir-doenca-adv-os",
+      "description": "Sistema operacional do advogado para ISENCAO DE IRPF POR DOENCA GRAVE (art. 6 XIV Lei 7.713/88), no padrao Adv-OS. Isencao do IR sobre proventos de aposentadoria/pensao/reforma de portadores de doenca grave (cancer, cardiopatia, cegueira, Parkinson, etc.). Vias administrativa (fonte pagadora + retificacao DIRPF) e judicial (declaratoria + repeticao de indebito 5 anos + tutela). Teses: Sum. 598 e 627 STJ. 16 skills, 4 Camadas, Suprema Corte R1-R4; engine com persona em runtime e 10 commands. Onboarding via /start-isencao-ir.",
+      "author": {
+        "name": "Machado Advocacia"
+      }
     }
   ]
 }

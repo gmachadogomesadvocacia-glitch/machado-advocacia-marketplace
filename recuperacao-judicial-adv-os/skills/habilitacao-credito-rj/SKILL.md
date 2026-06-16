@@ -371,3 +371,11 @@ ter classe rebaixada.
        ↓
 ENTREGA
 ```
+
+---
+
+## 11. MODELOS DE PEÇA (CHASSIS)
+
+Antes de redigir, abrir o chassi (padrão enxuto) e substituir os `[____]`:
+- Habilitação trabalhista (art. 10) → `templates/pecas/habilitacao-retardataria-trabalhista.md`
+- Impugnação de crédito / §B (art. 8º) → `templates/pecas/impugnacao-credito-qgc.md`

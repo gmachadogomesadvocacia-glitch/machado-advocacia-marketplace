@@ -266,3 +266,39 @@ Configurar explicitamente a DATA DO PEDIDO DE RJ como data-fim.
 - A16 — FGTS / Tema 1.051
 - A17 — honorários sucumbenciais
 - A19 — cessão (se houver) → classe rebaixada (art. 83 §4º)
+
+---
+
+## 8. EXEMPLO RESOLVIDO
+
+> Ilustra o método. Os índices de correção/juros saem do **Cálculo Oficial
+> de Débitos Judiciais do TJ** (art. 9º, II, da LFRE) — os fatores abaixo são
+> ilustrativos; no caso real, importar do Cálculo Oficial.
+
+**Caso:** empregado dispensado sem justa causa em **15/03/2018**; TRCT
+homologado, líquido rescisório **não pago** R$ 16.800,00; FGTS + 40% não
+recolhidos R$ 6.000,00. **Pedido de RJ: 01/05/2022** (data-fim — PA-CALC-01/06).
+
+**Passo 1 — Verbas (principal histórico, data do fato gerador 15/03/2018):**
+- Rescisórias (TRCT) ......... R$ 16.800,00
+- FGTS + multa de 40% ........ R$ 6.000,00
+
+**Passo 2 — Atualização até 01/05/2022 (Cálculo Oficial):**
+- Fator acumulado correção+juros (ilustrativo) ≈ 1,55
+- Rescisórias: 16.800,00 × 1,55 = **R$ 26.040,00**
+- FGTS+40%: 6.000,00 × 1,55 = **R$ 9.300,00**
+
+**Passo 3 — Classificação (cravar o fato gerador — PA-CALC-06):**
+- Rescisórias: trabalhista, fato gerador na rescisão (pré-pedido) → **Classe I**.
+- FGTS+40%: concursal porque o fato gerador é anterior ao pedido (**Tema 1.051
+  STJ** — validar); natureza trabalhista → Classe I. *Pendência: confirmar
+  classificação do FGTS (PA-CALC-03).*
+
+**Passo 4 — Teto da Classe I (150 SM — PA-CALC-02):**
+- SM em 01/05/2022 = R$ 1.212,00 → teto = 150 × 1.212,00 = **R$ 181.800,00**.
+- Total Classe I = 26.040,00 + 9.300,00 = **R$ 35.340,00** < teto → tudo na
+  Classe I, **sem cisão** para a Classe III.
+
+**Resultado:** habilitar **R$ 35.340,00 na Classe I** (art. 41, I, da LFRE),
+atualizado até 01/05/2022. INSS empregado e IR são informativos (não habilitam
+pelo credor — PA-CALC-04). Sucumbenciais, se houver, em separado (A17).

@@ -225,3 +225,9 @@ Nunca (01-11):
 Termina com `CHECKPOINT CTH ENCERRADO`: polo (CREDOR TRABALHISTA), via,
 classe(s), valor habilitado, peça entregue, resultado da revisão R1-R4,
 pendências do operador e próximo passo.
+
+## 12. MODELO DE PEÇA
+
+Chassi (padrão enxuto, opções A/B/C + módulo sucessão):
+`templates/pecas/habilitacao-retardataria-trabalhista.md` — abrir e
+substituir os `[____]` antes de redigir.

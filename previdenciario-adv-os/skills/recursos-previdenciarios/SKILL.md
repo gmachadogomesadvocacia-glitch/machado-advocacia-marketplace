@@ -129,6 +129,11 @@ V — DOS PEDIDOS
 
 ## 5. RECURSO AO CRPS — JR E CAJ (Administrativo)
 
+> CHASSI (padrao enxuto da casa): para o recurso ordinario ao CRPS, abrir
+> `templates/pecas/recurso-administrativo-crps.md` e substituir os `[____]` —
+> rebater ponto a ponto o fundamento da carta; prova nova admitida nesta fase.
+
+
 ### JR — Junta de Recursos
 ```
 Prazo: 30 dias da ciencia da decisao administrativa

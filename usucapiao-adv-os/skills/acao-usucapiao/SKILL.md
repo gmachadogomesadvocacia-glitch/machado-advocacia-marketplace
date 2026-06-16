@@ -47,5 +47,8 @@ metadata:
 - [ ] Planta/memorial com ART · descricao para registro
 - [ ] `revisao-final-usucapiao` R1-R4 (PA-13)
 
-## 4. ENCERRAMENTO
+## 4. CHASSI
+Redigir a partir do modelo da casa: **`templates/pecas/acao-usucapiao.md`** (padrao enxuto, ler a NOTA DE USO antes). Nao duplicar o modelo aqui.
+
+## 5. ENCERRAMENTO
 Entrega a inicial com a modalidade correta, a posse demonstrada e o rol completo de citacoes, pronta para a Suprema Corte R1-R4.

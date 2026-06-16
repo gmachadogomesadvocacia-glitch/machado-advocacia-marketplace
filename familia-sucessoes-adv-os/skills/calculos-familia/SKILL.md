@@ -215,6 +215,53 @@ TORNAS/COMPENSAÇÕES:
 
 ---
 
+## 7-A. EXEMPLO RESOLVIDO — ALIMENTOS + PARTILHA (números concretos)
+
+**Cenário**: casal em comunhão parcial. Alimentante (pai) é assalariado; 1 filho menor.
+Dissolução com partilha. Dados fornecidos pelo cliente.
+
+### (a) Alimentos — percentual sobre rendimentos LÍQUIDOS (binômio PA-04)
+
+```
+Salário bruto do alimentante ........... R$ 6.000,00
+(−) INSS ............................... R$   600,00
+(−) IRRF ............................... R$   300,00
+(=) RENDA LÍQUIDA ...................... R$ 5.100,00
+
+Necessidade do filho (planilha §4.3) ... R$ 1.700,00/mês
+Possibilidade: renda líquida R$ 5.100,00 comporta o encargo.
+
+Percentual pleiteado: 30% da renda líquida
+Alimentos = R$ 5.100,00 × 30% = R$ 1.530,00/mês
+```
+Resultado: **R$ 1.530,00/mês (30% do líquido)** — cobre ~90% da necessidade
+declarada e preserva a subsistência do alimentante. [ESTIMATIVA — ajustar à prova]
+
+### (b) Partilha — meação na COMUNHÃO PARCIAL (só os aquestos)
+
+Regra: partilham-se apenas os bens COMUNS (adquiridos onerosamente na constância —
+art. 1.658 CC). Excluem-se os anteriores e os havidos por herança/doação (art. 1.659 CC).
+
+```
+BENS DO CASAL                              Valor        Comum?
+Apartamento comprado na constância ..... R$ 400.000   SIM (aquesto)
+Carro comprado na constância ........... R$  50.000   SIM (aquesto)
+Sítio herdado pelo marido .............. R$ 300.000   NÃO (herança — art. 1.659, I)
+Poupança da esposa (anterior à união) .. R$  20.000   NÃO (anterior)
+
+MASSA PARTÍVEL (só os comuns) = 400.000 + 50.000 = R$ 450.000
+(−) Saldo do financiamento do apto (dívida comum) ..... R$  90.000
+(=) MONTE PARTÍVEL LÍQUIDO ............................ R$ 360.000
+
+Meação de cada cônjuge = 360.000 ÷ 2 = R$ 180.000
+```
+O sítio (R$ 300.000) e a poupança (R$ 20.000) NÃO entram — ficam, respectivamente,
+com marido e esposa, fora da partilha. Cada um leva **R$ 180.000** dos aquestos;
+se um ficar com o apartamento (valor > sua meação), paga **tornas** ao outro.
+[ESTIMATIVA — sujeita a avaliação pericial dos bens]
+
+---
+
 ## 8. SAÍDA DA SKILL
 
 Apresentar:

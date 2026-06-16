@@ -49,5 +49,8 @@ metadata:
 - [ ] Sum. 598/627 invocadas · dado de saude sob segredo (PA-10)
 - [ ] CASO.md atualizado · `revisao-final-isencao-ir` R1-R4 (PA-14)
 
+## MODELO DE PECA
+Chassi: `templates/pecas/mandado-seguranca-isencao.md` (padrao enxuto da casa). Abrir, ler a NOTA DE USO e substituir os `[____]`; nao copiar o texto para ca (limite de 11264 bytes — fonte unica no chassi).
+
 ## 6. ENCERRAMENTO
 Entrega o MS com liminar para cessar a retencao, ancorado no direito liquido e certo e nas Sum. 598/627, com a opcao MS x ordinaria explicitada, pronto para a Suprema Corte R1-R4.

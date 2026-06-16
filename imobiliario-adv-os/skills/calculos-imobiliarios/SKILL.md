@@ -77,6 +77,31 @@ Valor arrematado ........................... R$ ____
 ```
 Se o lance nao cobre a divida, a obrigacao se extingue (art. 27 §5º). **Excedente e devido ao devedor** — checar se foi pago.
 
-## 7. SAIDA
+## 7. EXEMPLO RESOLVIDO — DEBITO LOCATICIO + PURGACAO DA MORA
+
+> Numeros ilustrativos. Aluguel R$ 2.000,00 + IPTU rateado R$ 200,00/mes; multa moratoria contratual de 10%; juros de 1% a.m.; reajuste IGP-M ja incidente (aluguel vigente). Inadimplencia de 3 competencias; data-base do calculo 16/06/2026; deposito de purgacao previsto para 30/06/2026 (com 1 competencia a vencer ate la). Indices e percentuais conferidos no contrato (PA-02/PA-04).
+
+**Parcela mensal em atraso (aluguel + encargos):** 2.000 + 200 = **R$ 2.200,00**.
+
+| Competencia | Venc. | Base | Juros 1% a.m. (meses) | Multa 10% | Total |
+|---|---|---|---|---|---|
+| 03/2026 | 10/03 | 2.200,00 | 66,00 (3 m) | 220,00 | 2.486,00 |
+| 04/2026 | 10/04 | 2.200,00 | 44,00 (2 m) | 220,00 | 2.464,00 |
+| 05/2026 | 10/05 | 2.200,00 | 22,00 (1 m) | 220,00 | 2.442,00 |
+
+**Debito total ate 16/06/2026 = 2.486 + 2.464 + 2.442 = R$ 7.392,00.**
+(Juros calculados do vencimento ate a data-base; multa de 10% sobre cada parcela.)
+
+**PURGACAO DA MORA (art. 62, II) — total a depositar em 15 dias:**
+```
+Debito acima (alugueis/encargos + multa + juros) ... R$ 7.392,00
++ Competencia 06/2026 a vencer ate o deposito ...... R$ 2.200,00   (art. 62, II — vincendas)
++ Custas processuais (estimativa) .................. R$   180,00
++ Honorarios advocaticios (10%) .................... R$   739,20
+= TOTAL DA PURGACAO ................................ R$ 10.511,20
+```
+Conferir o direito: nao houve purgacao nos **24 meses** anteriores (art. 62, par. unico); do contrario, o beneficio nao cabe. Atualizar juros/competencias ate a **data efetiva** do deposito.
+
+## 8. SAIDA
 
 Sempre: tabela passo a passo, indice e multa **identificados pela clausula**, data-base, total destacado. Marcar `DADO FALTANTE` no que nao houver. Integra os pedidos liquidos da peca (`estilo-juridico-imobiliario`).

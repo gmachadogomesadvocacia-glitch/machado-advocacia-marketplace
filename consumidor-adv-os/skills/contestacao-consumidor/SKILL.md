@@ -65,6 +65,8 @@ Resistir/contextualizar a inversao (art. 6, VIII): demonstrar ausencia de veross
 - [ ] Ataque ao quantum do dano moral · dobro impugnado
 - [ ] Sem alegacao temeraria (PA-20) · `revisao-final-consumidor` R1-R4 (PA-22)
 
+> **CHASSI:** `templates/pecas/contestacao-fornecedor.md` — esqueleto no estilo da casa (texto corrido, impugnacao especifica ponto a ponto, excludentes art. 12 §3/14 §3, ataque ao quantum e ao dobro, docs "Doc. nº N" antes do protocolo, procuracao por ultimo). Especializar a partir dele.
+
 ## 7. ENCERRAMENTO
 
 Entrega a defesa com preliminares pertinentes, prescricao/decadencia, impugnacao especifica e excludentes — calibrada ao polo fornecedor, pronta para a R1-R4.

@@ -61,7 +61,11 @@ INFRACAO → AIT lavrado → NOTIFICACAO DE AUTUACAO (NA) → [DEFESA PREVIA —
 7. **Provas** — documentos anexos, requerimento de aferição e de imagens.
 8. Fecho, local/data, {{ADVOGADO_NOME}}, {{OAB_UF}} {{OAB_NUMERO}}.
 
-## 5. INTEGRACAO
+## 5. CHASSI DA PECA (POINTER)
+
+> Modelo pronto (fonte unica): `templates/pecas/defesa-previa-autuacao.md`. Reabrir e preencher a partir dele — nao redigir do zero. Manutencao da estrutura/teses se faz no chassi, nao aqui (ver `templates/pecas/_LEIA-ME.md`).
+
+## 6. INTEGRACAO
 
 - `analise-vicios-auto-infracao` → catalogo de teses.
 - `analise-documental-transito` → conferir AIT, NA, CRLV, CNH.
@@ -70,7 +74,7 @@ INFRACAO → AIT lavrado → NOTIFICACAO DE AUTUACAO (NA) → [DEFESA PREVIA —
 - `estilo-juridico-transito` → tom e forma.
 - `revisao-final-transito` → R1-R4 antes de entregar.
 
-## 6. CHECKLIST DE SAIDA
+## 7. CHECKLIST DE SAIDA
 
 - [ ] Confirmado que e fase de AUTUACAO (NA), nao penalidade (PA-08)
 - [ ] Prazo de 30 dias conferido na NA (PA-05)

@@ -68,6 +68,12 @@ metadata:
 **Embargos a execucao fiscal** (acao incidental, autos proprios):
 1. Enderecamento · 2. Qualificacao do embargante · 3. Tempestividade + garantia (art. 16) · 4. Fatos · 5. Direito (teses do arsenal) · 6. Efeito suspensivo (art. 919 §1º CPC + garantia) · 7. Pedidos (procedencia/extincao, levantamento da garantia) · 8. Provas/pericia.
 
+## MODELO DE PECA
+
+Chassis (abrir e substituir `[____]` antes de redigir):
+- `templates/pecas/excecao-pre-executividade.md` — via sem garantia (Sum. 393 STJ).
+- `templates/pecas/embargos-execucao-fiscal.md` — via ampla, exige garantia (LEF 16).
+
 ## 5. INTEGRACAO
 
 - `calculos-tributarios` → confirmar decadencia/prescricao e excesso ANTES de afirmar.

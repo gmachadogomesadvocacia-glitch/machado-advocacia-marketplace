@@ -38,6 +38,28 @@ metadata:
 - **Interrupcao**: despacho do juiz que ordena a citacao (CTN 174, I, redacao da LC 118/2005), retroagindo a propositura (Sum. 106 STJ — validar). Tambem: protesto judicial, ato de constituicao em mora, reconhecimento do debito (parcelamento).
 - Nao confundir com decadencia (PA-05): decadencia = antes do lancamento; prescricao = depois da constituicao.
 
+## 2-A. EXEMPLO RESOLVIDO — DECADENCIA x PRESCRICAO (passo a passo)
+
+> Caso: IRPJ, lancamento de oficio (SEM pagamento antecipado). Fato gerador em 2016; auto de infracao notificado em 12/03/2018; sem impugnacao; citacao na execucao fiscal em 20/05/2024. Verificar decadencia e prescricao.
+
+**Passo 1 — DECADENCIA (poder de CONSTITUIR — CTN 173, I).**
+Sem pagamento antecipado, aplica-se a regra geral: termo inicial = 1º dia do exercicio SEGUINTE aquele em que o lancamento poderia ter sido feito.
+- Fato gerador: exercicio de 2016 → poderia lancar em 2016.
+- Termo inicial: 01/01/2017.
+- Prazo de 5 anos → decadencia venceria em **31/12/2021**.
+- Lancamento (notificacao do auto): **12/03/2018**. Como 12/03/2018 < 31/12/2021, o credito foi constituido DENTRO do prazo. **NAO ha decadencia.**
+- (Contraste: se fosse lancamento por homologacao COM pagamento antecipado, o termo inicial seria o fato gerador — CTN 150, §4º — e o prazo correria do proprio fato gerador de 2016.)
+
+**Passo 2 — CONSTITUICAO DEFINITIVA.**
+Notificado em 12/03/2018 e nao impugnado, o credito se torna definitivo ao fim do prazo de impugnacao (30 dias — PAF). Constituicao definitiva: **~11/04/2018** (inicio do prazo prescricional).
+
+**Passo 3 — PRESCRICAO (poder de COBRAR — CTN 174).**
+- Prazo: 5 anos da constituicao definitiva (11/04/2018) → venceria em **~11/04/2023**.
+- Interrupcao: despacho que ordena a citacao (CTN 174, I, LC 118/2005), retroagindo a propositura (Sum. 106 STJ — validar). Citacao em 20/05/2024; conferir a DATA DO DESPACHO e a data do AJUIZAMENTO nos autos.
+- Se o ajuizamento/despacho ocorreu APOS 11/04/2023 → **prescricao consumada** (extincao, CTN 156, V). Se ocorreu ANTES, sem causa interruptiva no interregno, o prazo nao se completou.
+
+**Conclusao:** sem decadencia (constituido em 2018, dentro do prazo de 2021); a prescricao depende da data do despacho/ajuizamento — provavel prescricao se a execucao so foi proposta perto de 2024. Refazer com as datas reais dos autos (PA-03), nunca presumir.
+
 ## 3. PRESCRICAO INTERCORRENTE (LEF art. 40)
 
 - **1 ano** de suspensao (nao localizado devedor ou bens) + **5 anos** de arquivamento.

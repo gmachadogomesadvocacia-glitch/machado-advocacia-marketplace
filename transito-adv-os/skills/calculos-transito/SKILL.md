@@ -78,14 +78,40 @@ VALORES
   advertencia (CTB 267): cabivel? sim/nao — por que
 ```
 
-## 5. INTEGRACAO
+## 5. EXEMPLO RESOLVIDO (passo a passo)
+
+**Cenario.** Condutor NAO profissional (sem EAR). Infracoes nos ultimos 12 meses, todas dentro do periodo:
+
+| # | Data | Natureza | Pontos |
+|---|------|----------|--------|
+| 1 | 10/07/2025 | gravissima | 7 |
+| 2 | 22/08/2025 | gravissima | 7 |
+| 3 | 03/11/2025 | grave | 5 |
+| 4 | 15/01/2026 | media | 4 |
+| 5 | 28/03/2026 | leve | 3 |
+
+**Passo a passo — pontuacao:**
+1. Pontos por natureza (CTB 259): 7 + 7 + 5 + 4 + 3.
+2. **Soma nos 12 meses = 26 pontos.**
+3. Contar gravissimas no periodo: **2 gravissimas** (infracoes 1 e 2).
+4. Limite aplicavel (Lei 14.071/2020): com **2 ou mais gravissimas → limite de 20 pontos**.
+5. Comparar: 26 > 20 → **acima do limite**. Resultado: enseja **instauracao de processo de suspensao do direito de dirigir**.
+
+> Sensibilidade: se a infracao 2 fosse afastada (defesa/recurso provido), restaria **1 gravissima** → limite sobe para **30 pontos**, e a soma cairia para 19 → **abaixo do limite** (sem suspensao). Por isso a contagem de gravissimas e decisiva — atacar uma gravissima pode mudar o patamar inteiro.
+
+**Passo a passo — prazo preclusivo (30 dias):**
+- Notificacao de Penalidade (NP) recebida em **02/06/2026**. Prazo de recurso a JARI: **30 dias** (PA-05).
+- Contagem: termo inicial 02/06; +30 dias corridos → vencimento em **02/07/2026** (conferir a regra de contagem do orgao e eventual prorrogacao para o 1º dia util seguinte se cair em fim de semana/feriado — em duvida, marcar "[conferir norma]").
+- Hoje 16/06/2026 → faltam **16 dias**: prazo **aberto**. Protocolar ate 02/07/2026, sob pena de preclusao da instancia.
+
+## 6. INTEGRACAO
 
 - `triagem-transito` / `analise-documental-transito` → datas e dados de entrada.
 - `analise-vicios-auto-infracao` → prazo da NA estourado = tese de arquivamento.
 - `linha-estrategica-transito` → custo/beneficio (valor × pontos × risco de suspensao).
 - `revisao-final-transito` → R2 reconfere contas e datas.
 
-## 6. CHECKLIST DE SAIDA
+## 7. CHECKLIST DE SAIDA
 
 - [ ] Pontos por natureza corretos e somados nos 12 meses
 - [ ] Limite (20/30/40) escolhido pelo nº de gravissimas (Lei 14.071)

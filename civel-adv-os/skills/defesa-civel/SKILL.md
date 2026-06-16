@@ -62,6 +62,7 @@ Enderecamento (mesmo juizo) · qualificacao do reu · **PRELIMINARES** (CPC 337)
 
 ## 8. INTEGRACAO
 
+- **CHASSI → `templates/pecas/contestacao-civel.md`** — abrir e preencher os `[____]` antes de redigir a contestacao (padrao enxuto da casa).
 - `calculos-civeis` → excesso de execucao, valor correto na impugnacao (CPC 525 §4º — PA-06).
 - `jurisprudencia-civel` → teses defensivas, prescricao (PA-01/PA-05).
 - `analise-documental-civel` → documentos do reu, prova do fato extintivo.

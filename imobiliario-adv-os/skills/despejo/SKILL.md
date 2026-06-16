@@ -58,6 +58,8 @@ Cabe liminar (desocupacao em 15 dias), **mediante caucao de 3 alugueis**, nas hi
 
 ## 5. ESTRUTURA DA PECA
 
+> **Chassi pronto:** `templates/pecas/acao-despejo-cobranca.md` (padrao enxuto; abrir e substituir `[____]` antes de redigir).
+
 **Despejo por falta de pagamento c/c cobranca (locador):**
 1. Enderecamento (foro do imovel/eleicao) · 2. Qualificacao · 3. Do contrato e da mora · 4. Do direito (art. 9º III / 62) · 5. Da liminar, se cabivel (art. 59 §1º IX + caucao) · 6. Pedidos: rescisao + despejo + condenacao nos alugueis/encargos vencidos e vincendos + multa + honorarios · 7. Valor da causa (12 alugueis — art. 58, III) · 8. Provas.
 

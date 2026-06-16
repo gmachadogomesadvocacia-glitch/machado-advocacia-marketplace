@@ -61,14 +61,18 @@ DEFESA PREVIA (antes da NP) → julgamento → NP → RECURSO JARI (1ª inst.) �
 7. **Provas** — documentos, certidao de aferição, imagens.
 8. Fecho, local/data, {{ADVOGADO_NOME}}, {{OAB_UF}} {{OAB_NUMERO}}.
 
-## 6. INTEGRACAO
+## 6. CHASSI DA PECA (POINTER)
+
+> Modelo pronto (fonte unica): `templates/pecas/recurso-jari-cetran.md` — um documento com as duas variacoes (A = JARI 1ª inst.; B = CETRAN 2ª inst.). Reabrir e preencher a partir dele. Manutencao no chassi, nao aqui (ver `templates/pecas/_LEIA-ME.md`).
+
+## 7. INTEGRACAO
 
 - `analise-vicios-auto-infracao` → teses; `analise-documental-transito` → AIT, NP, decisao da JARI.
 - `jurisprudencia-transito` → validar Sum. 312/127 e CTB 285-290 (PA-01/PA-02).
 - `calculos-transito` → prazos, pontuacao, valor da multa.
 - `estilo-juridico-transito` → forma. `revisao-final-transito` → R1-R4.
 
-## 7. CHECKLIST DE SAIDA
+## 8. CHECKLIST DE SAIDA
 
 - [ ] Confirmada a fase: ha NP (penalidade aplicada), nao mera autuacao (PA-08)
 - [ ] Instancia correta (JARI 1ª / CETRAN 2ª) e enderecamento certo (PA-08)

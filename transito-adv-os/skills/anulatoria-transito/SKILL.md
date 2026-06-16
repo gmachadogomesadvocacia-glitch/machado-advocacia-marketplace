@@ -56,7 +56,11 @@ metadata:
 7. **Provas** — documental anexa; protesto por pericia (aferição) e demais.
 8. **Valor da causa**. Fecho, {{ADVOGADO_NOME}}, {{OAB_UF}} {{OAB_NUMERO}}.
 
-## 6. INTEGRACAO
+## 6. CHASSI DA PECA (POINTER)
+
+> Modelo pronto (fonte unica): `templates/pecas/anulatoria-multa.md`. Reabrir e preencher a partir dele — nao redigir do zero. Manutencao da estrutura/teses se faz no chassi, nao aqui (ver `templates/pecas/_LEIA-ME.md`).
+
+## 7. INTEGRACAO
 
 - `analise-vicios-auto-infracao` → teses; `analise-documental-transito` → AIT, notificacoes, decisoes adm.
 - `jurisprudencia-transito` → validar Sum. 312/127 e precedentes (PA-01).
@@ -64,7 +68,7 @@ metadata:
 - `mandado-seguranca-transito` → comparar via (MS quando ha direito liquido e certo).
 - `estilo-juridico-transito`; `revisao-final-transito` → R1-R4.
 
-## 7. CHECKLIST DE SAIDA
+## 8. CHECKLIST DE SAIDA
 
 - [ ] Competencia certa (Vara da Fazenda x JEFP — Lei 12.153) e polo passivo correto (PA-08)
 - [ ] Inafastabilidade (CF 5º XXXV) — sem exigir exaurir a via administrativa

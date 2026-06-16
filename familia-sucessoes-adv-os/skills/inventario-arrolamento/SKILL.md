@@ -14,6 +14,11 @@ metadata:
 # INVENTARIO-ARROLAMENTO
 > Tier 2 | Produção | Inventário Judicial / Extrajudicial / Arrolamento
 
+> **CHASSI DE PEÇA**: para abertura de inventário judicial, abrir o modelo-base
+> `templates/pecas/inventario.md` (CPC 610+; abertura em 2 meses — art. 611;
+> primeiras declarações; meação e quinhões; ITCMD; via extrajudicial se todos
+> capazes e concordes — art. 610, §1º). Ver `templates/pecas/_LEIA-ME.md`.
+
 ---
 
 ## 0. FLUXO DECISÓRIO INICIAL

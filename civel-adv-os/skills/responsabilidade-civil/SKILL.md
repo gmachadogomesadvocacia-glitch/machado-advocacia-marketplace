@@ -65,6 +65,7 @@ metadata:
 
 ## 6. INTEGRACAO
 
+- **CHASSI → `templates/pecas/acao-indenizatoria.md`** — abrir e preencher os `[____]` antes de redigir a inicial (padrao enxuto da casa).
 - `calculos-civeis` → liquidacao do dano, juros, correcao, prescricao (PA-06/PA-05).
 - `jurisprudencia-civel` → validar Sumulas (Sum. 37, 54, 362, 387, 403 — PA-01).
 - `analise-documental-civel` → prova do dano e do nexo.

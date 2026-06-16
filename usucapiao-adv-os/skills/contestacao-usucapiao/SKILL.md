@@ -49,5 +49,8 @@ Preliminares · impugnacao especificada dos fatos (CPC art. 341 — nada de impu
 - [ ] Titulo/registro e posse do cliente demonstrados · impugnacao especificada (art. 341)
 - [ ] Jurisprudencia `[VERIFICAR]` (PA-01) · `revisao-final-usucapiao` R1-R4 (PA-13)
 
-## 5. ENCERRAMENTO
+## 5. CHASSI
+Redigir a partir do modelo da casa: **`templates/pecas/contestacao-usucapiao.md`** (padrao enxuto, side-aware, ler a NOTA DE USO antes). Nao duplicar o modelo aqui.
+
+## 6. ENCERRAMENTO
 Entrega a contestacao com preliminares e os eixos de merito que descaracterizam a posse do autor, coerente com o polo, pronta para a Suprema Corte R1-R4.

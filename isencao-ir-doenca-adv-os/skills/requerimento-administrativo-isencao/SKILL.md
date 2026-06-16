@@ -53,5 +53,8 @@ A devolucao dos exercicios passados nao se faz pela fonte, e sim pela **retifica
 - [ ] Retificacao DIRPF acionada p/ os 5 anos (PA-09) · dado de saude protegido (PA-10)
 - [ ] Protocolo/datas no CASO.md · `revisao-final-isencao-ir` R1-R4 (PA-14)
 
+## MODELO DE PECA
+Chassi: `templates/pecas/requerimento-administrativo.md` (padrao enxuto da casa). Abrir, ler a NOTA DE USO e substituir os `[____]`; nao copiar o texto para ca (limite de 11264 bytes — fonte unica no chassi).
+
 ## 6. ENCERRAMENTO
 Entrega o requerimento a fonte (isencao + cessacao + devolucao do exercicio), encaminha a retificadora para os 5 anos e fixa o silencio/recusa como prova, pronto para a Suprema Corte R1-R4.

@@ -45,6 +45,23 @@ Tabela discriminada + totais:
 - Periodo coberto (mes inicial — mes final) e marco da isencao
 - Notas: competencias prescritas excluidas; criterio Selic; fonte dos valores ("doc. N").
 
+## 3.1 EXEMPLO RESOLVIDO (restituicao dos 5 anos)
+Pedido protocolado em **06/2026** → restituivel a partir de **06/2021** (CTN 168); competencias anteriores **prescritas**. Aposentado, provento mensal isento, IR retido na fonte de **R$ 700/mes** (13o incluso = 13 retencoes/ano). Selic acumulada da media de cada ano ate 06/2026 (ilustrativa — usar a tabela oficial vigente):
+
+```
+ano  | IR retido no ano (13 x 700) | Selic acum. ate 06/2026 | valor atualizado
+2021 (07-12, 6 retencoes=4.200) |  4.200,00 | ~1,55 |  6.510,00
+2022 (13 x 700)                 |  9.100,00 | ~1,42 | 12.922,00
+2023 (13 x 700)                 |  9.100,00 | ~1,28 | 11.648,00
+2024 (13 x 700)                 |  9.100,00 | ~1,16 | 10.556,00
+2025 (13 x 700)                 |  9.100,00 | ~1,07 |  9.737,00
+2026 (01-06, 6 retencoes=4.200) |  4.200,00 | ~1,02 |  4.284,00
+```
+- **Total historico (IR retido):** R$ 44.800,00.
+- **Total atualizado pela Selic (a restituir):** R$ 55.657,00.
+- **Marco da prescricao:** competencias de **antes de 06/2021 estao prescritas** (CTN 168) e ficam **fora** do calculo — no exemplo, 2020 e anteriores nao entram.
+> Numeros ilustrativos. No caso real, extrair o IR retido de cada competencia dos informes ("doc. N") e aplicar a **Selic oficial** de cada retencao ate a data do calculo (uma unica vez — sem cumular outro indice).
+
 ## 4. CHECKLIST
 - [ ] So proventos isentos (PA-06) · so dentro de 5 anos (PA-09)
 - [ ] Valores extraidos de comprovantes reais ("doc. N"), nada estimado (PA-03)

@@ -65,6 +65,7 @@ metadata:
 
 ## 7. INTEGRACAO
 
+- **CHASSI → `templates/pecas/acao-monitoria.md`** — abrir e preencher os `[____]` antes de redigir a monitoria (padrao enxuto da casa).
 - `calculos-civeis` → demonstrativo do debito, juros, correcao, prescricao (PA-06/PA-05).
 - `jurisprudencia-civel` → validar Sumulas da monitoria (247/299/503/504/531 — PA-01).
 - `analise-documental-civel` → aferir se a prova escrita habilita monitoria ou execucao.

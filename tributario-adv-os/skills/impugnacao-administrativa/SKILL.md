@@ -96,6 +96,11 @@ quando o ponto for tecnico-contabil — fundamentar a necessidade.
 - **PA-10:** coerencia de polo — peca de **defesa** do contribuinte.
 - **PA-12:** sigilo fiscal (CTN 198) + LGPD nos dados juntados.
 
+## MODELO DE PECA
+
+Chassi: `templates/pecas/impugnacao-auto-infracao.md` — abrir e substituir
+`[____]` antes de redigir.
+
 ## Integracao e saida
 - Calculo do quantum e da decadencia → **calculos-tributarios**.
 - Sumulas/Temas/precedentes → **jurisprudencia-tributaria** (validar, PA-01).

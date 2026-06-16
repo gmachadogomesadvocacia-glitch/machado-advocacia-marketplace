@@ -60,6 +60,8 @@ Antes de pedir dano moral, examinar o extrato:
 - [ ] Dano moral quantificado e ancorado em precedente · tutela de baixa
 - [ ] `revisao-final-consumidor` R1-R4 (PA-22)
 
+> **CHASSI:** `templates/pecas/acao-indenizatoria-negativacao.md` — esqueleto no estilo da casa (texto corrido, docs "Doc. nº N" antes do protocolo, procuracao por ultimo, antecipacao adversarial da Sum. 385 no corpo). Especializar a partir dele.
+
 ## 5. ENCERRAMENTO
 
 Entrega a acao com a inexistencia do debito demonstrada, a Sumula 385 enfrentada de frente, a baixa em tutela e o dano moral quantificado — pronta para a R1-R4.

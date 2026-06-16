@@ -60,6 +60,8 @@ Acionar `calculos-consumidor` para: recompor o saldo pela taxa media, expurgar c
 - [ ] Pedido de exibicao do contrato/planilha · memoria de calculo anexa
 - [ ] `revisao-final-consumidor` R1-R4 (PA-22)
 
+> **CHASSI:** `templates/pecas/revisional-bancaria.md` — esqueleto no estilo da casa (cada encargo em paragrafo proprio, sem topico de juros, docs "Doc. nº N" antes do protocolo, procuracao por ultimo). Especializar a partir dele.
+
 ## 5. ENCERRAMENTO
 
 Entrega a revisional com cada encargo impugnado em FIRAC ancorado na sumula correta e calculo discriminado — sem as armadilhas do 12% e da capitalizacao presumida.

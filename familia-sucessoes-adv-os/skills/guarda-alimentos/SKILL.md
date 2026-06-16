@@ -14,6 +14,11 @@ metadata:
 # GUARDA-ALIMENTOS
 > Tier 2 | Produção | Guarda / Convivência / Alimentos / Revisão / Execução / Alienação Parental
 
+> **CHASSI DE PEÇA**: para ação de alimentos autônoma, abrir o modelo-base
+> `templates/pecas/acao-alimentos.md` (rito da Lei 5.478/68; binômio; alimentos
+> provisórios; prisão civil — Súm. 309 STJ; docs numerados "Doc. nº N" antes do
+> protocolo, procuração por último). Ver `templates/pecas/_LEIA-ME.md`.
+
 ---
 
 ## 0. PRINCÍPIO INVIOLÁVEL — PA-05

@@ -78,7 +78,32 @@ metadata:
 PRESCRICAO: prazo __ anos, inicio DD/MM → vence DD/MM [OK / RISCO]
 ```
 
-## 7. ALERTAS
+## 7. EXEMPLO RESOLVIDO (dano material extracontratual)
+
+> Acidente de trânsito (ato ilícito — extracontratual). Cálculo na data-base **16/06/2026**.
+
+**Dados (de documento — PA-03):**
+- Evento danoso: **10/02/2025** (data do acidente — B.O., doc. 2).
+- Conserto do veículo (dano emergente): **R$ 12.000,00**, pago em **05/03/2025** (NF, doc. 4).
+- Lucro cessante (motorista de app, 20 dias parado × R$ 150/dia de margem comprovada — extratos, doc. 5): **R$ 3.000,00**, data-base do prejuízo **02/03/2025**.
+
+**Passo 1 — Principal (CC 402):** emergente R$ 12.000,00 + cessante R$ 3.000,00 = **R$ 15.000,00**.
+
+**Passo 2 — Correção monetária (Súm. 43 — desde o prejuízo):** índice oficial do tribunal. Suponha fator acumulado de **1,090** sobre o emergente (05/03/2025→16/06/2026) e **1,092** sobre o cessante (02/03/2025→16/06/2026):
+- Emergente: 12.000 × 1,090 = **R$ 13.080,00**
+- Cessante: 3.000 × 1,092 = **R$ 3.276,00**
+- Material corrigido = **R$ 16.356,00**
+
+**Passo 3 — Juros de mora (Súm. 54 — desde o EVENTO, 10/02/2025):** taxa do CC 406 (validar SELIC × 1% a.m. no período). Suponha 1% a.m. simples por 16 meses (10/02/2025→16/06/2026) = 16% sobre o material corrigido:
+- Juros = 16.356,00 × 16% = **R$ 2.616,96**
+
+**Passo 4 — TOTAL do dano material = 16.356,00 + 2.616,96 = R$ 18.972,96** (em 16/06/2026).
+
+> *Dano moral (se houver):* correção só a partir do **arbitramento** (Súm. 362), e os juros de Súm. 54 incidem igualmente desde o evento — termos distintos do material; não unificar a data-base.
+
+**Passo 5 — Prescrição (PA-05):** reparação civil = **3 anos** (CC 206, §3º, V), termo na ciência do dano (10/02/2025) → vence **10/02/2028**. Ajuizamento em 16/06/2026 = **OK** (dentro do prazo).
+
+## 8. ALERTAS
 
 - Conferir prescricao **antes** de qualquer promessa de quantum (PA-05).
 - Termo dos juros muda com o regime (PA-07): evento (extra) x citacao/vencimento (contratual).

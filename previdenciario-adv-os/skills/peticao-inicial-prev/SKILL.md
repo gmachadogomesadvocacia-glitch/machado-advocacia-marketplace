@@ -50,6 +50,11 @@ A — Acao: pedidos concretos e imediatos
 
 ## 2. TEMPLATE ESTRUTURAL
 
+> CHASSI (padrao enxuto da casa): abrir `templates/pecas/peticao-inicial-concessao-beneficio.md`
+> antes de redigir a inicial de concessao/restabelecimento contra o INSS e substituir os
+> placeholders `[____]`. O esqueleto abaixo e referencia rapida; a fonte unica e o chassi.
+
+
 ```
 [Exmo. Sr. Dr. Juiz Federal do Juizado Especial Federal / da [X]a Vara Federal de [Comarca]]
 

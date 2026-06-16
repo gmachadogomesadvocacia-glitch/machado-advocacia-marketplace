@@ -50,6 +50,28 @@ metadata:
 
 > **PA-06:** nunca fora do metodo trifasico; nao inventar fracoes; respeitar Sum. 231.
 
+### EXEMPLO RESOLVIDO — dosimetria de furto qualificado (CP 155 § 4º, IV)
+
+> Numeros ilustrativos; no caso real, valorar as CJ pela prova dos autos e validar as fracoes.
+
+Reu condenado por **furto qualificado pelo concurso de pessoas** (CP 155 § 4º, IV — pena **2 a 8 anos** e multa). Dados: **reincidente**; **confessou** o crime; **tentado** (interrompido por terceiro antes da consumacao). Uma circunstancia judicial desfavoravel (consequencias do crime); as demais favoraveis.
+
+**1ª fase — pena-base (CP 59).** Minimo = 2 anos. Com 1 das 8 CJ desfavoravel, eleva-se em fracao proporcional (criterio usual: 1/8 do intervalo de 6 anos = 9 meses por CJ — validar no juizo). Pena-base = **2 anos e 9 meses**.
+
+**2ª fase — agravantes/atenuantes (CP 61-66).** Concorrem a **agravante da reincidencia** (CP 61, I) e a **atenuante da confissao** (CP 65, III, "d"). Sao preponderantes e se compensam (CP 67; Sum. 545 STJ — validar). Resultado mantido em **2 anos e 9 meses**. *(Se houvesse so a atenuante, a Sum. 231 STJ impediria descer abaixo de 2 anos.)*
+
+**3ª fase — causas de aumento/diminuicao.** A **tentativa** (CP 14, II) diminui de 1/3 a 2/3 conforme o iter percorrido; aqui, iter avancado → fracao minima de **1/3**. 2a9m − 1/3 = **1 ano e 10 meses**. Pena definitiva = **1 ano e 10 meses** de reclusao + multa proporcional.
+
+**Regime inicial (CP 33 § 2º).** Pena < 4 anos, mas **reincidente** → regime inicial **semiaberto** (CP 33 § 2º, "c"; Sum. 269 STJ admite o semiaberto ao reincidente com pena ≤ 4 anos — validar). Nao se aplica o aberto.
+
+**Substituicao por restritivas (CP 44).** Furto e crime **sem violencia/grave ameaca** e a pena é ≤ 4 anos (requisito objetivo do CP 44, I), mas o reu é **reincidente** (CP 44, II); a substituicao só é possivel se a medida for socialmente recomendavel e a reincidencia nao for em crime doloso especifico (CP 44 § 3º) — analisar caso a caso. Inviavel a substituicao, cabe avaliar o **sursis** (CP 77), tambem obstado pela reincidencia em crime doloso (CP 77, I), salvo a do § 1º.
+
+```
+PENA: base 2a9m (1 CJ desfav.) → 2a fase reincid. x confissao compensadas = 2a9m → 3a fase tentativa −1/3 = 1a10m + multa
+REGIME: semiaberto (CP 33 §2º "c"; reincidencia; Sum. 269 STJ-validar)
+SUBSTITUICAO (CP 44): obstada pela reincidencia (CP 44 II e §3º) — analisar · SURSIS (CP 77): em regra obstado (reincid. dolosa)
+```
+
 ## (c) DETRACAO E REMICAO
 
 - **Detracao (CP 42)** — desconta da pena o tempo de prisao provisoria/administrativa/internacao.

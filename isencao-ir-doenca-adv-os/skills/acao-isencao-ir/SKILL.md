@@ -52,5 +52,8 @@ Acionar `calculos-isencao-ir` para apurar o indebito dos 5 anos + Selic. Sem com
 - [ ] Tutela para cessar retencao · dado de saude protegido (PA-10)
 - [ ] `revisao-final-isencao-ir` R1-R4 (PA-14)
 
+## MODELO DE PECA
+Chassi: `templates/pecas/acao-declaratoria-repeticao.md` (padrao enxuto da casa). Abrir, ler a NOTA DE USO e substituir os `[____]`; nao copiar o texto para ca (limite de 11264 bytes — fonte unica no chassi).
+
 ## 5. ENCERRAMENTO
 Entrega a inicial com isencao + restituicao quinquenal + tutela, ancorada nas Sumulas 598/627, pronta para a Suprema Corte R1-R4.

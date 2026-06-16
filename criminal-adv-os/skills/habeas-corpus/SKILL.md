@@ -65,6 +65,7 @@ metadata:
 
 ## 7. INTEGRACAO
 
+- **Chassi:** `templates/pecas/habeas-corpus.md` — abrir e preencher os `[____]` antes de redigir (padrao enxuto da casa; ver `_LEIA-ME.md`).
 - `calculos-criminais` → prescricao/excesso de prazo, se for a tese.
 - `jurisprudencia-criminal` → validar Sumulas/precedentes (PA-01).
 - `analise-documental-criminal` → peca coatora, autos, decisao de prisao.

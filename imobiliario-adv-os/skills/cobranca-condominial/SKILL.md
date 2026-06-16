@@ -63,6 +63,8 @@ pode ser penhorado, ainda que residencia da familia. Indicar o bem a penhora na 
 executiva.
 
 ## Estrutura padrao da peca
+> **Chassi pronto:** `templates/pecas/cobranca-cotas-condominiais.md` (vias A=execucao / B=cobranca — abrir e substituir `[____]`).
+
 1. Enderecamento — foro da situacao do imovel/sede do condominio.
 2. Qualificacao (condominio pelo sindico; reu = titular registral / possuidor — PA-10).
 3. Sintese: unidade, periodo, demonstrativo de debito (PA-03 — valores conferidos).

@@ -14,6 +14,11 @@ metadata:
 # PETICAO-INICIAL-FAMILIA
 > Tier 2 | Produção | Petição Inicial | Família e Sucessões
 
+> **CHASSI DE PEÇA**: para divórcio litigioso, abrir o modelo-base
+> `templates/pecas/divorcio-litigioso.md` (estilo da casa: texto corrido, docs
+> numerados "Doc. nº N" antes do protocolo, procuração por último, segredo de
+> justiça, tutela p/ alimentos provisórios). Ver `templates/pecas/_LEIA-ME.md`.
+
 ---
 
 ## 0. ESCOPO

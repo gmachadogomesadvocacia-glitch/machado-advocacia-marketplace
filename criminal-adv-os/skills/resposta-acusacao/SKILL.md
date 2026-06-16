@@ -66,6 +66,7 @@ Apos a resposta, o juiz **absolve sumariamente** quando verificar:
 
 ## 8. INTEGRACAO
 
+- **Chassi:** `templates/pecas/resposta-acusacao.md` — abrir e preencher os `[____]` antes de redigir (padrao enxuto da casa; ver `_LEIA-ME.md`).
 - `calculos-criminais` → prescricao, prazo da citacao.
 - `jurisprudencia-criminal` → validar sumulas/precedentes (PA-01).
 - `analise-documental-criminal` → denuncia, IP, BO, laudos.

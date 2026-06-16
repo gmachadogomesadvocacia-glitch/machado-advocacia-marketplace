@@ -98,6 +98,11 @@ notificada via orgao de representacao. Erro de autoridade pode gerar extincao.
 - **PA-10:** coerencia de polo (impetrante-contribuinte).
 - **PA-12:** sigilo fiscal + LGPD.
 
+## MODELO DE PECA
+
+Chassi: `templates/pecas/mandado-seguranca-tributario.md` — abrir e substituir
+`[____]` antes de redigir.
+
 ## Integracao e saida
 - Valores/SELIC/compensacao → **calculos-tributarios**.
 - Sumulas e Temas → **jurisprudencia-tributaria** (validar, PA-01).

@@ -96,6 +96,53 @@ Quando se aplica hoje:
 
 ---
 
+## 1.4 EXEMPLO RESOLVIDO — RMI pos-EC 103 (regra de transicao por pontos)
+
+```
+CASO: Maria, contribuinte individual. DER = 10/03/2026.
+TC apurado no CNIS: 31 anos. Idade na DER: 60 anos.
+Filiada antes de 13/11/2019 → cabe regra de transicao.
+
+PASSO 1 — PBC (periodo basico de calculo)
+  Todos os SCs desde 07/1994 ate a competencia anterior a DER (02/2026).
+  Pos-EC 103: entram 100% dos SCs (acabou o descarte dos 20% menores).
+
+PASSO 2 — ATUALIZACAO dos SCs
+  Cada SC e corrigido ate a competencia da DER pelos indices oficiais
+  (INPC/IPCA-E conforme a tabela do INSS). Exemplo, 3 SCs ja atualizados:
+    SC 03/2024 R$ 3.000,00 × fator 1,090 = R$ 3.270,00
+    SC 03/2025 R$ 3.200,00 × fator 1,045 = R$ 3.344,00
+    SC 02/2026 R$ 3.400,00 × fator 1,002 = R$ 3.406,80
+  (na pratica corrige-se TODA a serie do PBC, nao apenas 3 meses)
+
+PASSO 3 — MEDIA (SB)
+  Pos-EC 103: media aritmetica de 100% dos SCs atualizados.
+  Suponha que a media de toda a serie atualizada deu:
+    SB = R$ 3.200,00
+
+PASSO 4 — COEFICIENTE / REGRA DE TRANSICAO
+  Pontos = idade + TC = 60 + 31 = 91 pontos.
+  Exigencia mulher em 2026 = 91 pontos (atingida). TC minimo 30 anos: OK.
+  Regra dos PONTOS → RMI = 100% do SB (sem reducao de aliquota).
+    RMI = 100% × R$ 3.200,00 = R$ 3.200,00
+
+  AUTO-ATAQUE (P5): comparar com a regra por IDADE progressiva —
+    aliquota = 60% + 2% × (31 − 15) = 60% + 32% = 92%; mas teto 100% só
+    com 30 anos (M): aqui 92% → RMI = 0,92 × 3.200 = R$ 2.944,00.
+  A regra dos PONTOS (R$ 3.200,00) e MAIS FAVORAVEL → adotar.
+
+PASSO 5 — PISO/TETO e DATA-FIM
+  R$ 3.200,00 fica entre o piso (SM vigente na DIB) e o teto do RGPS:
+  RMI valida.
+  DATA-FIM (DIB): a RMI vigora a partir da DER (10/03/2026); os indices
+  de atualizacao param na competencia da DER — nao se corrige alem dela
+  (correcao posterior e reajuste/RMA, secao 3, nao recalculo do SB).
+
+RESULTADO: RMI = R$ 3.200,00, regra de transicao por pontos, DIB 10/03/2026.
+```
+
+---
+
 ## 2. CALCULO DO SALARIO DE BENEFICIO — VIDA TODA
 
 ```

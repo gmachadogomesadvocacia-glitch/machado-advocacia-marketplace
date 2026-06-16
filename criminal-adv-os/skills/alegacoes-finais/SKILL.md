@@ -67,6 +67,7 @@ Pedir, na ordem trifasica (CP 68 — PA-06):
 
 ## 7. INTEGRACAO
 
+- **Chassi:** `templates/pecas/alegacoes-finais.md` — abrir e preencher os `[____]` antes de redigir (padrao enxuto da casa; ver `_LEIA-ME.md`).
 - `calculos-criminais` → dosimetria trifasica, prescricao, regime.
 - `jurisprudencia-criminal` → validar sumulas/precedentes (PA-01).
 - `analise-documental-criminal` → autos, midias de audiencia, laudos.

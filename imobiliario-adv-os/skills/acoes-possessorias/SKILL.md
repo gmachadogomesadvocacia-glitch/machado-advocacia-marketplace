@@ -63,6 +63,8 @@ do proprietario nao possuidor, art. 1.228 CC — pertence a outra frente).
   que se recusa a restituir; locatario que nao devolve **NAO** e esbulho — e despejo).
 
 ## Estrutura padrao da peca
+> **Chassi pronto:** `templates/pecas/reintegracao-posse.md` (esbulho; serve de base p/ manutencao/interdito — abrir e substituir `[____]`).
+
 1. Enderecamento — foro da **situacao do imovel** (acao real imobiliaria; art. 47 CPC).
 2. Qualificacao (PA-10 — autor possuidor, reu esbulhador/turbador).
 3. Sintese factica: origem e exercicio da posse, a molestia e sua **data**.

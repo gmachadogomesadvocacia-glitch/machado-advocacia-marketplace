@@ -1,0 +1,22 @@
+---
+description: Wizard de configuracao do plugin — cria a persona do escritorio, a config, a pasta de casos e aponta CIV_PERSONA no settings.local.json. Rode na primeira vez.
+allowed-tools: Read, Write, Edit, Bash, Glob, Grep
+argument-hint: [opcional]
+---
+
+Voce foi acionado pelo comando `/start-civel` do plugin civel-adv-os.
+
+Argumento recebido: `$ARGUMENTS`
+
+**Objetivo:** conduzir o wizard de configuracao do plugin no ambiente do operador, gravando a identidade do escritorio fora do plugin distribuido.
+
+## PROTOCOLO
+1. **Verificar estado** — se ja existir `civel/cowork-state.json`, avisar que o plugin esta configurado e oferecer reconfigurar; senao, seguir o wizard.
+2. **Acionar a skill `onboarding-civel`** — conduzir as perguntas estruturadas: advogado (nome, OAB/UF/numero), escritorio (firma), cidade/UF, email, tom de voz e intensidade combativa (0-10); frentes ativas (responsabilidade-civil-indenizatorias / contratos-obrigacoes / cobranca-execucao / obrigacoes-tutelas); polo(s) de atuacao (autor x reu); modo de melhor saida.
+3. **Inicializar o estado** — rodar `python scripts/state.py init <cowork>` para criar `civel/cowork-state.json`, e gravar os campos com `python scripts/state.py set <cowork> <json_path> <valor>`.
+4. **Gerar artefatos** — renderizar `templates/persona.md.tpl` -> `<cwd>/civel/persona.md` e `templates/config.md.tpl` -> `<cwd>/civel/config.md`; criar a pasta `<cwd>/civel/casos/`.
+5. **Apontar a persona** — gravar `CIV_PERSONA` no `settings.local.json` apontando para `<cwd>/civel/persona.md`.
+6. **Alertar sigilo + LGPD** — se o workspace for pasta sincronizada (OneDrive/iCloud/Google Drive), avisar do risco de espelhamento de dados de cliente; `civel/casos/` deve ficar gitignored.
+7. **Confirmar** a identidade gravada e encerrar sugerindo `/status-civel` e `/triagem` para abrir o primeiro caso.
+
+**Skill a acionar:** `onboarding-civel`.

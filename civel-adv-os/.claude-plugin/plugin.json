@@ -1,0 +1,9 @@
+{
+  "name": "civel-adv-os",
+  "version": "0.1.0",
+  "description": "Sistema operacional do advogado civel (Direito Civil e Processo Civil — CIVEL RESIDUAL) brasileiro, no padrao Adv-OS. Cobre o que nao esta nos plugins especializados, em QUATRO FRENTES — RESPONSABILIDADE CIVIL E INDENIZATORIAS (ato ilicito CC 186/187/927, dano moral/material/estetico, nexo, culpa x responsabilidade objetiva, quantum; responsabilidade civil do Estado CF 37 §6º), CONTRATOS E OBRIGACOES CIVIS (teoria geral, contratos tipicos — prestacao de servico, mutuo, comodato, mandato, doacao, fianca civil; inadimplemento, revisao/rescisao; anulacao de negocio juridico — erro, dolo, coacao, lesao, estado de perigo, simulacao, fraude — CC 138-184), COBRANCA E EXECUCAO (acao de cobranca, monitoria CPC 700, execucao de titulo extrajudicial, busca e apreensao DL 911/69) e OBRIGACOES E TUTELAS (fazer/nao fazer/dar, tutela provisoria de urgencia/evidencia, consignacao em pagamento, defesa civel/contestacao). Side-aware: autor (credor/lesado) x reu (devedor/causador). 20 skills (Tier 0-3), 4 Camadas, 13 Proibicoes Absolutas (prescricao x decadencia CC 205-206; liquidacao do dano e juros Sum. 54/362 STJ; responsabilidade contratual x extracontratual; norma vigente no fato), Selo de Validacao Legal Previa e Suprema Corte R1-R4; engine com persona em runtime e 13 commands. NAO cobre (interfaces): consumo->consumidor-adv-os; familia/sucessoes->familia-sucessoes-adv-os; resp. medica->direito-medico-adv-os; locacao/posse/imovel->imobiliario-adv-os; usucapiao->usucapiao-adv-os; fiscal->tributario-adv-os; crime->criminal-adv-os. Persona em runtime via /start-civel.",
+  "author": {
+    "name": "Machado Advocacia"
+  },
+  "license": "MIT"
+}

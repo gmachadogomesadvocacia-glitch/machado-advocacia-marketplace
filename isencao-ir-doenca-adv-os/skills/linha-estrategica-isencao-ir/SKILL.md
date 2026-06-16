@@ -29,9 +29,10 @@ metadata:
 - **Judicial** — declaratoria de isencao + repeticao de indebito (5 anos) + tutela. **Sum. 598** dispensa laudo oficial; cabe quando ha recusa/silencio ou falta laudo oficial.
 - **Ambas em paralelo (P4)** — administrativa primeiro; a **recusa/silencio vira prova** no judicial. Decidir conforme urgencia e existencia do laudo oficial.
 
-## 2. O RITO
-- Foro: **domicilio do contribuinte**, Justica Federal (Uniao/Fazenda Nacional + eventualmente a fonte).
-- **JEF Federal** ate **60 SM** (Lei 10.259) x **vara federal** acima disso. O valor da causa (restituicao + parcelas) define o rito.
+## 2. O RITO — COMPETENCIA SEGUE QUEM RETEM O IR (passo critico)
+- **Retencao FEDERAL** (INSS / Receita / fonte privada): reu UNIAO; **Justica Federal**, domicilio do contribuinte; **JEF** ate 60 SM (Lei 10.259) x vara federal acima.
+- **Retencao por RPPS ESTADUAL/MUNICIPAL** (servidor): o IR pertence ao **ENTE** (art. 157, I / 158, I, CF), NAO a Uniao. Reu = **Estado/Municipio** (e/ou o RPPS); **Justica ESTADUAL** (Sum. 447 STJ por extensao aos Municipios — validar), Juizado da Fazenda Publica ate 60 SM (Lei 12.153). E a restituicao do passado NAO e via DIRPF/Receita, e sim do proprio ente.
+- Identificar a fonte retentora (federal x estadual x municipal) ANTES de definir foro, reu e via do passado. O valor da causa (restituicao + parcelas) define JEF x vara comum.
 
 ## 3. TUTELA / MS
 - **Tutela de urgencia** (art. 300 CPC) para **cessar a retencao** mensal: probabilidade (laudo + rol) + perigo (desconto continuado).

@@ -33,7 +33,7 @@ Auditar, nao reescrever. Aponta a falha exata, classifica e devolve. Aplica-se a
 - Jurisprudencia validada (PA-01): **Sumula 598** (prova flexivel) e **Sumula 627** (manutencao) corretamente aplicadas?
 - Doenca **dentro do rol taxativo** (PA-05)? Isencao limitada a **proventos** (PA-06)?
 - Restituicao limitada aos **ultimos 5 anos** (CTN art. 168 — PA-09)?
-- Foro/rito corretos (domicilio do contribuinte; Justica Federal; JEF ate 60 SM)?
+- Foro/competencia corretos conforme QUEM RETEM o IR? Retencao FEDERAL (INSS/RFB) → Justica Federal (JEF ate 60 SM). Retencao de RPPS ESTADUAL/MUNICIPAL → o IR e do ENTE (art. 157, I / 158, I, CF): reu = Estado/Municipio, Justica ESTADUAL (Sum. 447 STJ por extensao; Juizado da Fazenda ate 60 SM) — NAO a Justica Federal nem a Receita.
 
 ## 3. R3 — TESE
 - **Coerencia de polo** (PA-12) — nada contra o lado do cliente?

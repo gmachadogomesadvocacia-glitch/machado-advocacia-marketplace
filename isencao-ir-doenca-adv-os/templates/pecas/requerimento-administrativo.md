@@ -5,7 +5,7 @@ NOTA DE USO
 - Quem usa: CONTRIBUINTE aposentado/pensionista/reformado, portador de doença do rol, para pedir a isenção diretamente à FONTE PAGADORA (INSS / RPPS do órgão / fundo de pensão EFPC) e cessar a retenção, com orientação de retificação da DIRPF para reaver o passado. Acionada por `requerimento-administrativo-isencao`.
 - Base: art. 6º, XIV, da Lei 7.713/88 + IN RFB 1500/2014. Na via administrativa a fonte costuma EXIGIR laudo de serviço médico OFICIAL (diferente do judicial, onde a Súm. 598 STJ flexibiliza — PA-07).
 - Canal: INSS → Meu INSS (serviço "Isenção de Imposto de Renda"); RPPS → RH/previdência do ente; EFPC → entidade que paga a complementação. Identificar QUEM retém define onde cessar o desconto.
-- Passado: a fonte devolve, em regra, só o exercício corrente. Os anos anteriores reavêem-se pela RETIFICAÇÃO da DIRPF na Receita (acionar `retificacao-dirpf`), limite de 5 anos (CTN 168 — PA-09).
+- Passado (depende de A QUEM PERTENCE o IR): se a retenção é FEDERAL (INSS/RFB), os anos anteriores reavêem-se pela RETIFICAÇÃO da DIRPF na Receita (acionar `retificacao-dirpf`), limite 5 anos (CTN 168 — PA-09). MAS se a retenção é de RPPS ESTADUAL/MUNICIPAL (servidor), o IR pertence ao ENTE (art. 157, I / 158, I, CF) — NÃO à Receita: a restituição do passado pede-se ao próprio ente (administrativa) ou na JUSTIÇA ESTADUAL (réu o Estado/Município; Súm. 447 STJ por extensão), não pela DIRPF.
 - LGPD — dado de saúde SENSÍVEL: juntar o laudo/CID como documento sob sigilo; no corpo, só o indispensável (PA-10). PA-04: não opinar sobre o diagnóstico. Silêncio/recusa = prova pré-constituída para a via judicial (P4) — registrar protocolo e datas no CASO.md.
 - Tokens `{{ADVOGADO_NOME}}` / `{{OAB_UF}}` / `{{OAB_NUMERO}}` resolvidos pela persona — não preencher. Substituir todo `[____]`.
 
@@ -36,7 +36,7 @@ e) a ciência do deferimento e, em caso de indeferimento, a fundamentação expr
 
 Acompanham o requerimento, em sequência: laudo de serviço médico oficial, carta de concessão do benefício e informes de rendimentos/IR retido (Doc. nº 1 a [__]); procuração e documentos pessoais por último.
 
-ORIENTAÇÃO QUANTO AO PASSADO: os valores retidos nos exercícios anteriores não são restituídos por esta via, mas mediante RETIFICAÇÃO da Declaração de Ajuste Anual (DIRPF) na Receita Federal, alterando os rendimentos tributáveis para ISENTOS e gerando a restituição, observado o limite dos ÚLTIMOS 5 ANOS (CTN, art. 168).
+ORIENTAÇÃO QUANTO AO PASSADO: os valores retidos nos exercícios anteriores não são restituídos por esta via. Se a retenção é FEDERAL (INSS/RFB), reavêem-se mediante RETIFICAÇÃO da Declaração de Ajuste Anual (DIRPF) na Receita Federal, alterando os rendimentos para ISENTOS e gerando a restituição, no limite dos ÚLTIMOS 5 ANOS (CTN, art. 168). Se a retenção é de RPPS ESTADUAL/MUNICIPAL, o imposto pertence ao ENTE (art. 157, I / 158, I, da CF) e a restituição do passado pede-se ao próprio ente ou na Justiça Estadual (réu o Estado/Município), também no limite de 5 anos — não pela DIRPF.
 
 Termos em que, pede deferimento.
 [Cidade]/[UF], [data].

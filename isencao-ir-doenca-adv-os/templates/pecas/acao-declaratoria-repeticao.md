@@ -3,7 +3,10 @@ Padrão ENXUTO da casa. Genérico/de-identificado — substituir todo `[____]`.
 
 NOTA DE USO
 - Quem usa: CONTRIBUINTE aposentado/pensionista/reformado, portador de doença do rol, com IR retido na fonte sobre os PROVENTOS. Via judicial ordinária. Acionada por `acao-isencao-ir`.
-- Base: art. 6º, XIV, da Lei 7.713/88 (isenção); CTN 168 (restituição dos últimos 5 anos); art. 300 CPC (tutela de urgência para cessar a retenção). Réu: União (Fazenda Nacional); a fonte pagadora entra para cessar o desconto. Foro: domicílio do autor — Justiça Federal; até 60 SM, JEF (Lei 10.259).
+- Base: art. 6º, XIV, da Lei 7.713/88 (isenção); CTN 168 (restituição dos últimos 5 anos); art. 300 CPC (tutela de urgência para cessar a retenção).
+- COMPETÊNCIA conforme QUEM RETÉM (a quem pertence o IR):
+  - Retenção FEDERAL (INSS / RFB / fonte privada): réu UNIÃO (Fazenda Nacional); Justiça FEDERAL, domicílio do autor; até 60 SM, JEF (Lei 10.259). É o caso-padrão deste chassi.
+  - Retenção por RPPS ESTADUAL/MUNICIPAL (servidor): o IR pertence ao ENTE (art. 157, I, e 158, I, da CF), NÃO à União. Réu = o ESTADO/MUNICÍPIO (e/ou o RPPS); competência da Justiça ESTADUAL (Súmula 447 STJ, por extensão aos Municípios — validar), Juizado da Fazenda Pública até 60 SM (Lei 12.153). Nesse caso, trocar o endereçamento (Vara da Fazenda Pública/Juizado da Fazenda Estadual), o réu e a fundamentação da condenação abaixo.
 - Prefira o MS (chassi mandado-seguranca-isencao.md) quando o direito for líquido e certo, a prova documental robusta e não se for cobrar o indébito passado no mesmo feito. Use ESTA ação quando houver enquadramento controverso, necessidade de perícia/instrução OU se quiser cobrar a repetição dos 5 anos.
 - LGPD — dado de saúde SENSÍVEL: o laudo/CID vai como DOCUMENTO; no corpo, só o necessário (a doença e a data), nunca detalhe clínico. Pedir segredo de justiça (PA-10). PA-04: não opinar sobre o diagnóstico.
 - O que substituir: todo `[____]`; só PROVENTOS (PA-06); só doença do rol (PA-05); só 5 anos (PA-09). O quantum vem de `calculos-isencao-ir` (não estimar — PA-03).
@@ -12,6 +15,7 @@ NOTA DE USO
 ==============================================================================
 
 EXCELENTÍSSIMO(A) SENHOR(A) JUIZ(A) FEDERAL DA [__]ª VARA [DO JUIZADO ESPECIAL FEDERAL] DA SEÇÃO/SUBSEÇÃO JUDICIÁRIA DE [____] — [UF].
+[VARIANTE RPPS estadual/municipal: EXCELENTÍSSIMO(A) SENHOR(A) JUIZ(A) DE DIREITO DA [__]ª VARA DA FAZENDA PÚBLICA [ou do JUIZADO ESPECIAL DA FAZENDA PÚBLICA] DA COMARCA DE [____] — [UF].]
 
 [NOME], [nacionalidade], [estado civil], [aposentado(a)/pensionista/reformado(a)], inscrito(a) no CPF nº [____], benefício nº [____], com endereço em [____], por seu advogado infra-assinado, {{ADVOGADO_NOME}} (OAB/{{OAB_UF}} nº {{OAB_NUMERO}}), vem propor
 

@@ -6,7 +6,7 @@ description: >
   fianca/seguro garantia) e EXCECAO DE PRE-EXECUTIVIDADE (sem garantia, so materia de ordem publica
   conhecivel de oficio e sem dilacao probatoria — Sum. 393 STJ). Trata nulidade da CDA, decadencia,
   prescricao (inclusive intercorrente — Sum. 314 STJ + Tema 566 STJ), ilegitimidade passiva,
-  redirecionamento ao socio (art. 135 CTN, Sum. 435, Tema 962 STF), excesso de execucao e garantia.
+  redirecionamento ao socio (art. 135 CTN, Sum. 435, Tema 962 STJ), excesso de execucao e garantia.
   Ative quando houver citacao em execucao fiscal, penhora, CDA, embargos ou excecao de pre-executividade.
 metadata:
   version: "0.1.0"
@@ -48,7 +48,7 @@ metadata:
 **E. Ilegitimidade passiva / redirecionamento** (PA-08)
 - Mero inadimplemento NAO autoriza redirecionar ao socio (Sum. 430 STJ).
 - Redirecionamento exige excesso de poderes/infracao a lei/dissolucao irregular (art. 135 CTN; Sum. 435 STJ presume dissolucao irregular pela nao localizacao no domicilio fiscal).
-- Tema 962 STF e Tema 981 STJ (marco do redirecionamento e socio que se retirou).
+- Tema 962 STJ e Tema 981 STJ (marco do redirecionamento e socio que se retirou).
 
 **F. Excesso de execucao** — valor, multa confiscatoria, juros/SELIC, cumulacao indevida.
 
@@ -57,7 +57,7 @@ metadata:
 ## 3. GARANTIA DO JUIZO (para embargos / suspensao)
 
 - Ordem da LEF art. 9º/11: deposito em dinheiro → fianca bancaria / seguro garantia → penhora.
-- Seguro garantia e fianca equiparados a dinheiro para suspender (Tema 1153 STJ / art. 9º §2º LEF).
+- Seguro garantia e fianca bancaria equiparam-se a dinheiro para suspender/garantir (art. 9º §2º da LEF, redacao da Lei 13.043/2014) — (jurisprudencia a validar).
 - Deposito integral em dinheiro suspende a exigibilidade (CTN art. 151, II; Sum. 112 STJ).
 
 ## 4. ESTRUTURA DA PECA

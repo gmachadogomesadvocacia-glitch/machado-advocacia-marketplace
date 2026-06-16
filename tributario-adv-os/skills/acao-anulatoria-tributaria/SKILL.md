@@ -55,7 +55,7 @@ auto de infracao ou CDA. Fundamento de cabimento: **art. 38 da LEF**
 - Erro de base de calculo / aliquota / sujeito passivo.
 - Inconstitucionalidade/ilegalidade da exigencia (com Tema/precedente validado).
 - Ilegitimidade passiva; responsabilizacao indevida de socio (art. 135 CTN,
-  Sumula 435, Tema 962 — validar; ver PA-08).
+  Sumula 435, Tema 962 STJ — validar; ver PA-08).
 
 ## Estrutura
 1. **Enderecamento** — Vara da Fazenda Publica (estadual/municipal) ou Justica
@@ -78,12 +78,12 @@ auto de infracao ou CDA. Fundamento de cabimento: **art. 38 da LEF**
   repetitivo/vinculante** (validar o precedente) ou prova documental robusta.
 
 ## Proibicoes Absolutas aplicaveis
-- **PA-01 / PA-02:** Sumula 112, Tema 962 e demais — so se consagrados e
+- **PA-01 / PA-02:** Sumula 112, Tema 962 STJ e demais — so se consagrados e
   marcados "validar"; nao inventar fundamentacao.
 - **PA-03:** fatos so do que esta documentado.
 - **PA-04:** norma vigente no fato gerador (tempus regit actum) + transicao.
 - **PA-05:** decadencia (CTN 173) x prescricao (CTN 174).
-- **PA-08:** redirecionamento ao socio (art. 135 / Sum. 435 / Tema 962).
+- **PA-08:** redirecionamento ao socio (art. 135 / Sum. 435 / Tema 962 STJ).
 - **PA-10:** coerencia de polo (autor-contribuinte).
 - **PA-12:** sigilo fiscal + LGPD.
 

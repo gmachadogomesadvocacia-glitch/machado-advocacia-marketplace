@@ -67,11 +67,13 @@ V — DOS PEDIDOS
 ### "Nao ha nexo causal / doenca nao incapacita"
 ```
 Rebuttal:
-- O laudo do INSS e vinculante? NAO (TNU Sumula 25: juiz pode divergir com fundamentacao)
+- O laudo administrativo do INSS nao vincula o juizo (entendimento — validar): juiz pode
+  divergir com fundamentacao
 - Juntarlaudo medico proprio atualizado
 - Se doenca ocupacional: verificar NTEP (presuncao relativa — PA-17)
 - "A pericia judicial e necessaria para dirimir a controversia entre os laudos, sendo
-  inadequada a dispensa liminar do pedido sem producao de prova pericial (TNU Sumula 25)"
+  inadequada a dispensa liminar do pedido sem producao de prova pericial (o laudo
+  administrativo do INSS nao vincula o juizo — entendimento — validar)"
 ```
 
 ### "Nao ha carencia suficiente"
@@ -79,14 +81,14 @@ Rebuttal:
 Rebuttal:
 - Revisar CNIS com todos os vinculos (inclusive rural, CI, MEI)
 - TNU Sumula 6: atividade rural com inicio de prova material nao contemporanea
-- TNU Sumula 14: atividade rural antes dos 16 anos conta para carencia
+- atividade rural antes dos 16 anos conta para carencia (jurisprudencia — validar)
 - Apresentar CTPS, declaracoes, documentos complementares
 ```
 
 ### "Qualidade de segurado perdida"
 ```
 Rebuttal:
-- Verificar periodo de graca (TNU Sumula 44: 36 meses se desemprego involuntario)
+- Verificar periodo de graca (art. 15 §2º da Lei 8.213/91, e Sumula 27 TNU: 36 meses se desemprego involuntario)
 - Beneficio por incapacidade dispensa carencia se acidente (art. 26, II, Lei 8.213)
 - Apresentar prova de vinculo ou contribuicao dentro do periodo de graca
 ```

@@ -34,8 +34,8 @@ Todos os temas marcados com `[VERIFICAR]` devem ser confirmados antes do protoco
 |----------|---------|--------|
 | Tema 1.248 | Execução fiscal e stay period — penhora de faturamento | [VERIFICAR] |
 | Tema 1.051 | FGTS e período de suspensão do art. 6º | [VERIFICAR] |
-| Tema 987 | Competência do juízo da RJ sobre bens dos sócios | [VERIFICAR] |
-| Tema 567 | Crédito tributário e sujeição à RJ | [VERIFICAR] |
+| Tema 987 | **CANCELADO em 2021 (Lei 14.112/2020)** — atos constritivos contra a recuperanda hoje seguem o art. 6º da LFRE | [VERIFICAR] |
+| (sem nº repetitivo) | Crédito tributário e sujeição à RJ — não submetido ao concurso, com ressalvas | [VERIFICAR] |
 | REsp 1.694.316 | Consolidação substancial em grupos econômicos | [VERIFICAR] |
 
 ### 1.2 Súmulas do STJ

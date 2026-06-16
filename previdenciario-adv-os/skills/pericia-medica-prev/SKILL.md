@@ -14,11 +14,11 @@ description: >
 
 ---
 
-## 0. FUNDAMENTO — TNU Sumula 25
+## 0. FUNDAMENTO — LAUDO DO INSS NAO VINCULA O JUIZO (entendimento — validar)
 
 "O juiz nao e obrigado a decidir de acordo com o laudo do perito do INSS, podendo
 divergir com fundamentacao em outros laudos medicos e nas circunstancias do caso concreto."
-(TNU, Sumula n. 25)
+(o laudo administrativo do INSS nao vincula o juizo — entendimento — validar)
 
 Isso significa: se o laudo do perito judicial for desfavoravel, ha margem para impugnacao
 com laudo proprio + historico medico + outros elementos probatorios.
@@ -119,7 +119,7 @@ DORT/LER: M50-M54, doencas auditivas ocupacionais: H83.3, pneumoconioses: J60-J6
 
 ```
 ⚠️ PA-14: doenca preexistente — verificar se o INSS alega e preparar rebuttal
-⚠️ TNU Sumula 25: laudo do INSS nao vincula o juiz — sempre juntar laudo proprio
+⚠️ O laudo administrativo do INSS nao vincula o juizo (entendimento — validar) — sempre juntar laudo proprio
 ⚠️ DII anterior a DER: impacta DIB — calcular retroativos corretamente
 ⚠️ Acrescimo de 25% (art. 45): perguntar ao perito se ha necessidade de assistencia permanente
 ```

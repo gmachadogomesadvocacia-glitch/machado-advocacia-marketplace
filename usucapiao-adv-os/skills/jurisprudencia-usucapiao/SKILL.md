@@ -3,7 +3,7 @@ name: jurisprudencia-usucapiao
 description: >
   JURISPRUDENCIA USUCAPIAO — Skill Tier 1 (apoio ao Selo P1, Protocolo PA-01). Busca viva, valida e
   organiza jurisprudencia de usucapiao em 3 niveis (sumulas/ancoras, repetitivos/STJ, TJ). Ancoras:
-  Sumula 391 STF (extraordinaria dispensa justo titulo e boa-fe), Sumula 340 STF (bem publico dominical
+  art. 1.238 CC (extraordinaria dispensa justo titulo e boa-fe), Sumula 340 STF (bem publico dominical
   nao se adquire por usucapiao), STJ sobre justo titulo/posse/area e a usucapiao extrajudicial e o
   silencio do confrontante (Lei 6.015 art. 216-A §2). Acione quando o usuario pedir jurisprudencia,
   sumula, precedente, tema repetitivo, posicao do STJ/STF sobre posse, justo titulo, bem publico,
@@ -24,10 +24,12 @@ metadata:
 Proibida a **alucinacao jurisprudencial**. Nenhuma sumula, tema ou acordao entra na peca sem **busca viva + validacao**. Nao confirmado → marcar **`[VERIFICAR]`** e nao usar como fundamento ate validar.
 
 ## 1. ANCORAS (sumulas-base — confirmar vigencia)
-- **Sumula 391 STF** `[VERIFICAR]` — na usucapiao **extraordinaria** a posse pode ser adquirida **independentemente de justo titulo e boa-fe**.
+- **art. 1.238 CC** — na usucapiao **extraordinaria** a posse pode ser adquirida **independentemente de justo titulo e boa-fe**.
+- **Sumula 391 STF** `[VERIFICAR]` — o **confinante certo** deve ser **citado pessoalmente** na acao de usucapiao.
 - **Sumula 340 STF** `[VERIFICAR]` — bens dominicais (publicos) **nao se adquirem por usucapiao** (reforca CF 183§3 / 191§un — PA-04).
 - **Sumula 237 STF** `[VERIFICAR]` — a usucapiao pode ser arguida em **defesa**.
-- **Sumula 263 STJ** `[VERIFICAR]` — promessa de compra e venda como **justo titulo** (ordinaria).
+- **Sumula 263 STF** `[VERIFICAR]` — o **possuidor** deve ser **citado pessoalmente** na acao de usucapiao.
+- Promessa de compra e venda como **justo titulo** (ordinaria) — doutrina/jurisprudencia `[VERIFICAR]`.
 
 ## 2. TEMAS DE BUSCA VIVA (STJ/STF — sempre [VERIFICAR])
 - **Justo titulo e boa-fe** na ordinaria (titulo viciado/registravel; promessa de compra e venda).

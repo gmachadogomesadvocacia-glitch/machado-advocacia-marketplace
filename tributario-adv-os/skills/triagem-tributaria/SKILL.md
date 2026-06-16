@@ -81,6 +81,6 @@ Depois: **Selo P1** → `analise-documental-tributaria` → porta de producao.
 
 - Citacao em execucao fiscal com prazo curto → priorizar garantia + embargos OU excecao de pre-executividade; nao deixar precluir.
 - Suspeita de decadencia/prescricao → `calculos-tributarios` ANTES de qualquer peca de merito.
-- Redirecionamento ao socio → checar art. 135 CTN, Sum. 435 STJ, Tema 962 STF (PA-08).
+- Redirecionamento ao socio → checar art. 135 CTN, Sum. 435 STJ, Tema 962 STJ (PA-08).
 - Pedido que tangencie sonegacao/fraude → recusar (PA-06); so elisao licita.
 - Crime tributario (Lei 8.137) → sinalizar interface com o plugin criminal.

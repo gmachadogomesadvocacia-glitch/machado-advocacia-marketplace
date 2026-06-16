@@ -42,7 +42,7 @@ metadata:
 ## 3. DEFESA DO EXECUTADO
 
 - **Embargos a execucao** (CPC 914-920) — acao incidental, prazo **15 dias** da juntada do mandado/AR (CPC 915), **independem de penhora**; materia ampla (CPC 917: inexequibilidade do titulo, penhora incorreta, excesso, qualquer materia de defesa). **Sem efeito suspensivo automatico** (CPC 919) — exige garantia + fumus + periculum.
-- **Excecao de pre-executividade** — materia de ordem publica conhecivel de oficio, sem dilacao probatoria (Sum. 393 STJ — validar).
+- **Excecao de pre-executividade** — materia de ordem publica conhecivel de oficio, sem dilacao probatoria (aplicacao por analogia/entendimento extensivo da Sum. 393 STJ, cujo teor e restrito a execucao fiscal — validar).
 - **Impenhorabilidade** (CPC 833): salario/proventos, bens de uso domestico, instrumentos de trabalho, pequena propriedade rural, etc.; **bem de familia** (Lei 8.009/90 — impenhorabilidade, salvo excecoes do art. 3º).
 
 ## 4. BUSCA E APREENSAO — ALIENACAO FIDUCIARIA (DL 911/69)
@@ -63,7 +63,7 @@ metadata:
 ## 6. INTEGRACAO
 
 - `calculos-civeis` → demonstrativo do debito, atualizacao, juros, prescricao do titulo (PA-06/PA-05).
-- `jurisprudencia-civel` → Sum. 72, 393 STJ; teses do DL 911 (PA-01).
+- `jurisprudencia-civel` → Sum. 72 STJ; Sum. 393 STJ (teor restrito a execucao fiscal — aqui por analogia); teses do DL 911 (PA-01).
 - `analise-documental-civel` → aferir titulo (2 testemunhas?), contrato fiduciario, notificacao.
 - `estilo-juridico-civel` → forma · `revisao-final-civel` → R1-R4.
 

@@ -86,7 +86,7 @@ FORMATO CORRETO (STF):
   "STF, Tema [numero] (RE [numero], Tribunal Pleno, julgado em [data])"
 
 Exemplos:
-  "STF, Tema 999 (RE 1.276.977, Tribunal Pleno, julgado em 01/12/2022)"
+  "STF, Tema 1102 (RE 1.276.977, Tribunal Pleno, julgado em 01/12/2022) / STJ, Tema 999 (REsp 1.596.203)"
   "STF, Tema 555 (RE 664.335, Tribunal Pleno, julgado em 04/12/2014)"
   "STF, Tema 709 (RE 661.256, Tribunal Pleno, julgado em 27/10/2016)"
 

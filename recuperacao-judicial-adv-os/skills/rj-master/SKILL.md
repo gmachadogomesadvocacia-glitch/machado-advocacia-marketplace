@@ -173,8 +173,10 @@ salvar caso → `memoria-de-caso-rj`.
 - **Súm. 480 STJ** — competência da RJ/constrição; **Súm. 581 STJ** — RJ
   não afeta coobrigados/garantidores; **Tema 1.051** — FGTS e stay
   [VERIFICAR]; **Tema 1.248** — execução fiscal e stay [VERIFICAR]; **Tema
-  987** — bens dos sócios [VERIFICAR]; **Tema 567** — crédito tributário
-  [VERIFICAR]; **Tema 637 (REsp 1.152.218/RS)** — honorários natureza
+  987** — CANCELADO em 2021 (Lei 14.112/2020); atos constritivos contra a
+  recuperanda hoje seguem o art. 6º da LFRE [VERIFICAR]; **crédito tributário
+  e sujeição à RJ** — não submetido ao concurso, com ressalvas (sem nº
+  repetitivo) [VERIFICAR]; **Tema 637 (REsp 1.152.218/RS)** — honorários natureza
   alimentar, equiparados a crédito trab. (teto 150 SM, art. 83 I); **IAC
   13** — fato gerador como marco de sujeição [VERIFICAR]; **ADC 58/59 STF
   (Tema 1.191)** — índice de correção em créditos trabalhistas.

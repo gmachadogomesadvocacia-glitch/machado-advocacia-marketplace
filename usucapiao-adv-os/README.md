@@ -5,7 +5,7 @@ Sistema operacional do advogado para **Usucapião** (judicial e extrajudicial), 
 ## Modalidades cobertas
 | Modalidade | Base | Tempo | Chave |
 |-----------|------|-------|-------|
-| Extraordinária | CC 1.238 | 15 (10) anos | dispensa justo título/boa-fé (Súm. 391 STF) |
+| Extraordinária | CC 1.238 | 15 (10) anos | dispensa justo título/boa-fé (art. 1.238 CC) |
 | Ordinária | CC 1.242 | 10 (5) anos | justo título + boa-fé |
 | Especial urbana | CC 1.240 / CF 183 | 5 anos | até 250 m², moradia |
 | Especial rural | CC 1.239 / CF 191 | 5 anos | até 50 ha, moradia + produção |

@@ -107,7 +107,7 @@ Quando usar art. 29, II:
 □ Os SCs pre-94 corrigidos (INPC) sao maiores que os pos-94?
 □ O SB pela RVT supera o SB pelo PBC normal?
 
-Se SIM para todos: RVT e mais favoravel — Tema 999 STF
+Se SIM para todos: RVT e mais favoravel — Tema 1102 STF (RE 1.276.977) / Tema 999 STJ (REsp 1.596.203)
 Acionar acao-revisional-rmi para protocolar a acao
 ```
 
@@ -171,7 +171,7 @@ Prescricao das parcelas: ultimos 5 anos (art. 103-A Lei 8.213)
 
 ```
 ⚠️ PA-12: nao apresentar calculo sem memorial comparativo (Protocolo P5 obrigatorio)
-⚠️ PA-22: Tema 999 STF (RVT) — analise individual obrigatoria — nao recomendar em escala
+⚠️ PA-22: Tema 1102 STF / Tema 999 STJ (RVT) — analise individual obrigatoria — nao recomendar em escala
 ⚠️ PA-03: verificar decadencia (10 anos) antes de revisar RMI concedida
 ⚠️ Teto historico: verificar se o SB calculado supera o teto da competencia da DIB
 ⚠️ MEI: SC de 5% sobre SM — para RMI: so computa beneficios de baixo valor (PA-11)

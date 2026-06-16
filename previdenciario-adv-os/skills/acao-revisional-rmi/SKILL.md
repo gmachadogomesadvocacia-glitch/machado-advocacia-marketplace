@@ -2,7 +2,7 @@
 name: acao-revisional-rmi
 description: >
   ACAO REVISIONAL DE RMI — Skill Tier 2 A. Produz acao para revisar a Renda Mensal Inicial
-  de beneficio ja concedido: revisao da vida toda (Tema 999 STF — art. 29 II Lei 8.213),
+  de beneficio ja concedido: revisao da vida toda (Tema 1102 STF (RE 1.276.977) / Tema 999 STJ (REsp 1.596.203) — art. 29 II Lei 8.213),
   revisao por erro no PBC, revisao por aplicacao de regra de transicao incorreta, revisao
   por fator previdenciario equivocado, e revisao por salarios-de-contribuicao nao computados.
   Inclui memorial de calculo comparativo antes/depois. Acionar quando segurado tem beneficio
@@ -31,7 +31,7 @@ Prescricao das parcelas (art. 103-A): apenas ultimos 5 anos sao recuperaveis.
 
 ---
 
-## 1. REVISAO DA VIDA TODA — TEMA 999 STF / TEMA 1.124 STJ
+## 1. REVISAO DA VIDA TODA — TEMA 1102 STF (RE 1.276.977) / TEMA 999 STJ (REsp 1.596.203)
 
 ### 1.1 Quando e Favoravel (analise individual obrigatoria — PA-22)
 
@@ -41,7 +41,7 @@ Verificar antes de recomendar:
 □ Os salarios pre-94 sao superiores a media dos salarios pos-94 (PBC normal)?
 □ O recalculo com 100% dos salarios desde a filiacao gera RMI superior?
 □ A decadencia nao esta vencida? (PA-03)
-□ Acao foi ajuizada antes do julgamento do Tema 999 (modulacao — Tema 1169 STF)?
+□ Acao foi ajuizada antes do julgamento do Tema 1102 STF (modulacao — Tema 1169 STF)?
    → Se NAO: verificar se o TRF/TNU da regiao aplica sem modulacao para novas acoes
 
 Se todos positivos → FAVORAVEL → prosseguir com a acao
@@ -66,8 +66,8 @@ B — Da Revisao da Vida Toda (art. 29, II, Lei 8.213)
   "[O art. 29, II da Lei 8.213/91 permite o calculo pela media de todos os salarios-
    de-contribuicao desde a filiacao ao RGPS, sem restricao temporal.]"
   
-C — Do Tema 999 STF / Tema 1.124 STJ
-  "[O STF, no Tema 999 (RE 1.276.977, Tribunal Pleno, j. [data]), reconheceu o direito
+C — Do Tema 1102 STF (RE 1.276.977) / Tema 999 STJ (REsp 1.596.203)
+  "[O STF, no Tema 1102 (RE 1.276.977, Tribunal Pleno, j. [data]), reconheceu o direito
    do segurado a optar pela formula mais favoravel (art. 29, II), quando os salarios
    anteriores a julho/1994 elevam o salario-de-beneficio.]"
 

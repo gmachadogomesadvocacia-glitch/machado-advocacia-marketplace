@@ -30,7 +30,7 @@ Plugin side-aware (usucapiente × confrontante) para usucapião nas duas vias (j
 6. **PA-06:** no judicial, citar SEMPRE confrontantes + titulares + União/Estado/Município + edital de réus incertos.
 7. **PA-07:** extrajudicial só com consenso; havendo litígio → judicial.
 8. **PA-08/09:** posse ad usucapionem (animus domini), nunca detenção.
-9. Jurisprudência: nunca citar sem validar (PA-01) — Súm. 391 e 340 STF são âncoras.
+9. Jurisprudência: nunca citar sem validar (PA-01) — Súm. 340 STF (bem público) e art. 1.238 CC (extraordinária dispensa justo título/boa-fé) são âncoras; Súm. 391 STF = citação pessoal do confinante.
 
 ## Status do build
 v0.1.0 — Núcleo operacional: engine, 10 commands, ~15 skills (Tier 0-3), Suprema Corte R1-R4. Roadmap geral: `../PLANO-novos-plugins-areas-direito.txt`.

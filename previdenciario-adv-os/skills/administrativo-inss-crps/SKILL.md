@@ -24,7 +24,7 @@ description: >
 Instancia Superior: Pleno do CRPS — uniformizacao de jurisprudencia
 
 Nota: exaurimento administrativo NAO e obrigatorio antes do judicial
-(salvo excecao pos-Tema 999/1169 STF para revisao da vida toda)
+(salvo excecao pos-Tema 1102 STF (RE 1.276.977) / Tema 999 STJ (REsp 1.596.203) e Tema 1169 STF para revisao da vida toda)
 ```
 
 ---
@@ -99,7 +99,7 @@ Prazo: 30 dias do aviso de cessacao
 
 Argumentos especificos:
 □ Cessacao sem intimacao previa: viola due process (art. 5, LIV CF)
-□ Cessacao por alta medica indevida: TNU Sumula 25 + laudo proprio
+□ Cessacao por alta medica indevida: o laudo administrativo do INSS nao vincula o juizo (entendimento — validar) + laudo proprio
 □ Cessacao por revisao sem nova pericia: art. 101 Lei 8.213 (obrigatoria para B31/B32)
 □ Cessacao por suposta fraude sem processo administrativo regular: viola contraditorio
 
@@ -116,7 +116,8 @@ Prazo: antes da data de cessacao fixada pelo INSS
 
 Fundamentacao:
 - Art. 59 Lei 8.213: auxilio cessa apenas quando o segurado recupera capacidade
-- TNU Sumula 25: divergencia entre laudo INSS e laudo do autor deve ser resolvida
+- O laudo administrativo do INSS nao vincula o juizo (entendimento — validar):
+  divergencia entre laudo INSS e laudo do autor deve ser resolvida
   por pericia judicial (nao pela simples alta administrativa)
 - Juntar: relatorio medico atualizado, exames recentes, historico de tratamento
 

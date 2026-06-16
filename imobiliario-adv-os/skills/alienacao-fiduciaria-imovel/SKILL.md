@@ -4,8 +4,8 @@ description: >
   Alienacao fiduciaria de bem imovel (Lei 9.514/97). Dois polos. (a) DEFESA DO FIDUCIANTE/
   devedor: purgacao da mora (art. 26 §1o — 15 dias da intimacao pelo cartorio), nulidade
   da consolidacao/leilao (art. 27 — vicios na intimacao, preco vil, ausencia de 2o leilao),
-  restituicao do excedente (art. 27 §4o), direito de preferencia (art. 27 §2o-B), Tema 1095
-  STF (validar). (b) CREDOR FIDUCIARIO: consolidacao e leilao (rito art. 26-27 — PA-09).
+  restituicao do excedente (art. 27 §4o), direito de preferencia (art. 27 §2o-B), Tema 982
+  STF (RE 860.631) (validar). (b) CREDOR FIDUCIARIO: consolidacao e leilao (rito art. 26-27 — PA-09).
   Acione quando: alienacao fiduciaria de imovel, leilao extrajudicial, consolidacao da
   propriedade, purgacao da mora, intimacao do cartorio, suspender leilao, retomada de
   imovel financiado, Lei 9.514. Side-aware fiduciante x credor fiduciario.
@@ -49,7 +49,7 @@ Vicios que fundamentam **nulidade da consolidacao/leilao** (art. 27) e suspensao
 - **Preco vil** no leilao; **ausencia do 2o leilao**; falta de avaliacao adequada.
 - **Nao restituicao do excedente** (art. 27 §4o).
 - **Negativa do direito de purgar** ou de **preferencia** (art. 27 §2o-B).
-- **Tema 1095 STF**: constitucionalidade do rito extrajudicial da Lei 9.514 — o STF firmou
+- **Tema 982 STF (RE 860.631)**: constitucionalidade do rito extrajudicial da Lei 9.514 — o STF firmou
   posicao sobre a validade do procedimento e o contraditorio diferido (**validar texto e
   alcance antes de citar — PA-01**); usar para calibrar a tese (atacar o vicio concreto,
   nao a constitucionalidade em abstrato).
@@ -68,7 +68,7 @@ Vicios que fundamentam **nulidade da consolidacao/leilao** (art. 27) e suspensao
 2. Qualificacao (autor fiduciante; reu credor fiduciario — PA-10).
 3. Sintese: contrato, mora alegada, intimacao e vicios concretos (PA-03 — datas, valores,
    matricula conferidos).
-4. Fundamentos: Lei 9.514 arts. 26-27; CPC 300; Tema 1095 STF (validar — PA-01); norma
+4. Fundamentos: Lei 9.514 arts. 26-27; CPC 300; Tema 982 STF (RE 860.631) (validar — PA-01); norma
    vigente (PA-04). **PA-09** — rito proprio.
 5. Pedidos: tutela para suspender leilao/consolidacao; nulidade; restituicao do excedente;
    reconhecimento do direito de purgar/preferir.
@@ -77,7 +77,7 @@ Vicios que fundamentam **nulidade da consolidacao/leilao** (art. 27) e suspensao
 
 ## Integracao
 `calculos-imobiliarios` (debito, excedente, valor de avaliacao x lance) →
-`jurisprudencia-imobiliaria` (validar Tema 1095 STF e Temas STJ — PA-01) →
+`jurisprudencia-imobiliaria` (validar Tema 982 STF e Temas STJ — PA-01) →
 `analise-documental-imobiliaria` (matricula, intimacao, atos do cartorio) →
 `estilo-juridico-imobiliario` → `revisao-final-imobiliaria`.
 
@@ -87,7 +87,7 @@ Vicios que fundamentam **nulidade da consolidacao/leilao** (art. 27) e suspensao
 - [ ] Rito do art. 27 conferido: 1o e 2o leiloes, excedente, preferencia (PA-09).
 - [ ] Vicio concreto identificado para a tese de nulidade.
 - [ ] Tutela de urgencia para suspender o leilao (se defesa do fiduciante).
-- [ ] Tema 1095 STF validado, nao citado em abstrato (PA-01).
+- [ ] Tema 982 STF (RE 860.631) validado, nao citado em abstrato (PA-01).
 - [ ] Datas/valores/matricula conferidos (PA-03); norma vigente (PA-02, PA-04).
 - [ ] Foro da situacao do imovel.
 

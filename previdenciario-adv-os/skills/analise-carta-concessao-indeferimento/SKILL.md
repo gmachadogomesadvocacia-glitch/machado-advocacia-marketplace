@@ -82,7 +82,7 @@ FUNDAMENTO B — Qualidade de segurado perdida
 FUNDAMENTO C — Incapacidade nao reconhecida (alta medica)
   O que verificar:
   □ A pericia foi realizada ou o INSS indeferiu sem pericia?
-  □ Ha laudo proprio divergente? → TNU Sumula 25 — impugnar com laudo
+  □ Ha laudo proprio divergente? → o laudo administrativo do INSS nao vincula o juizo (entendimento — validar) — impugnar com laudo
   □ A DII (data de inicio da incapacidade) e anterior a DER?
   □ Acionar pericia-medica-prev para impugnacao
 

@@ -42,7 +42,7 @@ NAO cabe MS quando:
 ### 1.1 Alta Indevida em B91/B94 (mais comum)
 ```
 Situacao: INSS deu alta medica mas segurado segue incapacitado
-Fundamento: art. 59 Lei 8.213 + laudo medico proprio + TNU Sumula 25
+Fundamento: art. 59 Lei 8.213 + laudo medico proprio + o laudo administrativo do INSS nao vincula o juizo (entendimento — validar)
 Autoridade coatora: Chefe da APS ou Perito Medico Federal (quem assinou a alta)
 Direito liquido e certo: demonstrado pelo laudo medico e historico de incapacidade
 Pedido liminar: reativar o beneficio ate julgamento definitivo

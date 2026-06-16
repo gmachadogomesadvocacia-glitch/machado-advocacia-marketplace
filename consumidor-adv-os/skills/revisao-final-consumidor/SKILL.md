@@ -35,7 +35,7 @@ Auditar — nao reescrever do zero. Aponta falhas exatas, classifica e devolve. 
 
 - CDC e lei especial **vigentes a epoca do fato gerador**?
 - Jurisprudencia **classificada e validada** (PA-01)? Sem citacao alucinada (PA-02).
-- Sumulas-chave conferidas conforme o caso: **385** (negativacao), **530/382** (taxa media), **539/541** (capitalizacao), **543** (distrato), **Tema 929** (dobro art. 42).
+- Sumulas-chave conferidas conforme o caso: **385** (negativacao), **382** (>12% nao e per se abusivo) + **530** (taxa media BACEN na impossibilidade de provar a contratada), **539/541** (capitalizacao), **543** (distrato), **Tema 929** (dobro art. 42).
 - Relacao de consumo verificada (destinatario final + vulnerabilidade — PA-04)?
 - Prazos: decadencia (art. 26), prescricao (art. 27), arrependimento (art. 49), recurso JEC (10 dias)?
 - Competencia/rito corretos (foro do consumidor art. 101; JEC x comum — PA-19)?

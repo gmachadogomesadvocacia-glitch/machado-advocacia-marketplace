@@ -5,7 +5,7 @@ description: >
   (lapsos do art. 112 LEP com a redacao da Lei 13.964/2019 — fracoes por tipo de crime/condicao do reu;
   requisito objetivo + bom comportamento), regressao de regime, livramento condicional (CP 83), remicao
   (LEP 126 — trabalho, estudo e leitura), saidas temporarias e trabalho externo, falta grave (LEP 50 —
-  consequencias e perda de ate 1/3 da remicao, Sum. 535 STJ), detracao (CP 42), unificacao/soma de penas,
+  consequencias e perda de ate 1/3 da remicao, LEP art. 127), detracao (CP 42), unificacao/soma de penas,
   indulto e comutacao. Define a competencia do juizo da execucao e a estrutura dos pedidos e do agravo em
   execucao (LEP 197). Polo: defesa (sentenciado). Ative em progressao, regressao, livramento condicional,
   remicao, falta grave, detracao, saida temporaria, indulto, agravo em execucao, LEP.
@@ -50,7 +50,7 @@ Requisito **objetivo** (lapso por fracao) **+** subjetivo (**bom comportamento c
 ## 4. REMICAO (LEP 126)
 
 - **Trabalho**: 1 dia de pena a cada 3 dias trabalhados. **Estudo**: 1 dia a cada 12 horas (3 dias). **Leitura**: parametros do CNJ/jurisprudencia (validar). Cumulaveis trabalho + estudo.
-- **Falta grave**: o juiz **pode** revogar ate **1/3** do tempo remido (LEP 127; **Sum. 535 STJ** — validar), recomecando a contagem.
+- **Falta grave**: o juiz **pode** revogar ate **1/3** do tempo remido (**LEP art. 127**, pos-Lei 12.433/2011), recomecando a contagem.
 
 ## 5. SAIDAS TEMPORARIAS E TRABALHO EXTERNO
 

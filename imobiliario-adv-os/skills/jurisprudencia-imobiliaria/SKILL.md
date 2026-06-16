@@ -5,7 +5,7 @@ description: >
   repetitivos e precedentes antes de qualquer citacao, na hierarquia STF > STJ > TJ. Lista as sumulas
   do STJ consagradas em Direito Imobiliario e Locacao (Sum. 543 restituicao no distrato, Sum. 239
   adjudicacao compulsoria, Sum. 308 hipoteca do agente financeiro, Sum. 84 embargos de terceiro por
-  compromisso sem registro, Sum. 380, Sum. 619 usucapiao em condominio, Sum. 214 fiador e aditamento,
+  compromisso sem registro, Sum. 380 mora na revisional, Sum. 619 detencao de bem publico, Sum. 214 fiador e aditamento,
   Sum. 487/637, Sum. 335 benfeitorias e renuncia em locacao). Regra absoluta: nunca citar sem validar.
   Ative ao buscar sumula, Tema, precedente ou fundamento jurisprudencial imobiliario.
 metadata:
@@ -38,8 +38,8 @@ metadata:
 | **239** | Adjudicacao compulsoria **independe de registro** do compromisso | outorga de escritura |
 | **308** | Hipoteca do agente financeiro firmada com a construtora **nao e oponivel** ao adquirente | defesa do comprador |
 | **84** | Admite **embargos de terceiro** fundados em compromisso de compra e venda **sem registro** | posse do adquirente |
-| **380** | Acordo de meacao... (validar teor exato antes de usar) | conferir aplicacao |
-| **619** | A ocupacao de area comum por condomino admite **usucapiao** se houver consentimento (validar teor) | condominio |
+| **380** | A simples propositura da **acao de revisao de contrato** nao inibe a caracterizacao da **mora** do autor | mora/revisional |
+| **619** | A **ocupacao indevida de bem publico** configura **mera detencao**, precaria, insuscetivel de retencao ou indenizacao por acessoes/benfeitorias | bem publico |
 | **214** | **Fiador** nao responde por obrigacoes resultantes de **aditamento** a que nao anuiu | garantia/fianca |
 | **487 / 637** | Vedacao a discutir dominio em sede possessoria / *exceptio* (validar correspondencia) | PA-05, possessoria |
 | **335** | E valida a clausula de **renuncia a indenizacao das benfeitorias** e ao direito de retencao em locacao | locacao |

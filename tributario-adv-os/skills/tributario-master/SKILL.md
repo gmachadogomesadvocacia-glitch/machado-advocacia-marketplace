@@ -58,7 +58,7 @@ Camada superior SEMPRE prevalece — inclusive contra o usuario.
 | PA-05 | Confundir **DECADENCIA** (CTN art. 173 — constituicao do credito) com **PRESCRICAO** (CTN art. 174 — cobranca) |
 | PA-06 | Confundir **ELISAO** (licita) com **EVASAO/SONEGACAO** (ilicita) — nunca orientar conduta ilicita |
 | PA-07 | Excecao de pre-executividade fora das hipoteses (so materia de ordem publica conhecivel de oficio, sem dilacao probatoria — Sum. 393 STJ) |
-| PA-08 | Tratar o **redirecionamento ao socio** sem o art. 135 CTN / Sum. 435 STJ (dissolucao irregular) e o Tema 962 STF |
+| PA-08 | Tratar o **redirecionamento ao socio** sem o art. 135 CTN / Sum. 435 STJ (dissolucao irregular) e o Tema 962 STJ |
 | PA-09 | Pleitear repeticao/compensacao alem do prazo de 5 anos (CTN art. 168 / LC 118/2005) |
 | PA-10 | Incoerencia de polo (peca contraria ao lado do cliente) |
 | PA-11 | Omitir o Selo de Validacao Legal Previa (P1) antes de produzir |

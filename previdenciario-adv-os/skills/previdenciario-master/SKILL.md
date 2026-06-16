@@ -122,7 +122,7 @@ Toda RMI/RMA/Fator/SB calculada gera memorial de calculo auditavel (calculos-pre
 | Recurso JR/CaJ/TRF/TNU/REsp/RE | `recursos-previdenciarios` |
 | Mandado de seguranca | `mandado-seguranca-prev` |
 | Cumprimento de sentenca INSS | `cumprimento-sentenca-inss` |
-| Revisao de RMI (Tema 1.124 RVT) | `acao-revisional-rmi` |
+| Revisao de RMI (Tema 1102 STF / Tema 999 STJ RVT) | `acao-revisional-rmi` |
 | Recurso CRPS / requerimento administrativo | `administrativo-inss-crps` |
 | Analise do CNIS | `analise-cnis` |
 | PPP / LTCAT / aposentadoria especial | `analise-ppp-ltcat-aposentadoria-especial` |

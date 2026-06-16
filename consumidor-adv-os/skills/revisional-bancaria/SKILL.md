@@ -7,7 +7,7 @@ description: >
   descaracterizada. Integra-se a calculos-consumidor para a memoria de calculo. Acione quando o cliente
   e o consumidor e o caso envolve financiamento, emprestimo, cedula de credito, cartao, consignado,
   juros abusivos, capitalizacao ou tarifas. Exige Selo P1 e dado-base do contrato. Atencao reforcada as
-  Sumulas 530/382 (taxa media) e 539/541 (capitalizacao).
+  Sumulas 382 (taxa >12% nao e per se abusiva) e 530 (taxa media BACEN na impossibilidade de provar a contratada), e 539/541 (capitalizacao).
 metadata:
   version: "0.1.0"
   area: "Direito do Consumidor e Bancario"
@@ -30,7 +30,7 @@ metadata:
 
 | Tese | Base | Limite/armadilha |
 |------|------|------------------|
-| Juros remuneratorios abusivos | art. 6/51 CDC | NAO basta superar 12% a.a. (Sum. 382/596 STF). So abusivo se **acima da taxa media de mercado** do BACEN para a especie (Sum. 530 STJ). Comprovar discrepancia. |
+| Juros remuneratorios abusivos | art. 6/51 CDC | NAO basta superar 12% a.a. (Sum. 382 STJ/596 STF). So abusivo se **acima da taxa media de mercado** do BACEN para a especie — comprovar discrepancia. **Sum. 530 STJ**: na **impossibilidade de comprovar a taxa efetivamente contratada**, aplica-se a taxa media de mercado divulgada pelo BACEN. |
 | Capitalizacao (anatocismo) | art. 51 CDC | Permitida se **expressamente pactuada** (MP 2.170-36; Sum. 539/541 STJ). Sem pactuacao expressa → expurgar. |
 | Comissao de permanencia | Sum. 30/294/472 STJ | Licita isolada ate a taxa do contrato, mas **nao cumulavel** com juros remuneratorios, moratorios, multa ou correcao. |
 | Tarifas (TAC/TEC, cadastro, avaliacao) | Tema 618 STJ | TAC/TEC vedadas apos 30/04/2008; tarifa de cadastro so no inicio do relacionamento; analisar caso a caso. |
@@ -53,7 +53,7 @@ Acionar `calculos-consumidor` para: recompor o saldo pela taxa media, expurgar c
 
 ## 4. CHECKLIST
 
-- [ ] Taxa pactuada x taxa media BACEN comprovada (Sum. 530)
+- [ ] Taxa pactuada comprovada; se impossivel comprova-la, aplicar taxa media BACEN (Sum. 530)
 - [ ] Capitalizacao: ha pactuacao expressa? (Sum. 539/541)
 - [ ] Comissao de permanencia nao cumulada
 - [ ] Mora: descaracterizada? reflexo em negativacao/busca e apreensao

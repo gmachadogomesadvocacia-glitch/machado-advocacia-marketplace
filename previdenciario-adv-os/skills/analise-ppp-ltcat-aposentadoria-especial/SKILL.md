@@ -5,14 +5,15 @@ description: >
   Profissiografico Previdenciario (PPP) e Laudo Tecnico das Condicoes Ambientais do
   Trabalho (LTCAT) para aposentadoria especial. Verifica agente nocivo, nivel de
   exposicao, EPI eficaz (Tema 555 STF), periodo de atividade especial, conversao de
-  tempo especial em comum (TNU Sumula 57). Cobre os tres periodos de ruido (TNU Sumula 47)
-  e todos os agentes quimicos e biologicos do Decreto 3.048/99. Acionar quando o caso
+  tempo especial em comum (entendimento consolidado — validar). Cobre os tres periodos de
+  ruido (Anexo do Decreto 4.882/2003 — validar) e todos os agentes quimicos e biologicos
+  do Decreto 3.048/99. Acionar quando o caso
   envolver aposentadoria especial (B46), contestacao de PPP pelo INSS, ou necessidade de
   reconhecimento de atividade especial para conversao.
 ---
 
 # ANALISE PPP / LTCAT / APOSENTADORIA ESPECIAL
-> Tier 2 — Analise | Especial 15/20/25 anos | Tema 555 STF | TNU Sumulas 47/57/63/83
+> Tier 2 — Analise | Especial 15/20/25 anos | Tema 555 STF | Decreto 4.882/2003 (ruido) (validar)
 
 ---
 
@@ -41,14 +42,14 @@ description: >
    → LTCAT retroativo e aceitavel se contemporaneo aos fatos ou laudo cientifico adequado
 □ Medicoes realizadas com metodologia aprovada (NHO-01 FUNDACENTRO para ruido, etc.)?
 □ LTCAT identifica o mesmo agente que o PPP?
-□ TNU Sumula 83: se empresa encerrada ou LTCAT inexistente, outros documentos suprem?
+□ Se empresa encerrada ou LTCAT inexistente, outros documentos suprem? (entendimento — validar)
 ```
 
 ---
 
 ## 3. AGENTES NOCIVOS E PERIODOS RELEVANTES
 
-### 3.1 RUIDO — TNU Sumula 47 (PA-05 + Tema 555 STF)
+### 3.1 RUIDO — Anexo do Decreto 4.882/2003 (validar) (PA-05 + Tema 555 STF)
 
 ```
 Periodos e limites:
@@ -76,11 +77,12 @@ da lista na epoca do labor para cada periodo.
 
 ---
 
-## 4. CONVERSAO DE TEMPO ESPECIAL EM COMUM — TNU Sumula 57
+## 4. CONVERSAO DE TEMPO ESPECIAL EM COMUM (entendimento consolidado — validar)
 
 ```
-TNU Sumula 57: nao ha limite de conversao de tempo especial em tempo comum para fins
-de aposentadoria por tempo de contribuicao.
+Conversao de tempo especial em comum (entendimento consolidado — validar): nao ha limite
+de conversao de tempo especial em tempo comum para fins de aposentadoria por tempo de
+contribuicao.
 
 Fatores de conversao (Decreto 3.048/99, Anexo V):
 De 15 anos de especial → multiplicar por 2,33 (homem) / 2,00 (mulher)
@@ -110,7 +112,7 @@ Quando usar: segurado nao tem 25/20/15 anos completos de especial, mas tem anos 
 **Periodo reconhecido como especial:** [inicio] a [fim] = X anos Y meses
 **Periodo convertido em comum (se aplicavel):** X anos Y meses × [fator] = X anos Y meses
 
-**Tese:** [Tema 555 + TNU 47/57/83 conforme o caso]
+**Tese:** [Tema 555 STF + ruido (Decreto 4.882/2003) + conversao especial→comum (entendimento — validar) conforme o caso]
 **Alertas PA-05:** [EPI eficaz para ruido nao afasta o especial — fundamento completo]
 **Recomendacao:** [concessao direta B46 / conversao + B41 / recurso contra indeferimento]
 ```

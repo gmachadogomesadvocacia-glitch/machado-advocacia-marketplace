@@ -38,7 +38,7 @@ metadata:
 
 - [ ] Peca coerente com o polo do cliente (contribuinte/Fazenda).
 - [ ] Via processual correta — excecao de pre-executividade so para materia de ordem publica sem dilacao (Sum. 393); senao, embargos com garantia.
-- [ ] Redirecionamento ao socio tratado com art. 135 CTN / Sum. 435 / Tema 962, nao por mero inadimplemento (Sum. 430).
+- [ ] Redirecionamento ao socio tratado com art. 135 CTN / Sum. 435 / Tema 962 STJ, nao por mero inadimplemento (Sum. 430).
 - [ ] Nenhuma orientacao que configure evasao/sonegacao (PA-06) — so elisao licita.
 - [ ] Estrategia administrativo x judicial coerente (suspensao da exigibilidade — CTN 151).
 

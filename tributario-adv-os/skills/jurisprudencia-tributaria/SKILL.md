@@ -49,7 +49,7 @@ Sem cumprir os 5 passos, a citacao nao entra na peca.
 - **Sum. 314** — em execucao fiscal nao localizados bens, suspende-se o processo por um ano, findo o qual inicia-se o prazo da prescricao intercorrente.
 - **Sum. 555** — quando nao houver declaracao do debito, o prazo decadencial conta-se pelo art. 173, I, do CTN.
 
-> Mesmo consagradas, **reler o enunciado** antes de aplicar. Sumulas de isencao (ex.: 598, 627 STJ) e Temas (566 STJ — prescricao intercorrente; 962 STF / 981 STJ — redirecionamento) so se houver certeza; senao, "validar".
+> Mesmo consagradas, **reler o enunciado** antes de aplicar. Sumulas de isencao (ex.: 598, 627 STJ) e Temas (566 STJ — prescricao intercorrente; 962 STJ / 981 STJ — redirecionamento) so se houver certeza; senao, "validar".
 
 ## 4. CARF
 

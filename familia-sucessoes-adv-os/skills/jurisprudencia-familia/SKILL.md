@@ -27,9 +27,10 @@ Se não houver certeza: marcar como `[VERIFICAR — confirmar no site do STJ ant
 ## 1. ALIMENTOS — JURISPRUDÊNCIA CENTRAL
 
 **Fixação e Binômio**:
-- STJ, Súm. 277: "Julgada a ação de alimentos, fica sem efeito o agravo de instrumento
-  anteriormente deferido." [verificar aplicação atual]
-- STJ, Tema 692 (REsp 1.058.689): Concorrência sucessória cônjuge/companheiro
+- STJ, Súm. 277: "Julgada procedente a investigação de paternidade, os alimentos são
+  devidos a partir da citação."
+- Concorrência sucessória cônjuge/companheiro com descendentes — art. 1.829 CC + Tema 809
+  STF (RE 878.694) [validar]
 - Regra do binômio: necessidade-possibilidade — art. 1.694 CC; inúmeros precedentes da 3ª Turma
 
 **Revisão e Exoneração**:
@@ -132,8 +133,8 @@ Se não houver certeza: marcar como `[VERIFICAR — confirmar no site do STJ ant
 
 | Tema | Matéria | Status |
 |------|---------|--------|
-| 692 | Concorrência sucessória cônjuge e herdeiros | Julgado |
 | 809 (STF) | Equiparação cônjuge/companheiro na sucessão | RE 878.694 julgado |
+| Concorrência sucessória cônjuge/companheiro × descendentes | art. 1.829 CC | [validar] |
 | [VERIFICAR outros temas atuais] | | |
 
 ---

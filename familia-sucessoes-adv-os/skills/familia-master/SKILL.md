@@ -176,7 +176,7 @@ Se não existir → acione **triagem-familia** para criá-lo.
 | L11.340/2006 (Maria da Penha) | Violência doméstica |
 | Res. 35/2007 e 571/2023 CNJ | Inventário/divórcio/acordo extrajudiciais |
 | Súm. 377 STF | Bens na constância de separação obrigatória |
-| Tema 692 STJ | Concorrência cônjuge/companheiro com descendentes |
+| art. 1.829 CC + Tema 809 STF | Concorrência cônjuge/companheiro com descendentes [validar] |
 
 ---
 

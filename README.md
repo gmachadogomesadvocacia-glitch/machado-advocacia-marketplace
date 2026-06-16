@@ -13,7 +13,7 @@ Marketplace dos plugins jurídicos do escritório **Machado Advocacia**, no padr
 ## Instalação (Claude Code / Cowork / Chat)
 
 ```
-/plugin marketplace add gmachadogomes/machado-advocacia-marketplace
+/plugin marketplace add gmachadogomesadvocacia-glitch/machado-advocacia-marketplace
 /plugin install consumidor-adv-os@machado-advocacia-marketplace
 ```
 

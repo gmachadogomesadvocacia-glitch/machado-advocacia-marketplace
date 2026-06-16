@@ -2,7 +2,9 @@
 
 > Ficha do caso consumerista. Fonte unica das variaveis de **polo**, **eixo**,
 > **esfera** e **rito** — todas as skills leem estes campos daqui. Vive em
-> `<COWORK>/consumidor/casos/{{CASO_SLUG}}/CASO.md`. Compartimentado por cliente
+> `<CASE_ROOT>/{{CASO_SLUG}}/CASO.md` — pasta unificada e COMPARTILHADA entre os
+> plugins Adv-OS, com a estrutura `<CASE_ROOT>/{{CASO_SLUG}}/` { CASO.md, MEMORY.md,
+> arquivos/, pecas/ } (pecas em `{{CASO_SLUG}}/pecas/`). Compartimentado por cliente
 > (sigilo OAB + LGPD — PA-21).
 
 ---

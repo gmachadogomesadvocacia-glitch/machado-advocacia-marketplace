@@ -21,6 +21,18 @@ Nunca mistura dados entre casos diferentes (PA-22 + LGPD).
 
 Produz: CASO.md criado / atualizado + alertas de prazo + histórico de decisões.
 
+### Onde mora o caso — pasta unificada
+
+Cada caso vive em `<CASE_ROOT>/<slug>/`, com `CASO.md`, `MEMORY.md`, `arquivos/` e
+`pecas/` (peças produzidas em `<slug>/pecas/`). Pasta COMPARTILHADA entre plugins do
+mesmo cliente (ex.: RJ + trabalhista do mesmo credor) — um só caso por cliente.
+
+`CASE_ROOT` vem do `config.md`:
+- **Claude Code:** `<acervo>/Casos-Ativos` (acervo do escritório).
+- **Fallback (Cowork):** `<COWORK>/recuperacao-judicial/casos`.
+
+O estado interno do plugin (`recuperacao-judicial/cowork-state.json`) NÃO muda.
+
 ---
 
 ## 1. ESTRUTURA CANÔNICA DO CASO.md

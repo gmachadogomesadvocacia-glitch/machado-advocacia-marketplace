@@ -21,6 +21,18 @@
 
 ---
 
+## Acervo e casos
+
+- **Raiz dos casos:** {{CASE_ROOT}}
+  <!-- Code: <acervo>/Casos-Ativos (acervo informado pelo operador no /start-transito).
+       Fallback (Cowork): <COWORK>/transito/casos. -->
+
+> Cada caso vive em `{{CASE_ROOT}}/<slug>/` com estrutura unificada (CASO.md, MEMORY.md, arquivos/,
+> pecas/). Pasta COMPARTILHADA entre plugins do mesmo cliente. O estado interno
+> (`cowork-state.json`) NAO usa esta raiz — segue em `<COWORK>/transito/`.
+
+---
+
 ## Polo e Frentes de Atuacao
 
 - **Polo do cliente:** {{POLO_CLIENTE}}

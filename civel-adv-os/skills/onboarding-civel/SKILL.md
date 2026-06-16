@@ -58,7 +58,8 @@ Pergunte quais frentes o escritorio opera (default: todas):
 ## 4. ESTADO DE CASO
 
 Inicializa a convencao de memoria (`memoria-de-caso-civel`, P3):
-- Casos vivos em `<cwd>/civel/casos/<slug>/` com `CASO.md`, `MEMORY.md`, `arquivos/`, `pecas/`.
+- **Perguntar se ha acervo** do escritorio. Definir **CASE_ROOT**: no Code, `<acervo>/Casos-Ativos`; sem acervo (Cowork/Chat), FALLBACK `<COWORK>/civel/casos`. Criar a pasta `<CASE_ROOT>/` e gravar `{{CASE_ROOT}}` no `config.md`.
+- Pasta de caso **unificada e COMPARTILHADA** entre os plugins Adv-OS: `<CASE_ROOT>/<slug>/` com `CASO.md`, `MEMORY.md`, `arquivos/`, `pecas/` (peças em `<slug>/pecas/`). O estado interno (`<COWORK>/civel/`) nao muda.
 - Pasta gitignored por default (sigilo + LGPD — PA-12).
 - Alertar se `<cwd>` for pasta sincronizada (OneDrive/iCloud/Google Drive): dados de cliente nao devem vazar.
 

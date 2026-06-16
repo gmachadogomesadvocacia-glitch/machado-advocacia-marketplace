@@ -70,6 +70,7 @@ VICIOS DETECTADOS → analise-vicios-auto-infracao
 - `calculos-transito` → prazos das notificacoes e pontuacao.
 - `memoria-de-caso-transito` → numerar documentos "doc. N".
 - Sigilo OAB + LGPD em todo manuseio (PA-12).
+- PDFs de processo: no Code, converter com `ferramentas/pdf-para-md/` antes de analisar (economia de tokens).
 
 ## 6. CHECKLIST DE SAIDA
 

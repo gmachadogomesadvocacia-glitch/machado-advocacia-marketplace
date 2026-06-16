@@ -52,5 +52,8 @@ Toda sumula/tema/precedente entra como `[VERIFICAR]` e e validado por `jurisprud
 - [ ] Antecipacao: detencao · animus domini · interrupcao · bem publico · metragem
 - [ ] Coerencia de polo (PA-10) · jurisprudencia `[VERIFICAR]` (PA-01)
 
-## 8. ENCERRAMENTO
+## 8. ENTREGA
+Gatilho "gera docx": converter .txt em .docx timbrado via `gerador-peticoes` — Code.
+
+## 9. ENCERRAMENTO
 Aplicado, devolve a peca redigida ao padrao da casa e a encaminha a `revisao-final-usucapiao` R1-R4 (PA-13).

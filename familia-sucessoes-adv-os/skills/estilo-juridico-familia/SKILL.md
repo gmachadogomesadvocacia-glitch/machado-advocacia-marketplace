@@ -22,6 +22,8 @@ metadata:
 Define linguagem, estrutura e tom para todas as peças do pipeline de família e sucessões.
 Não produz peças — calibra e refina as peças produzidas pelas outras skills.
 
+> **Gatilho "gera docx":** converter .txt em .docx timbrado via `gerador-peticoes` — Code.
+
 ---
 
 ## 1. ESCALA DE TOM

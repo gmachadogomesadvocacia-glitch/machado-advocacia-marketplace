@@ -118,14 +118,33 @@ Elementos essenciais do contrato de honorários (art. 48 EOAB):
 
 ---
 
-## 5. CRIAÇÃO DO CASO.md
+## 5. RAIZ DOS CASOS (CASE_ROOT) E PASTA UNIFICADA
 
-Após o onboarding, criar o CASO.md (estrutura em familia-master, Seção 6)
-e acionar **triagem-familia** para completar o enquadramento jurídico.
+Antes de abrir o caso, definir onde os casos serão salvos:
+
+```
+□ Perguntar: o escritório tem acervo configurado (pasta-mãe do escritório)?
+   SIM → CASE_ROOT = <acervo>/Casos-Ativos   (Claude Code)
+   NÃO → CASE_ROOT = <COWORK>/familia/casos   (FALLBACK)
+□ Criar a raiz `<CASE_ROOT>/` (gitignored — sigilo + LGPD).
+□ Gravar {{CASE_ROOT}} no state e renderizar na seção "Acervo e casos" do config.md.
+```
+
+A pasta de caso é **compartilhada entre os plugins Adv-OS**. Cada caso vive em
+`<CASE_ROOT>/<slug>/` com `CASO.md`, `MEMORY.md`, `arquivos/` e `pecas/` (peças produzidas
+em `<CASE_ROOT>/<slug>/pecas/`). O estado interno do plugin (`cowork-state.json`) **não**
+muda de lugar — continua em `<COWORK>/familia/` (STATE_DIR `familia`).
 
 ---
 
-## 6. COMUNICAÇÃO COM O CLIENTE
+## 6. CRIAÇÃO DO CASO.md
+
+Após o onboarding, criar a pasta `<CASE_ROOT>/<slug>/` e o `CASO.md` (estrutura em
+familia-master, Seção 6) e acionar **triagem-familia** para completar o enquadramento jurídico.
+
+---
+
+## 7. COMUNICAÇÃO COM O CLIENTE
 
 Padrão de comunicação do escritório:
 - Canal preferencial: WhatsApp ou e-mail
@@ -135,7 +154,7 @@ Padrão de comunicação do escritório:
 
 ---
 
-## 7. LGPD — SIGILO E PROTEÇÃO DE DADOS
+## 8. LGPD — SIGILO E PROTEÇÃO DE DADOS
 
 **PA-19**: Os dados do cliente são protegidos pela LGPD (L13.709/2018) e pelo dever
 de sigilo profissional (art. 26 EOAB).

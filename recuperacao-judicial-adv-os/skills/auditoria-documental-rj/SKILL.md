@@ -21,6 +21,8 @@ e riscos. Produz: Relatório de Auditoria Documental (RAD) + lista de pendência
 
 Não redige peças processuais. Alimenta: plano-recuperacao-rj, habilitacao-credito-rj, contestacao-rj.
 
+> PDFs de processo: no Code, converter com `ferramentas/pdf-para-md/` antes de analisar.
+
 ---
 
 ## 1. POSIÇÃO NA ORQUESTRA

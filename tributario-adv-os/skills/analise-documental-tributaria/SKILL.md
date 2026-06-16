@@ -67,3 +67,4 @@ Marcar expressamente o que falta (CDA sem processo administrativo anexo, ausenci
 - Saida alimenta `calculos-tributarios` (datas e valores) e o arsenal de teses.
 - Documentos numerados "doc. N" e citados por numero (ver `estilo-juridico-tributario`).
 - PA-12: dados fiscais sob sigilo (CTN 198 + LGPD) — guardar em `arquivos/`, nao versionar.
+- PDFs de processo: no Code, converter com `ferramentas/pdf-para-md/` antes de analisar (economia de tokens).

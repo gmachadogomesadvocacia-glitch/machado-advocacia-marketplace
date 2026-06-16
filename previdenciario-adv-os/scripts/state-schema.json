@@ -394,10 +394,16 @@
         "legislacao_watch": {
           "type": "object",
           "properties": {
-            "enabled": { "type": "boolean", "default": false },
+            "enabled": { "type": "boolean", "default": true },
             "topics": {
               "type": "array",
               "items": { "type": "string" },
+              "default": [
+                "EC 103/2019 (regras de transicao)",
+                "Revisao da Vida Toda - Tema 1102 STF (modulacao/ADIs)",
+                "repetitivos STF/STJ/TNU previdenciarios",
+                "reajuste e teto"
+              ],
               "description": "Ex: 'EC 103', 'Lei 8.213', 'revisao da vida toda Tema 1102', 'STF previdenciario', 'TNU'"
             },
             "cron": { "type": "string" }

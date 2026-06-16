@@ -18,6 +18,17 @@
 
 ---
 
+## Acervo e casos
+
+- **Raiz dos casos:** {{CASE_ROOT}}
+  <!-- CASE_ROOT configuravel. No Code, o acervo do escritorio e a fonte da verdade:
+       <acervo>/Casos-Ativos. FALLBACK (Cowork/sem acervo): <COWORK>/previdenciario/casos.
+       Cada caso = <CASE_ROOT>/<slug>/ com CASO.md, MEMORY.md, arquivos/, pecas/ — pasta
+       unificada COMPARTILHADA entre os plugins Adv-OS (um caso, varios ramos). Pecas em
+       <slug>/pecas/. O estado interno do plugin (cowork-state.json) nao muda. -->
+
+---
+
 ## Frentes e Sujeitos de Atuacao
 
 - **Frentes:** {{FRENTES}}

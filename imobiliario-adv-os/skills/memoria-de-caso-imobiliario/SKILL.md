@@ -20,6 +20,23 @@ metadata:
 
 ---
 
+## 0. PASTA UNIFICADA DO CASO
+
+Cada caso vive em **`<CASE_ROOT>/<slug>/`** — pasta **UNIFICADA e compartilhada** entre os plugins Adv-OS do mesmo cliente. Estrutura:
+
+```
+<CASE_ROOT>/<slug>/
+├── CASO.md        # estado vivo (esta skill)
+├── MEMORY.md      # decisoes e historico
+├── arquivos/      # documentos recebidos (matricula, contrato, certidoes)
+└── pecas/         # produzidos — toda peca vai em <slug>/pecas/
+```
+
+- **CASE_ROOT** = `{{CASE_ROOT}}` (lido do config). No **Code** com acervo configurado: `<acervo>/Casos-Ativos`. **Fallback** (Cowork ou sem acervo): `<COWORK>/imobiliario/casos`.
+- O estado interno do plugin (`cowork-state.json`) NAO muda — fica em `<COWORK>/imobiliario/`.
+
+---
+
 ## 1. ESTRUTURA DO CASO.md
 
 ```
@@ -78,14 +95,14 @@ metadata:
 ## 3. NOMENCLATURA E ENTREGA
 
 - Arquivos: **`AAAA-MM-DD - Cliente - tipo da peca.ext`**.
-- Entrega padrao em **.txt** (nao gerar .docx/.pdf salvo pedido).
+- Entrega padrao em **.txt** (nao gerar .docx/.pdf salvo pedido); pecas gravadas em `<slug>/pecas/`.
 - Pasta do caso gitignored; alertar se o workspace for pasta sincronizada (OneDrive/Drive/iCloud).
 
 ## 4. OPERACOES
 
 | Acao | Efeito |
 |------|--------|
-| Abrir caso | criar pasta + CASO.md a partir da estrutura |
+| Abrir caso | criar `<CASE_ROOT>/<slug>/` (CASO.md + MEMORY.md + arquivos/ + pecas/) |
 | Retomar | ler o CASO.md e situar a fase |
 | Listar | enumerar casos existentes |
 | Atualizar | apos cada entrega: nova peca, novo doc, novo prazo, decisao |

@@ -395,10 +395,16 @@
         "legislacao_watch": {
           "type": "object",
           "properties": {
-            "enabled": { "type": "boolean", "default": false },
+            "enabled": { "type": "boolean", "default": true },
             "topics": {
               "type": "array",
               "items": { "type": "string" },
+              "default": [
+                "Lei 14.181/2021 (superendividamento)",
+                "repetitivos STJ de consumo",
+                "CDC e relacoes digitais",
+                "cadastros e negativacao"
+              ],
               "description": "Ex: 'CDC', 'Superendividamento', 'STJ consumidor'"
             },
             "cron": { "type": "string" }

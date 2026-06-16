@@ -390,10 +390,16 @@
         "legislacao_watch": {
           "type": "object",
           "properties": {
-            "enabled": { "type": "boolean", "default": false },
+            "enabled": { "type": "boolean", "default": true },
             "topics": {
               "type": "array",
               "items": { "type": "string" },
+              "default": [
+                "Lei 14.905/2024 (juros e correcao - SELIC/IPCA)",
+                "repetitivos STJ civeis",
+                "alteracoes do Codigo Civil",
+                "prescricao"
+              ],
               "description": "Ex: 'Codigo Civil', 'Codigo de Processo Civil', 'responsabilidade civil', 'prescricao/decadencia', 'DPVAT', 'alienacao fiduciaria DL 911', 'STF civel', 'STJ civel', 'sumulas STJ', 'temas repetitivos'"
             },
             "cron": { "type": "string" }

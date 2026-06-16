@@ -63,4 +63,4 @@ Modular pela persona: **{{TOM_VOZ_PERFIL}}** a **{{TOM_VOZ_INTENSIDADE}}/10**. F
 
 ## 6. SAIDA
 
-Peca pronta na estrutura padrao, docs citados por numero, sem rol, com antecipacao adversarial e pedidos coerentes ao polo. Entregar em **.txt**. Encaminhar a `revisao-final-imobiliaria` (R1-R4) antes da entrega (PA-13).
+Peca pronta na estrutura padrao, docs citados por numero, sem rol, com antecipacao adversarial e pedidos coerentes ao polo. Entregar em **.txt**. **Gatilho "gera docx": converter a peca .txt em .docx timbrado via `gerador-peticoes` — Code.** Encaminhar a `revisao-final-imobiliaria` (R1-R4) antes da entrega (PA-13).

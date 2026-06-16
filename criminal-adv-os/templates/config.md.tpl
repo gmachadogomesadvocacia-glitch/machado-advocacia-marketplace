@@ -38,6 +38,20 @@
 
 ---
 
+## Acervo e casos
+
+- **Raiz dos casos:** {{CASE_ROOT}}
+
+<!-- CASE_ROOT = pasta unificada de caso, COMPARTILHADA entre os plugins Adv-OS.
+     No Code: `<acervo>/Casos-Ativos`; senao (fallback): `<COWORK>/criminal/casos`.
+     Cada caso vive em `<CASE_ROOT>/<slug>/` com CASO.md, MEMORY.md, arquivos/ e pecas/
+     (peca produzida em `<slug>/pecas/`). O estado interno do plugin NAO muda:
+     continua em `<COWORK>/criminal/`. LGPD — dado penal sensivel (art. 11): a pasta
+     de casos e gitignored; se a raiz estiver em pasta sincronizada (OneDrive/iCloud/
+     Google Drive/Dropbox), alertar sobre sigilo reforcado. -->
+
+---
+
 ## Tom de voz
 
 - **Perfil:** {{TOM_VOZ_PERFIL}}

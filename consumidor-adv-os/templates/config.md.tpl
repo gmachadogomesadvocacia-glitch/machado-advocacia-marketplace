@@ -17,6 +17,17 @@
 
 ---
 
+## Acervo e casos
+
+- **Raiz dos casos:** {{CASE_ROOT}}
+
+<!-- CASE_ROOT = raiz unificada e COMPARTILHADA entre os plugins Adv-OS. No Claude Code,
+     usar o acervo do escritorio: `<acervo>/Casos-Ativos`. Fora do Code (fallback),
+     usar `<COWORK>/consumidor/casos`. Cada caso vive em `<CASE_ROOT>/<slug>/` com
+     CASO.md, MEMORY.md, arquivos/ e pecas/ (pecas em `<slug>/pecas/`). -->
+
+---
+
 ## Polos e Eixos de Atuacao
 
 - **Polos:** {{POLOS}}

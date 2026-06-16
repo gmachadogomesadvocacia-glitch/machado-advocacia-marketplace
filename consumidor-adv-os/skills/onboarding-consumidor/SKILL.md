@@ -36,6 +36,9 @@ Capturar a identidade do escritorio e gravar o estado, para que todas as skills 
 - Polos: consumidor | fornecedor | ambos
 - Eixos atendidos (multipla escolha): bancario, negativacao, telecom, servicos-essenciais, aereo, vicio-fato-produto, e-commerce, publicidade, clausula-abusiva, cobranca-indevida, superendividamento, consumo-imobiliario
 
+**Bloco 2b — Acervo e raiz dos casos (CASE_ROOT)**
+- Perguntar o acervo do escritorio e definir o `CASE_ROOT` — pasta unificada e COMPARTILHADA entre os plugins Adv-OS. No Claude Code, usar `<acervo>/Casos-Ativos`; fora do Code (fallback), `<COWORK>/consumidor/casos`. Cada caso = `<CASE_ROOT>/<slug>/` { CASO.md, MEMORY.md, arquivos/, pecas/ }.
+
 **Bloco 3 — Estilo e operacao**
 - Tom de voz: tecnico-objetivo | tecnico-didatico | tecnico-cordial | personalizado
 - Intensidade combativa (0-10; default 6)
@@ -50,8 +53,8 @@ Capturar a identidade do escritorio e gravar o estado, para que todas as skills 
 
 1. Rodar `python scripts/state.py init <cowork_path> --firm-name "<...>" --firm-slug "<slug>" --advogado "<...>"` e depois `state.py set` para cada campo coletado (identity, tom_voz, areas/eixos, preferences).
 2. Renderizar `templates/persona.md.tpl` → `<cowork>/consumidor/persona.md` resolvendo os tokens.
-3. Renderizar `templates/config.md.tpl` → `<cowork>/consumidor/config.md`.
-4. Criar a pasta `<cowork>/consumidor/casos/` (gitignored — sigilo OAB + LGPD).
+3. Renderizar `templates/config.md.tpl` → `<cowork>/consumidor/config.md`, gravando `{{CASE_ROOT}}` na secao `Acervo e casos`.
+4. Criar a pasta de casos em `{{CASE_ROOT}}` (no Code, `<acervo>/Casos-Ativos`; no fallback `<cowork>/consumidor/casos`, gitignored — sigilo OAB + LGPD).
 5. Renderizar `templates/settings-local.json.tpl` e fundir em `<cwd>/.claude/settings.local.json`, apontando `CONSUM_PERSONA` para o `persona.md` gerado.
 
 ## 3. AVISO DE SINCRONIZACAO (LGPD)

@@ -55,11 +55,20 @@ Pergunte um a um (ou aceite tudo de uma vez). Cada campo alimenta um token de pe
 3. Gravar `persona.md` na pasta de trabalho do operador (fora do plugin distribuido).
 4. Nunca versionar a persona junto ao plugin publico (sigilo — PA-12).
 
-## 4. ESTADO DE CASO
+## 4. PASTA UNIFICADA DE CASO (CASE_ROOT)
 
-Apos a persona, preparar o `CASO.md` do primeiro caso (delegar a `memoria-de-caso-imobiliario`, Protocolo P3). O CASO.md guarda partes, polo, imovel, contrato, prazos e documentos numerados. Pasta de caso gitignored.
+Pergunte se ha **acervo** do escritorio configurado e defina a raiz dos casos:
 
-## 5. SAIDA
+- **Code com acervo:** `CASE_ROOT = <acervo>/Casos-Ativos`.
+- **Fallback** (Cowork ou sem acervo): `CASE_ROOT = <COWORK>/imobiliario/casos`.
+
+Criar a pasta `CASE_ROOT` e gravar `{{CASE_ROOT}}` no `config.md`. Cada caso = `<CASE_ROOT>/<slug>/` (CASO.md, MEMORY.md, arquivos/, pecas/), **UNIFICADO e compartilhado** entre os plugins Adv-OS do mesmo cliente. O estado interno (`cowork-state.json`) NAO muda — fica em `<COWORK>/imobiliario/`.
+
+## 5. ESTADO DE CASO
+
+Apos a persona, preparar o `CASO.md` do primeiro caso em `<CASE_ROOT>/<slug>/` (delegar a `memoria-de-caso-imobiliario`, Protocolo P3). O CASO.md guarda partes, polo, imovel, contrato, prazos e documentos numerados; pecas em `<slug>/pecas/`. Pasta de caso gitignored.
+
+## 6. SAIDA
 
 ```
 PERSONA: {{ADVOGADO_NOME}} — OAB/{{OAB_UF}} {{OAB_NUMERO}} — {{FIRM_NAME}} ({{CIDADE}}/{{UF}})

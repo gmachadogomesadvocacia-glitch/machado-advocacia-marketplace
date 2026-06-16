@@ -51,14 +51,15 @@ Capturar a identidade do escritorio e gravar o estado (`isencao-ir/cowork-state.
 ## 2. GRAVACAO
 
 1. Rodar `python scripts/state.py init <cowork_path> --firm-name "<...>" --firm-slug "<slug>" --advogado "<...>"` e depois `state.py set` para cada campo coletado (`identity.*`, `tom_voz.*`, `areas`, `preferences.*`, `tools.*`).
-2. Renderizar `templates/persona.md.tpl` → `<cwd>/isencao-ir/persona.md` resolvendo os tokens `{{...}}`.
-3. Renderizar `templates/config.md.tpl` → `<cwd>/isencao-ir/config.md`.
-4. Criar a pasta `<cwd>/isencao-ir/casos/` (**gitignored** — sigilo OAB + LGPD).
-5. Fundir o template de settings em `<cwd>/.claude/settings.local.json`, apontando `ISIR_PERSONA` para o `persona.md` gerado.
+2. **Acervo e CASE_ROOT (pasta unificada de caso)** — perguntar se o escritorio tem acervo. No **Code**, `CASE_ROOT = <acervo>/Casos-Ativos`; senao (Cowork/sem acervo), **fallback** `CASE_ROOT = <COWORK>/isencao-ir/casos`. Gravar `{{CASE_ROOT}}` no state/config. E a pasta de caso **COMPARTILHADA** entre os plugins; o estado interno do plugin segue em `<cwd>/isencao-ir/`.
+3. Renderizar `templates/persona.md.tpl` → `<cwd>/isencao-ir/persona.md` resolvendo os tokens `{{...}}`.
+4. Renderizar `templates/config.md.tpl` → `<cwd>/isencao-ir/config.md` (resolvendo `{{CASE_ROOT}}`).
+5. Criar a pasta `<CASE_ROOT>/` (**gitignored** — sigilo OAB + LGPD art. 11).
+6. Fundir o template de settings em `<cwd>/.claude/settings.local.json`, apontando `ISIR_PERSONA` para o `persona.md` gerado.
 
 ## 3. AVISO DE SINCRONIZACAO (LGPD REFORCADO)
 
-**Dado de saude e dado SENSIVEL** (LGPD art. 11) — diagnostico, CID e laudo medico exigem cuidado redobrado. Se o workspace estiver em pasta sincronizada (OneDrive/iCloud/Google Drive/Dropbox), **alertar de forma agressiva**: laudo e CID nao devem ir para nuvem de terceiros sem ciencia e base legal (sigilo OAB + art. 11). Confirmar se o operador aceita ou prefere outro local para `casos/` (PA-10).
+**Dado de saude e dado SENSIVEL** (LGPD art. 11) — diagnostico, CID e laudo medico exigem cuidado redobrado. Se o workspace ou o `CASE_ROOT` estiver em pasta sincronizada (OneDrive/iCloud/Google Drive/Dropbox), **alertar de forma agressiva**: laudo e CID nao devem ir para nuvem de terceiros sem ciencia e base legal (sigilo OAB + art. 11). Confirmar se o operador aceita ou prefere outro local para `<CASE_ROOT>/` (PA-10).
 
 ## 4. ENCERRAMENTO
 

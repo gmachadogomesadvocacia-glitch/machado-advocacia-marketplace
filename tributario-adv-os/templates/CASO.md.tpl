@@ -2,8 +2,9 @@
 
 > Ficha do caso tributario. Fonte unica das variaveis de **polo**, **frente**,
 > **esfera** e **tributo/demanda** — todas as skills leem estes campos daqui. Vive em
-> `<COWORK>/tributario/casos/{{CASO_SLUG}}/CASO.md`. Compartimentado por cliente
-> (sigilo fiscal — art. 198 CTN + LGPD).
+> `<CASE_ROOT>/{{CASO_SLUG}}/CASO.md`, na pasta unificada do caso (CASO.md, MEMORY.md,
+> arquivos/, pecas/), compartilhada entre plugins do mesmo cliente. Compartimentado por
+> cliente (sigilo fiscal — art. 198 CTN + LGPD).
 
 ---
 

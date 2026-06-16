@@ -51,7 +51,7 @@ metadata:
 
 - Citar provas como **"conforme doc. N"**; numerar antes do protocolo.
 - Pedidos especificos e exequiveis; nada generico.
-- Entrega em **`.txt`** por default; nomenclatura `AAAA-MM-DD - Cliente - tipo.ext`.
+- Entrega em **`.txt`** por default; nomenclatura `AAAA-MM-DD - Cliente - tipo.ext`. Gatilho 'gera docx': converter .txt em .docx timbrado via `gerador-peticoes` — Code.
 - Sem rol exaustivo desnecessario; peca enxuta e objetiva.
 
 ## 5. PROIBICOES E INTEGRACAO

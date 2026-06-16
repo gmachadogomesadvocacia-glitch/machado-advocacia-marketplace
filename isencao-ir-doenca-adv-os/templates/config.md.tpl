@@ -18,6 +18,19 @@
 
 ---
 
+## Acervo e casos
+
+- **Raiz dos casos:** {{CASE_ROOT}}
+
+<!-- CASE_ROOT = pasta UNIFICADA de caso, COMPARTILHADA entre os plugins do escritorio.
+     No Code: `<acervo>/Casos-Ativos`. FALLBACK (Cowork/sem acervo): `<COWORK>/isencao-ir/casos`.
+     Cada caso = `<CASE_ROOT>/<slug>/` com CASO.md, MEMORY.md, arquivos/, pecas/ (pecas em <slug>/pecas/).
+     O estado interno do plugin NAO muda — segue em `<COWORK>/isencao-ir/`.
+     LGPD REFORCADA: dado de saude e SENSIVEL (art. 11) — manter `<CASE_ROOT>` gitignored e ALERTAR
+     se estiver em pasta sincronizada (OneDrive/iCloud/Google Drive/Dropbox). -->
+
+---
+
 ## Frentes e Eixos de Atuacao
 
 - **Frentes:** {{POLOS}}

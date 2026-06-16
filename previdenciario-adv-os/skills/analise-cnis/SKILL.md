@@ -17,6 +17,8 @@ description: >
 
 ## 1. LEITURA ESTRUTURADA DO CNIS
 
+> PDFs/documentos do INSS: no Code, converter com `ferramentas/pdf-para-md/` antes de analisar.
+
 ### 1.1 Tipos de Registro no CNIS
 
 ```

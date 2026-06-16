@@ -51,4 +51,4 @@ Releia como a parte adversa e como o juiz cetico: a tese resiste a Sumula 385? a
 
 ## 7. ENCERRAMENTO
 
-Toda peca sai com FIRAC, estrutura completa, docs numerados, dano moral quantificado, antecipacao adversarial e tom coerente com o polo — pronta para a `revisao-final-consumidor`.
+Toda peca sai com FIRAC, estrutura completa, docs numerados, dano moral quantificado, antecipacao adversarial e tom coerente com o polo — pronta para a `revisao-final-consumidor`. Saida padrao `.txt`. Gatilho "gera docx": converter o `.txt` em `.docx` timbrado via `gerador-peticoes` — Code.

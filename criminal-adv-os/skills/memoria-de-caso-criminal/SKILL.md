@@ -22,16 +22,20 @@ metadata:
 
 ## 1. LOCAL E COMPARTIMENTACAO
 
+Pasta **unificada de caso**, COMPARTILHADA entre os plugins Adv-OS, na raiz `CASE_ROOT`:
+
 ```
-<cwd>/criminal/casos/<slug>/
+<CASE_ROOT>/<slug>/
 ├── CASO.md          (estado vivo)
 ├── MEMORY.md        (decisoes e historico)
 ├── arquivos/        (autos, BO, laudos, FAC — entrada)
-└── pecas/           (produzidos)
+└── pecas/           (produzidos — peca em <slug>/pecas/)
 ```
 
+- **CASE_ROOT**: no Code → `<acervo>/Casos-Ativos`; **fallback** (sem acervo) → `<COWORK>/criminal/casos`. Gravado em `config.md` ({{CASE_ROOT}}).
+- O estado interno do plugin NAO muda: continua em `<COWORK>/criminal/`.
 - Um caso por pasta. Pasta **gitignored** por default (PA-12 / LGPD art. 11).
-- Se o workspace for sincronizado (OneDrive/iCloud/Drive/Dropbox) → **alertar**: dado penal sensivel.
+- Se o workspace/raiz for sincronizado (OneDrive/iCloud/Drive/Dropbox) → **alertar**: dado penal sensivel.
 
 ## 2. ESTRUTURA DO CASO.md
 

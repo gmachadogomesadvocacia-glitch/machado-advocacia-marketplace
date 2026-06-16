@@ -22,6 +22,8 @@ Analisa documentos de dois ângulos:
 1. **Diagnóstico**: o que o documento diz e o que implica para o caso
 2. **Auditoria**: identificar inconsistências, omissões e indícios de patrimônio oculto
 
+> **PDFs de processo:** no Code, converter com `ferramentas/pdf-para-md/` antes de analisar.
+
 ---
 
 ## 1. CERTIDÃO DE CASAMENTO

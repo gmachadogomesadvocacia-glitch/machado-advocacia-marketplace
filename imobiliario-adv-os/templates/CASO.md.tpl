@@ -2,7 +2,9 @@
 
 > Ficha do caso imobiliario/locaticio. Fonte unica das variaveis de **polo**, **frente**,
 > **imovel** e **contrato/demanda** — todas as skills leem estes campos daqui. Vive em
-> `<COWORK>/imobiliario/casos/{{CASO_SLUG}}/CASO.md`. Compartimentado por cliente
+> `<CASE_ROOT>/{{CASO_SLUG}}/CASO.md` (pasta UNIFICADA e compartilhada entre os plugins
+> Adv-OS do mesmo cliente), com a estrutura `{{CASO_SLUG}}/CASO.md`, `MEMORY.md`,
+> `arquivos/` e `pecas/` (as pecas em `{{CASO_SLUG}}/pecas/`). Compartimentado por cliente
 > (sigilo + LGPD — dados do cliente e do imovel).
 
 ---

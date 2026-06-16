@@ -2,8 +2,11 @@
 
 > Ficha do caso de familia/sucessoes. Fonte unica das variaveis de **polo**, **area**,
 > **tipo**, **regime de bens** e **rito** — todas as skills leem estes campos daqui. Vive em
-> `<COWORK>/familia/casos/{{CASO_SLUG}}/CASO.md`. Compartimentado por cliente
-> (sigilo OAB + LGPD — dados sensiveis do nucleo familiar).
+> `<CASE_ROOT>/{{CASO_SLUG}}/CASO.md` — pasta unificada de caso COMPARTILHADA entre os
+> plugins Adv-OS (CASE_ROOT = `<acervo>/Casos-Ativos` no Code; fallback `<COWORK>/familia/casos`).
+> Estrutura do caso: `<CASE_ROOT>/{{CASO_SLUG}}/` com `CASO.md`, `MEMORY.md`, `arquivos/` e
+> `pecas/` (as pecas produzidas ficam em `<CASE_ROOT>/{{CASO_SLUG}}/pecas/`). Compartimentado
+> por cliente (sigilo OAB + LGPD — dados sensiveis do nucleo familiar).
 
 ---
 

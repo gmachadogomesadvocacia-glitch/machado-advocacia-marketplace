@@ -390,10 +390,16 @@
         "legislacao_watch": {
           "type": "object",
           "properties": {
-            "enabled": { "type": "boolean", "default": false },
+            "enabled": { "type": "boolean", "default": true },
             "topics": {
               "type": "array",
               "items": { "type": "string" },
+              "default": [
+                "art. 6 XIV Lei 7.713/88",
+                "Sumulas 598 e 627 STJ",
+                "IN RFB 1.500/2014 (atualizacoes)",
+                "rol de doencas graves - jurisprudencia STJ"
+              ],
               "description": "Ex: 'Lei 7.713/88', 'IN RFB 1500', 'Sumula 598 STJ', 'Sumula 627 STJ', 'isencao IRPF doenca grave'"
             },
             "cron": { "type": "string" }

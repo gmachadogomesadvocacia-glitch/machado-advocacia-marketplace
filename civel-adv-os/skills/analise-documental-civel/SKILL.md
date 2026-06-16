@@ -17,7 +17,7 @@ metadata:
 
 # ANALISE DOCUMENTAL CIVEL
 
-> Tier 1 (Insumo). Operacionaliza **P2 — Integridade Documental**. Antes de afirmar qualquer fato, valor ou data, confira o documento. **Nunca inferir o que nao esta no documento (PA-03).** Sigilo + LGPD (PA-12). Converter PDFs de processo antes de analisar.
+> Tier 1 (Insumo). Operacionaliza **P2 — Integridade Documental**. Antes de afirmar qualquer fato, valor ou data, confira o documento. **Nunca inferir o que nao esta no documento (PA-03).** Sigilo + LGPD (PA-12). PDFs de processo: no Code, converter com `ferramentas/pdf-para-md/` antes de analisar.
 
 ---
 

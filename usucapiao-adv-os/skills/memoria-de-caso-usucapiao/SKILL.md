@@ -20,15 +20,16 @@ metadata:
 ---
 
 ## 0. COMPARTIMENTACAO + SIGILO (PA-12)
-- Um caso = uma pasta: `<cwd>/usucapiao/casos/<slug>/` com `CASO.md`, `MEMORY.md`, `arquivos/`, `pecas/`.
+- **Raiz dos casos (`CASE_ROOT`, ler de `config.md`):** no Code, com acervo do escritorio = `<acervo>/Casos-Ativos`; sem acervo (FALLBACK) = `<COWORK>/usucapiao/casos`.
+- Um caso = uma pasta UNIFICADA e COMPARTILHADA entre os plugins Adv-OS: `<CASE_ROOT>/<slug>/` com `CASO.md`, `MEMORY.md`, `arquivos/` e `pecas/` (pecas em `<slug>/pecas/`).
 - **Nunca** misturar dados de clientes distintos (vazamento entre casos = PA-12).
-- Pasta `casos/` **gitignored** por default. Se o workspace estiver em pasta **sincronizada** (OneDrive/iCloud/Google Drive/Dropbox), **alertar** o operador (dado de cliente sai da maquina — sigilo OAB + LGPD).
+- No FALLBACK, a pasta `casos/` e **gitignored** por default. Se o workspace estiver em pasta **sincronizada** (OneDrive/iCloud/Google Drive/Dropbox), **alertar** o operador (dado de cliente sai da maquina — sigilo OAB + LGPD).
 
 ## 1. OPERACOES
-- **novo `<slug>`** — cria a pasta e os arquivos a partir de `templates/CASO.md.tpl` e `templates/MEMORY-caso.md.tpl`. Slug = nome curto do cliente/imovel (sem espacos/acentos).
+- **novo `<slug>`** — cria `<CASE_ROOT>/<slug>/` (com `arquivos/` e `pecas/`) e os arquivos a partir de `templates/CASO.md.tpl` e `templates/MEMORY-caso.md.tpl`. Slug = nome curto do cliente/imovel (sem espacos/acentos).
 - **`<slug>` (retomar)** — le `CASO.md` + `MEMORY.md` e devolve o estado atual e o proximo passo.
-- **listar** — enumera as pastas em `usucapiao/casos/`.
-- **arquivar `<slug>`** — move para `usucapiao/casos/_arquivados/` (mantem sigilo).
+- **listar** — enumera as pastas em `<CASE_ROOT>/`.
+- **arquivar `<slug>`** — move para `<CASE_ROOT>/_arquivados/` (mantem sigilo).
 
 ## 2. ESTRUTURA DO CASO.md
 ```
@@ -60,8 +61,8 @@ Registro append-only de **decisoes** (via, modalidade, teses escolhidas, riscos 
 - Nunca inventar dado faltante → `[INFORMAR]` (PA-03).
 
 ## 5. CHECKLIST
-- [ ] Pasta `<cwd>/usucapiao/casos/<slug>/` correta · sem mistura de clientes (PA-12)
-- [ ] Gitignore verificado · alerta de pasta sincronizada emitido se for o caso
+- [ ] Pasta `<CASE_ROOT>/<slug>/` correta (arquivos/ + pecas/) · sem mistura de clientes (PA-12)
+- [ ] No FALLBACK: gitignore verificado · alerta de pasta sincronizada emitido se for o caso
 - [ ] CASO.md com polo/via/modalidade/imovel/posse/entes/foro/prazos
 - [ ] MEMORY.md com as decisoes datadas
 

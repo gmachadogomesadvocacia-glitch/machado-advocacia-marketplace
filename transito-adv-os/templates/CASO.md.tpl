@@ -2,8 +2,10 @@
 
 > Ficha do caso de transito. Fonte unica das variaveis de **polo**, **eixo**,
 > **dados do auto/infracao** e **demanda** — todas as skills leem estes campos daqui.
-> Vive em `<COWORK>/transito/casos/{{CASO_SLUG}}/CASO.md`. Compartimentado por cliente
-> (sigilo profissional + LGPD — dados do condutor/proprietario, CNH, placa/RENAVAM).
+> Vive em `<CASE_ROOT>/{{CASO_SLUG}}/CASO.md` — estrutura unificada `<CASE_ROOT>/{{CASO_SLUG}}/`
+> (CASO.md, MEMORY.md, arquivos/, pecas/), pasta COMPARTILHADA entre plugins do mesmo cliente; pecas
+> produzidas em `{{CASO_SLUG}}/pecas/`. Compartimentado por cliente (sigilo profissional + LGPD —
+> dados do condutor/proprietario, CNH, placa/RENAVAM).
 
 ---
 

@@ -2,7 +2,9 @@
 name: memoria-de-caso-consumidor
 description: >
   MEMORIA DE CASO CONSUMIDOR — Skill Tier 1, Protocolo P3. Gerencia o CASO.md (estado vivo) e o
-  MEMORY.md (decisoes e historico), compartimentados por cliente em <cwd>/consumidor/casos/<slug>/.
+  MEMORY.md (decisoes e historico), compartimentados por cliente em <CASE_ROOT>/<slug>/ (pasta unificada
+  compartilhada entre os plugins Adv-OS; CASE_ROOT = <acervo>/Casos-Ativos no Code, senao fallback
+  <COWORK>/consumidor/casos).
   Operacionaliza PA-21 (sigilo OAB + LGPD): pasta gitignored e alerta agressivo se o workspace estiver
   sincronizado (OneDrive/iCloud/Google Drive/Dropbox). Suporta novo caso, retomar, listar e arquivar.
   Usa os templates CASO.md.tpl e MEMORY-caso.md.tpl. Atualiza o CASO.md ao fim de cada fase. Acione
@@ -27,22 +29,25 @@ Ao abrir caso novo (chamada pela `triagem-consumidor`), retomar, listar ou arqui
 
 ## 1. LOCAL E COMPARTIMENTACAO (PA-21)
 
-- Raiz: **`<cwd>/consumidor/casos/<slug>/`** — uma pasta por cliente, isolada.
+- Raiz: **`<CASE_ROOT>/<slug>/`** — pasta unificada e **COMPARTILHADA** entre os plugins Adv-OS, uma pasta por cliente, isolada.
+- **CASE_ROOT** vem do `config.md` (campo `Raiz dos casos`). No Claude Code, e o acervo do escritorio: `<acervo>/Casos-Ativos`. Fora do Code (**fallback**), `<COWORK>/consumidor/casos`.
 - `<slug>` = nome do cliente em minusculas-com-hifen (ex.: `joao-da-silva`).
-- Estrutura:
+- Estrutura unificada:
 
 ```
-consumidor/casos/<slug>/
+<CASE_ROOT>/<slug>/
   CASO.md        # estado vivo (triagem 4D, partes, foro, Selo, prazos, docs, linha)
   MEMORY.md      # decisoes, quantum, pecas, historico fatico-processual
   arquivos/      # contrato, faturas, extratos, prints, protocolos, negativacao
-  pecas/         # produtos (iniciais, contestacoes, reclamacoes, recursos)
+  pecas/         # produtos do caso (iniciais, contestacoes, reclamacoes, recursos)
 ```
+
+- As pecas produzidas vao em **`<slug>/pecas/`**.
 
 - **Nunca** misturar dados de clientes diferentes na mesma pasta ou peca (PA-21 — vazamento entre casos e violacao nuclear).
 
 ### Sigilo e sincronizacao
-- A pasta `consumidor/casos/` deve estar **gitignored** por default (dados de cliente nunca entram no plugin distribuido).
+- No fallback, a pasta `consumidor/casos/` deve estar **gitignored** por default (dados de cliente nunca entram no plugin distribuido). No Code, o `CASE_ROOT` aponta para o acervo controlado do escritorio (`<acervo>/Casos-Ativos`), fora do plugin.
 - Se o `cwd` estiver em pasta **sincronizada** (OneDrive, iCloud, Google Drive, Dropbox), **alertar** o operador: dados de cliente sao sigilosos (Estatuto OAB) e pessoais (LGPD). Confirmar que a sincronizacao e do acervo controlado do escritorio antes de gravar. Nunca persistir dado de cliente fora da pasta do caso.
 
 ---
@@ -50,7 +55,7 @@ consumidor/casos/<slug>/
 ## 2. OPERACOES
 
 ### 2.1 NOVO CASO
-1. Definir `<slug>` a partir do cliente; criar `consumidor/casos/<slug>/` + `arquivos/` + `pecas/`.
+1. Definir `<slug>` a partir do cliente; criar `<CASE_ROOT>/<slug>/` + `arquivos/` + `pecas/`.
 2. Instanciar **`CASO.md`** a partir de **`templates/CASO.md.tpl`** e **`MEMORY.md`** a partir de **`templates/MEMORY-caso.md.tpl`**, preenchendo as variaveis disponiveis e deixando as ausentes como `[INFORMAR]` (PA-15 — nunca inventar, PA-03).
 3. Gravar o resultado da triagem 4D (polo, eixo, esfera, rito) e o status do Selo P1 (PENDENTE ate o validador emitir).
 
@@ -58,7 +63,7 @@ consumidor/casos/<slug>/
 Localizar a pasta do `<slug>`, **ler o `CASO.md` e o `MEMORY.md` antes de qualquer acao**, e reportar o estado executivo (polo, fase, proximo passo, prazos, Selo).
 
 ### 2.3 LISTAR
-Varrer `consumidor/casos/*/CASO.md` e apresentar tabela: cliente, polo, eixo, fase, proximo prazo critico. Nao expor conteudo sensivel alem do necessario.
+Varrer `<CASE_ROOT>/*/CASO.md` e apresentar tabela: cliente, polo, eixo, fase, proximo prazo critico. Nao expor conteudo sensivel alem do necessario.
 
 ### 2.4 ARQUIVAR
 Marcar a fase como encerrada no `MEMORY.md`, registrar a data e o desfecho, e mover/sinalizar a pasta como arquivada. Manter o sigilo (PA-21).

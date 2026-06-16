@@ -23,7 +23,7 @@ metadata:
 
 ## 0. QUANDO ACIONAR
 
-Apos a `triagem-consumidor` e o **Selo P1** (`validador-legislacao-consumidor`), antes de `analise-contratual`, `analise-trilateral` e qualquer peca. Tambem quando chegam documentos novos a um caso ja aberto. Converter PDFs com a ferramenta `pdf-para-md/` antes de analisar.
+Apos a `triagem-consumidor` e o **Selo P1** (`validador-legislacao-consumidor`), antes de `analise-contratual`, `analise-trilateral` e qualquer peca. Tambem quando chegam documentos novos a um caso ja aberto. PDFs de processo: no Code, converter com `ferramentas/pdf-para-md/` antes de analisar.
 
 ## 1. PRINCIPIO
 

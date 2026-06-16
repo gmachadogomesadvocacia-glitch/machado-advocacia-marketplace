@@ -18,6 +18,15 @@
 
 ---
 
+## Acervo e casos
+
+- **Raiz dos casos:** {{CASE_ROOT}}
+  <!-- No Code, com acervo do escritorio: `<acervo>/Casos-Ativos`. Sem acervo (FALLBACK):
+       `<COWORK>/usucapiao/casos`. Cada caso = `<CASE_ROOT>/<slug>/` com CASO.md, MEMORY.md,
+       arquivos/, pecas/. Pasta UNIFICADA e COMPARTILHADA entre os plugins Adv-OS. -->
+
+---
+
 ## Polos e Frentes de Atuacao
 
 - **Polos:** {{POLOS}}

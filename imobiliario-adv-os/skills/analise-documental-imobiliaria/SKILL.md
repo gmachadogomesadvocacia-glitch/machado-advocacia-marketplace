@@ -54,7 +54,7 @@ Para cada documento, registre:
 DOC N: <tipo> — <data> — <dados-chave extraidos>
 LACUNA: <o que falta / esta ilegivel / desatualizado>
 ```
-Numere os documentos como **"doc. N"** (citados por numero nas pecas). Converta PDFs de processo antes de analisar.
+Numere os documentos como **"doc. N"** (citados por numero nas pecas). **PDFs de processo: no Code, converter com `ferramentas/pdf-para-md/` antes de analisar.**
 
 ## 5. ALERTAS
 

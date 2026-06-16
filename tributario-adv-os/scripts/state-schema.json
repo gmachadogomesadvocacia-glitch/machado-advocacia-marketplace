@@ -390,10 +390,18 @@
         "legislacao_watch": {
           "type": "object",
           "properties": {
-            "enabled": { "type": "boolean", "default": false },
+            "enabled": { "type": "boolean", "default": true },
             "topics": {
               "type": "array",
               "items": { "type": "string" },
+              "default": [
+                "Reforma Tributaria EC 132/2023",
+                "LC 214/2025 (CBS/IBS)",
+                "transicao 2026-2033",
+                "transacao tributaria Lei 13.988",
+                "repetitivos STF/STJ tributarios",
+                "sumulas CARF"
+              ],
               "description": "Ex: 'Reforma Tributaria EC 132', 'LC 214', 'CBS IBS', 'transacao tributaria', 'STF tributario', 'STJ tributario', 'CARF'"
             },
             "cron": { "type": "string" }

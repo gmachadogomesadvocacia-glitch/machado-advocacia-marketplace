@@ -24,12 +24,13 @@ metadata:
 ## 1. ESTRUTURA DE PASTAS
 
 ```
-civel/casos/<slug>/
+<CASE_ROOT>/<slug>/
   CASO.md       — estado vivo
   MEMORY.md     — decisoes e historico
   arquivos/     — documentos do cliente (doc. N)
-  pecas/        — produzidos (.txt por padrao)
+  pecas/        — produzidos (.txt por padrao) — em <slug>/pecas/
 ```
+- **CASE_ROOT** (pasta unificada de caso, COMPARTILHADA entre os plugins Adv-OS): no Code, `<acervo>/Casos-Ativos`; sem acervo (Cowork/Chat), FALLBACK `<COWORK>/civel/casos`. Gravado em `config.md` ({{CASE_ROOT}}). O estado interno do plugin (`<COWORK>/civel/`) nao muda.
 - `novo <slug>` cria; `<slug>` retoma; `list` lista; `arquivar <slug>` encerra.
 - Alertar se `<cwd>` for pasta sincronizada (OneDrive/iCloud/Google Drive) — dados de cliente nao devem vazar.
 

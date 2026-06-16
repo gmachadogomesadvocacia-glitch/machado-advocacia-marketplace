@@ -392,10 +392,16 @@
         "legislacao_watch": {
           "type": "object",
           "properties": {
-            "enabled": { "type": "boolean", "default": false },
+            "enabled": { "type": "boolean", "default": true },
             "topics": {
               "type": "array",
               "items": { "type": "string" },
+              "default": [
+                "Pacote Anticrime (Lei 13.964) e atualizacoes",
+                "Tema 506 STF (porte de droga para consumo)",
+                "repetitivos STF/STJ penais",
+                "alteracoes da LEP"
+              ],
               "description": "Ex: 'Codigo Penal', 'Codigo de Processo Penal', 'LEP Lei 7.210', 'Lei de Drogas 11.343', 'Maria da Penha 11.340', 'Lei 9.099 JECrim', 'ANPP', 'STF penal', 'STJ penal/execucao penal', 'sumulas vinculantes'"
             },
             "cron": { "type": "string" }

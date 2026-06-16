@@ -70,6 +70,7 @@ OAB/{{OAB_UF}} {{OAB_NUMERO}}
 
 - Saida em **.txt** por padrao (economia de tokens); .docx/.pdf so a pedido.
 - Nomear `AAAA-MM-DD - Cliente - tipo.ext` (ver `memoria-de-caso-civel`).
+- Gatilho "gera docx": converter .txt em .docx timbrado via `gerador-peticoes` — Code.
 
 ## 7. ALERTAS
 

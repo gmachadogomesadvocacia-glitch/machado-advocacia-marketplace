@@ -390,10 +390,16 @@
         "legislacao_watch": {
           "type": "object",
           "properties": {
-            "enabled": { "type": "boolean", "default": false },
+            "enabled": { "type": "boolean", "default": true },
             "topics": {
               "type": "array",
               "items": { "type": "string" },
+              "default": [
+                "Provimentos CNJ (usucapiao extrajudicial)",
+                "Lei 14.382/2022 (SERP e registros)",
+                "regularizacao fundiaria Lei 13.465",
+                "repetitivos STJ"
+              ],
               "description": "Ex: 'CC arts. 1.238-1.244', 'Lei 6.015 art. 216-A', 'Provimento CNJ usucapiao extrajudicial', 'STJ usucapiao'"
             },
             "cron": { "type": "string" }

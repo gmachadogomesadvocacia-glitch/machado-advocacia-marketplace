@@ -27,6 +27,19 @@ Nao usar quando o caso ja foi triado e o usuario esta em uma fase especifica
 
 ---
 
+## BLOCO 0 — ACERVO E PASTA DO CASO (CASE_ROOT)
+
+```
+Perguntar / resolver:
+1. Ha acervo do escritorio (Code)? Qual a raiz?
+   → CASE_ROOT = <acervo>/Casos-Ativos (fonte da verdade no Code)
+   → FALLBACK (Cowork / sem acervo): <COWORK>/previdenciario/casos
+2. Definir o <slug> do caso (kebab-case do nome do segurado).
+3. Criar a pasta unificada <CASE_ROOT>/<slug>/ com CASO.md, MEMORY.md, arquivos/, pecas/.
+   Pasta COMPARTILHADA entre os plugins Adv-OS; pecas em <slug>/pecas/.
+4. Gravar {{CASE_ROOT}} no config.md / estado (gitignored quando local — LGPD).
+```
+
 ## WIZARD — 6 BLOCOS
 
 ### BLOCO 1 — IDENTIFICACAO DO SEGURADO

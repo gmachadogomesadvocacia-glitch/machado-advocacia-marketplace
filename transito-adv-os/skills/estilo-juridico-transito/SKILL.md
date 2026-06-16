@@ -78,6 +78,7 @@ metadata:
 
 - Numerar todo anexo como **"doc. N"** e cita-lo no corpo por esse numero.
 - Entregar em **.txt** por padrao (.docx/.pdf so a pedido).
+- Gatilho "gera docx": converter a peca .txt em .docx no papel timbrado via `gerador-peticoes` — Code.
 
 ## 6. INTEGRACAO
 

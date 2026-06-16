@@ -2,7 +2,10 @@
 
 > Ficha do caso civel/processual civel. Fonte unica das variaveis de **polo**, **frente**,
 > **relacao juridica/fato** e **demanda** — todas as skills leem estes campos daqui.
-> Vive em `<COWORK>/civel/casos/{{CASO_SLUG}}/CASO.md`. Compartimentado por cliente
+> Vive em `<CASE_ROOT>/{{CASO_SLUG}}/CASO.md` (pasta unificada de caso, COMPARTILHADA entre
+> os plugins Adv-OS). Estrutura: `CASO.md`, `MEMORY.md`, `arquivos/`, `pecas/` (peças
+> produzidas em `{{CASO_SLUG}}/pecas/`). CASE_ROOT = `<acervo>/Casos-Ativos` (Code) ou,
+> sem acervo, `<COWORK>/civel/casos` (FALLBACK). Compartimentado por cliente
 > (sigilo profissional + LGPD — dados das partes).
 
 ---

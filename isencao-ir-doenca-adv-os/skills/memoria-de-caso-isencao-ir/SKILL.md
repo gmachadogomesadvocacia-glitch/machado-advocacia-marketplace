@@ -2,7 +2,7 @@
 name: memoria-de-caso-isencao-ir
 description: >
   MEMORIA DE CASO ISENCAO-IR — Skill Tier 1 invariante (Protocolo P3). Gerencia o CASO.md (estado vivo)
-  e o MEMORY.md (decisoes) compartimentados por cliente em `<cwd>/isencao-ir/casos/<slug>/`.
+  e o MEMORY.md (decisoes) compartimentados por cliente na pasta unificada `<CASE_ROOT>/<slug>/`.
   Operacionaliza a PA-10: dado de SAUDE e SENSIVEL (LGPD art. 11 + sigilo) — pasta gitignored e ALERTA
   AGRESSIVO se o workspace for sincronizado (OneDrive/iCloud/Drive/Dropbox). Suporta novo/retomar/listar/
   arquivar. Acione ao abrir caso, retomar caso, atualizar o CASO.md, registrar decisao, ou ao fim de cada
@@ -20,24 +20,26 @@ metadata:
 ---
 
 ## 0. LOCALIZACAO E COMPARTIMENTACAO
-- Raiz: `<cwd>/isencao-ir/casos/<slug>/` — um diretorio por cliente, **isolado** (nunca misturar clientes).
+- Raiz: `<CASE_ROOT>/<slug>/` — pasta UNIFICADA de caso, **COMPARTILHADA** entre os plugins do escritorio; um diretorio por cliente, **isolado** (nunca misturar clientes).
+- **CASE_ROOT** (gravado no `config.md`): no **Code** = `<acervo>/Casos-Ativos`; **fallback** (Cowork ou sem acervo) = `<COWORK>/isencao-ir/casos`.
+- O **estado interno** do plugin NAO muda — segue em `<COWORK>/isencao-ir/` (cowork-state, persona, config).
 - `<slug>` = nome do cliente em minusculas-com-hifen (ex.: `maria-souza`).
-- Conteudo de cada caso:
+- Conteudo de cada caso `<CASE_ROOT>/<slug>/`:
   - `CASO.md` — estado vivo (secao 3).
   - `MEMORY.md` — decisoes e historico (secao 4).
   - `arquivos/` — laudo, carta de concessao, informes de rendimento, comprovantes de IR retido, DIRPF.
-  - `pecas/` — documentos produzidos (requerimento, acao, MS, retificadora).
+  - `pecas/` — documentos produzidos em `<slug>/pecas/` (requerimento, acao, MS, retificadora).
 
 ## 1. PROTECAO DO DADO DE SAUDE (PA-10) — INVARIANTE
-- A pasta `isencao-ir/casos/` deve estar **gitignored** por padrao. Garantir entrada em `.gitignore`; se ausente, criar.
-- **ALERTA AGRESSIVO:** se o `<cwd>` estiver dentro de pasta sincronizada (caminho contendo `OneDrive`, `iCloud`, `Google Drive`/`GoogleDrive`, `Dropbox`), AVISAR de forma destacada que ha dado de saude SENSIVEL (LGPD art. 11) sendo gravado em nuvem e pedir confirmacao/realocacao antes de persistir.
+- A pasta `<CASE_ROOT>` deve estar **gitignored** por padrao. Garantir entrada em `.gitignore`; se ausente, criar.
+- **ALERTA AGRESSIVO:** se o `<CASE_ROOT>` estiver dentro de pasta sincronizada (caminho contendo `OneDrive`, `iCloud`, `Google Drive`/`GoogleDrive`, `Dropbox`), AVISAR de forma destacada que ha dado de saude SENSIVEL (LGPD art. 11) sendo gravado em nuvem e pedir confirmacao/realocacao antes de persistir.
 - Nunca expor CID/diagnostico em nomes de arquivo ou em logs. **Nao opinar sobre o diagnostico** (PA-04).
 
 ## 2. OPERACOES
 - **novo `<slug>`** — cria a estrutura, instancia `CASO.md` e `MEMORY.md` pelos templates (secoes 3/4), roda o alerta da secao 1.
 - **`<slug>` (retomar)** — le e exibe o resumo do `CASO.md`; aponta a fase atual e o proximo passo do pipeline.
-- **listar** — lista os `<slug>` existentes em `isencao-ir/casos/` (sem expor CID).
-- **arquivar `<slug>`** — marca o `CASO.md` como ARQUIVADO (data) e move para `casos/_arquivados/`.
+- **listar** — lista os `<slug>` existentes em `<CASE_ROOT>/` (sem expor CID).
+- **arquivar `<slug>`** — marca o `CASO.md` como ARQUIVADO (data) e move para `<CASE_ROOT>/_arquivados/`.
 
 ## 3. TEMPLATE — CASO.md (estado vivo)
 ```

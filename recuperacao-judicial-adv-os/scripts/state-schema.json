@@ -391,10 +391,16 @@
         "legislacao_watch": {
           "type": "object",
           "properties": {
-            "enabled": { "type": "boolean", "default": false },
+            "enabled": { "type": "boolean", "default": true },
             "topics": {
               "type": "array",
               "items": { "type": "string" },
+              "default": [
+                "Lei 14.112/2020",
+                "Tema 1051 STJ (FGTS)",
+                "credito tributario na RJ",
+                "repetitivos STJ de recuperacao e falencia"
+              ],
               "description": "Ex: 'L11.101', 'L14.112', 'STJ recuperacao judicial', 'habilitacao de credito', 'cram down'"
             },
             "cron": { "type": "string" }

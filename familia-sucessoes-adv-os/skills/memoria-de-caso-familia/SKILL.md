@@ -25,6 +25,25 @@ O CASO.md é o estado persistente de cada caso. Esta skill:
 - Emite alertas de prazos críticos
 - Mantém confidencialidade por caso (PA-19)
 
+### Pasta unificada de caso (CASE_ROOT)
+
+Cada caso vive em `<CASE_ROOT>/<slug>/` — pasta **compartilhada entre os plugins Adv-OS**:
+
+```
+<CASE_ROOT>/<slug>/
+├── CASO.md       ← estado vivo (esta skill)
+├── MEMORY.md     ← decisões e histórico
+├── arquivos/     ← documentos do cliente (certidões, matrículas, IR, laudos)
+└── pecas/        ← peças produzidas neste caso
+```
+
+**CASE_ROOT** vem de `<COWORK>/familia/config.md` (`Raiz dos casos`):
+- **Claude Code:** `<acervo>/Casos-Ativos` (ex.: `Gustavo Machado Advocacia/Casos-Ativos`).
+- **Fallback** (sem acervo configurado): `<COWORK>/familia/casos`.
+
+O estado interno do plugin (`cowork-state.json`) **não** muda de lugar — continua em
+`<COWORK>/familia/` (STATE_DIR `familia`). Só a pasta de **caso** é unificada.
+
 ---
 
 ## 1. OPERAÇÕES
@@ -164,13 +183,14 @@ REGISTRO DE AUDIÊNCIA/ACORDO:
 
 ## 3. GESTÃO DE MÚLTIPLOS CASOS
 
-Cada caso tem seu próprio CASO.md. Nomear o arquivo com referência única:
-`CASO_[SOBRENOME_CLIENTE]_[ANO]_[TIPO].md`
+Cada caso tem sua própria pasta `<CASE_ROOT>/<slug>/` com `CASO.md` único. O `<slug>` é a
+referência única do caso (ex.: `silva-2026-divorcio`, `martins-2026-inventario`,
+`ferreira-2026-guarda`). As peças daquele caso ficam em `<CASE_ROOT>/<slug>/pecas/`.
 
 Exemplos:
-- `CASO_SILVA_2026_DIVORCIO.md`
-- `CASO_MARTINS_2026_INVENTARIO.md`
-- `CASO_FERREIRA_2026_GUARDA.md`
+- `<CASE_ROOT>/silva-2026-divorcio/CASO.md`
+- `<CASE_ROOT>/martins-2026-inventario/CASO.md`
+- `<CASE_ROOT>/ferreira-2026-guarda/CASO.md`
 
 ⚠️ **PA-19**: Nunca mesclar informações de casos distintos. LGPD — sigilo absoluto.
 

@@ -41,6 +41,7 @@ metadata:
 | {{EMAIL}} | E-mail de contato |
 | {{TOM_VOZ_PERFIL}} | Perfil de tom (ex.: tecnico-combativo, sobrio) |
 | {{TOM_VOZ_INTENSIDADE}} | Intensidade 0-10 |
+| {{CASE_ROOT}} | Raiz dos casos (acervo do escritorio) |
 
 **Eixos de atuacao** (marque os ativos):
 - **Administrativo** — defesa previa/da autuacao, recurso JARI, recurso CETRAN.
@@ -54,7 +55,8 @@ metadata:
 2. Nome do escritorio? Cidade/UF de atuacao? E-mail?
 3. Tom de voz (perfil) e intensidade (0-10)?
 4. Quais eixos voce atende (administrativo / CNH / judicial / analise / todos)?
-5. Modo de fluxo: `checkpoint` (default, pausa nos pontos) ou `--continuo`?
+5. **Acervo** — qual a pasta-raiz dos casos do escritorio? Se informado (Code), `CASE_ROOT = <acervo>/Casos-Ativos`; senao, fallback `CASE_ROOT = <COWORK>/transito/casos`.
+6. Modo de fluxo: `checkpoint` (default, pausa nos pontos) ou `--continuo`?
 
 ## 4. GERACAO DA PERSONA
 
@@ -65,7 +67,7 @@ metadata:
 
 ## 5. ESTADO DE CASO
 
-Apos a persona, o plugin mantem o estado por caso em `<cwd>/transito/casos/<slug>/` (ver `memoria-de-caso-transito`). O onboarding apenas garante a existencia da pasta base; nao cria caso.
+Apos a persona, o plugin mantem o estado por caso em `<CASE_ROOT>/<slug>/` — pasta UNIFICADA (CASO.md, MEMORY.md, arquivos/, pecas/), compartilhada entre plugins do mesmo cliente (ver `memoria-de-caso-transito`). `CASE_ROOT = <acervo>/Casos-Ativos` (Code) ou fallback `<COWORK>/transito/casos`. O estado interno (`cowork-state.json`) NAO usa esta raiz — segue em `<COWORK>/transito/`. O onboarding apenas grava `{{CASE_ROOT}}` e garante a raiz dos casos; nao cria caso.
 
 ## 6. SAIDA
 

@@ -390,10 +390,16 @@
         "legislacao_watch": {
           "type": "object",
           "properties": {
-            "enabled": { "type": "boolean", "default": false },
+            "enabled": { "type": "boolean", "default": true },
             "topics": {
               "type": "array",
               "items": { "type": "string" },
+              "default": [
+                "Tema 809 STF (uniao estavel/sucessao)",
+                "Lei 14.340/2022 (alienacao parental)",
+                "guarda compartilhada",
+                "repetitivos STJ de familia e sucessoes"
+              ],
               "description": "Ex: 'CC/2002 Familia', 'CC/2002 Sucessoes', 'guarda compartilhada', 'alienacao parental', 'STJ familia e sucessoes'"
             },
             "cron": { "type": "string" }

@@ -15,7 +15,7 @@ metadata:
 
 # MEMORIA DE CASO TRIBUTARIO (Protocolo P3)
 
-> Tier 1 (Insumo). O **CASO.md** e o estado vivo do caso. Atualizado apos **cada** entrega. Pasta gitignored — sigilo fiscal (PA-12). Caso em `tributario/casos/<slug>/`.
+> Tier 1 (Insumo). O **CASO.md** e o estado vivo do caso. Atualizado apos **cada** entrega. Pasta gitignored — sigilo fiscal (PA-12). Caso na raiz configuravel `<CASE_ROOT>/<slug>/` (Code: `<acervo>/Casos-Ativos`; FALLBACK nuvem/sem acervo: `tributario/casos/`).
 
 ---
 
@@ -64,10 +64,14 @@ Apos cada entrega: registrar a peca em PECAS, mover prazos cumpridos, anotar nov
 
 ## 3. PASTAS DO CASO
 
+Raiz configuravel **`<CASE_ROOT>/<slug>/`** (gravada no config como `CASE_ROOT`):
+no Code = `<acervo>/Casos-Ativos`; FALLBACK (nuvem / sem acervo) = `tributario/casos/`.
+Estrutura unificada, **compartilhada entre plugins do mesmo cliente**:
+
 - `CASO.md` — estado vivo.
-- `MEMORY-caso` (MEMORY.md) — decisoes e historico narrativo.
+- `MEMORY.md` — decisoes e historico narrativo.
 - `arquivos/` — documentos recebidos (auto, CDA, SPED, guias).
-- `pecas/` — produzidos.
+- `pecas/` — pecas produzidas (varios plugins gravam no mesmo `<slug>/pecas/`).
 
 ## 4. SIGILO (PA-12)
 

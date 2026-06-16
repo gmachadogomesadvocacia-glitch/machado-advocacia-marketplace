@@ -19,6 +19,18 @@
 
 ---
 
+## Acervo e casos
+
+- **Raiz dos casos:** {{CASE_ROOT}}
+
+<!-- CASE_ROOT define onde vivem as pastas de caso. No Code (com acervo informado):
+     `<acervo>/Casos-Ativos` — pasta unificada por caso (CASO.md, MEMORY.md, arquivos/, pecas/),
+     compartilhada entre plugins do mesmo cliente. Na nuvem / sem acervo informado:
+     `<COWORK>/tributario/casos` (FALLBACK). O estado interno do plugin (cowork-state.json)
+     permanece sempre em `<COWORK>/tributario/`, independente da CASE_ROOT. -->
+
+---
+
 ## Polo, Frentes e Esferas de Atuacao
 
 - **Polo:** {{POLOS}}

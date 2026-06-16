@@ -18,6 +18,19 @@
 
 ---
 
+## Acervo e casos
+
+- **Raiz dos casos:** {{CASE_ROOT}}
+
+<!-- CASE_ROOT e a raiz da pasta unificada de casos, COMPARTILHADA entre os plugins Adv-OS.
+     No Claude Code: `<acervo>/Casos-Ativos` (ex.: Gustavo Machado Advocacia/Casos-Ativos).
+     Fallback (sem acervo configurado): `<COWORK>/familia/casos`.
+     Cada caso vive em `<CASE_ROOT>/<slug>/` com CASO.md, MEMORY.md, arquivos/ e pecas/.
+     As pecas produzidas ficam em `<CASE_ROOT>/<slug>/pecas/`. O estado interno do plugin
+     (cowork-state.json) NAO muda de lugar — continua em `<COWORK>/familia/`. -->
+
+---
+
 ## Polos e Frentes de Atuacao
 
 - **Polos:** {{POLOS}}

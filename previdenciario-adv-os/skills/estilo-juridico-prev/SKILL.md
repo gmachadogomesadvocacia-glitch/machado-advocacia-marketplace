@@ -12,6 +12,8 @@ description: >
 # ESTILO JURIDICO PREVIDENCIARIO
 > Transversal | EC 103/2019 | TNU/STF Citacoes | FIRAC+AIDA | FONAJEF
 
+> Gatilho "gera docx": converter .txt em .docx timbrado via `gerador-peticoes` — Code.
+
 ---
 
 ## 1. NOMENCLATURA TECNICA OBRIGATORIA

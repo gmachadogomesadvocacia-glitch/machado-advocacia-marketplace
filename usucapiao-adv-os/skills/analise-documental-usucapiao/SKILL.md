@@ -22,7 +22,7 @@ metadata:
 
 ## 0. PRE-CHECK
 - Caso triado (`triagem-usucapiao`) e `CASO.md` aberto.
-- Converter PDFs com `pdf-para-md` antes de analisar (economia de tokens).
+- Converter PDFs com `pdf-para-md` antes de analisar (economia de tokens). PDFs/matricula: no Code, converter com `ferramentas/pdf-para-md/` antes de analisar.
 - Nada inventado (PA-03): documento ausente vira `[INFORMAR]`, nunca presumido.
 
 ## 1. INVENTARIO (o que precisa existir)

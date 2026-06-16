@@ -44,24 +44,33 @@ O comando conduz um wizard curto e grava a persona em `tributario/persona.md` (f
 
 > A UF e **eixo critico**: define competencia (Justica Federal para tributo federal; Justica Estadual para ICMS/IPVA/ISS), foro da execucao fiscal e o ente exequente.
 
-## 3. ESTADO DE CASO
+## 3. RAIZ DOS CASOS (CASE_ROOT)
 
-Apos a persona, cada caso novo gera (ver `memoria-de-caso-tributario`, Protocolo P3):
+O wizard **pergunta o caminho do acervo** (pasta "Gustavo Machado Advocacia" ou diretamente "Casos-Ativos") e define a raiz dos casos:
+
+- **Code (acervo informado):** `CASE_ROOT = <acervo>/Casos-Ativos` — pasta unificada por caso, **compartilhada entre plugins** do mesmo cliente.
+- **Nuvem / sem acervo (FALLBACK):** `CASE_ROOT = <cwd>/tributario/casos`.
+
+Cria a pasta de casos se acessivel e grava `{{CASE_ROOT}}` no `config.md`. O estado interno (`cowork-state.json`) fica sempre em `<cwd>/tributario/`.
+
+## 4. ESTADO DE CASO
+
+Apos a persona, cada caso novo gera em `<CASE_ROOT>/<slug>/` (ver `memoria-de-caso-tributario`, Protocolo P3):
 
 - `CASO.md` — estado vivo (partes, tributo, esferas, fatos geradores, prazos, fase, pecas).
-- `MEMORY-caso` — decisoes estrategicas e historico.
+- `MEMORY.md` — decisoes estrategicas e historico.
 - `arquivos/` — documentos recebidos (auto, CDA, SPED, guias).
-- `pecas/` — produzidos.
+- `pecas/` — pecas produzidas (compartilhadas entre plugins do mesmo cliente).
 
 A pasta de caso e **gitignored por default** (sigilo fiscal — PA-12: CTN art. 198 + LGPD).
 
-## 4. COMANDOS
+## 5. COMANDOS
 
 - `/start-tributario` — cria/atualiza a persona (este onboarding).
 - `/status-tributario` — mostra o estado do caso ativo e os prazos em curso.
-- `/caso-tributario` — abre, retoma ou lista casos em `tributario/casos/`.
+- `/caso-tributario` — abre, retoma ou lista casos em `<CASE_ROOT>/` (Code: `<acervo>/Casos-Ativos`; FALLBACK: `tributario/casos/`).
 
-## 5. ALERTAS
+## 6. ALERTAS
 
 - Se o workspace for pasta sincronizada (OneDrive/Google Drive/iCloud), avisar que dados fiscais sao sigilosos (PA-12) e nao devem ser versionados.
 - Persona ausente → rodar `/start-tributario` antes de qualquer triagem ou producao.

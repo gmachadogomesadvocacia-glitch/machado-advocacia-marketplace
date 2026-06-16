@@ -50,6 +50,7 @@ Combatividade dirigida a teses, nunca a pessoas. **Sensibilidade**: o autor e um
 
 ## 8. APLICACAO
 Esta skill apoia TODA producao: `requerimento-administrativo-isencao`, `retificacao-dirpf`, `acao-isencao-ir`, `mandado-seguranca-isencao`, `manutencao-isencao`. Antes da entrega, a forma e auditada na R4 da `revisao-final-isencao-ir` (PA-14).
+- Gatilho "gera docx": converter .txt em .docx timbrado via `gerador-peticoes` — Code.
 
 ## 9. ENCERRAMENTO
 Entrega o padrao de redacao — FIRAC, enxuto, docs numerados, antecipacao adversarial dura, restituicao quantificada, tom humano e dado de saude protegido — para uniformizar toda peca do plugin.

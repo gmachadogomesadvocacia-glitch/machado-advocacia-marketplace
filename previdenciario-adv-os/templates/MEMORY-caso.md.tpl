@@ -1,7 +1,8 @@
 # MEMORY — {{CLIENTE}}
 
 > Diario de decisoes e historico do caso previdenciario. Complementa o `CASO.md` (estado vivo).
-> Vive em `<COWORK>/previdenciario/casos/{{CASO_SLUG}}/MEMORY.md`. Atualizado ao fim de cada
+> Vive em `<CASE_ROOT>/{{CASO_SLUG}}/MEMORY.md` (pasta unificada do caso, compartilhada entre
+> plugins: `CASO.md`, `MEMORY.md`, `arquivos/`, `pecas/`). Atualizado ao fim de cada
 > fase (Protocolo Memoria de Caso). Compartimentado por segurado — sigilo OAB + LGPD art. 11
 > (dados sensiveis de saude e contribuicao).
 

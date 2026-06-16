@@ -2,7 +2,9 @@
 
 > Ficha do caso previdenciario. Fonte unica das variaveis de **regime**, **especie de
 > beneficio**, **fase** e **datas-chave** — todas as skills leem estes campos daqui. Vive em
-> `<COWORK>/previdenciario/casos/{{CASO_SLUG}}/CASO.md`. Compartimentado por segurado
+> `<CASE_ROOT>/{{CASO_SLUG}}/CASO.md`. Pasta unificada do caso, COMPARTILHADA entre os
+> plugins Adv-OS: `<CASE_ROOT>/{{CASO_SLUG}}/` com `CASO.md`, `MEMORY.md`, `arquivos/` e
+> `pecas/` (pecas em `{{CASO_SLUG}}/pecas/`). Compartimentado por segurado
 > (sigilo OAB + LGPD art. 11 — dados sensiveis de saude e contribuicao).
 
 ---

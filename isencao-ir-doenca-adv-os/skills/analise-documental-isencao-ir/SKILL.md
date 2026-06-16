@@ -23,6 +23,7 @@ metadata:
 ## 0. PRE-CHECK
 - `CASO.md` aberto pela `triagem-isencao-ir`? Senao, retornar a triagem.
 - Converter PDFs do processo/laudo antes de ler (ferramenta `pdf-para-md`), para economia de tokens.
+- PDFs (laudo/informe de rendimentos): no Code, converter com `ferramentas/pdf-para-md/` antes de analisar.
 
 ## 1. DOCUMENTOS ESSENCIAIS (inventario)
 

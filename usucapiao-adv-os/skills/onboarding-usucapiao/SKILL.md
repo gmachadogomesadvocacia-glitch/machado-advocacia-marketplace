@@ -32,18 +32,19 @@ metadata:
    - `consultivo-regularizacao` — pareceres e regularizacao fundiaria.
 3. **Tom de voz:** perfil + intensidade (0–10). Combatividade dirigida a teses, nunca a pessoas.
 4. **Modo de fluxo:** `checkpoint` (default — pausa nos pontos) ou `--continuo`.
-5. **Ferramentas:** confirmar `pdf-para-md` (converter PDFs antes de analisar) e gerador de documentos, se disponiveis.
+5. **Acervo do escritorio (`CASE_ROOT`):** ha acervo? Com acervo (Code) → `<acervo>/Casos-Ativos`; sem acervo (FALLBACK) → `<COWORK>/usucapiao/casos`. Pasta de casos UNIFICADA e COMPARTILHADA entre os plugins Adv-OS.
+6. **Ferramentas:** confirmar `pdf-para-md` (converter PDFs antes de analisar) e gerador de documentos, se disponiveis.
 
 Faltando dado essencial → `[INFORMAR]`, nunca inventar (PA-03).
 
 ## 2. GRAVAR ESTADO
-- Rodar `python scripts/state.py init` e em seguida `python scripts/state.py set ...` para cada campo coletado (identidade, frentes, tom, modo).
+- Rodar `python scripts/state.py init` e em seguida `python scripts/state.py set ...` para cada campo coletado (identidade, frentes, tom, modo, `{{CASE_ROOT}}`).
 - Estado persistido em `usucapiao/cowork-state.json`.
 
 ## 3. RENDERIZAR PERSONA E CONFIG
 - Renderizar `templates/persona.md.tpl` → `<cwd>/usucapiao/persona.md`, substituindo `{{ADVOGADO_NOME}}`, `{{OAB_UF}}`, `{{OAB_NUMERO}}`, `{{FIRM_NAME}}`, `{{CIDADE}}`, `{{UF}}`, `{{TOM_VOZ_PERFIL}}`, `{{TOM_VOZ_INTENSIDADE}}`.
-- Gravar tambem `<cwd>/usucapiao/config.md` (frentes ativas + modo de fluxo + ferramentas).
-- Criar `<cwd>/usucapiao/casos/` (pasta de casos, **gitignored** por default — nenhum dado de cliente no plugin distribuido).
+- Gravar tambem `<cwd>/usucapiao/config.md` (frentes ativas + modo de fluxo + ferramentas + `{{CASE_ROOT}}`).
+- Criar `<CASE_ROOT>/` (pasta de casos UNIFICADA, COMPARTILHADA entre os plugins Adv-OS). No FALLBACK (`<COWORK>/usucapiao/casos`), **gitignored** por default — nenhum dado de cliente no plugin distribuido.
 
 ## 4. APONTAR A PERSONA
 - Gravar `USU_PERSONA` apontando para `<cwd>/usucapiao/persona.md` no `settings.local.json`, para que `usucapiao-master` carregue a identidade renderizada.

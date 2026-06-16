@@ -68,5 +68,5 @@ DOCS RELEVANTES: doc. 1 ..., doc. 2 ...
 - **PA-03** — nao inventar data, tipificacao, pena, antecedente ou situacao prisional; so o que esta nos autos.
 - **PA-07** — toda ilicitude/nulidade ancorada na garantia violada.
 - **PA-12** — dado penal sensivel: sigilo reforçado, sem vazamento.
-- Numerar documentos **"doc. N"**. Converter PDFs antes de analisar.
+- Numerar documentos **"doc. N"**. PDFs dos autos: no Code, converter com `ferramentas/pdf-para-md/` antes de analisar.
 - Saida alimenta `analise-trilateral-criminal`, `calculos-criminais` e `linha-estrategica-criminal`.

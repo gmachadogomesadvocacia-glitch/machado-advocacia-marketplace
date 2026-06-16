@@ -18,6 +18,17 @@
 
 ---
 
+## Acervo e casos
+
+- **Raiz dos casos:** {{CASE_ROOT}}
+  <!-- Pasta unica de caso, COMPARTILHADA entre plugins do mesmo cliente (ex.: RJ +
+       trabalhista do mesmo credor). No Claude Code = `<acervo>/Casos-Ativos`; no fallback
+       Cowork = `<COWORK>/recuperacao-judicial/casos`. Cada caso vive em
+       `<CASE_ROOT>/<slug>/` com CASO.md, MEMORY.md, arquivos/ e pecas/. O estado interno
+       do plugin (cowork-state.json) NAO muda — continua em recuperacao-judicial/. -->
+
+---
+
 ## Polos e Frentes de Atuacao
 
 - **Polos:** {{POLOS}}

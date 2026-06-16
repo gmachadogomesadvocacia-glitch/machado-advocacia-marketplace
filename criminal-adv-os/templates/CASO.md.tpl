@@ -2,8 +2,11 @@
 
 > Ficha do caso penal/processual penal. Fonte unica das variaveis de **polo**, **fase/frente**,
 > **crime/tipificacao** e **situacao prisional/demanda** — todas as skills leem estes campos daqui.
-> Vive em `<COWORK>/criminal/casos/{{CASO_SLUG}}/CASO.md`. Compartimentado por cliente
-> (sigilo profissional reforcado + LGPD — dados sensiveis do reu/investigado e da vitima).
+> Vive em `<CASE_ROOT>/{{CASO_SLUG}}/CASO.md` na **pasta unificada de caso** (compartilhada
+> entre os plugins Adv-OS). Estrutura: `<slug>/CASO.md`, `<slug>/MEMORY.md`, `<slug>/arquivos/`
+> (autos, BO, laudos — entrada) e `<slug>/pecas/` (produzidos). Compartimentado por cliente
+> (sigilo profissional reforcado + LGPD — dados sensiveis do reu/investigado e da vitima);
+> pasta gitignored.
 
 ---
 

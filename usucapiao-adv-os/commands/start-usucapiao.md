@@ -11,11 +11,12 @@ Argumento recebido: `$ARGUMENTS`
 **Objetivo:** configurar o plugin e gerar a persona em runtime.
 
 ## PROTOCOLO
-1. **Acionar a skill `onboarding-usucapiao`** — wizard (identidade: nome, OAB, cidade/UF; frentes: judicial / extrajudicial-cartorio / defesa-confrontante / consultivo; tom; modo; ferramentas).
-2. **Gravar o estado**: `python scripts/state.py init <cowork> ...` + `state.py set`.
-3. **Renderizar** `templates/persona.md.tpl`→`<cwd>/usucapiao/persona.md` e `config.md`; criar `<cwd>/usucapiao/casos/` (gitignored).
-4. **Apontar `USU_PERSONA`** no `<cwd>/.claude/settings.local.json`.
-5. Alertar se o workspace for pasta sincronizada (sigilo + LGPD).
-6. Encerrar sugerindo `/status-usucapiao` e `/triagem`.
+1. **Acionar a skill `onboarding-usucapiao`** — wizard (identidade: nome, OAB, cidade/UF; frentes: judicial / extrajudicial-cartorio / defesa-confrontante / consultivo; tom; modo; ferramentas; **acervo do escritorio**).
+2. **Definir `CASE_ROOT`**: perguntar se ha acervo do escritorio. Com acervo (Code) → `<acervo>/Casos-Ativos`; sem acervo (FALLBACK) → `<COWORK>/usucapiao/casos`. Pasta de casos UNIFICADA e COMPARTILHADA entre os plugins Adv-OS.
+3. **Gravar o estado**: `python scripts/state.py init <cowork> ...` + `state.py set` (inclui `{{CASE_ROOT}}`).
+4. **Renderizar** `templates/persona.md.tpl`→`<cwd>/usucapiao/persona.md` e `config.md` (gravando `{{CASE_ROOT}}`); criar `<CASE_ROOT>/` (no FALLBACK, gitignored).
+5. **Apontar `USU_PERSONA`** no `<cwd>/.claude/settings.local.json`.
+6. Alertar se o workspace for pasta sincronizada (sigilo + LGPD).
+7. Encerrar sugerindo `/status-usucapiao` e `/triagem`.
 
 **Skill a acionar:** `onboarding-usucapiao`.

@@ -2,8 +2,9 @@
 
 > Ficha do caso de usucapiao. Fonte unica das variaveis de **polo**, **via**,
 > **modalidade** e **esfera/rito** — todas as skills leem estes campos daqui. Vive em
-> `<COWORK>/usucapiao/casos/{{CASO_SLUG}}/CASO.md`. Compartimentado por cliente
-> (sigilo OAB + LGPD).
+> `<CASE_ROOT>/{{CASO_SLUG}}/CASO.md` — pasta UNIFICADA e COMPARTILHADA entre os plugins
+> Adv-OS: `<CASE_ROOT>/{{CASO_SLUG}}/` reune `CASO.md`, `MEMORY.md`, `arquivos/` e `pecas/`
+> (pecas em `{{CASO_SLUG}}/pecas/`). Compartimentado por cliente (sigilo OAB + LGPD).
 
 ---
 

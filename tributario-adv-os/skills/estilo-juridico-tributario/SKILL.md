@@ -59,3 +59,5 @@ metadata:
 - [ ] pedidos determinados + valor da causa coerente
 - [ ] tom `{{TOM_VOZ_PERFIL}}` na intensidade definida
 - [ ] entrega em .txt · pronto para `revisao-final-tributaria` (R1-R4)
+
+> Gatilho "gera docx": converter a peca .txt em .docx no papel timbrado via `gerador-peticoes` (Garamond 12) — Code.

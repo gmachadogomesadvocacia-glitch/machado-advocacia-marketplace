@@ -390,10 +390,16 @@
         "legislacao_watch": {
           "type": "object",
           "properties": {
-            "enabled": { "type": "boolean", "default": false },
+            "enabled": { "type": "boolean", "default": true },
             "topics": {
               "type": "array",
               "items": { "type": "string" },
+              "default": [
+                "Lei 14.071/2020 (pontuacao e validade da CNH)",
+                "Resolucoes CONTRAN recentes",
+                "repetitivos STJ de transito",
+                "alteracoes do CTB"
+              ],
               "description": "Ex: 'CTB Lei 9.503', 'Lei 14.071/2020', 'Resolucoes CONTRAN', 'pontuacao/CNH', 'suspensao do direito de dirigir', 'cassacao da CNH', 'Sumula 312 STJ', 'Sumula 127 STJ', 'STJ transito', 'STF transito'"
             },
             "cron": { "type": "string" }

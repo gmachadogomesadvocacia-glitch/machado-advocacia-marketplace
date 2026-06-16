@@ -2,7 +2,7 @@
 name: memoria-de-caso-transito
 description: >
   Memoria de caso de transito Tier 1 — Protocolo P3. Estrutura e mantem o CASO.md em
-  transito/casos/<slug>/ (pasta gitignored, sigilo + LGPD). Registra cliente/polo, veiculo (placa,
+  <CASE_ROOT>/<slug>/ (pasta gitignored, sigilo + LGPD). Registra cliente/polo, veiculo (placa,
   RENAVAM), auto (AIT, codigo, data/local, orgao), fase atual, pontuacao e situacao da CNH, documentos
   numerados "doc. N", prazos com datas (defesa previa, JARI, CETRAN), pecas produzidas, proximos passos e
   teses/estrategia. Atualiza apos cada entrega. Nomenclatura de arquivos AAAA-MM-DD - Cliente - tipo.ext e
@@ -23,13 +23,17 @@ metadata:
 ## 1. ESTRUTURA DE PASTAS
 
 ```
-transito/casos/<slug>/
+<CASE_ROOT>/<slug>/        (pasta UNIFICADA, compartilhada entre plugins do mesmo cliente)
   CASO.md          (estado vivo)
-  MEMORY.md        (decisoes e historico — opcional)
+  MEMORY.md        (decisoes e historico)
   arquivos/        (AIT, NA, NP, fotos, afericao, CRLV, prontuario)
   pecas/           (produzidos: defesa, recursos, peticoes)
 ```
-Alertar se `<cwd>` for pasta sincronizada (OneDrive/iCloud/Google Drive/Dropbox): dados de cliente nao devem espelhar sem ciencia (PA-12).
+- **CASE_ROOT** = `<acervo>/Casos-Ativos` quando o operador informa o acervo (Code); senao, fallback `<COWORK>/transito/casos`.
+- Pecas produzidas vao em `<slug>/pecas/`. A pasta `<slug>/` e COMPARTILHADA entre plugins do mesmo cliente.
+- O estado interno (`cowork-state.json`) NAO muda — segue em `<COWORK>/transito/`.
+
+Alertar se `CASE_ROOT` for pasta sincronizada (OneDrive/iCloud/Google Drive/Dropbox): dados de cliente nao devem espelhar sem ciencia (PA-12).
 
 ## 2. ESTRUTURA DO CASO.md
 
@@ -96,7 +100,7 @@ Alertar se `<cwd>` for pasta sincronizada (OneDrive/iCloud/Google Drive/Dropbox)
 
 ## 7. CHECKLIST DE SAIDA
 
-- [ ] CASO.md criado/atualizado em transito/casos/<slug>/
+- [ ] CASO.md criado/atualizado em <CASE_ROOT>/<slug>/ (estrutura unificada; pecas em <slug>/pecas/)
 - [ ] Polo, veiculo, auto, fase, pontuacao/CNH preenchidos
 - [ ] Documentos numerados "doc. N" e mapeados aos arquivos
 - [ ] Prazos com datas de vencimento (PA-05)

@@ -2,8 +2,11 @@
 
 > Ficha do caso de isencao de IRPF por doenca grave. Fonte unica das variaveis de **polo**,
 > **doenca**, **via**, **esfera** e **tipo de provento** — todas as skills leem estes campos
-> daqui. Vive em `<COWORK>/isencao-ir/casos/{{CASO_SLUG}}/CASO.md`. Compartimentado por cliente
-> (sigilo OAB + LGPD — dado de saude e SENSIVEL, art. 11).
+> daqui. Vive em `<CASE_ROOT>/{{CASO_SLUG}}/CASO.md` — pasta UNIFICADA de caso, COMPARTILHADA entre
+> os plugins do escritorio (`<acervo>/Casos-Ativos` no Code; fallback `<COWORK>/isencao-ir/casos`).
+> Estrutura do caso: `CASO.md`, `MEMORY.md`, `arquivos/`, `pecas/` (peças em `{{CASO_SLUG}}/pecas/`).
+> O estado interno do plugin segue em `<COWORK>/isencao-ir/`. Compartimentado por cliente
+> (sigilo OAB + LGPD — dado de saude e SENSIVEL, art. 11; gitignored + alerta se sincronizado).
 
 ---
 

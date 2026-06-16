@@ -390,10 +390,16 @@
         "legislacao_watch": {
           "type": "object",
           "properties": {
-            "enabled": { "type": "boolean", "default": false },
+            "enabled": { "type": "boolean", "default": true },
             "topics": {
               "type": "array",
               "items": { "type": "string" },
+              "default": [
+                "Lei 14.711/2023 (Marco Legal das Garantias)",
+                "alteracoes da Lei do Inquilinato 8.245",
+                "repetitivos STJ imobiliarios",
+                "regularizacao fundiaria"
+              ],
               "description": "Ex: 'Lei do Inquilinato 8.245', 'Lei 13.786 distrato imobiliario', 'Lei 9.514 alienacao fiduciaria', 'Lei 4.591 incorporacao', 'Lei 6.015 registros publicos', 'STF imobiliario', 'STJ locacao/posse/condominio'"
             },
             "cron": { "type": "string" }

@@ -2,8 +2,10 @@
 
 > Ficha do caso de recuperacao judicial/falencia. Fonte unica das variaveis de
 > **polo**, **classe**, **fato gerador**, **via** e **fase** — todas as skills leem
-> estes campos daqui. Vive em `<COWORK>/recuperacao-judicial/casos/{{CASO_SLUG}}/CASO.md`.
-> Compartimentado por cliente (sigilo OAB + LGPD — PA-22).
+> estes campos daqui. Vive na pasta unificada de caso `<CASE_ROOT>/{{CASO_SLUG}}/CASO.md`
+> (Code: `<acervo>/Casos-Ativos`; fallback Cowork: `<COWORK>/recuperacao-judicial/casos`),
+> com `CASO.md`, `MEMORY.md`, `arquivos/` e `pecas/`. Pasta COMPARTILHADA entre plugins do
+> mesmo cliente (ex.: RJ + trabalhista). Compartimentado por cliente (sigilo OAB + LGPD — PA-22).
 
 ---
 

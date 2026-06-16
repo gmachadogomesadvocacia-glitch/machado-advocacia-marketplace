@@ -1,0 +1,16 @@
+# Estado e persona do operador
+tributario/
+**/cowork-state.json
+**/.hook-state.json
+**/.backup/
+
+# Dados de caso / cliente — NUNCA versionar (sigilo OAB + LGPD)
+casos/
+**/CASO.md
+**/arquivos/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.json.tmp

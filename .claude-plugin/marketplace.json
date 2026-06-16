@@ -60,6 +60,15 @@
       "author": {
         "name": "Machado Advocacia"
       }
+    },
+    {
+      "name": "tributario-adv-os",
+      "version": "0.1.0",
+      "source": "./tributario-adv-os",
+      "description": "Sistema operacional do advogado de Direito Tributario brasileiro, no padrao Adv-OS. Cobre as TRES FRENTES — administrativa (impugnacao ao auto de infracao, recurso ao CARF/TIT, PAF Dec. 70.235), judicial (defesa em execucao fiscal LEF 6.830 — embargos + excecao de pre-executividade Sum. 393; acao anulatoria; mandado de seguranca; repeticao de indebito e compensacao) e consultiva (planejamento tributario, parcelamento e transacao Lei 13.988) — nas TRES ESFERAS (federal, estadual, municipal). Inclui skill dedicada a REFORMA TRIBUTARIA (CBS/IBS — EC 132/2023 + LC 214/2025). Side-aware: contribuinte x Fazenda. 20 skills (Tier 0-3), 4 Camadas, 13 Proibicoes Absolutas, Selo de Validacao Legal Previa e Suprema Corte R1-R4; engine com persona em runtime e 13 commands. Crimes tributarios (Lei 8.137) = interface com o plugin criminal. Onboarding via /start-tributario.",
+      "author": {
+        "name": "Machado Advocacia"
+      }
     }
   ]
 }

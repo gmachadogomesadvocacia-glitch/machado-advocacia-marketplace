@@ -47,11 +47,33 @@ Auditar, nao reescrever. Aponta a falha exata, classifica e devolve. Aplica-se a
 - Estilo enxuto, docs "doc. N"; tom firme e **humano** (cliente doente)?
 - **Dado de saude protegido** (PA-10) — segredo de justica quando necessario; sem exposicao desnecessaria de CID?
 
-## 5. VEREDITO
-Cada rodada: **APROVADO** / **APROVADO COM RESSALVAS** (registra no CASO.md) / **REPROVADO** (bloqueia; aponta rodada+item+PA; devolve). Encerrar com o quadro R1-R4 + veredito final.
+## 5. R5 — VERIFICACAO ADVERSARIAL (RED-TEAM)
+Mude de chapeu: voce AGORA e o Fisco / a parte contraria / o juizo cetico. Unica missao: DERROTAR a peca. Tente refutar CADA eixo; achou UMA falha real → REPROVADO.
+- **VALORES** — algum R$ sem origem rastreavel no `calculos-isencao-ir`? O marco esta certo? (a isencao corre da DATA DA DOENCA, nao do exercicio inteiro — restituivel ≠ total retido.)
+- **INSTRUMENTO/VIA** — o indebito esta MESMO onde a peca mira? (na FONTE ou no AJUSTE ANUAL/DIRPF? requerimento x declaratoria x MS?)
+- **COMPETENCIA/REU** — correto para QUEM reteve? (federal=Uniao/Justica Federal x RPPS estadual/municipal=ente/Justica Estadual.)
+- **CITACOES** — Sum. 598/627 e demais batem em numero/tribunal/tese?
+- **PRESCRICAO** — 5 anos (CTN 168) bem contados; nada pre-doenca tratado como restituivel.
+- **DADO SENSIVEL** — CID/saude exposto so no indispensavel (PA-10).
+Veredito R5: PASSOU / REPROVADO (eixo+falha+correcao).
 
-## 6. BYPASS
+## 6. FICHA DE CONFERENCIA (acompanha a entrega, nao integra a peca)
+```
+FICHA DE CONFERENCIA — pre-protocolo
+- PREMISSAS: ...
+- VALORES (cada R$ → fonte): R$ __ — origem calculos-isencao-ir, data __
+- CITACOES (cada uma → status): Sum. 598/627 STJ — CONFIRMADO | VALIDAR
+- LACUNAS [INFORMAR]: ...
+- RISCOS / PONTOS ADVERSARIAIS: ...
+- VEREDITO: R1 _ · R2 _ · R3 _ · R4 _ · R5 _
+- PENDE O OK INFORMADO DO ADVOGADO antes do protocolo.
+```
+
+## 7. VEREDITO
+Cada rodada: **APROVADO** / **APROVADO COM RESSALVAS** (registra no CASO.md) / **REPROVADO** (bloqueia; aponta rodada+item+PA; devolve). Encerrar com o quadro R1-R5 + a FICHA + veredito final.
+
+## 8. BYPASS
 Apenas `--no-corte` / `--quick` explicito, registrado. Sem bypass silencioso (PA-14).
 
-## 7. ENCERRAMENTO
-So libera o documento que passa nas 4 rodadas. E a ultima barreira antes do protocolo.
+## 9. ENCERRAMENTO
+So libera o documento que passa nas 5 rodadas (R1-R4 + R5 adversarial) e que sai com a FICHA. E a ultima barreira antes do OK do advogado e do protocolo.

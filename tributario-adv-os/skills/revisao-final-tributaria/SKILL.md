@@ -52,13 +52,42 @@ metadata:
 
 ---
 
-## SAIDA
+## R5 — VERIFICACAO ADVERSARIAL (RED-TEAM)
+
+Mude de chapeu: voce AGORA e a Fazenda / o juizo cetico. Unica missao: DERROTAR a peca. Tente refutar CADA eixo; achou UMA falha real → REPROVADO.
+
+- **VALORES** — algum R$ sem origem no `calculos-tributarios`? Atualizacao ate a data certa? (regra: credito atualiza ate a constituicao/pedido, nao a data atual; decadencia x prescricao nao confundidas.)
+- **INSTRUMENTO/VIA** — e a peca certa? (excecao de pre-executividade so materia de ordem publica sem dilacao — Sum. 393; embargos exigem garantia; impugnacao x recurso CARF; anulatoria x MS.)
+- **COMPETENCIA/FORO/REU** — orgao/foro certos (exec. fiscal x DRJ/CARF x SEFAZ/TIT; ente correto)?
+- **CITACOES** — sumulas/temas batem em numero/tribunal/tese? (cruzar; atencao Tema 962 e STJ, nao STF.)
+- **PRESCRICAO/DECADENCIA** — prazos do CTN 173/174 bem contados; repeticao em 5 anos (CTN 168).
+- **POLO** — nada contra o contribuinte (ou a Fazenda, se for o polo).
+
+Veredito R5: **PASSOU** / **REPROVADO** (eixo+falha+correcao).
+
+## FICHA DE CONFERENCIA (acompanha a entrega, nao integra a peca)
+
+```
+FICHA DE CONFERENCIA — pre-protocolo
+- PREMISSAS: ...
+- VALORES (cada R$ → fonte): R$ __ — origem calculos-tributarios, data __
+- CITACOES (cada uma → status): ... — CONFIRMADO | VALIDAR
+- LACUNAS [INFORMAR]: ...
+- RISCOS / PONTOS ADVERSARIAIS: ...
+- VEREDITO: R1 _ · R2 _ · R3 _ · R4 _ · R5 _
+- PENDE O OK INFORMADO DO ADVOGADO antes do protocolo.
+```
+
+---
+
+## VEREDITO / ENCERRAMENTO
 
 ```
 R1 fundamentos/jurisprudencia: OK / CORRIGIR — [notas]
 R2 fatos/valores/prazos:       OK / CORRIGIR — [notas]
 R3 polo/via/estrategia:        OK / CORRIGIR — [notas]
 R4 forma/foro/sigilo:          OK / CORRIGIR — [notas]
+R5 adversarial (red-team):     PASSOU / REPROVADO — [eixo+falha+correcao]
 VEREDITO: LIBERADO / RETIDO
 ```
-**RETIDO** em qualquer R → volta a skill de origem. Nunca entregar com R pendente (PA-13). Apos LIBERADO → atualizar `CASO.md` (memoria-de-caso-tributario).
+**RETIDO** em qualquer R1-R5 → volta a skill de origem. Nunca entregar com R pendente (PA-13). A entrega sai **sempre acompanhada da FICHA DE CONFERENCIA** (separada da peca, para o OK do advogado antes do protocolo). Apos LIBERADO → atualizar `CASO.md` (memoria-de-caso-tributario).

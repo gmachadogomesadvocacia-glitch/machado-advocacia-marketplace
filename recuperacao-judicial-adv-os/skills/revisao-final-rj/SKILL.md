@@ -160,7 +160,43 @@ RESULTADO R4: □ APROVADO  □ APROVADO COM RESSALVAS  □ REPROVADO
 
 ---
 
-## 5. VEREDITO FINAL
+## R5 — VERIFICACAO ADVERSARIAL (RED-TEAM)
+
+Mude de chapeu: voce AGORA e a recuperanda/AJ / o juizo cetico. Unica missao:
+DERROTAR a peca. Achou UMA falha → REPROVADO.
+
+Eixos (RECUPERACAO JUDICIAL):
+- **VALORES/CLASSE** — o credito vem do calculo (atualizado ate a DATA DO PEDIDO,
+  nao a atual)? Classe I respeitando o teto de 150 SM (excedente p/ Classe III)?
+- **FATO GERADOR** — concursal x extraconcursal cravado pela data (Tema 1051 STJ)?
+- **INSTRUMENTO/VIA** — via certa (divergencia art. 7 §1 x impugnacao art. 8 x
+  retardataria art. 10 x reserva art. 6 §2)?
+- **CITACOES** — sumulas/temas batem em tese? (Tema 987 STJ esta CANCELADO; nao
+  usar como vigente.)
+- **PRESCRICAO** — habilitacao admitida ate o encerramento (REsp 1.851.692); nao
+  confundir bienal trabalhista (CF) com a habilitacao (CC).
+- **POLO** — coerente (credor x devedor x AJ); FGTS/INSS na classe certa.
+
+**Veredito R5:** PASSOU / REPROVADO (eixo+falha+correcao).
+
+---
+
+## FICHA DE CONFERENCIA (acompanha a entrega, nao integra a peca)
+
+```
+FICHA DE CONFERENCIA — pre-protocolo
+- PREMISSAS: ...
+- VALORES/CLASSE (origem calculo, data do pedido): ...
+- CITACOES (cada uma → status): Tema 1051 STJ — CONFIRMADO | VALIDAR
+- LACUNAS [INFORMAR]: ...
+- RISCOS / PONTOS ADVERSARIAIS: ...
+- VEREDITO: R1 _ · R2 _ · R3 _ · R4 _ · R5 _
+- PENDE O OK INFORMADO DO ADVOGADO antes do protocolo.
+```
+
+---
+
+## 6. VEREDITO FINAL
 
 ```
 ╔══════════════════════════════════════════════════════╗
@@ -170,6 +206,7 @@ RESULTADO R4: □ APROVADO  □ APROVADO COM RESSALVAS  □ REPROVADO
 ║  R2 (Base jurídica):    [ APROVADO / RESSALVAS / REPROVADO ] ║
 ║  R3 (Coerência):        [ APROVADO / RESSALVAS / REPROVADO ] ║
 ║  R4 (Qualidade):        [ APROVADO / RESSALVAS / REPROVADO ] ║
+║  R5 (Adversarial):      [ PASSOU / REPROVADO ]              ║
 ╠══════════════════════════════════════════════════════╣
 ║  VEREDITO GLOBAL:                                    ║
 ║  [ ] ✅ APROVADO — peça pronta para protocolo        ║
@@ -179,6 +216,8 @@ RESULTADO R4: □ APROVADO  □ APROVADO COM RESSALVAS  □ REPROVADO
 ║          [lista de falhas críticas]                   ║
 ╚══════════════════════════════════════════════════════╝
 ```
+
+Anexar sempre a FICHA DE CONFERENCIA junto da entrega (R1-R5 + FICHA).
 
 **APROVADO**: Peça pode ser protocolada / entregue ao cliente.
 

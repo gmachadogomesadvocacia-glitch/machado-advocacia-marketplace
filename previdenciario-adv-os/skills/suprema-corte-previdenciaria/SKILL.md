@@ -124,12 +124,52 @@ RESULTADO R3:
 
 FORMATO DA NOTA SUPREMA CORTE (incluir ao final das respostas quando relevante):
 ---
-[🟢 SUPREMA CORTE — R1✓ R2✓ R3✓ — Apto para entrega]
+[🟢 SUPREMA CORTE — R1✓ R2✓ R3✓ R4✓ R5✓ — Apto para entrega + FICHA]
 OU
-[🟡 SUPREMA CORTE — Ressalva: [descrever] — verificar antes de protocolar]
+[🟡 SUPREMA CORTE — Ressalva: [descrever] — verificar antes de protocolar + FICHA]
 OU
-[🔴 SUPREMA CORTE — BLOQUEADO: [PA violada] — reformulando]
+[🔴 SUPREMA CORTE — BLOQUEADO: [R1 PA / R5 eixo+falha] — reformulando]
 ---
+Apos R4, executar R5 (red-team) e anexar a FICHA DE CONFERENCIA a entrega.
+```
+
+---
+
+## R5 — VERIFICACAO ADVERSARIAL (RED-TEAM)
+
+```
+Mude de chapeu: voce AGORA e o INSS/procuradoria / o juizo cetico.
+Unica missao: DERROTAR a peca. Achou UMA falha → REPROVADO.
+
+Eixos (PREVIDENCIARIO):
+- VALORES/RMI — a RMI, a renda e os atrasados vem do calculo (data-fim correta)?
+  regra de transicao certa (EC 103)?
+- REQUISITOS DO BENEFICIO — carencia, qualidade de segurado, tempo/idade/incapacidade
+  comprovados?
+- INSTRUMENTO/VIA — previo requerimento administrativo (Tema 350 STF)?
+  acao x recurso CRPS x MS?
+- COMPETENCIA — JEF ate 60 SM; foro do domicilio; Justica Federal
+  (ou Estadual delegada)?
+- CITACOES — sumulas/temas batem em NUMERO e TRIBUNAL? (atencao: Revisao da Vida Toda
+  = Tema 1102 STF / Tema 999 STJ; nao trocar; sumulas TNU com tese correta.)
+- PRESCRICAO — parcelas quinquenais (Sum. 85 STJ)?
+
+VEREDITO R5: PASSOU / REPROVADO (eixo + falha + correcao).
+```
+
+---
+
+## FICHA DE CONFERENCIA (acompanha a entrega, nao integra a peca)
+
+```
+FICHA DE CONFERENCIA — pre-protocolo
+- PREMISSAS: ...
+- VALORES/RMI (origem calculo, data-fim): ...
+- CITACOES (cada uma → status): ... — CONFIRMADO | VALIDAR
+- LACUNAS [INFORMAR]: ...
+- RISCOS / PONTOS ADVERSARIAIS: ...
+- VEREDITO: R1 _ · R2 _ · R3 _ · R4 _ · R5 _
+- PENDE O OK INFORMADO DO ADVOGADO antes do protocolo.
 ```
 
 ---

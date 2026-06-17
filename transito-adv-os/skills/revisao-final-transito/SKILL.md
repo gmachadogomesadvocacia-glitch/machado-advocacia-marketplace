@@ -51,6 +51,21 @@ metadata:
 
 ---
 
+## R5 — VERIFICACAO ADVERSARIAL (RED-TEAM)
+
+**Mude de chapeu: voce AGORA e o orgao autuador / o juizo cetico.** Unica missao: DERROTAR a peca. Achou UMA falha real → REPROVADO.
+
+- [ ] **PRAZOS** — o prazo preclusivo (defesa previa/JARI/CETRAN, 30 dias) esta correto e tempestivo? (o erro mais fatal.)
+- [ ] **INSTANCIA/INSTRUMENTO** — a peca e da instancia certa (defesa previa × JARI × CETRAN × judicial)? sem confundir efeitos.
+- [ ] **VALORES/PONTUACAO** — pontos e limite (20/30/40) conferem com `calculos-transito`? norma vigente NA DATA da infracao (Lei 14.071)?
+- [ ] **CITACOES** — Sum. 312 (dupla notificacao) e demais batem?
+- [ ] **DUPLA NOTIFICACAO** — a tese da NA+NP foi conferida (vicio mais comum)?
+- [ ] **ETICA (PA-06)** — nada que oriente fraude de pontuacao ou indicacao falsa de condutor.
+
+**Veredito R5:** PASSOU / REPROVADO (eixo+falha+correcao).
+
+---
+
 ## SAIDA
 
 ```
@@ -58,6 +73,21 @@ R1 fundamentos/jurisprudencia: OK / CORRIGIR — [notas]
 R2 fatos do auto/prazos:       OK / CORRIGIR — [notas]
 R3 instancia/etica/defesa:     OK / CORRIGIR — [notas]
 R4 forma/orgao/sigilo:         OK / CORRIGIR — [notas]
+R5 adversarial (red-team):     PASSOU / REPROVADO — [eixo+falha+correcao]
 VEREDITO: LIBERADO / RETIDO
 ```
-**RETIDO** em qualquer R → volta a skill de origem. Nunca entregar com R pendente (PA-13), e jamais liberar peca que toque a PA-06. Apos LIBERADO → atualizar `CASO.md` (memoria-de-caso-transito).
+**RETIDO** em qualquer R (R1-R5) → volta a skill de origem. Nunca entregar com R pendente (PA-13), e jamais liberar peca que toque a PA-06. Apos LIBERADO → sai com a **FICHA DE CONFERENCIA** anexa e atualizar `CASO.md` (memoria-de-caso-transito).
+
+## FICHA DE CONFERENCIA (acompanha a entrega, nao integra a peca)
+
+```
+FICHA DE CONFERENCIA — pre-protocolo
+- PREMISSAS: ...
+- DADOS DO AUTO (placa/codigo/data/orgao) conferidos: ...
+- PRAZO (vence em): ...
+- CITACOES (cada uma → status): Sum. 312 STJ — CONFIRMADO | VALIDAR
+- LACUNAS [INFORMAR]: ...
+- RISCOS / PONTOS ADVERSARIAIS: ...
+- VEREDITO: R1 _ · R2 _ · R3 _ · R4 _ · R5 _
+- PENDE O OK INFORMADO DO ADVOGADO antes do protocolo.
+```

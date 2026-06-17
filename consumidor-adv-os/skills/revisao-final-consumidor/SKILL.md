@@ -58,6 +58,32 @@ Auditar — nao reescrever do zero. Aponta falhas exatas, classifica e devolve. 
 - Tom coerente com o polo e a persona; sem ataque pessoal (PA-17); sem tom dubitativo indevido?
 - Superendividamento: minimo existencial preservado (PA-14)?
 
+## R5 — VERIFICACAO ADVERSARIAL (RED-TEAM)
+
+Mude de chapeu: voce AGORA e o fornecedor/banco / o juizo cetico. Unica missao: DERROTAR a peca. Achou UMA falha → REPROVADO. Eixos:
+
+- **VALORES** — repeticao em dobro (art. 42 + Tema 929), revisao de juros/encargos e dano moral vem do `calculos-consumidor`?
+- **RELACAO DE CONSUMO** — ha relacao de consumo (CDC aplicavel — Sum. 297 p/ bancos)? inversao do onus cabivel?
+- **INSTRUMENTO/VIA** — peca certa (revisional x indenizatoria x defesa busca e apreensao)?
+- **CITACOES** — Sum. 297/382/385/530 e Temas batem em tese? (530 = impossibilidade de provar a taxa, nao "abusividade".)
+- **PRESCRICAO** — CDC art. 27 (5 anos) / CC conforme o caso, bem aplicado?
+- **POLO** — coerente (consumidor x fornecedor)?
+
+**Veredito R5:** PASSOU / REPROVADO (eixo + falha + correcao).
+
+## FICHA DE CONFERENCIA (acompanha a entrega, nao integra a peca)
+
+```
+FICHA DE CONFERENCIA — pre-protocolo
+- PREMISSAS: ...
+- VALORES (cada R$ → fonte): R$ __ — origem calculos-consumidor
+- CITACOES (cada uma → status): Sum. 297/385 STJ — CONFIRMADO | VALIDAR
+- LACUNAS [INFORMAR]: ...
+- RISCOS / PONTOS ADVERSARIAIS: ...
+- VEREDITO: R1 _ · R2 _ · R3 _ · R4 _ · R5 _
+- PENDE O OK INFORMADO DO ADVOGADO antes do protocolo.
+```
+
 ## 5. VEREDITO
 
 Cada rodada emite um dos tres:
@@ -65,7 +91,7 @@ Cada rodada emite um dos tres:
 - **APROVADO COM RESSALVAS** — segue, mas registra as ressalvas no CASO.md para ciencia do advogado.
 - **REPROVADO** — bloqueia. Apontar a falha exata (rodada + item + PA tocada) e devolver ao produtor para correcao; resubmeter apos corrigir.
 
-Encerrar com o quadro: R1 [..] · R2 [..] · R3 [..] · R4 [..] · **Veredito final**.
+Encerrar com o quadro: R1 [..] · R2 [..] · R3 [..] · R4 [..] · R5 [..] · **Veredito final** — e anexar a FICHA DE CONFERENCIA.
 
 ## 6. BYPASS
 
@@ -73,4 +99,4 @@ Apenas com `--no-corte` / `--quick` explicito do operador, registrado em log. Se
 
 ## 7. ENCERRAMENTO
 
-So libera a entrega o documento que passa nas 4 rodadas. A Suprema Corte e a ultima barreira antes do protocolo — e inviolavel.
+So libera a entrega o documento que passa nas rodadas R1-R5 e que sai acompanhado da FICHA DE CONFERENCIA. A Suprema Corte e a ultima barreira antes do protocolo — e inviolavel.

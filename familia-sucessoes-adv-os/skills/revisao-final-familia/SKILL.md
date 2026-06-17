@@ -161,6 +161,54 @@ RESULTADO R4: □ APROVADO  □ APROVADO COM RESSALVAS  □ REPROVADO
 
 ---
 
+## 4-B. R5 — VERIFICACAO ADVERSARIAL (RED-TEAM)
+
+> Camada 3 | Mude de chapeu: voce AGORA e a parte contraria / o juizo cetico.
+> Unica missao: DERROTAR a peca. Achou UMA falha → REPROVADO.
+
+```
+EIXOS (FAMILIA / SUCESSOES):
+
+□ VALORES — alimentos calculados pelo binomio necessidade-possibilidade?
+  Partilha respeita meacao e regime de bens? O ITCMD vem do cálculo de
+  familia (base, alíquota, isencao)?
+
+□ INSTRUMENTO / VIA — e a peca certa? (divorcio x alimentos x inventario;
+  judicial x extrajudicial; acao x acordo x tutela). Via compativel com o caso?
+
+□ COMPETENCIA / FORO — foro do alimentando / da guarda observado (art. 53 CPC)?
+  Segredo de justica requerido quando devido (art. 189 CPC)?
+
+□ REGIME DE BENS / SUCESSAO — regime correto e ordem de vocacao hereditaria
+  certa (art. 1.829 CC; Tema 809 STF para uniao estavel)?
+
+□ CITACOES — sumulas / Temas batem na tese E no tribunal certo?
+  (NAO usar Tema 692 em sucessao — e previdenciario.)
+
+□ PRESCRICAO / PRAZO — alimentos pretéritos prescritos? Prazos recursais
+  e de abertura observados?
+
+VEREDITO R5: □ PASSOU  □ REPROVADO
+  Se REPROVADO → indicar: eixo + falha + correcao.
+```
+
+---
+
+## FICHA DE CONFERENCIA (acompanha a entrega, nao integra a peca)
+
+```
+FICHA DE CONFERENCIA — pre-protocolo
+- PREMISSAS: ...
+- VALORES (cada R$ → fonte): ...
+- CITACOES (cada uma → status): Tema 809 STF — CONFIRMADO | VALIDAR
+- LACUNAS [INFORMAR]: ...
+- RISCOS / PONTOS ADVERSARIAIS: ...
+- VEREDITO: R1 _ · R2 _ · R3 _ · R4 _ · R5 _
+- PENDE O OK INFORMADO DO ADVOGADO antes do protocolo.
+```
+
+---
+
 ## 5. VEREDITO FINAL
 
 ```
@@ -171,6 +219,7 @@ RESULTADO R4: □ APROVADO  □ APROVADO COM RESSALVAS  □ REPROVADO
 ║  R2 (Base jurídica):    [ APROVADO / RESSALVAS / REPROVADO ] ║
 ║  R3 (Coerência/Polo):   [ APROVADO / RESSALVAS / REPROVADO ] ║
 ║  R4 (Qualidade):        [ APROVADO / RESSALVAS / REPROVADO ] ║
+║  R5 (Adversarial):      [ PASSOU / REPROVADO ]               ║
 ╠══════════════════════════════════════════════════════════╣
 ║  VEREDITO GLOBAL:                                        ║
 ║  [ ] ✅ APROVADO — peça pronta para protocolo            ║
@@ -188,4 +237,13 @@ Ressalvas típicas: valor de bem a confirmar, julgado a verificar, ITCMD a calcu
 
 **REPROVADO**: NUNCA protocolar. Retornar à skill que gerou a peça com lista de falhas.
 Falhas típicas: polo errado, meação/herança confundidas, pedido sem base legal, regime de
-bens equivocado, prazo perdido, menor sem proteção adequada.
+bens equivocado, prazo perdido, menor sem proteção adequada. Basta UMA falha em R5
+(adversarial) para reprovar.
+
+---
+
+## ENCERRAMENTO
+
+A auditoria so se conclui com as cinco etapas **R1-R5** vencidas e a **FICHA DE
+CONFERENCIA** anexada à entrega. A peca NAO e protocolada nem entregue sem o OK
+INFORMADO do advogado registrado na FICHA.

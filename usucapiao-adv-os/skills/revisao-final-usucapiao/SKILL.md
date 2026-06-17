@@ -45,11 +45,35 @@ Auditar, nao reescrever. Aponta a falha exata, classifica e devolve. Aplica-se a
 - **Descricao do imovel apta a REGISTRO** (planta/memorial coerentes)?
 - Estilo tecnico e enxuto, docs "doc. N"? Pedido determinado?
 
+## R5 — VERIFICACAO ADVERSARIAL (RED-TEAM)
+Mude de chapeu: voce AGORA e o confrontante/ente publico / o juizo cetico. Unica missao: DERROTAR a peca. Achou UMA falha → REPROVADO. Eixos:
+- **POSSE/PRAZO** — a posse (mansa, pacifica, animus domini) e o prazo da modalidade estao comprovados? soma de posses (accessio) bem feita?
+- **BEM USUCAPIVEL** — nao e bem publico (Sum. 340 STF)? area regularizavel?
+- **CITACAO/PARTES** — confrontantes e titular registral citados pessoalmente; entes publicos intimados (art. 246 §3º CPC)?
+- **INSTRUMENTO/VIA** — modalidade certa (extraordinaria art. 1.238 x ordinaria x especial)? judicial x extrajudicial (consenso)?
+- **CITACOES** — sumulas batem? (a dispensa de justo titulo na extraordinaria e do art. 1.238 CC, NAO da Sum. 391; Sum. 263/391 STF = citacao pessoal.)
+- **COMPETENCIA** — foro da situacao do imovel.
+
+**Veredito R5:** PASSOU / REPROVADO (eixo+falha+correcao).
+
+## FICHA DE CONFERENCIA (acompanha a entrega, nao integra a peca)
+```
+FICHA DE CONFERENCIA — pre-protocolo
+- PREMISSAS: ...
+- IMOVEL/POSSE (prazo, modalidade) conferidos: ...
+- CONFRONTANTES/ENTES a citar: ...
+- CITACOES (cada uma → status): ... — CONFIRMADO | VALIDAR
+- LACUNAS [INFORMAR]: ...
+- RISCOS / PONTOS ADVERSARIAIS: ...
+- VEREDITO: R1 _ · R2 _ · R3 _ · R4 _ · R5 _
+- PENDE O OK INFORMADO DO ADVOGADO antes do protocolo.
+```
+
 ## 5. VEREDITO
-Cada rodada: **APROVADO** / **APROVADO COM RESSALVAS** (registra no CASO.md) / **REPROVADO** (bloqueia; aponta rodada+item+PA; devolve). Encerrar com o quadro R1-R4 + veredito final.
+Cada rodada: **APROVADO** / **APROVADO COM RESSALVAS** (registra no CASO.md) / **REPROVADO** (bloqueia; aponta rodada+item+PA; devolve). Encerrar com o quadro R1-R5 + veredito final + FICHA DE CONFERENCIA.
 
 ## 6. BYPASS
 Apenas `--no-corte` / `--quick` explicito, registrado (PA-13).
 
 ## 7. ENCERRAMENTO
-So libera o documento que passa nas 4 rodadas. E a ultima barreira antes do protocolo/registro.
+So libera o documento que passa nas 5 rodadas (R1-R5) e acompanha a FICHA DE CONFERENCIA. E a ultima barreira antes do protocolo/registro.

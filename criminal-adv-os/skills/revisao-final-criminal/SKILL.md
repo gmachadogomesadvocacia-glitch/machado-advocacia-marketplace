@@ -51,6 +51,21 @@ metadata:
 
 ---
 
+## R5 — VERIFICACAO ADVERSARIAL (RED-TEAM)
+
+Mude de chapeu: voce **AGORA** e o Ministerio Publico / o juizo cetico. Unica missao: **DERROTAR** a peca. Achou UMA falha → **REPROVADO**.
+
+- [ ] **DOSIMETRIA/VALORES** — pena fechada pelo trifasico (CP 68)? Atenuante nao desce abaixo do minimo (Sum. 231 STJ)? Os numeros vem do `calculos-criminais`? Lei penal no tempo aplicada (mais benefica retroage)?
+- [ ] **PRESCRICAO** — punitiva x executoria bem calculada (CP 109/110/117)?
+- [ ] **INSTRUMENTO/VIA** — peca e instancia certas (HC x apelacao x RESE; absolvicao CPP 386 x impronuncia)?
+- [ ] **COMPETENCIA** — juiz natural respeitado (juri p/ doloso contra a vida; JECrim; foro por prerrogativa)?
+- [ ] **CITACOES** — sumulas/vinculantes batem (Sum. 691 STF; Sum. 231 STJ; SV 24)?
+- [ ] **ETICA (PA-08)** — NADA que oriente crime/destruicao de prova/fuga/coacao; sigilo da defesa preservado.
+
+**Veredito R5:** PASSOU / REPROVADO (eixo + falha + correcao).
+
+---
+
 ## SAIDA
 
 ```
@@ -58,6 +73,21 @@ R1 fundamentos/jurisprudencia: OK / CORRIGIR — [notas]
 R2 fatos/pena/prescricao:      OK / CORRIGIR — [notas]
 R3 polo/garantias/etica:       OK / CORRIGIR — [notas]
 R4 forma/competencia/sigilo:   OK / CORRIGIR — [notas]
+R5 adversarial (red-team):     PASSOU / REPROVADO — [eixo+falha+correcao]
 VEREDITO: LIBERADO / RETIDO
 ```
-**RETIDO** em qualquer R → volta a skill de origem. Nunca entregar com R pendente (PA-13), e jamais liberar peca que toque a PA-08. Apos LIBERADO → atualizar `CASO.md` (memoria-de-caso-criminal).
+**RETIDO** em qualquer R1-R5 → volta a skill de origem. Nunca entregar com R pendente (PA-13), e jamais liberar peca que toque a PA-08. Apos LIBERADO → emitir a FICHA DE CONFERENCIA e atualizar `CASO.md` (memoria-de-caso-criminal).
+
+## FICHA DE CONFERENCIA (acompanha a entrega, nao integra a peca)
+
+```
+FICHA DE CONFERENCIA — pre-protocolo
+- PREMISSAS: ...
+- DOSIMETRIA/PRAZOS (origem calculos-criminais): ...
+- CITACOES (cada uma → status): ... — CONFIRMADO | VALIDAR
+- LACUNAS [INFORMAR]: ...
+- RISCOS / PONTOS ADVERSARIAIS: ...
+- CHECAGEM PA-08 (nada de obstrucao): OK
+- VEREDITO: R1 _ · R2 _ · R3 _ · R4 _ · R5 _
+- PENDE O OK INFORMADO DO ADVOGADO antes do protocolo.
+```

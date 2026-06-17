@@ -52,6 +52,35 @@ metadata:
 
 ---
 
+## R5 — VERIFICACAO ADVERSARIAL (RED-TEAM)
+
+Mude de chapeu: voce AGORA e a parte contraria / o juizo cetico. Unica missao: DERROTAR a peca. Achou UMA falha → REPROVADO.
+
+- **POSSE x PROPRIEDADE** — a peca discute posse onde devia (possessoria nao discute dominio — Sum. 487)? via correta (possessoria x petitoria; despejo x cobranca)?
+- **VALORES** — debito/purgacao/quantum vem do `calculos-imobiliarios`? reajuste/multa corretos?
+- **LIMINAR/PRAZO** — liminar de despejo so nas hipoteses do art. 59 §1º + caucao? renovatoria no prazo decadencial (art. 51 §5º)?
+- **COMPETENCIA/FORO** — foro da situacao do imovel (art. 47 CPC) para acoes reais?
+- **CITACOES** — Sum. 380/619 e demais batem em tese? (atencao: 380=mora na revisional; 619=detencao de bem publico.)
+- **GARANTIA** — vedada cumulacao de garantia locaticia (art. 37)?
+
+**Veredito R5:** PASSOU / REPROVADO (eixo+falha+correcao).
+
+## FICHA DE CONFERENCIA (acompanha a entrega, nao integra a peca)
+
+```
+FICHA DE CONFERENCIA — pre-protocolo
+- PREMISSAS: ...
+- IMOVEL (matricula/area) e CONTRATO conferidos: ...
+- VALORES (cada R$ → fonte): R$ __ — origem calculos-imobiliarios
+- CITACOES (cada uma → status): ... — CONFIRMADO | VALIDAR
+- LACUNAS [INFORMAR]: ...
+- RISCOS / PONTOS ADVERSARIAIS: ...
+- VEREDITO: R1 _ · R2 _ · R3 _ · R4 _ · R5 _
+- PENDE O OK INFORMADO DO ADVOGADO antes do protocolo.
+```
+
+---
+
 ## SAIDA
 
 ```
@@ -59,6 +88,7 @@ R1 fundamentos/jurisprudencia: OK / CORRIGIR — [notas]
 R2 fatos/imovel/prazos:        OK / CORRIGIR — [notas]
 R3 polo/via/posse-propriedade: OK / CORRIGIR — [notas]
 R4 forma/foro/sigilo:          OK / CORRIGIR — [notas]
+R5 adversarial (red-team):     PASSOU / REPROVADO — [eixo+falha+correcao]
 VEREDITO: LIBERADO / RETIDO
 ```
-**RETIDO** em qualquer R → volta a skill de origem. Nunca entregar com R pendente (PA-13). Apos LIBERADO → atualizar `CASO.md` (memoria-de-caso-imobiliario).
+**RETIDO** em qualquer R1-R5 (ou REPROVADO no R5) → volta a skill de origem. Nunca entregar com R pendente (PA-13). Toda entrega vai acompanhada da **FICHA DE CONFERENCIA** preenchida. Apos LIBERADO → atualizar `CASO.md` (memoria-de-caso-imobiliario).

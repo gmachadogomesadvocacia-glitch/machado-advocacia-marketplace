@@ -51,6 +51,21 @@ metadata:
 
 ---
 
+## R5 — VERIFICACAO ADVERSARIAL (RED-TEAM)
+
+Mude de chapeu: voce AGORA e a parte contraria / o juizo cetico. Unica missao: DERROTAR a peca. Achou UMA falha → REPROVADO.
+
+- [ ] **VALORES** — dano (emergente x cessante), juros (Sum. 54 evento x citacao) e correcao (Sum. 362) vem do `calculos-civeis`? quantum fundamentado?
+- [ ] **INSTRUMENTO/VIA** — peca certa (monitoria x cobranca x execucao; declaratoria x condenatoria)? cumulacao compativel (CPC 327)?
+- [ ] **RESP. CONTRATUAL x EXTRACONTRATUAL** — regime certo (onus/prazo)?
+- [ ] **COMPETENCIA/FORO** — domicilio do reu (CPC 46); reparacao de dano (CPC 53 IV/V)?
+- [ ] **PRESCRICAO x DECADENCIA** — CC 205/206 bem aplicados (reparacao 3 anos)?
+- [ ] **CABIMENTO CIVEL RESIDUAL** — a materia nao pertence a outro plugin (consumo/familia/imovel/medico)?
+
+**Veredito R5:** PASSOU / REPROVADO (eixo+falha+correcao).
+
+---
+
 ## SAIDA
 
 ```
@@ -58,6 +73,20 @@ R1 fundamentos/jurisprudencia: OK / CORRIGIR — [notas]
 R2 fatos/quantum/prazos:       OK / CORRIGIR — [notas]
 R3 polo/via/cabimento:         OK / CORRIGIR — [notas]
 R4 forma/foro/sigilo:          OK / CORRIGIR — [notas]
+R5 adversarial (red-team):     PASSOU / REPROVADO — [eixo+falha+correcao]
 VEREDITO: LIBERADO / RETIDO
 ```
-**RETIDO** em qualquer R → volta a skill de origem. Nunca entregar com R pendente (PA-13). Apos LIBERADO → atualizar `CASO.md` (memoria-de-caso-civel).
+**RETIDO** em qualquer R (R1-R5) → volta a skill de origem. Nunca entregar com R pendente (PA-13). Apos LIBERADO → emitir a FICHA DE CONFERENCIA junto da entrega e atualizar `CASO.md` (memoria-de-caso-civel).
+
+## FICHA DE CONFERENCIA (acompanha a entrega, nao integra a peca)
+
+```
+FICHA DE CONFERENCIA — pre-protocolo
+- PREMISSAS: ...
+- VALORES (cada R$ → fonte): R$ __ — origem calculos-civeis
+- CITACOES (cada uma → status): Sum. 54/362 STJ — CONFIRMADO | VALIDAR
+- LACUNAS [INFORMAR]: ...
+- RISCOS / PONTOS ADVERSARIAIS: ...
+- VEREDITO: R1 _ · R2 _ · R3 _ · R4 _ · R5 _
+- PENDE O OK INFORMADO DO ADVOGADO antes do protocolo.
+```

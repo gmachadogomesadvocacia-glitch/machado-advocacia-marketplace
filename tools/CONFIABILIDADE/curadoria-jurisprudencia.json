@@ -129,6 +129,33 @@
     "STJ|Sum|127": {"status": "CONFIRMADO", "enunciado": "E ilegal condicionar a renovacao da licenca de veiculo ao pagamento de multa da qual o infrator nao foi notificado.", "fonte": "web STJ", "data": "2026-06-18"},
     "STJ|Sum|434": {"status": "CONFIRMADO", "enunciado": "O pagamento da multa por infracao de transito nao inibe a discussao judicial do debito.", "fonte": "web STJ", "data": "2026-06-18"},
     "STJ|Sum|510": {"status": "CONFIRMADO", "enunciado": "A liberacao de veiculo retido por transporte irregular de passageiros nao se condiciona ao pagamento de multas e despesas.", "fonte": "web STJ", "data": "2026-06-18"},
-    "STJ|Sum|447": {"status": "CONFIRMADO", "enunciado": "Os Estados e o DF sao partes legitimas na acao de restituicao de IR retido na fonte proposta por seus servidores (IR pertence ao ente — base da isencao RPPS).", "fonte": "web STJ (scon) — DJe 13/05/2010", "data": "2026-06-18"}
+    "STJ|Sum|447": {"status": "CONFIRMADO", "enunciado": "Os Estados e o DF sao partes legitimas na acao de restituicao de IR retido na fonte proposta por seus servidores (IR pertence ao ente — base da isencao RPPS).", "fonte": "web STJ (scon) — DJe 13/05/2010", "data": "2026-06-18"},
+
+    "STJ|Sum|608": {"status": "CONFIRMADO", "enunciado": "Aplica-se o CDC aos contratos de plano de saude, salvo os administrados por entidades de autogestao.", "fonte": "web STJ", "data": "2026-06-18"},
+    "STJ|Sum|469": {"status": "SUPERADO", "enunciado": "CANCELADA em 2018 (DJe 17/04/2018) — substituida pela Sumula 608 STJ.", "fonte": "web STJ", "data": "2026-06-18"},
+    "STJ|Sum|302": {"status": "CONFIRMADO", "enunciado": "E abusiva a clausula contratual de plano de saude que limita no tempo a internacao hospitalar do segurado.", "fonte": "web STJ", "data": "2026-06-18"},
+    "STJ|Sum|597": {"status": "CONFIRMADO", "enunciado": "A clausula de carencia para urgencia/emergencia e abusiva se ultrapassar 24h da contratacao do plano.", "fonte": "web STJ", "data": "2026-06-18"},
+    "STJ|Sum|609": {"status": "CONFIRMADO", "enunciado": "A recusa de cobertura por doenca preexistente e ilicita se nao houve exigencia de exames previos nem prova de ma-fe do contratante.", "fonte": "web STJ", "data": "2026-06-18"},
+    "STJ|Tema|1016": {"status": "CONFIRMADO", "enunciado": "Reajuste por faixa etaria em planos coletivos: valido se previsto em contrato, conforme normas da ANS e sem percentuais desarrazoados (aplica as teses do Tema 952).", "fonte": "web STJ", "data": "2026-06-18"},
+    "STJ|Tema|1365": {"status": "CONFIRMADO", "enunciado": "A recusa indevida de cobertura pelo plano de saude NAO gera dano moral presumido (in re ipsa); exige prova do dano (abr/2026).", "fonte": "web STJ", "data": "2026-06-18"},
+
+    "STJ|Sum|336": {"status": "CONFIRMADO", "enunciado": "A mulher que renunciou aos alimentos na separacao tem direito a pensao por morte do ex-marido, comprovada a necessidade economica superveniente.", "fonte": "web STJ", "data": "2026-06-18"},
+    "STJ|Sum|416": {"status": "CONFIRMADO", "enunciado": "E devida a pensao por morte aos dependentes do segurado que, apesar de perder a qualidade, preencheu os requisitos para aposentadoria ate o obito.", "fonte": "web STJ", "data": "2026-06-18"},
+    "STJ|Sum|340": {"status": "CONFIRMADO", "enunciado": "A lei aplicavel a concessao de pensao por morte e a vigente na data do obito do segurado.", "fonte": "web STJ", "data": "2026-06-18"},
+    "STF|Tema|89": {"status": "CONFIRMADO", "enunciado": "Auxilio-reclusao: a renda considerada e a do SEGURADO preso, nao a dos dependentes (RE 587.365).", "fonte": "web STF", "data": "2026-06-18"},
+    "STJ|Tema|896": {"status": "CONFIRMADO", "enunciado": "Auxilio-reclusao (regime anterior a MP 871/2019): para o segurado sem renda ao tempo da prisao, o criterio e a ausencia de renda, nao o ultimo salario.", "fonte": "web STJ", "data": "2026-06-18"},
+    "TNU|Sum|63": {"status": "CONFIRMADO", "enunciado": "Comprovacao de uniao estavel para pensao por morte (fatos ate a MP 871/2019) prescinde de inicio de prova material (enunciado alterado em 09/2025 — confirmar texto).", "fonte": "web TNU/CJF", "data": "2026-06-18"},
+
+    "STJ|Sum|600": {"status": "CONFIRMADO", "enunciado": "Para a configuracao da violencia domestica e familiar (art. 5 Lei 11.340) nao se exige a coabitacao entre autor e vitima.", "fonte": "web STJ", "data": "2026-06-18"},
+    "STJ|Sum|588": {"status": "CONFIRMADO", "enunciado": "Crime/contravencao contra a mulher com violencia ou grave ameaca no ambito domestico impossibilita a substituicao da pena privativa por restritiva de direitos.", "fonte": "web STJ", "data": "2026-06-18"},
+    "STJ|Sum|589": {"status": "CONFIRMADO", "enunciado": "E inaplicavel o principio da insignificancia nos crimes/contravencoes praticados contra a mulher no ambito das relacoes domesticas.", "fonte": "web STJ", "data": "2026-06-18"},
+    "STJ|Sum|542": {"status": "CONFIRMADO", "enunciado": "A acao penal na lesao corporal resultante de violencia domestica contra a mulher e publica INCONDICIONADA.", "fonte": "web STJ", "data": "2026-06-18"},
+
+    "STF|Tema|825": {"status": "CONFIRMADO", "enunciado": "Vedado aos Estados/DF instituir ITCMD sobre doador/de cujus no exterior (art. 155 §1 III CF) sem lei complementar federal (RE 851.108; modulacao 20/04/2021).", "fonte": "web STF", "data": "2026-06-18"},
+    "STF|Tema|21": {"status": "CONFIRMADO", "enunciado": "E constitucional a progressividade de aliquotas do ITCMD (RE 562.045); a EC 132/2023 a tornou obrigatoria.", "fonte": "web STF", "data": "2026-06-18"},
+    "STF|Sum|112": {"status": "CONFIRMADO", "enunciado": "O ITCMD (causa mortis) e devido pela aliquota vigente ao tempo da abertura da sucessao.", "fonte": "web STF", "data": "2026-06-18"},
+    "STF|Sum|113": {"status": "CONFIRMADO", "enunciado": "O ITCMD (causa mortis) e calculado sobre o valor dos bens na data da avaliacao.", "fonte": "web STF", "data": "2026-06-18"},
+    "STF|Sum|114": {"status": "CONFIRMADO", "enunciado": "O ITCMD (causa mortis) nao e exigivel antes da homologacao do calculo.", "fonte": "web STF", "data": "2026-06-18"},
+    "STF|Sum|331": {"status": "CONFIRMADO", "enunciado": "E legitima a incidencia do ITCMD no inventario por morte presumida.", "fonte": "web STF", "data": "2026-06-18"}
   }
 }

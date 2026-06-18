@@ -30,6 +30,15 @@ metadata:
 - **Fundo de pensao (EFPC)** → entidade que paga a complementacao.
 - Identificar quem **retem** o IR define onde protocolar a cessacao do desconto.
 
+### 1.1 Complementacao de aposentadoria por EFPC (fundo de pensao)
+A complementacao paga pela EFPC tem **natureza de provento de aposentadoria** — logo, a isencao
+do art. 6, XIV, da Lei 7.713/88 **alcanca tambem essa complementacao** (mesma logica das Sum. 598
+e 627 STJ; a doenca grave do rol isenta o provento, qualquer que seja a fonte pagadora). Protocolar
+o requerimento NA EFPC (cessacao da retencao na complementacao) **e** no INSS/RPPS (sobre o
+beneficio basico), pois sao fontes distintas que retem separadamente. Atencao: PGBL/VGBL na fase de
+**resgate** tem regra propria de tributacao — confirmar se o que se discute e complementacao de
+aposentadoria (isentavel) ou resgate de plano (regra diversa). Restituicao dos anos: via DIRPF (sec. 3).
+
 ## 2. ESTRUTURA DO REQUERIMENTO
 1. **Qualificacao** do requerente e do beneficio (numero, especie).
 2. **Fato:** aposentado/pensionista (doc. N), portador de [doenca do rol] conforme **laudo de servico medico oficial** (doc. N); sofre retencao de IRPF sobre os proventos desde [data].

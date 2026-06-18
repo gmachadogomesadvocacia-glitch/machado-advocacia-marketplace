@@ -1,13 +1,27 @@
 {
  "_doc": "Livro-razao de jurisprudencia (Camada 1). Gerado por gerar-livro-razao.py a partir das skills + curadoria. Status: CONFIRMADO (verificado, com fonte/data) | VALIDAR (extraido, a re-verificar) | SUPERADO (cancelado/superado) | REMOVIDO. As skills so devem citar o que esta aqui; check-jurisprudencia.py faz cumprir.",
  "resumo": {
-  "total": 127,
-  "CONFIRMADO": 118,
-  "VALIDAR": 7,
-  "SUPERADO": 2,
+  "total": 153,
+  "CONFIRMADO": 140,
+  "VALIDAR": 10,
+  "SUPERADO": 3,
   "REMOVIDO": 0
  },
  "entradas": {
+  "?|Sum|112": {
+   "tribunal": "?",
+   "tipo": "Sum",
+   "numero": "112",
+   "status": "VALIDAR",
+   "enunciado": "",
+   "fonte": "",
+   "data": "",
+   "plugins": [
+    "tributario-adv-os"
+   ],
+   "ocorrencias": 4,
+   "nota": ""
+  },
   "?|Sum|269": {
    "tribunal": "?",
    "tipo": "Sum",
@@ -21,6 +35,20 @@
     "tributario-adv-os"
    ],
    "ocorrencias": 2,
+   "nota": ""
+  },
+  "?|Sum|340": {
+   "tribunal": "?",
+   "tipo": "Sum",
+   "numero": "340",
+   "status": "VALIDAR",
+   "enunciado": "",
+   "fonte": "",
+   "data": "",
+   "plugins": [
+    "previdenciario-adv-os"
+   ],
+   "ocorrencias": 1,
    "nota": ""
   },
   "?|Sum|393": {
@@ -64,6 +92,20 @@
     "recuperacao-judicial-adv-os"
    ],
    "ocorrencias": 2,
+   "nota": ""
+  },
+  "?|Tema|952": {
+   "tribunal": "?",
+   "tipo": "Tema",
+   "numero": "952",
+   "status": "VALIDAR",
+   "enunciado": "",
+   "fonte": "",
+   "data": "",
+   "plugins": [
+    "consumidor-adv-os"
+   ],
+   "ocorrencias": 1,
    "nota": ""
   },
   "?|Tema|999": {
@@ -164,6 +206,48 @@
    "ocorrencias": 4,
    "nota": ""
   },
+  "STF|Sum|112": {
+   "tribunal": "STF",
+   "tipo": "Sum",
+   "numero": "112",
+   "status": "CONFIRMADO",
+   "enunciado": "O ITCMD (causa mortis) e devido pela aliquota vigente ao tempo da abertura da sucessao.",
+   "fonte": "web STF",
+   "data": "2026-06-18",
+   "plugins": [
+    "tributario-adv-os"
+   ],
+   "ocorrencias": 2,
+   "nota": ""
+  },
+  "STF|Sum|113": {
+   "tribunal": "STF",
+   "tipo": "Sum",
+   "numero": "113",
+   "status": "CONFIRMADO",
+   "enunciado": "O ITCMD (causa mortis) e calculado sobre o valor dos bens na data da avaliacao.",
+   "fonte": "web STF",
+   "data": "2026-06-18",
+   "plugins": [
+    "tributario-adv-os"
+   ],
+   "ocorrencias": 2,
+   "nota": ""
+  },
+  "STF|Sum|114": {
+   "tribunal": "STF",
+   "tipo": "Sum",
+   "numero": "114",
+   "status": "CONFIRMADO",
+   "enunciado": "O ITCMD (causa mortis) nao e exigivel antes da homologacao do calculo.",
+   "fonte": "web STF",
+   "data": "2026-06-18",
+   "plugins": [
+    "tributario-adv-os"
+   ],
+   "ocorrencias": 2,
+   "nota": ""
+  },
   "STF|Sum|145": {
    "tribunal": "STF",
    "tipo": "Sum",
@@ -255,6 +339,20 @@
    "numero": "271",
    "status": "CONFIRMADO",
    "enunciado": "Concessao de MS nao produz efeitos patrimoniais de periodo preterito, reclamados pela via propria.",
+   "fonte": "web STF",
+   "data": "2026-06-18",
+   "plugins": [
+    "tributario-adv-os"
+   ],
+   "ocorrencias": 1,
+   "nota": ""
+  },
+  "STF|Sum|331": {
+   "tribunal": "STF",
+   "tipo": "Sum",
+   "numero": "331",
+   "status": "CONFIRMADO",
+   "enunciado": "E legitima a incidencia do ITCMD no inventario por morte presumida.",
    "fonte": "web STF",
    "data": "2026-06-18",
    "plugins": [
@@ -418,6 +516,20 @@
    "ocorrencias": 2,
    "nota": ""
   },
+  "STF|Tema|21": {
+   "tribunal": "STF",
+   "tipo": "Tema",
+   "numero": "21",
+   "status": "CONFIRMADO",
+   "enunciado": "E constitucional a progressividade de aliquotas do ITCMD (RE 562.045); a EC 132/2023 a tornou obrigatoria.",
+   "fonte": "web STF",
+   "data": "2026-06-18",
+   "plugins": [
+    "tributario-adv-os"
+   ],
+   "ocorrencias": 2,
+   "nota": ""
+  },
   "STF|Tema|210": {
    "tribunal": "STF",
    "tipo": "Tema",
@@ -516,6 +628,34 @@
    "ocorrencias": 4,
    "nota": ""
   },
+  "STF|Tema|825": {
+   "tribunal": "STF",
+   "tipo": "Tema",
+   "numero": "825",
+   "status": "CONFIRMADO",
+   "enunciado": "Vedado aos Estados/DF instituir ITCMD sobre doador/de cujus no exterior (art. 155 §1 III CF) sem lei complementar federal (RE 851.108; modulacao 20/04/2021).",
+   "fonte": "web STF",
+   "data": "2026-06-18",
+   "plugins": [
+    "tributario-adv-os"
+   ],
+   "ocorrencias": 2,
+   "nota": ""
+  },
+  "STF|Tema|89": {
+   "tribunal": "STF",
+   "tipo": "Tema",
+   "numero": "89",
+   "status": "CONFIRMADO",
+   "enunciado": "Auxilio-reclusao: a renda considerada e a do SEGURADO preso, nao a dos dependentes (RE 587.365).",
+   "fonte": "web STF",
+   "data": "2026-06-18",
+   "plugins": [
+    "previdenciario-adv-os"
+   ],
+   "ocorrencias": 2,
+   "nota": ""
+  },
   "STF|Tema|982": {
    "tribunal": "STF",
    "tipo": "Tema",
@@ -581,7 +721,7 @@
    "plugins": [
     "tributario-adv-os"
    ],
-   "ocorrencias": 8,
+   "ocorrencias": 4,
    "nota": ""
   },
   "STJ|Sum|127": {
@@ -766,6 +906,20 @@
    "ocorrencias": 2,
    "nota": ""
   },
+  "STJ|Sum|302": {
+   "tribunal": "STJ",
+   "tipo": "Sum",
+   "numero": "302",
+   "status": "CONFIRMADO",
+   "enunciado": "E abusiva a clausula contratual de plano de saude que limita no tempo a internacao hospitalar do segurado.",
+   "fonte": "web STJ",
+   "data": "2026-06-18",
+   "plugins": [
+    "consumidor-adv-os"
+   ],
+   "ocorrencias": 1,
+   "nota": ""
+  },
   "STJ|Sum|308": {
    "tribunal": "STJ",
    "tipo": "Sum",
@@ -860,6 +1014,34 @@
    "data": "2026-06-18",
    "plugins": [
     "imobiliario-adv-os"
+   ],
+   "ocorrencias": 2,
+   "nota": ""
+  },
+  "STJ|Sum|336": {
+   "tribunal": "STJ",
+   "tipo": "Sum",
+   "numero": "336",
+   "status": "CONFIRMADO",
+   "enunciado": "A mulher que renunciou aos alimentos na separacao tem direito a pensao por morte do ex-marido, comprovada a necessidade economica superveniente.",
+   "fonte": "web STJ",
+   "data": "2026-06-18",
+   "plugins": [
+    "previdenciario-adv-os"
+   ],
+   "ocorrencias": 2,
+   "nota": ""
+  },
+  "STJ|Sum|340": {
+   "tribunal": "STJ",
+   "tipo": "Sum",
+   "numero": "340",
+   "status": "CONFIRMADO",
+   "enunciado": "A lei aplicavel a concessao de pensao por morte e a vigente na data do obito do segurado.",
+   "fonte": "web STJ",
+   "data": "2026-06-18",
+   "plugins": [
+    "previdenciario-adv-os"
    ],
    "ocorrencias": 2,
    "nota": ""
@@ -1061,6 +1243,20 @@
    "ocorrencias": 1,
    "nota": ""
   },
+  "STJ|Sum|416": {
+   "tribunal": "STJ",
+   "tipo": "Sum",
+   "numero": "416",
+   "status": "CONFIRMADO",
+   "enunciado": "E devida a pensao por morte aos dependentes do segurado que, apesar de perder a qualidade, preencheu os requisitos para aposentadoria ate o obito.",
+   "fonte": "web STJ",
+   "data": "2026-06-18",
+   "plugins": [
+    "previdenciario-adv-os"
+   ],
+   "ocorrencias": 2,
+   "nota": ""
+  },
   "STJ|Sum|43": {
    "tribunal": "STJ",
    "tipo": "Sum",
@@ -1201,6 +1397,18 @@
    "ocorrencias": 2,
    "nota": ""
   },
+  "STJ|Sum|469": {
+   "tribunal": "STJ",
+   "tipo": "Sum",
+   "numero": "469",
+   "status": "SUPERADO",
+   "enunciado": "CANCELADA em 2018 (DJe 17/04/2018) — substituida pela Sumula 608 STJ.",
+   "fonte": "auditoria de jurisprudencia (web, STF/STJ/TST/TNU) — Eixo 1, commit bacceec",
+   "data": "2026-06-16",
+   "plugins": [],
+   "ocorrencias": 0,
+   "nota": "curado, nao citado nas skills"
+  },
   "STJ|Sum|472": {
    "tribunal": "STJ",
    "tipo": "Sum",
@@ -1240,7 +1448,7 @@
    "plugins": [
     "recuperacao-judicial-adv-os"
    ],
-   "ocorrencias": 9,
+   "ocorrencias": 10,
    "nota": ""
   },
   "STJ|Sum|491": {
@@ -1355,6 +1563,20 @@
    "ocorrencias": 18,
    "nota": ""
   },
+  "STJ|Sum|542": {
+   "tribunal": "STJ",
+   "tipo": "Sum",
+   "numero": "542",
+   "status": "CONFIRMADO",
+   "enunciado": "A acao penal na lesao corporal resultante de violencia domestica contra a mulher e publica INCONDICIONADA.",
+   "fonte": "web STJ",
+   "data": "2026-06-18",
+   "plugins": [
+    "criminal-adv-os"
+   ],
+   "ocorrencias": 2,
+   "nota": ""
+  },
   "STJ|Sum|543": {
    "tribunal": "STJ",
    "tipo": "Sum",
@@ -1409,7 +1631,35 @@
    "plugins": [
     "recuperacao-judicial-adv-os"
    ],
+   "ocorrencias": 4,
+   "nota": ""
+  },
+  "STJ|Sum|588": {
+   "tribunal": "STJ",
+   "tipo": "Sum",
+   "numero": "588",
+   "status": "CONFIRMADO",
+   "enunciado": "Crime/contravencao contra a mulher com violencia ou grave ameaca no ambito domestico impossibilita a substituicao da pena privativa por restritiva de direitos.",
+   "fonte": "web STJ",
+   "data": "2026-06-18",
+   "plugins": [
+    "criminal-adv-os"
+   ],
    "ocorrencias": 2,
+   "nota": ""
+  },
+  "STJ|Sum|589": {
+   "tribunal": "STJ",
+   "tipo": "Sum",
+   "numero": "589",
+   "status": "CONFIRMADO",
+   "enunciado": "E inaplicavel o principio da insignificancia nos crimes/contravencoes praticados contra a mulher no ambito das relacoes domesticas.",
+   "fonte": "web STJ",
+   "data": "2026-06-18",
+   "plugins": [
+    "criminal-adv-os"
+   ],
+   "ocorrencias": 1,
    "nota": ""
   },
   "STJ|Sum|596": {
@@ -1426,6 +1676,20 @@
    "ocorrencias": 1,
    "nota": ""
   },
+  "STJ|Sum|597": {
+   "tribunal": "STJ",
+   "tipo": "Sum",
+   "numero": "597",
+   "status": "CONFIRMADO",
+   "enunciado": "A clausula de carencia para urgencia/emergencia e abusiva se ultrapassar 24h da contratacao do plano.",
+   "fonte": "web STJ",
+   "data": "2026-06-18",
+   "plugins": [
+    "consumidor-adv-os"
+   ],
+   "ocorrencias": 1,
+   "nota": ""
+  },
   "STJ|Sum|598": {
    "tribunal": "STJ",
    "tipo": "Sum",
@@ -1437,7 +1701,49 @@
    "plugins": [
     "isencao-ir-doenca-adv-os"
    ],
-   "ocorrencias": 35,
+   "ocorrencias": 36,
+   "nota": ""
+  },
+  "STJ|Sum|600": {
+   "tribunal": "STJ",
+   "tipo": "Sum",
+   "numero": "600",
+   "status": "CONFIRMADO",
+   "enunciado": "Para a configuracao da violencia domestica e familiar (art. 5 Lei 11.340) nao se exige a coabitacao entre autor e vitima.",
+   "fonte": "web STJ",
+   "data": "2026-06-18",
+   "plugins": [
+    "criminal-adv-os"
+   ],
+   "ocorrencias": 2,
+   "nota": ""
+  },
+  "STJ|Sum|608": {
+   "tribunal": "STJ",
+   "tipo": "Sum",
+   "numero": "608",
+   "status": "CONFIRMADO",
+   "enunciado": "Aplica-se o CDC aos contratos de plano de saude, salvo os administrados por entidades de autogestao.",
+   "fonte": "web STJ",
+   "data": "2026-06-18",
+   "plugins": [
+    "consumidor-adv-os"
+   ],
+   "ocorrencias": 2,
+   "nota": ""
+  },
+  "STJ|Sum|609": {
+   "tribunal": "STJ",
+   "tipo": "Sum",
+   "numero": "609",
+   "status": "CONFIRMADO",
+   "enunciado": "A recusa de cobertura por doenca preexistente e ilicita se nao houve exigencia de exames previos nem prova de ma-fe do contratante.",
+   "fonte": "web STJ",
+   "data": "2026-06-18",
+   "plugins": [
+    "consumidor-adv-os"
+   ],
+   "ocorrencias": 1,
    "nota": ""
   },
   "STJ|Sum|619": {
@@ -1539,6 +1845,20 @@
    "ocorrencias": 0,
    "nota": "curado, nao citado nas skills"
   },
+  "STJ|Tema|1016": {
+   "tribunal": "STJ",
+   "tipo": "Tema",
+   "numero": "1016",
+   "status": "CONFIRMADO",
+   "enunciado": "Reajuste por faixa etaria em planos coletivos: valido se previsto em contrato, conforme normas da ANS e sem percentuais desarrazoados (aplica as teses do Tema 952).",
+   "fonte": "web STJ",
+   "data": "2026-06-18",
+   "plugins": [
+    "consumidor-adv-os"
+   ],
+   "ocorrencias": 1,
+   "nota": ""
+  },
   "STJ|Tema|1051": {
    "tribunal": "STJ",
    "tipo": "Tema",
@@ -1551,6 +1871,20 @@
     "recuperacao-judicial-adv-os"
    ],
    "ocorrencias": 16,
+   "nota": ""
+  },
+  "STJ|Tema|1365": {
+   "tribunal": "STJ",
+   "tipo": "Tema",
+   "numero": "1365",
+   "status": "CONFIRMADO",
+   "enunciado": "A recusa indevida de cobertura pelo plano de saude NAO gera dano moral presumido (in re ipsa); exige prova do dano (abr/2026).",
+   "fonte": "web STJ",
+   "data": "2026-06-18",
+   "plugins": [
+    "consumidor-adv-os"
+   ],
+   "ocorrencias": 2,
    "nota": ""
   },
   "STJ|Tema|566": {
@@ -1592,7 +1926,7 @@
    "plugins": [
     "recuperacao-judicial-adv-os"
    ],
-   "ocorrencias": 4,
+   "ocorrencias": 6,
    "nota": ""
   },
   "STJ|Tema|692": {
@@ -1621,6 +1955,20 @@
     "consumidor-adv-os"
    ],
    "ocorrencias": 3,
+   "nota": ""
+  },
+  "STJ|Tema|896": {
+   "tribunal": "STJ",
+   "tipo": "Tema",
+   "numero": "896",
+   "status": "CONFIRMADO",
+   "enunciado": "Auxilio-reclusao (regime anterior a MP 871/2019): para o segurado sem renda ao tempo da prisao, o criterio e a ausencia de renda, nao o ultimo salario.",
+   "fonte": "web STJ",
+   "data": "2026-06-18",
+   "plugins": [
+    "previdenciario-adv-os"
+   ],
+   "ocorrencias": 1,
    "nota": ""
   },
   "STJ|Tema|905": {
@@ -1745,6 +2093,20 @@
     "previdenciario-adv-os"
    ],
    "ocorrencias": 5,
+   "nota": ""
+  },
+  "TNU|Sum|63": {
+   "tribunal": "TNU",
+   "tipo": "Sum",
+   "numero": "63",
+   "status": "CONFIRMADO",
+   "enunciado": "Comprovacao de uniao estavel para pensao por morte (fatos ate a MP 871/2019) prescinde de inicio de prova material (enunciado alterado em 09/2025 — confirmar texto).",
+   "fonte": "web TNU/CJF",
+   "data": "2026-06-18",
+   "plugins": [
+    "previdenciario-adv-os"
+   ],
+   "ocorrencias": 2,
    "nota": ""
   },
   "TNU|Tema|17": {

@@ -7,6 +7,8 @@ Roda TODAS as travas de confiabilidade e so retorna 0 se TUDO passar:
   2. engine: guarda do encanamento (tools/check-engine.py — Eixo 2) [se existir]
   3. regressao: tools/CONFIABILIDADE/check-regressao.py (Camada 4)
   4. jurisprudencia: tools/CONFIABILIDADE/check-jurisprudencia.py (Camada 1)
+  5. tokens: tools/CONFIABILIDADE/check-tokens.py (guarda de typo/drift de token)
+  6. sigilo: tools/CONFIABILIDADE/check-sigilo.py (PII no repo publico — LGPD)
 
 Uso:  py tools/CONFIABILIDADE/pre-publicacao.py   (rodar ANTES de git push)
 Exit 1 se qualquer trava falhar.
@@ -62,6 +64,10 @@ secao("3. REGRESSAO (Camada 4)")
 roda("regressao", "tools/CONFIABILIDADE/check-regressao.py")
 secao("4. JURISPRUDENCIA (Camada 1)")
 roda("jurisprudencia", "tools/CONFIABILIDADE/check-jurisprudencia.py")
+secao("5. TOKENS (guarda de typo/drift)")
+roda("tokens", "tools/CONFIABILIDADE/check-tokens.py")
+secao("6. SIGILO / PII (LGPD — repo publico)")
+roda("sigilo", "tools/CONFIABILIDADE/check-sigilo.py")
 
 print("\n" + "=" * 48)
 if falhas:

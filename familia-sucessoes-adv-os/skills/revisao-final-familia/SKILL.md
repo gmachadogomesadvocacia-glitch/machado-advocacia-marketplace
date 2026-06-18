@@ -62,7 +62,7 @@ R2.1 Artigos do CC/2002 citados estão na versão vigente?
 
 R2.2 Jurisprudência do STJ:
   □ Nenhum julgado inventado ou não localizado (PA-01)
-  □ Súmulas corretamente enunciadas (ex: Súm. 1, 309, 377 STJ)
+  □ Súmulas corretamente enunciadas (ex: Súm. 1, 309 STJ; Súm. 377 STF — regime de separação legal)
   □ Temas repetitivos aplicáveis verificados
   □ Itens com [VERIFICAR] não incluídos como tese definitiva
 

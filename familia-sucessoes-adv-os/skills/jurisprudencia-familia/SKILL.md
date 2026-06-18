@@ -79,8 +79,8 @@ Se não houver certeza: marcar como `[VERIFICAR — confirmar no site do STJ ant
 - STJ: Partilha pode ser diferida do divórcio (art. 1.581 CC)
 
 **Meação × Herança**:
-- STJ, Súm. 377 STF (recepcionada): Bens adquiridos na constância do regime de
-  separação obrigatória se comunicam
+- Súm. 377 STF (aplicada pelo STJ): Bens adquiridos na constância do regime de
+  separação obrigatória se comunicam (o STJ relê exigindo prova do esforço comum — EREsp 1.623.858)
   ⚠️ [VERIFICAR — tema ainda controverso pós-CC/2002]
 
 ---
@@ -120,8 +120,8 @@ Se não houver certeza: marcar como `[VERIFICAR — confirmar no site do STJ ant
 
 ## 6. REGIME DE BENS — JURISPRUDÊNCIA RELEVANTE
 
-- STJ, Súm. 377 STF: Bens adquiridos durante o regime de separação legal se comunicam
-  (ainda aplicável por muitos tribunais, embora controversa pós-CC/2002)
+- Súm. 377 STF (aplicada pelo STJ): Bens adquiridos durante o regime de separação legal se comunicam
+  (ainda aplicável por muitos tribunais, embora controversa pós-CC/2002; STJ exige esforço comum)
 - STJ: Em separação obrigatória de bens (art. 1.641 CC), deve-se verificar se há
   esforço comum comprovado para partilha
 - STJ: Bem recebido por herança durante o casamento → bem exclusivo do cônjuge

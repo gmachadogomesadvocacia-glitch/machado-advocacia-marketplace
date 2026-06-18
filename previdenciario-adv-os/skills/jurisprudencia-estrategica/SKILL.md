@@ -31,8 +31,8 @@ PA-13: Sumulas TNU sao revisadas periodicamente — verificar status antes de pr
 |----------|---------|-----------|
 | 709 | Desaposentacao | REJEITADA — sem direito (PA-06) |
 | 555 | Aposentadoria especial — EPI eficaz x ruido | EPI NAO afasta nexo para ruido — segurado tem direito |
-| 999 | Revisao da vida toda (art. 29, II) | RECONHECIDA (2023) — individual, verificar decadencia |
-| 1169 | Modulacao de efeitos Tema 999 | Apenas quem ja tinha acao judicial ajuizada |
+| 1102 | Revisao da vida toda — RVT (RE 1.276.977) | RECONHECIDA em 2022, porem a RVT foi DECLARADA INCONSTITUCIONAL pelo STF em 2024 (ADIs 2.110/2.111) — tese sem eficacia pratica; NAO recomendar sem checar status atual (PA-01). [Tema STF 999 e materia diversa: dano ambiental] |
+| 1169 | Modulacao de efeitos da RVT [VERIFICAR numero/abrangencia — restou prejudicada pela inconstitucionalidade da RVT] | conferir antes de citar |
 | 529 | BPC/LOAS — renda familiar per capita | Criterio de 1/4 SM nao e o unico — miserabilidade subjetiva admissivel |
 | 669 | Contribuicao previdenciaria sobre 1/3 de ferias | Nao incide INSS sobre o terco constitucional de ferias |
 | 672 | INSS sobre aviso previo indenizado | Nao incide contribuicao previdenciaria |
@@ -54,7 +54,7 @@ Tribunal Pleno, Rel. Min. [nome], j. [data], DJe [data]): '[tese]'"
 | 554 | Correcao monetaria — INPC | INPC e o indice correto para correcao do SB |
 | 998 | Prazo decadencial — revisao de beneficio | 10 anos da concessao (art. 103 Lei 8.213) |
 | 1081 | Acumulacao de beneficios | Vedacao do art. 124 Lei 8.213 — verificar caso a caso |
-| 1124 | Revisao da vida toda (RVT) — STJ | STJ aplicou antes do STF — verificar Tema 999/1169 STF |
+| 999 / 1124 | Revisao da vida toda (RVT) — STJ (REsp 1.596.203) | STJ aplicou antes do STF; tese praticamente sem eficacia apos o STF declarar a RVT inconstitucional em 2024 — [VERIFICAR] antes de usar |
 
 ### 2.2 Sumulas STJ Previdenciarias Relevantes
 
@@ -139,8 +139,9 @@ Atencao: sumula TNU vinculante prevalece sobre jurisprudencia de TRF isolada
 ### 5.2 Sinalizar como Arriscado
 
 ```
-⚠️ Revisao da vida toda (Tema 999): reconhecida pelo STF mas com modulacao (Tema 1169)
-   → Apenas para quem JA tinha acao ajuizada antes do julgamento (verificar PA-03 + PA-12)
+⚠️ Revisao da vida toda (RVT — Tema 1102 STF / Tema 999 STJ): reconhecida em 2022, mas
+   DECLARADA INCONSTITUCIONAL pelo STF em 2024 (ADIs 2.110/2.111) — tese sem eficacia.
+   → NAO recomendar sem checar status atual (PA-01/PA-03/PA-12)
 ⚠️ Teses de desconsideracao de teto salarial em periodos especificos: sem uniformizacao
 ⚠️ Teses sobre reconhecimento de atividade especial sem PPP/LTCAT: risco alto de indeferimento
 ```

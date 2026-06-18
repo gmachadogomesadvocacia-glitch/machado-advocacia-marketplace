@@ -1,69 +1,13 @@
 {
  "_doc": "Livro-razao de jurisprudencia (Camada 1). Gerado por gerar-livro-razao.py a partir das skills + curadoria. Status: CONFIRMADO (verificado, com fonte/data) | VALIDAR (extraido, a re-verificar) | SUPERADO (cancelado/superado) | REMOVIDO. As skills so devem citar o que esta aqui; check-jurisprudencia.py faz cumprir.",
  "resumo": {
-  "total": 152,
-  "CONFIRMADO": 36,
-  "VALIDAR": 115,
-  "SUPERADO": 1,
+  "total": 127,
+  "CONFIRMADO": 118,
+  "VALIDAR": 7,
+  "SUPERADO": 2,
   "REMOVIDO": 0
  },
  "entradas": {
-  "?|Sum|127": {
-   "tribunal": "?",
-   "tipo": "Sum",
-   "numero": "127",
-   "status": "VALIDAR",
-   "enunciado": "",
-   "fonte": "",
-   "data": "",
-   "plugins": [
-    "transito-adv-os"
-   ],
-   "ocorrencias": 2,
-   "nota": ""
-  },
-  "?|Sum|210": {
-   "tribunal": "?",
-   "tipo": "Sum",
-   "numero": "210",
-   "status": "VALIDAR",
-   "enunciado": "",
-   "fonte": "",
-   "data": "",
-   "plugins": [
-    "criminal-adv-os"
-   ],
-   "ocorrencias": 1,
-   "nota": ""
-  },
-  "?|Sum|213": {
-   "tribunal": "?",
-   "tipo": "Sum",
-   "numero": "213",
-   "status": "VALIDAR",
-   "enunciado": "",
-   "fonte": "",
-   "data": "",
-   "plugins": [
-    "tributario-adv-os"
-   ],
-   "ocorrencias": 4,
-   "nota": ""
-  },
-  "?|Sum|247": {
-   "tribunal": "?",
-   "tipo": "Sum",
-   "numero": "247",
-   "status": "VALIDAR",
-   "enunciado": "",
-   "fonte": "",
-   "data": "",
-   "plugins": [
-    "civel-adv-os"
-   ],
-   "ocorrencias": 1,
-   "nota": ""
-  },
   "?|Sum|269": {
    "tribunal": "?",
    "tipo": "Sum",
@@ -73,524 +17,91 @@
    "fonte": "",
    "data": "",
    "plugins": [
-    "tributario-adv-os"
-   ],
-   "ocorrencias": 1,
-   "nota": ""
-  },
-  "?|Sum|326": {
-   "tribunal": "?",
-   "tipo": "Sum",
-   "numero": "326",
-   "status": "VALIDAR",
-   "enunciado": "",
-   "fonte": "",
-   "data": "",
-   "plugins": [
-    "civel-adv-os"
-   ],
-   "ocorrencias": 2,
-   "nota": ""
-  },
-  "?|Sum|335": {
-   "tribunal": "?",
-   "tipo": "Sum",
-   "numero": "335",
-   "status": "VALIDAR",
-   "enunciado": "",
-   "fonte": "",
-   "data": "",
-   "plugins": [
-    "imobiliario-adv-os"
-   ],
-   "ocorrencias": 2,
-   "nota": ""
-  },
-  "?|Sum|356": {
-   "tribunal": "?",
-   "tipo": "Sum",
-   "numero": "356",
-   "status": "VALIDAR",
-   "enunciado": "",
-   "fonte": "",
-   "data": "",
-   "plugins": [
-    "consumidor-adv-os"
-   ],
-   "ocorrencias": 1,
-   "nota": ""
-  },
-  "?|Sum|359": {
-   "tribunal": "?",
-   "tipo": "Sum",
-   "numero": "359",
-   "status": "VALIDAR",
-   "enunciado": "",
-   "fonte": "",
-   "data": "",
-   "plugins": [
-    "consumidor-adv-os"
-   ],
-   "ocorrencias": 4,
-   "nota": ""
-  },
-  "?|Sum|375": {
-   "tribunal": "?",
-   "tipo": "Sum",
-   "numero": "375",
-   "status": "VALIDAR",
-   "enunciado": "",
-   "fonte": "",
-   "data": "",
-   "plugins": [
-    "imobiliario-adv-os"
-   ],
-   "ocorrencias": 1,
-   "nota": ""
-  },
-  "?|Sum|380": {
-   "tribunal": "?",
-   "tipo": "Sum",
-   "numero": "380",
-   "status": "VALIDAR",
-   "enunciado": "",
-   "fonte": "",
-   "data": "",
-   "plugins": [
-    "imobiliario-adv-os"
-   ],
-   "ocorrencias": 2,
-   "nota": ""
-  },
-  "?|Sum|403": {
-   "tribunal": "?",
-   "tipo": "Sum",
-   "numero": "403",
-   "status": "VALIDAR",
-   "enunciado": "",
-   "fonte": "",
-   "data": "",
-   "plugins": [
-    "civel-adv-os"
-   ],
-   "ocorrencias": 1,
-   "nota": ""
-  },
-  "?|Sum|404": {
-   "tribunal": "?",
-   "tipo": "Sum",
-   "numero": "404",
-   "status": "VALIDAR",
-   "enunciado": "",
-   "fonte": "",
-   "data": "",
-   "plugins": [
-    "consumidor-adv-os"
-   ],
-   "ocorrencias": 1,
-   "nota": ""
-  },
-  "?|Sum|434": {
-   "tribunal": "?",
-   "tipo": "Sum",
-   "numero": "434",
-   "status": "VALIDAR",
-   "enunciado": "",
-   "fonte": "",
-   "data": "",
-   "plugins": [
-    "transito-adv-os"
-   ],
-   "ocorrencias": 2,
-   "nota": ""
-  },
-  "?|Sum|440": {
-   "tribunal": "?",
-   "tipo": "Sum",
-   "numero": "440",
-   "status": "VALIDAR",
-   "enunciado": "",
-   "fonte": "",
-   "data": "",
-   "plugins": [
-    "criminal-adv-os"
-   ],
-   "ocorrencias": 3,
-   "nota": ""
-  },
-  "?|Sum|472": {
-   "tribunal": "?",
-   "tipo": "Sum",
-   "numero": "472",
-   "status": "VALIDAR",
-   "enunciado": "",
-   "fonte": "",
-   "data": "",
-   "plugins": [
-    "consumidor-adv-os"
-   ],
-   "ocorrencias": 1,
-   "nota": ""
-  },
-  "?|Sum|479": {
-   "tribunal": "?",
-   "tipo": "Sum",
-   "numero": "479",
-   "status": "VALIDAR",
-   "enunciado": "",
-   "fonte": "",
-   "data": "",
-   "plugins": [
-    "consumidor-adv-os"
-   ],
-   "ocorrencias": 1,
-   "nota": ""
-  },
-  "?|Sum|480": {
-   "tribunal": "?",
-   "tipo": "Sum",
-   "numero": "480",
-   "status": "VALIDAR",
-   "enunciado": "",
-   "fonte": "",
-   "data": "",
-   "plugins": [
-    "recuperacao-judicial-adv-os"
-   ],
-   "ocorrencias": 4,
-   "nota": ""
-  },
-  "?|Sum|487": {
-   "tribunal": "?",
-   "tipo": "Sum",
-   "numero": "487",
-   "status": "VALIDAR",
-   "enunciado": "",
-   "fonte": "",
-   "data": "",
-   "plugins": [
-    "imobiliario-adv-os"
-   ],
-   "ocorrencias": 3,
-   "nota": ""
-  },
-  "?|Sum|503": {
-   "tribunal": "?",
-   "tipo": "Sum",
-   "numero": "503",
-   "status": "VALIDAR",
-   "enunciado": "",
-   "fonte": "",
-   "data": "",
-   "plugins": [
-    "civel-adv-os"
-   ],
-   "ocorrencias": 2,
-   "nota": ""
-  },
-  "?|Sum|510": {
-   "tribunal": "?",
-   "tipo": "Sum",
-   "numero": "510",
-   "status": "VALIDAR",
-   "enunciado": "",
-   "fonte": "",
-   "data": "",
-   "plugins": [
-    "transito-adv-os"
-   ],
-   "ocorrencias": 2,
-   "nota": ""
-  },
-  "?|Sum|535": {
-   "tribunal": "?",
-   "tipo": "Sum",
-   "numero": "535",
-   "status": "VALIDAR",
-   "enunciado": "",
-   "fonte": "",
-   "data": "",
-   "plugins": [
-    "criminal-adv-os"
-   ],
-   "ocorrencias": 1,
-   "nota": ""
-  },
-  "?|Sum|539": {
-   "tribunal": "?",
-   "tipo": "Sum",
-   "numero": "539",
-   "status": "VALIDAR",
-   "enunciado": "",
-   "fonte": "",
-   "data": "",
-   "plugins": [
-    "consumidor-adv-os"
-   ],
-   "ocorrencias": 7,
-   "nota": ""
-  },
-  "?|Sum|546": {
-   "tribunal": "?",
-   "tipo": "Sum",
-   "numero": "546",
-   "status": "VALIDAR",
-   "enunciado": "",
-   "fonte": "",
-   "data": "",
-   "plugins": [
-    "tributario-adv-os"
-   ],
-   "ocorrencias": 1,
-   "nota": ""
-  },
-  "?|Sum|555": {
-   "tribunal": "?",
-   "tipo": "Sum",
-   "numero": "555",
-   "status": "VALIDAR",
-   "enunciado": "",
-   "fonte": "",
-   "data": "",
-   "plugins": [
-    "tributario-adv-os"
-   ],
-   "ocorrencias": 1,
-   "nota": ""
-  },
-  "?|Sum|581": {
-   "tribunal": "?",
-   "tipo": "Sum",
-   "numero": "581",
-   "status": "VALIDAR",
-   "enunciado": "",
-   "fonte": "",
-   "data": "",
-   "plugins": [
-    "recuperacao-judicial-adv-os"
-   ],
-   "ocorrencias": 1,
-   "nota": ""
-  },
-  "?|Sum|619": {
-   "tribunal": "?",
-   "tipo": "Sum",
-   "numero": "619",
-   "status": "VALIDAR",
-   "enunciado": "",
-   "fonte": "",
-   "data": "",
-   "plugins": [
-    "imobiliario-adv-os"
-   ],
-   "ocorrencias": 1,
-   "nota": ""
-  },
-  "?|Sum|7": {
-   "tribunal": "?",
-   "tipo": "Sum",
-   "numero": "7",
-   "status": "VALIDAR",
-   "enunciado": "",
-   "fonte": "",
-   "data": "",
-   "plugins": [
-    "consumidor-adv-os",
-    "familia-sucessoes-adv-os"
-   ],
-   "ocorrencias": 3,
-   "nota": ""
-  },
-  "?|Sum|72": {
-   "tribunal": "?",
-   "tipo": "Sum",
-   "numero": "72",
-   "status": "VALIDAR",
-   "enunciado": "",
-   "fonte": "",
-   "data": "",
-   "plugins": [
-    "consumidor-adv-os"
-   ],
-   "ocorrencias": 2,
-   "nota": ""
-  },
-  "?|Sum|84": {
-   "tribunal": "?",
-   "tipo": "Sum",
-   "numero": "84",
-   "status": "VALIDAR",
-   "enunciado": "",
-   "fonte": "",
-   "data": "",
-   "plugins": [
-    "imobiliario-adv-os"
-   ],
-   "ocorrencias": 2,
-   "nota": ""
-  },
-  "?|Tema|1": {
-   "tribunal": "?",
-   "tipo": "Tema",
-   "numero": "1",
-   "status": "VALIDAR",
-   "enunciado": "",
-   "fonte": "",
-   "data": "",
-   "plugins": [
-    "recuperacao-judicial-adv-os"
-   ],
-   "ocorrencias": 8,
-   "nota": ""
-  },
-  "?|Tema|210": {
-   "tribunal": "?",
-   "tipo": "Tema",
-   "numero": "210",
-   "status": "VALIDAR",
-   "enunciado": "",
-   "fonte": "",
-   "data": "",
-   "plugins": [
-    "consumidor-adv-os"
-   ],
-   "ocorrencias": 2,
-   "nota": ""
-  },
-  "?|Tema|555": {
-   "tribunal": "?",
-   "tipo": "Tema",
-   "numero": "555",
-   "status": "VALIDAR",
-   "enunciado": "",
-   "fonte": "",
-   "data": "",
-   "plugins": [
-    "previdenciario-adv-os"
-   ],
-   "ocorrencias": 1,
-   "nota": ""
-  },
-  "?|Tema|618": {
-   "tribunal": "?",
-   "tipo": "Tema",
-   "numero": "618",
-   "status": "VALIDAR",
-   "enunciado": "",
-   "fonte": "",
-   "data": "",
-   "plugins": [
-    "consumidor-adv-os"
-   ],
-   "ocorrencias": 3,
-   "nota": ""
-  },
-  "?|Tema|637": {
-   "tribunal": "?",
-   "tipo": "Tema",
-   "numero": "637",
-   "status": "VALIDAR",
-   "enunciado": "",
-   "fonte": "",
-   "data": "",
-   "plugins": [
-    "recuperacao-judicial-adv-os"
-   ],
-   "ocorrencias": 1,
-   "nota": ""
-  },
-  "?|Tema|692": {
-   "tribunal": "?",
-   "tipo": "Tema",
-   "numero": "692",
-   "status": "VALIDAR",
-   "enunciado": "",
-   "fonte": "",
-   "data": "",
-   "plugins": [
-    "familia-sucessoes-adv-os"
-   ],
-   "ocorrencias": 1,
-   "nota": ""
-  },
-  "?|Tema|709": {
-   "tribunal": "?",
-   "tipo": "Tema",
-   "numero": "709",
-   "status": "VALIDAR",
-   "enunciado": "",
-   "fonte": "",
-   "data": "",
-   "plugins": [
-    "previdenciario-adv-os"
-   ],
-   "ocorrencias": 1,
-   "nota": ""
-  },
-  "?|Tema|722": {
-   "tribunal": "?",
-   "tipo": "Tema",
-   "numero": "722",
-   "status": "VALIDAR",
-   "enunciado": "",
-   "fonte": "",
-   "data": "",
-   "plugins": [
-    "consumidor-adv-os"
-   ],
-   "ocorrencias": 2,
-   "nota": ""
-  },
-  "?|Tema|810": {
-   "tribunal": "?",
-   "tipo": "Tema",
-   "numero": "810",
-   "status": "VALIDAR",
-   "enunciado": "",
-   "fonte": "",
-   "data": "",
-   "plugins": [
-    "civel-adv-os"
-   ],
-   "ocorrencias": 2,
-   "nota": ""
-  },
-  "?|Tema|929": {
-   "tribunal": "?",
-   "tipo": "Tema",
-   "numero": "929",
-   "status": "VALIDAR",
-   "enunciado": "",
-   "fonte": "",
-   "data": "",
-   "plugins": [
-    "consumidor-adv-os"
-   ],
-   "ocorrencias": 14,
-   "nota": ""
-  },
-  "CARF|SV|21": {
-   "tribunal": "CARF",
-   "tipo": "SV",
-   "numero": "21",
-   "status": "VALIDAR",
-   "enunciado": "",
-   "fonte": "",
-   "data": "",
-   "plugins": [
+    "criminal-adv-os",
     "tributario-adv-os"
    ],
    "ocorrencias": 2,
    "nota": ""
   },
-  "CARF|Sum|393": {
-   "tribunal": "CARF",
+  "?|Sum|393": {
+   "tribunal": "?",
    "tipo": "Sum",
    "numero": "393",
    "status": "VALIDAR",
    "enunciado": "",
    "fonte": "",
    "data": "",
+   "plugins": [
+    "civel-adv-os",
+    "tributario-adv-os"
+   ],
+   "ocorrencias": 3,
+   "nota": ""
+  },
+  "?|Tema|1191": {
+   "tribunal": "?",
+   "tipo": "Tema",
+   "numero": "1191",
+   "status": "VALIDAR",
+   "enunciado": "",
+   "fonte": "",
+   "data": "",
+   "plugins": [
+    "recuperacao-judicial-adv-os"
+   ],
+   "ocorrencias": 1,
+   "nota": ""
+  },
+  "?|Tema|1248": {
+   "tribunal": "?",
+   "tipo": "Tema",
+   "numero": "1248",
+   "status": "VALIDAR",
+   "enunciado": "",
+   "fonte": "",
+   "data": "",
+   "plugins": [
+    "recuperacao-judicial-adv-os"
+   ],
+   "ocorrencias": 2,
+   "nota": ""
+  },
+  "?|Tema|999": {
+   "tribunal": "?",
+   "tipo": "Tema",
+   "numero": "999",
+   "status": "VALIDAR",
+   "enunciado": "",
+   "fonte": "",
+   "data": "",
+   "plugins": [
+    "previdenciario-adv-os"
+   ],
+   "ocorrencias": 11,
+   "nota": ""
+  },
+  "CARF|SV|21": {
+   "tribunal": "CARF",
+   "tipo": "SV",
+   "numero": "21",
+   "status": "CONFIRMADO",
+   "enunciado": "E nula, por vicio formal, a notificacao de lancamento sem identificacao da autoridade (Sumula CARF 21, vinculante — Portaria MF 383/2010).",
+   "fonte": "web CARF",
+   "data": "2026-06-18",
+   "plugins": [
+    "tributario-adv-os"
+   ],
+   "ocorrencias": 1,
+   "nota": ""
+  },
+  "CARF|Sum|393": {
+   "tribunal": "CARF",
+   "tipo": "Sum",
+   "numero": "393",
+   "status": "SUPERADO",
+   "enunciado": "INEXISTENTE — nao ha Sumula CARF 393 (numeracao do CARF vai ate ~238). Citacao espuria; a Sum. 393 da execucao fiscal e do STJ.",
+   "fonte": "web CARF",
+   "data": "2026-06-18",
    "plugins": [
     "tributario-adv-os"
    ],
@@ -601,10 +112,10 @@
    "tribunal": "STF",
    "tipo": "SV",
    "numero": "11",
-   "status": "VALIDAR",
-   "enunciado": "",
-   "fonte": "",
-   "data": "",
+   "status": "CONFIRMADO",
+   "enunciado": "So e licito o uso de algemas em casos de resistencia/risco, justificada a excepcionalidade por escrito.",
+   "fonte": "web STF",
+   "data": "2026-06-18",
    "plugins": [
     "criminal-adv-os"
    ],
@@ -615,10 +126,10 @@
    "tribunal": "STF",
    "tipo": "SV",
    "numero": "14",
-   "status": "VALIDAR",
-   "enunciado": "",
-   "fonte": "",
-   "data": "",
+   "status": "CONFIRMADO",
+   "enunciado": "E direito do defensor o acesso amplo aos elementos de prova ja documentados em procedimento investigatorio.",
+   "fonte": "web STF",
+   "data": "2026-06-18",
    "plugins": [
     "criminal-adv-os"
    ],
@@ -629,14 +140,14 @@
    "tribunal": "STF",
    "tipo": "SV",
    "numero": "21",
-   "status": "VALIDAR",
-   "enunciado": "",
-   "fonte": "",
-   "data": "",
+   "status": "CONFIRMADO",
+   "enunciado": "Inconstitucional a exigencia de deposito/arrolamento previos para admissibilidade de recurso administrativo.",
+   "fonte": "web STF",
+   "data": "2026-06-18",
    "plugins": [
     "tributario-adv-os"
    ],
-   "ocorrencias": 4,
+   "ocorrencias": 5,
    "nota": ""
   },
   "STF|SV|24": {
@@ -657,10 +168,10 @@
    "tribunal": "STF",
    "tipo": "Sum",
    "numero": "145",
-   "status": "VALIDAR",
-   "enunciado": "",
-   "fonte": "",
-   "data": "",
+   "status": "CONFIRMADO",
+   "enunciado": "Nao ha crime quando a preparacao do flagrante pela policia torna impossivel a sua consumacao.",
+   "fonte": "web STF",
+   "data": "2026-06-18",
    "plugins": [
     "criminal-adv-os"
    ],
@@ -671,10 +182,10 @@
    "tribunal": "STF",
    "tipo": "Sum",
    "numero": "188",
-   "status": "VALIDAR",
-   "enunciado": "",
-   "fonte": "",
-   "data": "",
+   "status": "CONFIRMADO",
+   "enunciado": "O segurador tem acao regressiva contra o causador do dano, ate o limite do contrato de seguro.",
+   "fonte": "web STF",
+   "data": "2026-06-18",
    "plugins": [
     "civel-adv-os"
    ],
@@ -685,24 +196,10 @@
    "tribunal": "STF",
    "tipo": "Sum",
    "numero": "210",
-   "status": "VALIDAR",
-   "enunciado": "",
-   "fonte": "",
-   "data": "",
-   "plugins": [
-    "criminal-adv-os"
-   ],
-   "ocorrencias": 2,
-   "nota": ""
-  },
-  "STF|Sum|231": {
-   "tribunal": "STF",
-   "tipo": "Sum",
-   "numero": "231",
-   "status": "VALIDAR",
-   "enunciado": "",
-   "fonte": "",
-   "data": "",
+   "status": "CONFIRMADO",
+   "enunciado": "O assistente do MP pode recorrer, inclusive extraordinariamente, na acao penal (arts. 584 §1 e 598 CPP).",
+   "fonte": "web STF",
+   "data": "2026-06-18",
    "plugins": [
     "criminal-adv-os"
    ],
@@ -713,28 +210,14 @@
    "tribunal": "STF",
    "tipo": "Sum",
    "numero": "237",
-   "status": "VALIDAR",
-   "enunciado": "",
-   "fonte": "",
-   "data": "",
+   "status": "CONFIRMADO",
+   "enunciado": "O usucapiao pode ser arguido em defesa.",
+   "fonte": "web STF",
+   "data": "2026-06-18",
    "plugins": [
     "usucapiao-adv-os"
    ],
    "ocorrencias": 2,
-   "nota": ""
-  },
-  "STF|Sum|246": {
-   "tribunal": "STF",
-   "tipo": "Sum",
-   "numero": "246",
-   "status": "VALIDAR",
-   "enunciado": "",
-   "fonte": "",
-   "data": "",
-   "plugins": [
-    "civel-adv-os"
-   ],
-   "ocorrencias": 1,
    "nota": ""
   },
   "STF|Sum|263": {
@@ -755,10 +238,10 @@
    "tribunal": "STF",
    "tipo": "Sum",
    "numero": "269",
-   "status": "VALIDAR",
-   "enunciado": "",
-   "fonte": "",
-   "data": "",
+   "status": "CONFIRMADO",
+   "enunciado": "O mandado de seguranca nao e substitutivo de acao de cobranca (STF).",
+   "fonte": "web STF",
+   "data": "2026-06-18",
    "plugins": [
     "isencao-ir-doenca-adv-os",
     "tributario-adv-os"
@@ -770,28 +253,14 @@
    "tribunal": "STF",
    "tipo": "Sum",
    "numero": "271",
-   "status": "VALIDAR",
-   "enunciado": "",
-   "fonte": "",
-   "data": "",
+   "status": "CONFIRMADO",
+   "enunciado": "Concessao de MS nao produz efeitos patrimoniais de periodo preterito, reclamados pela via propria.",
+   "fonte": "web STF",
+   "data": "2026-06-18",
    "plugins": [
     "tributario-adv-os"
    ],
    "ocorrencias": 1,
-   "nota": ""
-  },
-  "STF|Sum|312": {
-   "tribunal": "STF",
-   "tipo": "Sum",
-   "numero": "312",
-   "status": "VALIDAR",
-   "enunciado": "",
-   "fonte": "",
-   "data": "",
-   "plugins": [
-    "transito-adv-os"
-   ],
-   "ocorrencias": 2,
    "nota": ""
   },
   "STF|Sum|340": {
@@ -812,28 +281,29 @@
    "tribunal": "STF",
    "tipo": "Sum",
    "numero": "377",
-   "status": "VALIDAR",
-   "enunciado": "",
-   "fonte": "",
-   "data": "",
+   "status": "CONFIRMADO",
+   "enunciado": "No regime de separacao legal de bens, comunicam-se os adquiridos na constancia do casamento (STJ rele exigindo esforco comum).",
+   "fonte": "web STF",
+   "data": "2026-06-18",
    "plugins": [
     "familia-sucessoes-adv-os"
    ],
-   "ocorrencias": 1,
+   "ocorrencias": 4,
    "nota": ""
   },
   "STF|Sum|380": {
    "tribunal": "STF",
    "tipo": "Sum",
    "numero": "380",
-   "status": "VALIDAR",
-   "enunciado": "",
-   "fonte": "",
-   "data": "",
+   "status": "CONFIRMADO",
+   "enunciado": "Comprovada a sociedade de fato entre concubinos, cabivel a dissolucao com partilha do patrimonio por esforco comum.",
+   "fonte": "web STF",
+   "data": "2026-06-18",
    "plugins": [
-    "familia-sucessoes-adv-os"
+    "familia-sucessoes-adv-os",
+    "imobiliario-adv-os"
    ],
-   "ocorrencias": 1,
+   "ocorrencias": 3,
    "nota": ""
   },
   "STF|Sum|391": {
@@ -854,56 +324,28 @@
    "tribunal": "STF",
    "tipo": "Sum",
    "numero": "487",
-   "status": "VALIDAR",
-   "enunciado": "",
-   "fonte": "",
-   "data": "",
+   "status": "CONFIRMADO",
+   "enunciado": "Sera deferida a posse a quem, evidentemente, tiver o dominio, se com base neste for ela disputada (STF — possessorio).",
+   "fonte": "web STF",
+   "data": "2026-06-18",
    "plugins": [
     "imobiliario-adv-os"
    ],
-   "ocorrencias": 4,
-   "nota": ""
-  },
-  "STF|Sum|54": {
-   "tribunal": "STF",
-   "tipo": "Sum",
-   "numero": "54",
-   "status": "VALIDAR",
-   "enunciado": "",
-   "fonte": "",
-   "data": "",
-   "plugins": [
-    "civel-adv-os"
-   ],
-   "ocorrencias": 1,
-   "nota": ""
-  },
-  "STF|Sum|543": {
-   "tribunal": "STF",
-   "tipo": "Sum",
-   "numero": "543",
-   "status": "VALIDAR",
-   "enunciado": "",
-   "fonte": "",
-   "data": "",
-   "plugins": [
-    "imobiliario-adv-os"
-   ],
-   "ocorrencias": 1,
+   "ocorrencias": 7,
    "nota": ""
   },
   "STF|Sum|546": {
    "tribunal": "STF",
    "tipo": "Sum",
    "numero": "546",
-   "status": "VALIDAR",
-   "enunciado": "",
-   "fonte": "",
-   "data": "",
+   "status": "CONFIRMADO",
+   "enunciado": "Cabe restituicao do tributo pago indevidamente quando o contribuinte de jure nao recuperou do de facto.",
+   "fonte": "web STF",
+   "data": "2026-06-18",
    "plugins": [
     "tributario-adv-os"
    ],
-   "ocorrencias": 1,
+   "ocorrencias": 2,
    "nota": ""
   },
   "STF|Sum|691": {
@@ -924,20 +366,48 @@
    "tribunal": "STF",
    "tipo": "Sum",
    "numero": "718",
-   "status": "VALIDAR",
-   "enunciado": "",
-   "fonte": "",
-   "data": "",
+   "status": "CONFIRMADO",
+   "enunciado": "A opiniao do julgador sobre a gravidade em abstrato do crime nao e motivacao idonea para regime mais severo.",
+   "fonte": "web STF",
+   "data": "2026-06-18",
    "plugins": [
     "criminal-adv-os"
    ],
    "ocorrencias": 1,
    "nota": ""
   },
-  "STF|Tema|1": {
+  "STF|Tema|1102": {
    "tribunal": "STF",
    "tipo": "Tema",
-   "numero": "1",
+   "numero": "1102",
+   "status": "CONFIRMADO",
+   "enunciado": "Revisao da Vida Toda no STF (RE 1.276.977), reconhecida em 2022 e DECLARADA INCONSTITUCIONAL pelo STF em 2024 (ADIs 2.110/2.111) — tese sem eficacia pratica; nao recomendar sem checar status.",
+   "fonte": "auditoria de jurisprudencia (web, STF/STJ/TST/TNU) — Eixo 1, commit bacceec",
+   "data": "2026-06-16",
+   "plugins": [
+    "previdenciario-adv-os"
+   ],
+   "ocorrencias": 12,
+   "nota": ""
+  },
+  "STF|Tema|1169": {
+   "tribunal": "STF",
+   "tipo": "Tema",
+   "numero": "1169",
+   "status": "VALIDAR",
+   "enunciado": "CONFLITO A CONFERIR: o plugin previdenciario usa como modulacao da RVT; verificacao web indicou ARE 1.327.963 (materia PENAL). Conferir antes de citar.",
+   "fonte": "web STF (divergencia)",
+   "data": "2026-06-18",
+   "plugins": [
+    "previdenciario-adv-os"
+   ],
+   "ocorrencias": 2,
+   "nota": ""
+  },
+  "STF|Tema|1191": {
+   "tribunal": "STF",
+   "tipo": "Tema",
+   "numero": "1191",
    "status": "VALIDAR",
    "enunciado": "",
    "fonte": "",
@@ -948,56 +418,28 @@
    "ocorrencias": 2,
    "nota": ""
   },
-  "STF|Tema|1102": {
-   "tribunal": "STF",
-   "tipo": "Tema",
-   "numero": "1102",
-   "status": "CONFIRMADO",
-   "enunciado": "Revisao da Vida Toda no STF (RE 1.276.977) — vide modulacao/ADIs; cenario instavel, revalidar antes de usar.",
-   "fonte": "auditoria de jurisprudencia (web, STF/STJ/TST/TNU) — Eixo 1, commit bacceec",
-   "data": "2026-06-16",
-   "plugins": [
-    "previdenciario-adv-os"
-   ],
-   "ocorrencias": 11,
-   "nota": ""
-  },
-  "STF|Tema|1169": {
-   "tribunal": "STF",
-   "tipo": "Tema",
-   "numero": "1169",
-   "status": "VALIDAR",
-   "enunciado": "",
-   "fonte": "",
-   "data": "",
-   "plugins": [
-    "previdenciario-adv-os"
-   ],
-   "ocorrencias": 3,
-   "nota": ""
-  },
   "STF|Tema|210": {
    "tribunal": "STF",
    "tipo": "Tema",
    "numero": "210",
-   "status": "VALIDAR",
-   "enunciado": "",
-   "fonte": "",
-   "data": "",
+   "status": "CONFIRMADO",
+   "enunciado": "Convencoes de Varsovia/Montreal prevalecem sobre o CDC quanto a danos MATERIAIS no transporte aereo internacional (art. 178 CF).",
+   "fonte": "web STF",
+   "data": "2026-06-18",
    "plugins": [
     "consumidor-adv-os"
    ],
-   "ocorrencias": 6,
+   "ocorrencias": 8,
    "nota": ""
   },
   "STF|Tema|350": {
    "tribunal": "STF",
    "tipo": "Tema",
    "numero": "350",
-   "status": "VALIDAR",
-   "enunciado": "",
-   "fonte": "",
-   "data": "",
+   "status": "CONFIRMADO",
+   "enunciado": "A concessao de beneficio previdenciario depende de requerimento administrativo previo (RE 631.240).",
+   "fonte": "web STF",
+   "data": "2026-06-18",
    "plugins": [
     "previdenciario-adv-os"
    ],
@@ -1008,10 +450,10 @@
    "tribunal": "STF",
    "tipo": "Tema",
    "numero": "529",
-   "status": "VALIDAR",
-   "enunciado": "",
-   "fonte": "",
-   "data": "",
+   "status": "CONFIRMADO",
+   "enunciado": "Inexiste prazo decadencial para a concessao inicial; legitima a decadencia decenal para a revisao do ato de concessao (RE 626.489).",
+   "fonte": "web STF",
+   "data": "2026-06-18",
    "plugins": [
     "previdenciario-adv-os"
    ],
@@ -1022,28 +464,28 @@
    "tribunal": "STF",
    "tipo": "Tema",
    "numero": "555",
-   "status": "VALIDAR",
-   "enunciado": "",
-   "fonte": "",
-   "data": "",
+   "status": "CONFIRMADO",
+   "enunciado": "EPI que comprovadamente neutraliza o agente afasta a especial; para ruido acima do limite, a declaracao de eficacia nao descaracteriza o tempo especial (ARE 664.335).",
+   "fonte": "web STF",
+   "data": "2026-06-18",
    "plugins": [
     "previdenciario-adv-os"
    ],
-   "ocorrencias": 13,
+   "ocorrencias": 14,
    "nota": ""
   },
   "STF|Tema|709": {
    "tribunal": "STF",
    "tipo": "Tema",
    "numero": "709",
-   "status": "VALIDAR",
-   "enunciado": "",
-   "fonte": "",
-   "data": "",
+   "status": "CONFIRMADO",
+   "enunciado": "Constitucional vedar a aposentadoria especial a quem permanece ou retorna a atividade nociva (art. 57 §8 Lei 8.213; RE 791.961).",
+   "fonte": "web STF",
+   "data": "2026-06-18",
    "plugins": [
     "previdenciario-adv-os"
    ],
-   "ocorrencias": 6,
+   "ocorrencias": 7,
    "nota": ""
   },
   "STF|Tema|809": {
@@ -1064,28 +506,14 @@
    "tribunal": "STF",
    "tipo": "Tema",
    "numero": "810",
-   "status": "VALIDAR",
-   "enunciado": "",
-   "fonte": "",
-   "data": "",
+   "status": "CONFIRMADO",
+   "enunciado": "RE 870.947: inconstitucional a TR como correcao das condenacoes da Fazenda; fixado o IPCA-E.",
+   "fonte": "web STF",
+   "data": "2026-06-18",
    "plugins": [
     "civel-adv-os"
    ],
-   "ocorrencias": 2,
-   "nota": ""
-  },
-  "STF|Tema|905": {
-   "tribunal": "STF",
-   "tipo": "Tema",
-   "numero": "905",
-   "status": "VALIDAR",
-   "enunciado": "",
-   "fonte": "",
-   "data": "",
-   "plugins": [
-    "civel-adv-os"
-   ],
-   "ocorrencias": 1,
+   "ocorrencias": 4,
    "nota": ""
   },
   "STF|Tema|982": {
@@ -1106,24 +534,22 @@
    "tribunal": "STF",
    "tipo": "Tema",
    "numero": "999",
-   "status": "VALIDAR",
-   "enunciado": "",
-   "fonte": "",
-   "data": "",
-   "plugins": [
-    "previdenciario-adv-os"
-   ],
-   "ocorrencias": 10,
-   "nota": ""
+   "status": "CONFIRMADO",
+   "enunciado": "Imprescritibilidade da pretensao de reparacao civil de dano ambiental (RE 654.833). NAO e Revisao da Vida Toda (essa e o Tema 1102 STF / 999 STJ).",
+   "fonte": "auditoria de jurisprudencia (web, STF/STJ/TST/TNU) — Eixo 1, commit bacceec",
+   "data": "2026-06-16",
+   "plugins": [],
+   "ocorrencias": 0,
+   "nota": "curado, nao citado nas skills"
   },
   "STJ|Sum|1": {
    "tribunal": "STJ",
    "tipo": "Sum",
    "numero": "1",
-   "status": "VALIDAR",
-   "enunciado": "",
-   "fonte": "",
-   "data": "",
+   "status": "CONFIRMADO",
+   "enunciado": "O foro do alimentando e competente para a investigacao de paternidade quando cumulada com alimentos.",
+   "fonte": "web STJ",
+   "data": "2026-06-18",
    "plugins": [
     "familia-sucessoes-adv-os"
    ],
@@ -1134,10 +560,10 @@
    "tribunal": "STJ",
    "tipo": "Sum",
    "numero": "106",
-   "status": "VALIDAR",
-   "enunciado": "",
-   "fonte": "",
-   "data": "",
+   "status": "CONFIRMADO",
+   "enunciado": "Proposta a acao no prazo, a demora na citacao por mecanismo da Justica nao enseja prescricao/decadencia.",
+   "fonte": "web STJ",
+   "data": "2026-06-18",
    "plugins": [
     "tributario-adv-os"
    ],
@@ -1158,14 +584,28 @@
    "ocorrencias": 8,
    "nota": ""
   },
+  "STJ|Sum|127": {
+   "tribunal": "STJ",
+   "tipo": "Sum",
+   "numero": "127",
+   "status": "CONFIRMADO",
+   "enunciado": "E ilegal condicionar a renovacao da licenca de veiculo ao pagamento de multa da qual o infrator nao foi notificado.",
+   "fonte": "web STJ",
+   "data": "2026-06-18",
+   "plugins": [
+    "transito-adv-os"
+   ],
+   "ocorrencias": 2,
+   "nota": ""
+  },
   "STJ|Sum|211": {
    "tribunal": "STJ",
    "tipo": "Sum",
    "numero": "211",
-   "status": "VALIDAR",
-   "enunciado": "",
-   "fonte": "",
-   "data": "",
+   "status": "CONFIRMADO",
+   "enunciado": "Inadmissivel REsp quanto a questao que, apesar dos embargos declaratorios, nao foi apreciada pelo tribunal a quo.",
+   "fonte": "web STJ",
+   "data": "2026-06-18",
    "plugins": [
     "familia-sucessoes-adv-os"
    ],
@@ -1176,14 +616,14 @@
    "tribunal": "STJ",
    "tipo": "Sum",
    "numero": "213",
-   "status": "VALIDAR",
-   "enunciado": "",
-   "fonte": "",
-   "data": "",
+   "status": "CONFIRMADO",
+   "enunciado": "O mandado de seguranca constitui acao adequada para a declaracao do direito a compensacao tributaria.",
+   "fonte": "web STJ",
+   "data": "2026-06-18",
    "plugins": [
     "tributario-adv-os"
    ],
-   "ocorrencias": 3,
+   "ocorrencias": 7,
    "nota": ""
   },
   "STJ|Sum|214": {
@@ -1211,7 +651,7 @@
    "plugins": [
     "criminal-adv-os"
    ],
-   "ocorrencias": 11,
+   "ocorrencias": 14,
    "nota": ""
   },
   "STJ|Sum|239": {
@@ -1232,38 +672,52 @@
    "tribunal": "STJ",
    "tipo": "Sum",
    "numero": "246",
-   "status": "VALIDAR",
-   "enunciado": "",
-   "fonte": "",
-   "data": "",
+   "status": "CONFIRMADO",
+   "enunciado": "A indenizacao do seguro obrigatorio (DPVAT) recebida deve ser deduzida da fixada em juizo.",
+   "fonte": "web STJ",
+   "data": "2026-06-18",
    "plugins": [
     "civel-adv-os"
    ],
-   "ocorrencias": 2,
+   "ocorrencias": 3,
+   "nota": ""
+  },
+  "STJ|Sum|247": {
+   "tribunal": "STJ",
+   "tipo": "Sum",
+   "numero": "247",
+   "status": "CONFIRMADO",
+   "enunciado": "O contrato de abertura de credito em conta-corrente, com demonstrativo de debito, e habil para a monitoria.",
+   "fonte": "web STJ",
+   "data": "2026-06-18",
+   "plugins": [
+    "civel-adv-os"
+   ],
+   "ocorrencias": 1,
    "nota": ""
   },
   "STJ|Sum|269": {
    "tribunal": "STJ",
    "tipo": "Sum",
    "numero": "269",
-   "status": "VALIDAR",
-   "enunciado": "",
-   "fonte": "",
-   "data": "",
+   "status": "CONFIRMADO",
+   "enunciado": "Admissivel o regime semiaberto a reincidente condenado a pena igual ou inferior a 4 anos, se favoraveis as circunstancias judiciais.",
+   "fonte": "web STJ",
+   "data": "2026-06-18",
    "plugins": [
     "criminal-adv-os"
    ],
-   "ocorrencias": 4,
+   "ocorrencias": 3,
    "nota": ""
   },
   "STJ|Sum|277": {
    "tribunal": "STJ",
    "tipo": "Sum",
    "numero": "277",
-   "status": "VALIDAR",
-   "enunciado": "",
-   "fonte": "",
-   "data": "",
+   "status": "CONFIRMADO",
+   "enunciado": "Julgada procedente a investigacao de paternidade, os alimentos sao devidos a partir da citacao.",
+   "fonte": "web STJ",
+   "data": "2026-06-18",
    "plugins": [
     "familia-sucessoes-adv-os"
    ],
@@ -1288,10 +742,10 @@
    "tribunal": "STJ",
    "tipo": "Sum",
    "numero": "299",
-   "status": "VALIDAR",
-   "enunciado": "",
-   "fonte": "",
-   "data": "",
+   "status": "CONFIRMADO",
+   "enunciado": "E admissivel a acao monitoria fundada em cheque prescrito.",
+   "fonte": "web STJ",
+   "data": "2026-06-18",
    "plugins": [
     "civel-adv-os"
    ],
@@ -1302,10 +756,10 @@
    "tribunal": "STJ",
    "tipo": "Sum",
    "numero": "30",
-   "status": "VALIDAR",
-   "enunciado": "",
-   "fonte": "",
-   "data": "",
+   "status": "CONFIRMADO",
+   "enunciado": "A comissao de permanencia e a correcao monetaria sao inacumulaveis.",
+   "fonte": "web STJ",
+   "data": "2026-06-18",
    "plugins": [
     "consumidor-adv-os"
    ],
@@ -1330,10 +784,10 @@
    "tribunal": "STJ",
    "tipo": "Sum",
    "numero": "309",
-   "status": "VALIDAR",
-   "enunciado": "",
-   "fonte": "",
-   "data": "",
+   "status": "CONFIRMADO",
+   "enunciado": "O debito alimentar que autoriza a prisao civil compreende as 3 prestacoes anteriores ao ajuizamento e as que se vencerem no curso do processo.",
+   "fonte": "web STJ",
+   "data": "2026-06-18",
    "plugins": [
     "familia-sucessoes-adv-os"
    ],
@@ -1351,7 +805,7 @@
    "plugins": [
     "transito-adv-os"
    ],
-   "ocorrencias": 32,
+   "ocorrencias": 34,
    "nota": ""
   },
   "STJ|Sum|314": {
@@ -1372,10 +826,52 @@
    "tribunal": "STJ",
    "tipo": "Sum",
    "numero": "323",
-   "status": "VALIDAR",
-   "enunciado": "",
-   "fonte": "",
-   "data": "",
+   "status": "CONFIRMADO",
+   "enunciado": "A inscricao do nome do devedor pode ser mantida nos cadastros ate o prazo maximo de cinco anos.",
+   "fonte": "web STJ",
+   "data": "2026-06-18",
+   "plugins": [
+    "consumidor-adv-os"
+   ],
+   "ocorrencias": 1,
+   "nota": ""
+  },
+  "STJ|Sum|326": {
+   "tribunal": "STJ",
+   "tipo": "Sum",
+   "numero": "326",
+   "status": "CONFIRMADO",
+   "enunciado": "Dano moral: a condenacao em montante inferior ao postulado nao implica sucumbencia reciproca.",
+   "fonte": "web STJ",
+   "data": "2026-06-18",
+   "plugins": [
+    "civel-adv-os"
+   ],
+   "ocorrencias": 2,
+   "nota": ""
+  },
+  "STJ|Sum|335": {
+   "tribunal": "STJ",
+   "tipo": "Sum",
+   "numero": "335",
+   "status": "CONFIRMADO",
+   "enunciado": "Na locacao, e valida a clausula de renuncia a indenizacao das benfeitorias e ao direito de retencao.",
+   "fonte": "web STJ",
+   "data": "2026-06-18",
+   "plugins": [
+    "imobiliario-adv-os"
+   ],
+   "ocorrencias": 2,
+   "nota": ""
+  },
+  "STJ|Sum|356": {
+   "tribunal": "STJ",
+   "tipo": "Sum",
+   "numero": "356",
+   "status": "CONFIRMADO",
+   "enunciado": "E legitima a cobranca da tarifa basica pelo uso dos servicos de telefonia fixa.",
+   "fonte": "web STJ",
+   "data": "2026-06-18",
    "plugins": [
     "consumidor-adv-os"
    ],
@@ -1386,10 +882,10 @@
    "tribunal": "STJ",
    "tipo": "Sum",
    "numero": "358",
-   "status": "VALIDAR",
-   "enunciado": "",
-   "fonte": "",
-   "data": "",
+   "status": "CONFIRMADO",
+   "enunciado": "O cancelamento de pensao alimenticia por maioridade do filho sujeita-se a decisao judicial, com contraditorio.",
+   "fonte": "web STJ",
+   "data": "2026-06-18",
    "plugins": [
     "familia-sucessoes-adv-os"
    ],
@@ -1400,24 +896,24 @@
    "tribunal": "STJ",
    "tipo": "Sum",
    "numero": "359",
-   "status": "VALIDAR",
-   "enunciado": "",
-   "fonte": "",
-   "data": "",
+   "status": "CONFIRMADO",
+   "enunciado": "Cabe ao orgao mantenedor do cadastro a notificacao do devedor antes de proceder a inscricao.",
+   "fonte": "web STJ",
+   "data": "2026-06-18",
    "plugins": [
     "consumidor-adv-os"
    ],
-   "ocorrencias": 1,
+   "ocorrencias": 5,
    "nota": ""
   },
   "STJ|Sum|360": {
    "tribunal": "STJ",
    "tipo": "Sum",
    "numero": "360",
-   "status": "VALIDAR",
-   "enunciado": "",
-   "fonte": "",
-   "data": "",
+   "status": "CONFIRMADO",
+   "enunciado": "A denuncia espontanea nao se aplica a tributos por homologacao regularmente declarados e pagos a destempo.",
+   "fonte": "web STJ",
+   "data": "2026-06-18",
    "plugins": [
     "tributario-adv-os"
    ],
@@ -1456,28 +952,14 @@
    "tribunal": "STJ",
    "tipo": "Sum",
    "numero": "375",
-   "status": "VALIDAR",
-   "enunciado": "",
-   "fonte": "",
-   "data": "",
+   "status": "CONFIRMADO",
+   "enunciado": "O reconhecimento da fraude a execucao depende do registro da penhora ou da prova de ma-fe do terceiro adquirente.",
+   "fonte": "web STJ",
+   "data": "2026-06-18",
    "plugins": [
     "imobiliario-adv-os"
    ],
-   "ocorrencias": 3,
-   "nota": ""
-  },
-  "STJ|Sum|377": {
-   "tribunal": "STJ",
-   "tipo": "Sum",
-   "numero": "377",
-   "status": "VALIDAR",
-   "enunciado": "",
-   "fonte": "",
-   "data": "",
-   "plugins": [
-    "familia-sucessoes-adv-os"
-   ],
-   "ocorrencias": 2,
+   "ocorrencias": 4,
    "nota": ""
   },
   "STJ|Sum|382": {
@@ -1548,7 +1030,35 @@
     "civel-adv-os",
     "tributario-adv-os"
    ],
-   "ocorrencias": 10,
+   "ocorrencias": 7,
+   "nota": ""
+  },
+  "STJ|Sum|403": {
+   "tribunal": "STJ",
+   "tipo": "Sum",
+   "numero": "403",
+   "status": "CONFIRMADO",
+   "enunciado": "Independe de prova do prejuizo a indenizacao pela publicacao nao autorizada de imagem com fins economicos.",
+   "fonte": "web STJ",
+   "data": "2026-06-18",
+   "plugins": [
+    "civel-adv-os"
+   ],
+   "ocorrencias": 1,
+   "nota": ""
+  },
+  "STJ|Sum|404": {
+   "tribunal": "STJ",
+   "tipo": "Sum",
+   "numero": "404",
+   "status": "CONFIRMADO",
+   "enunciado": "E dispensavel o aviso de recebimento (AR) na carta de comunicacao ao consumidor sobre a negativacao.",
+   "fonte": "web STJ",
+   "data": "2026-06-18",
+   "plugins": [
+    "consumidor-adv-os"
+   ],
+   "ocorrencias": 1,
    "nota": ""
   },
   "STJ|Sum|43": {
@@ -1577,6 +1087,20 @@
     "tributario-adv-os"
    ],
    "ocorrencias": 3,
+   "nota": ""
+  },
+  "STJ|Sum|434": {
+   "tribunal": "STJ",
+   "tipo": "Sum",
+   "numero": "434",
+   "status": "CONFIRMADO",
+   "enunciado": "O pagamento da multa por infracao de transito nao inibe a discussao judicial do debito.",
+   "fonte": "web STJ",
+   "data": "2026-06-18",
+   "plugins": [
+    "transito-adv-os"
+   ],
+   "ocorrencias": 2,
    "nota": ""
   },
   "STJ|Sum|435": {
@@ -1611,10 +1135,10 @@
    "tribunal": "STJ",
    "tipo": "Sum",
    "numero": "439",
-   "status": "VALIDAR",
-   "enunciado": "",
-   "fonte": "",
-   "data": "",
+   "status": "CONFIRMADO",
+   "enunciado": "Admite-se o exame criminologico pelas peculiaridades do caso, em decisao motivada.",
+   "fonte": "web STJ",
+   "data": "2026-06-18",
    "plugins": [
     "criminal-adv-os"
    ],
@@ -1625,24 +1149,24 @@
    "tribunal": "STJ",
    "tipo": "Sum",
    "numero": "440",
-   "status": "VALIDAR",
-   "enunciado": "",
-   "fonte": "",
-   "data": "",
+   "status": "CONFIRMADO",
+   "enunciado": "Fixada a pena-base no minimo, e vedado regime mais gravoso com base apenas na gravidade abstrata do delito.",
+   "fonte": "web STJ",
+   "data": "2026-06-18",
    "plugins": [
     "criminal-adv-os"
    ],
-   "ocorrencias": 1,
+   "ocorrencias": 4,
    "nota": ""
   },
   "STJ|Sum|444": {
    "tribunal": "STJ",
    "tipo": "Sum",
    "numero": "444",
-   "status": "VALIDAR",
-   "enunciado": "",
-   "fonte": "",
-   "data": "",
+   "status": "CONFIRMADO",
+   "enunciado": "E vedada a utilizacao de inqueritos policiais e acoes penais em curso para agravar a pena-base.",
+   "fonte": "web STJ",
+   "data": "2026-06-18",
    "plugins": [
     "criminal-adv-os"
    ],
@@ -1653,10 +1177,10 @@
    "tribunal": "STJ",
    "tipo": "Sum",
    "numero": "447",
-   "status": "VALIDAR",
-   "enunciado": "",
-   "fonte": "",
-   "data": "",
+   "status": "CONFIRMADO",
+   "enunciado": "Os Estados e o DF sao partes legitimas na acao de restituicao de IR retido na fonte proposta por seus servidores (IR pertence ao ente — base da isencao RPPS).",
+   "fonte": "web STJ (scon) — DJe 13/05/2010",
+   "data": "2026-06-18",
    "plugins": [
     "isencao-ir-doenca-adv-os"
    ],
@@ -1667,42 +1191,98 @@
    "tribunal": "STJ",
    "tipo": "Sum",
    "numero": "460",
-   "status": "VALIDAR",
-   "enunciado": "",
-   "fonte": "",
-   "data": "",
+   "status": "CONFIRMADO",
+   "enunciado": "Incabivel o MS para convalidar a compensacao tributaria realizada pelo contribuinte.",
+   "fonte": "web STJ",
+   "data": "2026-06-18",
    "plugins": [
     "tributario-adv-os"
    ],
    "ocorrencias": 2,
    "nota": ""
   },
+  "STJ|Sum|472": {
+   "tribunal": "STJ",
+   "tipo": "Sum",
+   "numero": "472",
+   "status": "CONFIRMADO",
+   "enunciado": "A comissao de permanencia (limitada aos encargos do contrato) exclui a exigibilidade de juros, mora e multa contratual.",
+   "fonte": "web STJ",
+   "data": "2026-06-18",
+   "plugins": [
+    "consumidor-adv-os"
+   ],
+   "ocorrencias": 1,
+   "nota": ""
+  },
+  "STJ|Sum|479": {
+   "tribunal": "STJ",
+   "tipo": "Sum",
+   "numero": "479",
+   "status": "CONFIRMADO",
+   "enunciado": "Instituicoes financeiras respondem objetivamente por fraudes e delitos de terceiros (fortuito interno) em operacoes bancarias.",
+   "fonte": "web STJ",
+   "data": "2026-06-18",
+   "plugins": [
+    "consumidor-adv-os"
+   ],
+   "ocorrencias": 1,
+   "nota": ""
+  },
   "STJ|Sum|480": {
    "tribunal": "STJ",
    "tipo": "Sum",
    "numero": "480",
-   "status": "VALIDAR",
-   "enunciado": "",
-   "fonte": "",
-   "data": "",
+   "status": "CONFIRMADO",
+   "enunciado": "O juizo da recuperacao judicial nao e competente para decidir sobre constricao de bens nao abrangidos pelo plano.",
+   "fonte": "web STJ",
+   "data": "2026-06-18",
    "plugins": [
     "recuperacao-judicial-adv-os"
    ],
-   "ocorrencias": 5,
+   "ocorrencias": 9,
    "nota": ""
   },
   "STJ|Sum|491": {
    "tribunal": "STJ",
    "tipo": "Sum",
    "numero": "491",
-   "status": "VALIDAR",
-   "enunciado": "",
-   "fonte": "",
-   "data": "",
+   "status": "CONFIRMADO",
+   "enunciado": "E inadmissivel a chamada progressao per saltum de regime prisional.",
+   "fonte": "web STJ",
+   "data": "2026-06-18",
    "plugins": [
     "criminal-adv-os"
    ],
    "ocorrencias": 1,
+   "nota": ""
+  },
+  "STJ|Sum|503": {
+   "tribunal": "STJ",
+   "tipo": "Sum",
+   "numero": "503",
+   "status": "CONFIRMADO",
+   "enunciado": "O prazo para monitoria de cheque sem forca executiva e quinquenal, contado do dia seguinte a emissao.",
+   "fonte": "web STJ",
+   "data": "2026-06-18",
+   "plugins": [
+    "civel-adv-os"
+   ],
+   "ocorrencias": 2,
+   "nota": ""
+  },
+  "STJ|Sum|510": {
+   "tribunal": "STJ",
+   "tipo": "Sum",
+   "numero": "510",
+   "status": "CONFIRMADO",
+   "enunciado": "A liberacao de veiculo retido por transporte irregular de passageiros nao se condiciona ao pagamento de multas e despesas.",
+   "fonte": "web STJ",
+   "data": "2026-06-18",
+   "plugins": [
+    "transito-adv-os"
+   ],
+   "ocorrencias": 2,
    "nota": ""
   },
   "STJ|Sum|530": {
@@ -1723,10 +1303,24 @@
    "tribunal": "STJ",
    "tipo": "Sum",
    "numero": "534",
-   "status": "VALIDAR",
-   "enunciado": "",
-   "fonte": "",
-   "data": "",
+   "status": "CONFIRMADO",
+   "enunciado": "A pratica de falta grave interrompe a contagem do prazo para a progressao de regime.",
+   "fonte": "web STJ",
+   "data": "2026-06-18",
+   "plugins": [
+    "criminal-adv-os"
+   ],
+   "ocorrencias": 1,
+   "nota": ""
+  },
+  "STJ|Sum|535": {
+   "tribunal": "STJ",
+   "tipo": "Sum",
+   "numero": "535",
+   "status": "CONFIRMADO",
+   "enunciado": "A pratica de falta grave nao interrompe o prazo para fim de comutacao de pena ou indulto.",
+   "fonte": "web STJ",
+   "data": "2026-06-18",
    "plugins": [
     "criminal-adv-os"
    ],
@@ -1737,14 +1331,14 @@
    "tribunal": "STJ",
    "tipo": "Sum",
    "numero": "539",
-   "status": "VALIDAR",
-   "enunciado": "",
-   "fonte": "",
-   "data": "",
+   "status": "CONFIRMADO",
+   "enunciado": "Permitida a capitalizacao de juros com periodicidade inferior a anual em contratos do SFN a partir de 31/03/2000, se pactuada.",
+   "fonte": "web STJ",
+   "data": "2026-06-18",
    "plugins": [
     "consumidor-adv-os"
    ],
-   "ocorrencias": 4,
+   "ocorrencias": 11,
    "nota": ""
   },
   "STJ|Sum|54": {
@@ -1758,7 +1352,7 @@
    "plugins": [
     "civel-adv-os"
    ],
-   "ocorrencias": 17,
+   "ocorrencias": 18,
    "nota": ""
   },
   "STJ|Sum|543": {
@@ -1773,17 +1367,17 @@
     "consumidor-adv-os",
     "imobiliario-adv-os"
    ],
-   "ocorrencias": 22,
+   "ocorrencias": 23,
    "nota": ""
   },
   "STJ|Sum|545": {
    "tribunal": "STJ",
    "tipo": "Sum",
    "numero": "545",
-   "status": "VALIDAR",
-   "enunciado": "",
-   "fonte": "",
-   "data": "",
+   "status": "CONFIRMADO",
+   "enunciado": "A confissao atenua a pena (art. 65 III d CP), independentemente de utilizada na formacao do convencimento (redacao revista em 2025).",
+   "fonte": "web STJ",
+   "data": "2026-06-18",
    "plugins": [
     "criminal-adv-os"
    ],
@@ -1794,38 +1388,38 @@
    "tribunal": "STJ",
    "tipo": "Sum",
    "numero": "555",
-   "status": "VALIDAR",
-   "enunciado": "",
-   "fonte": "",
-   "data": "",
+   "status": "CONFIRMADO",
+   "enunciado": "Sem declaracao do debito, o prazo decadencial conta-se pelo art. 173, I, do CTN (tributos por homologacao).",
+   "fonte": "web STJ",
+   "data": "2026-06-18",
    "plugins": [
     "tributario-adv-os"
    ],
-   "ocorrencias": 1,
+   "ocorrencias": 2,
    "nota": ""
   },
   "STJ|Sum|581": {
    "tribunal": "STJ",
    "tipo": "Sum",
    "numero": "581",
-   "status": "VALIDAR",
-   "enunciado": "",
-   "fonte": "",
-   "data": "",
+   "status": "CONFIRMADO",
+   "enunciado": "A RJ do devedor principal nao impede o prosseguimento de execucoes contra coobrigados/garantidores (aval, garantia real ou fidejussoria).",
+   "fonte": "web STJ",
+   "data": "2026-06-18",
    "plugins": [
     "recuperacao-judicial-adv-os"
    ],
-   "ocorrencias": 1,
+   "ocorrencias": 2,
    "nota": ""
   },
   "STJ|Sum|596": {
    "tribunal": "STJ",
    "tipo": "Sum",
    "numero": "596",
-   "status": "VALIDAR",
-   "enunciado": "",
-   "fonte": "",
-   "data": "",
+   "status": "CONFIRMADO",
+   "enunciado": "A obrigacao alimentar dos avos tem natureza complementar e subsidiaria (contexto familia).",
+   "fonte": "web STJ",
+   "data": "2026-06-18",
    "plugins": [
     "familia-sucessoes-adv-os"
    ],
@@ -1846,6 +1440,20 @@
    "ocorrencias": 35,
    "nota": ""
   },
+  "STJ|Sum|619": {
+   "tribunal": "STJ",
+   "tipo": "Sum",
+   "numero": "619",
+   "status": "CONFIRMADO",
+   "enunciado": "A ocupacao indevida de bem publico configura mera detencao, insuscetivel de retencao ou indenizacao por benfeitorias.",
+   "fonte": "web STJ",
+   "data": "2026-06-18",
+   "plugins": [
+    "imobiliario-adv-os"
+   ],
+   "ocorrencias": 1,
+   "nota": ""
+  },
   "STJ|Sum|627": {
    "tribunal": "STJ",
    "tipo": "Sum",
@@ -1864,40 +1472,55 @@
    "tribunal": "STJ",
    "tipo": "Sum",
    "numero": "7",
-   "status": "VALIDAR",
-   "enunciado": "",
-   "fonte": "",
-   "data": "",
+   "status": "CONFIRMADO",
+   "enunciado": "A pretensao de simples reexame de prova nao enseja recurso especial.",
+   "fonte": "web STJ",
+   "data": "2026-06-18",
    "plugins": [
     "consumidor-adv-os",
+    "familia-sucessoes-adv-os",
     "recuperacao-judicial-adv-os"
    ],
-   "ocorrencias": 3,
+   "ocorrencias": 6,
    "nota": ""
   },
   "STJ|Sum|72": {
    "tribunal": "STJ",
    "tipo": "Sum",
    "numero": "72",
-   "status": "VALIDAR",
-   "enunciado": "",
-   "fonte": "",
-   "data": "",
+   "status": "CONFIRMADO",
+   "enunciado": "A comprovacao da mora e imprescindivel a busca e apreensao do bem alienado fiduciariamente.",
+   "fonte": "web STJ",
+   "data": "2026-06-18",
    "plugins": [
     "civel-adv-os",
     "consumidor-adv-os"
    ],
-   "ocorrencias": 3,
+   "ocorrencias": 5,
+   "nota": ""
+  },
+  "STJ|Sum|84": {
+   "tribunal": "STJ",
+   "tipo": "Sum",
+   "numero": "84",
+   "status": "CONFIRMADO",
+   "enunciado": "Admissivel embargos de terceiro por posse advinda de compromisso de compra e venda, ainda que sem registro.",
+   "fonte": "web STJ",
+   "data": "2026-06-18",
+   "plugins": [
+    "imobiliario-adv-os"
+   ],
+   "ocorrencias": 2,
    "nota": ""
   },
   "STJ|Sum|85": {
    "tribunal": "STJ",
    "tipo": "Sum",
    "numero": "85",
-   "status": "VALIDAR",
-   "enunciado": "",
-   "fonte": "",
-   "data": "",
+   "status": "CONFIRMADO",
+   "enunciado": "Prestacoes de trato sucessivo com a Fazenda: a prescricao atinge so as parcelas anteriores ao quinquenio, se nao negado o proprio direito.",
+   "fonte": "web STJ",
+   "data": "2026-06-18",
    "plugins": [
     "previdenciario-adv-os"
    ],
@@ -1908,15 +1531,13 @@
    "tribunal": "STJ",
    "tipo": "Tema",
    "numero": "1",
-   "status": "VALIDAR",
-   "enunciado": "",
-   "fonte": "",
-   "data": "",
-   "plugins": [
-    "recuperacao-judicial-adv-os"
-   ],
-   "ocorrencias": 9,
-   "nota": ""
+   "status": "CONFIRMADO",
+   "enunciado": "A substituicao do exequente pelo cessionario dispensa autorizacao/consentimento do devedor (cessao de credito).",
+   "fonte": "auditoria de jurisprudencia (web, STF/STJ/TST/TNU) — Eixo 1, commit bacceec",
+   "data": "2026-06-16",
+   "plugins": [],
+   "ocorrencias": 0,
+   "nota": "curado, nao citado nas skills"
   },
   "STJ|Tema|1051": {
    "tribunal": "STJ",
@@ -1929,7 +1550,7 @@
    "plugins": [
     "recuperacao-judicial-adv-os"
    ],
-   "ocorrencias": 2,
+   "ocorrencias": 16,
    "nota": ""
   },
   "STJ|Tema|566": {
@@ -1950,40 +1571,68 @@
    "tribunal": "STJ",
    "tipo": "Tema",
    "numero": "618",
-   "status": "VALIDAR",
-   "enunciado": "",
-   "fonte": "",
-   "data": "",
+   "status": "CONFIRMADO",
+   "enunciado": "Contratos bancarios ate 30/04/2008: valida a pactuacao de TAC/TEC, ressalvado o exame de abusividade.",
+   "fonte": "web STJ",
+   "data": "2026-06-18",
    "plugins": [
     "consumidor-adv-os"
    ],
-   "ocorrencias": 2,
+   "ocorrencias": 5,
    "nota": ""
   },
   "STJ|Tema|637": {
    "tribunal": "STJ",
    "tipo": "Tema",
    "numero": "637",
-   "status": "VALIDAR",
-   "enunciado": "",
-   "fonte": "",
-   "data": "",
+   "status": "CONFIRMADO",
+   "enunciado": "Honorarios advocaticios tem natureza alimentar e equiparam-se aos trabalhistas para habilitacao em falencia/RJ; pos-quebra sao extraconcursais.",
+   "fonte": "web STJ",
+   "data": "2026-06-18",
    "plugins": [
     "recuperacao-judicial-adv-os"
    ],
-   "ocorrencias": 3,
+   "ocorrencias": 4,
+   "nota": ""
+  },
+  "STJ|Tema|692": {
+   "tribunal": "STJ",
+   "tipo": "Tema",
+   "numero": "692",
+   "status": "CONFIRMADO",
+   "enunciado": "A reforma da tutela obriga o autor a devolver os beneficios previdenciarios recebidos, com desconto nao superior a 30% (STJ, nao STF).",
+   "fonte": "web STJ",
+   "data": "2026-06-18",
+   "plugins": [
+    "familia-sucessoes-adv-os"
+   ],
+   "ocorrencias": 1,
    "nota": ""
   },
   "STJ|Tema|722": {
    "tribunal": "STJ",
    "tipo": "Tema",
    "numero": "722",
-   "status": "VALIDAR",
-   "enunciado": "",
-   "fonte": "",
-   "data": "",
+   "status": "CONFIRMADO",
+   "enunciado": "Busca e apreensao (Lei 10.931/2004): devedor paga a integralidade da divida em 5 dias, sob pena de consolidacao da propriedade.",
+   "fonte": "web STJ",
+   "data": "2026-06-18",
    "plugins": [
     "consumidor-adv-os"
+   ],
+   "ocorrencias": 3,
+   "nota": ""
+  },
+  "STJ|Tema|905": {
+   "tribunal": "STJ",
+   "tipo": "Tema",
+   "numero": "905",
+   "status": "CONFIRMADO",
+   "enunciado": "Fixa indices de correcao e juros conforme a natureza da condenacao contra a Fazenda (em harmonia com o Tema 810/STF).",
+   "fonte": "web STJ",
+   "data": "2026-06-18",
+   "plugins": [
+    "civel-adv-os"
    ],
    "ocorrencias": 1,
    "nota": ""
@@ -1992,14 +1641,14 @@
    "tribunal": "STJ",
    "tipo": "Tema",
    "numero": "929",
-   "status": "VALIDAR",
-   "enunciado": "",
-   "fonte": "",
-   "data": "",
+   "status": "CONFIRMADO",
+   "enunciado": "Repeticao em dobro (art. 42 CDC) cabivel quando a cobranca indevida contraria a boa-fe objetiva, independe de ma-fe; modulacao a partir de 30/03/2021.",
+   "fonte": "web STJ (pagina oficial registrava 'em julgamento' — confirmar publicacao)",
+   "data": "2026-06-18",
    "plugins": [
     "consumidor-adv-os"
    ],
-   "ocorrencias": 9,
+   "ocorrencias": 23,
    "nota": ""
   },
   "STJ|Tema|962": {
@@ -2048,24 +1697,22 @@
    "tribunal": "STJ",
    "tipo": "Tema",
    "numero": "999",
-   "status": "VALIDAR",
-   "enunciado": "Revisao da Vida Toda no STJ (REsp 1.596.203) — NAO confundir com o Tema 999 do STF.",
+   "status": "CONFIRMADO",
+   "enunciado": "Revisao da Vida Toda no STJ (REsp 1.596.203) — DIFERENTE do Tema 999 do STF (dano ambiental). ATENCAO: RVT declarada INCONSTITUCIONAL pelo STF em 2024 (ADIs 2.110/2.111) — sem eficacia, nao recomendar sem checar.",
    "fonte": "auditoria de jurisprudencia (web, STF/STJ/TST/TNU) — Eixo 1, commit bacceec",
    "data": "2026-06-16",
-   "plugins": [
-    "previdenciario-adv-os"
-   ],
-   "ocorrencias": 3,
-   "nota": ""
+   "plugins": [],
+   "ocorrencias": 0,
+   "nota": "curado, nao citado nas skills"
   },
   "TNU|Sum|25": {
    "tribunal": "TNU",
    "tipo": "Sum",
    "numero": "25",
-   "status": "VALIDAR",
-   "enunciado": "",
-   "fonte": "",
-   "data": "",
+   "status": "CONFIRMADO",
+   "enunciado": "A revisao do art. 58 do ADCT faz-se pelo numero de salarios minimos na data da concessao, nao no mes da ultima contribuicao.",
+   "fonte": "web TNU/CJF",
+   "data": "2026-06-18",
    "plugins": [
     "previdenciario-adv-os"
    ],
@@ -2076,10 +1723,10 @@
    "tribunal": "TNU",
    "tipo": "Sum",
    "numero": "27",
-   "status": "VALIDAR",
-   "enunciado": "",
-   "fonte": "",
-   "data": "",
+   "status": "CONFIRMADO",
+   "enunciado": "A ausencia de registro em orgao do Ministerio do Trabalho nao impede a comprovacao do desemprego por outros meios.",
+   "fonte": "web TNU/CJF",
+   "data": "2026-06-18",
    "plugins": [
     "previdenciario-adv-os"
    ],
@@ -2090,10 +1737,10 @@
    "tribunal": "TNU",
    "tipo": "Sum",
    "numero": "6",
-   "status": "VALIDAR",
-   "enunciado": "",
-   "fonte": "",
-   "data": "",
+   "status": "CONFIRMADO",
+   "enunciado": "Certidao de casamento/documento idoneo do conjuge ruricola constitui inicio razoavel de prova material da atividade rural.",
+   "fonte": "web TNU/CJF",
+   "data": "2026-06-18",
    "plugins": [
     "previdenciario-adv-os"
    ],
@@ -2104,10 +1751,10 @@
    "tribunal": "TNU",
    "tipo": "Tema",
    "numero": "17",
-   "status": "VALIDAR",
-   "enunciado": "",
-   "fonte": "",
-   "data": "",
+   "status": "CONFIRMADO",
+   "enunciado": "A exigencia de inicio de prova material para o salario-maternidade da segurada especial pode ser flexibilizada.",
+   "fonte": "web TNU",
+   "data": "2026-06-18",
    "plugins": [
     "previdenciario-adv-os"
    ],
@@ -2118,10 +1765,10 @@
    "tribunal": "TST",
    "tipo": "Sum",
    "numero": "268",
-   "status": "VALIDAR",
-   "enunciado": "",
-   "fonte": "",
-   "data": "",
+   "status": "CONFIRMADO",
+   "enunciado": "A acao trabalhista, ainda que arquivada, interrompe a prescricao somente quanto aos pedidos identicos.",
+   "fonte": "web TST",
+   "data": "2026-06-18",
    "plugins": [
     "recuperacao-judicial-adv-os"
    ],
@@ -2132,10 +1779,10 @@
    "tribunal": "TST",
    "tipo": "Sum",
    "numero": "372",
-   "status": "VALIDAR",
-   "enunciado": "",
-   "fonte": "",
-   "data": "",
+   "status": "CONFIRMADO",
+   "enunciado": "Gratificacao de funcao recebida por 10+ anos nao pode ser suprimida sem justo motivo (ressalva: Reforma Trabalhista art. 468 §2 para fatos posteriores).",
+   "fonte": "web TST",
+   "data": "2026-06-18",
    "plugins": [
     "recuperacao-judicial-adv-os"
    ],

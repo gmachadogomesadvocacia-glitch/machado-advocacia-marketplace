@@ -55,7 +55,7 @@ TIER 2A — Contencioso
 
 TIER 2B — Pos-sentenca
   cumprimento-sentenca-inss      → RPV / precatorio / calculo de atrasados
-  acao-revisional-rmi            → Tema 999 STF + erros de calculo
+  acao-revisional-rmi            → RVT (Tema 1102 STF / 999 STJ) + erros de calculo
 
 TIER 2C — Administrativo + Analise
   administrativo-inss-crps       → JR / CaJ / requerimento / cessacao / prorrogacao
@@ -99,7 +99,7 @@ ENGINE
 /calcular-rmi            → Calculo de RMI com auto-ataque (Protocolo P5)
 /redigir-peticao         → Peticao inicial previdenciaria
 /impugnar-laudo          → Impugnacao a laudo pericial desfavoravel
-/revisar-rmi             → Revisao da Vida Toda + Tema 999 STF
+/revisar-rmi             → Revisao da Vida Toda (Tema 1102 STF / 999 STJ) + erros de calculo
 /planejar-pj             → Planejamento previdenciario para socio/PJ
 /consultivo-empresa      → Consultivo empresarial INSS (folha/FAP/autuacao)
 ```

@@ -17,11 +17,11 @@ from pathlib import Path
 
 REPO = Path(__file__).resolve().parents[2]
 LIVRO = Path(__file__).resolve().parent / "jurisprudencia.json"
-CIT = re.compile(r"(S[uú]mula\s+Vinculante\s*\d+|\bSV\s*\d+|S[uú]m(?:ula)?\.?\s*\d+|\bTema\s*\d+)", re.I)
-NUM = re.compile(r"\d+")
+CIT = re.compile(r"(S[uú]mula\s+Vinculante\s*[\d.]*\d|\bSV\s*[\d.]*\d|S[uú]m(?:ula)?\.?\s*[\d.]*\d|\bTema\s*[\d.]*\d)", re.I)
+NUM = re.compile(r"[\d.]*\d")
 
 def tipo_num(cit):
-    s = cit.strip(); n = NUM.search(s).group(0)
+    s = cit.strip(); n = NUM.search(s).group(0).replace(".", "")
     if re.match(r"S[uú]mula\s+Vinculante|SV", s, re.I): return "SV", n
     if re.match(r"Tema", s, re.I): return "Tema", n
     return "Sum", n

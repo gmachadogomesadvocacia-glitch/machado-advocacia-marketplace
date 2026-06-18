@@ -42,6 +42,30 @@
       "padrao": "1\\.238"
     },
     {
+      "id": "familia-sum377-stf",
+      "descricao": "Sum. 377 (regime de separacao legal comunica aquestos) e do STF; a 377 do STJ e visao monocular. Em familia, nao atribuir a 377 ao STJ. Corrigido no endurecimento.",
+      "origem": "endurecimento / verificacao web 2026-06-18",
+      "escopo": "familia-sucessoes-adv-os/skills/**/SKILL.md",
+      "modo": "proibido",
+      "padrao": "377\\s+STJ"
+    },
+    {
+      "id": "prev-tema999-stf",
+      "descricao": "Revisao da Vida Toda no STF e o Tema 1102 (Tema 999 STF e dano ambiental). Nao atribuir Tema 999 ao STF. Corrigido no endurecimento.",
+      "origem": "endurecimento / verificacao web 2026-06-18",
+      "escopo": "previdenciario-adv-os/skills/**/SKILL.md",
+      "modo": "proibido",
+      "padrao": "Tema\\s*999\\s*STF"
+    },
+    {
+      "id": "trib-carf-sum393",
+      "descricao": "Nao existe Sumula CARF 393 (a 393 da execucao fiscal e do STJ). Vetar atribuicao da 393 ao CARF. Corrigido no endurecimento.",
+      "origem": "endurecimento / verificacao web 2026-06-18",
+      "escopo": "tributario-adv-os/skills/**/SKILL.md",
+      "modo": "proibido",
+      "padrao": "CARF\\s*393|393\\s*CARF"
+    },
+    {
       "id": "c3-r5-adversarial-todas-revisoes",
       "descricao": "Camada 3: toda skill de revisao final deve ter a rodada R5 adversarial.",
       "origem": "Camada 3 / commits fd75dcd+bafbcc9",

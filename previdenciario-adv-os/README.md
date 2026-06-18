@@ -44,7 +44,7 @@ Engine: onboarding wizard
 ## Base Legal
 
 Lei 8.213/91 · Lei 8.212/91 · Decreto 3.048/99 · EC 103/2019 · IN INSS 128/2022  
-TNU Súmulas 6/25/47/57/63/83 · STF Temas 555/709/999 · LC 108/109/2001
+TNU Súmulas 6/25/47/57/63/83 · STF Temas 555/709/1102 (RVT — inconstitucional 2024) · LC 108/109/2001
 
 ---
 

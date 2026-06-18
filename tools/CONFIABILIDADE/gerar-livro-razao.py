@@ -17,13 +17,13 @@ HERE = Path(__file__).resolve().parent
 CURADORIA = HERE / "curadoria-jurisprudencia.json"
 OUT = HERE / "jurisprudencia.json"
 
-CIT = re.compile(r"(S[uú]mula\s+Vinculante\s*\d+|\bSV\s*\d+|S[uú]m(?:ula)?\.?\s*\d+|\bTema\s*\d+)", re.I)
-NUM = re.compile(r"\d+")
+CIT = re.compile(r"(S[uú]mula\s+Vinculante\s*[\d.]*\d|\bSV\s*[\d.]*\d|S[uú]m(?:ula)?\.?\s*[\d.]*\d|\bTema\s*[\d.]*\d)", re.I)
+NUM = re.compile(r"[\d.]*\d")
 TRIB = re.compile(r"\b(STF|STJ|TST|TNU|CARF)\b")
 
 def tipo_num(cit):
     s = cit.strip()
-    n = NUM.search(s).group(0)
+    n = NUM.search(s).group(0).replace(".", "")  # "1.051" -> "1051"
     if re.match(r"S[uú]mula\s+Vinculante|SV", s, re.I): return "SV", n
     if re.match(r"Tema", s, re.I): return "Tema", n
     return "Sum", n
@@ -41,15 +41,21 @@ def main():
     for f in sorted(glob.glob(str(REPO / "*/skills/*/SKILL.md"))):
         plugin = Path(f).relative_to(REPO).parts[0]
         for line in open(f, encoding="utf-8", errors="replace").read().splitlines():
-            for m in CIT.finditer(line):
+            cites = list(CIT.finditer(line))
+            gts = set(TRIB.findall(line))
+            for m in cites:
                 tp, n = tipo_num(m.group(1))
-                trib = "STF" if tp == "SV" else "?"
-                gt = TRIB.search(line)
-                if gt: trib = gt.group(1)
+                # so confia no tribunal da linha quando ha 1 tribunal E 1 citacao
+                # (linha "54, 188 STF, 246..." ou "STF/STJ ..." e ambigua -> desambigua pela curadoria)
+                trib = "?"
+                if len(gts) == 1 and len(cites) == 1:
+                    trib = next(iter(gts))
                 if trib == "?":
                     cands = by_num.get((tp, n))
                     if cands and len(cands) == 1:
                         trib = next(iter(cands))
+                if trib == "?" and tp == "SV":
+                    trib = "STF"
                 key = "%s|%s|%s" % (trib, tp, n)
                 e = entradas.setdefault(key, {"tribunal": trib, "tipo": tp, "numero": n,
                     "status": "VALIDAR", "enunciado": "", "fonte": "", "data": "",

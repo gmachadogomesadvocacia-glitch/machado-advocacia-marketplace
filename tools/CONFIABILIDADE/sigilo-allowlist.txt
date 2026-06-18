@@ -1,0 +1,7 @@
+# Allowlist do scanner de sigilo (check-sigilo.py).
+# Trechos que CASAM um padrao de PII mas sao dado PUBLICO/institucional legitimo
+# (e podem aparecer em templates). 1 valor por linha; '#' = comentario.
+# NUNCA adicionar aqui CPF/CNPJ/processo/e-mail de CLIENTE — isso seria liberar o vazamento.
+
+# CNPJ nacional do INSS — re em toda acao previdenciaria (autarquia federal, dado publico).
+29.979.036/0001-40

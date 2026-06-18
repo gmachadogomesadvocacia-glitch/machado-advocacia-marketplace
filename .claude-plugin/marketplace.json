@@ -105,6 +105,15 @@
       "author": {
         "name": "Machado Advocacia"
       }
+    },
+    {
+      "name": "roteador-adv-os",
+      "version": "1.0.0",
+      "source": "./roteador-adv-os",
+      "description": "ROTEADOR CENTRAL dos plugins Adv-OS — porta de entrada unica. Identifica automaticamente, a partir do que o usuario escreve, qual dos 11 plugins juridicos do escritorio atende o tema: classifica o relato, mostra os SINAIS usados e CONFIRMA antes de acionar o /start do plugin certo. Regras de desambiguacao para as fronteiras (negativacao consumidor x civel; execucao fiscal tributario; pensao alimenticia x por morte; alienacao fiduciaria imovel x veiculo; isencao IR por doenca x tributario; usucapiao; locacao/condominio imobiliario). Comportamento: sugerir e confirmar. Acionamento automatico (skill) em Code/Cowork/Chat ou explicito via /rotear.",
+      "author": {
+        "name": "Machado Advocacia"
+      }
     }
   ]
 }

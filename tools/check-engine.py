@@ -28,8 +28,11 @@ PLUMBING = [
 ]
 
 def plugins():
+    # so plugins COM engine (tem scripts/state.py); plugins leves sem encanamento
+    # (ex.: roteador-adv-os, que so classifica/roteia) sao legitimamente isentos.
     return sorted(d for d in os.listdir(ROOT)
-                  if d.endswith("-adv-os") and os.path.isdir(os.path.join(ROOT, d)))
+                  if d.endswith("-adv-os") and os.path.isdir(os.path.join(ROOT, d))
+                  and os.path.isfile(os.path.join(ROOT, d, "scripts", "state.py")))
 
 def tokens(plug):
     """Descobre (state_dir, env_prefix, start_suffix) lendo os proprios arquivos."""

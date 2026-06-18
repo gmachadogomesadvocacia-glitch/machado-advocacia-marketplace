@@ -1,0 +1,21 @@
+{
+  "id": "isencao-rpps-municipal-ajuste-anual",
+  "plugin": "isencao-ir-doenca-adv-os",
+  "origem": "caso real jose-antonio (DE-IDENTIFICADO — sem dado de cliente)",
+  "licao": "Erro do caso-piloto: tratar o total retido como restituivel (ignorando a data da doenca) e mirar so na fonte municipal, quando o indebito grande estava no ajuste anual contra a Uniao.",
+  "cenario": "Aposentado 65+ com DUAS aposentadorias (INSS especie 42 + RPPS municipal) e previdencia privada. Doenca grave (cardiopatia) caracterizada em DATA-X. IRRF na fonte ~ R$ 0 (parcela isenta 65+ zera), MAS imposto ALTO no ajuste anual/DIRPF (DARF) pago a UNIAO, porque o acumulo de fontes admite so UMA parcela isenta 65+ e a previdencia privada e tributavel.",
+  "deve_concluir": [
+    "instrumento principal = acao declaratoria de isencao + repeticao de indebito contra a UNIAO (indebito no ajuste anual/DARF)",
+    "competencia = Justica FEDERAL (JEF se ate 60 SM)",
+    "isencao corre da DATA da doenca (restituivel != total bruto retido)",
+    "restituicao limitada a 5 anos (CTN 168) e ao periodo da molestia",
+    "IRRF do RPPS municipal = parcela MENOR/acessoria (esse pertence ao Municipio, art. 157 I CF, Justica Estadual)"
+  ],
+  "nao_pode": [
+    "tratar todo o retido como restituivel sem considerar a data da doenca",
+    "eleger o requerimento a fonte municipal como instrumento PRINCIPAL",
+    "dizer que a parcela municipal se restitui via DIRPF/Receita Federal",
+    "ignorar o risco da parcela 65+ lancada em dobro (IR a pagar/malha fina)"
+  ],
+  "red_team_deve_pegar": ["VALORES (quantum x data)", "INSTRUMENTO/VIA", "COMPETENCIA/REU"]
+}

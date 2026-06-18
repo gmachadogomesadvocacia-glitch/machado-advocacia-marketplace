@@ -1,0 +1,20 @@
+{
+  "id": "rj-credor-trabalhista-concursal-integral",
+  "plugin": "recuperacao-judicial-adv-os",
+  "origem": "caso real Casa de Farinha / Ana Maria (DE-IDENTIFICADO)",
+  "licao": "Concursalidade se define pela DATA DO FATO GERADOR (relacao de emprego), nao pela data da sentenca; o AJ propos cisao com premissa fatica errada.",
+  "cenario": "Credora trabalhista admitida ANTES do pedido de RJ (ex.: admissao 4 meses antes do ajuizamento). Credito liquido por sentenca da Justica do Trabalho. O Administrador Judicial propoe CISAO concursal/extraconcursal, alegando que o vinculo seria posterior ao pedido. A recuperanda so questiona o marco de atualizacao (art. 9 II).",
+  "deve_concluir": [
+    "credito CONCURSAL INTEGRAL — fato gerador = relacao de emprego anterior ao pedido (Tema 1.051 STJ)",
+    "Classe I (art. 83, I) ate o teto de 150 SM; excedente eventual em Classe III",
+    "valor pelo determinado em sentenca da JT (art. 6 §2 LFRE); atualizacao no maximo ate a data do pedido (art. 9 II)",
+    "rejeitar a cisao extraconcursal do AJ (premissa fatica equivocada)"
+  ],
+  "nao_pode": [
+    "aceitar a parte extraconcursal proposta pelo AJ",
+    "citar o Tema 987 STJ como vigente (esta CANCELADO desde 2021)",
+    "atualizar o credito alem da data do pedido de RJ",
+    "habilitar Classe I sem observar o teto de 150 SM"
+  ],
+  "red_team_deve_pegar": ["FATO GERADOR (concursalidade)", "VALORES/CLASSE", "CITACOES (Tema 987 cancelado)"]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "consumidor-negativacao-sum385",
+  "plugin": "consumidor-adv-os",
+  "origem": "cenario-tipo DE-IDENTIFICADO (sem dado de cliente)",
+  "licao": "Negativacao indevida: se ja ha inscricao legitima preexistente, nao cabe dano moral (Sum. 385 STJ), so o cancelamento. Notificacao previa pelo orgao mantenedor (Sum. 359 STJ).",
+  "cenario": "Consumidor negativado por divida que alega inexistente. Ao analisar, ha OUTRA inscricao anterior legitima (divida real nao paga) no nome dele.",
+  "deve_concluir": [
+    "pedir o cancelamento da inscricao indevida",
+    "reconhecer que, havendo inscricao legitima preexistente, NAO cabe indenizacao por dano moral (Sum. 385 STJ), ressalvado o direito ao cancelamento",
+    "verificar a notificacao previa do art. 43 CDC / Sum. 359 STJ"
+  ],
+  "nao_pode": [
+    "pleitear dano moral ignorando a inscricao legitima preexistente (Sum. 385)",
+    "prometer quantum de dano moral como certo"
+  ],
+  "red_team_deve_pegar": ["TESE (Sum. 385)", "VALORES", "POLO/coerencia"]
+}

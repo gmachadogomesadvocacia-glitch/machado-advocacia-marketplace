@@ -1,0 +1,18 @@
+{
+  "id": "criminal-dosimetria-sum231",
+  "plugin": "criminal-adv-os",
+  "origem": "cenario-tipo DE-IDENTIFICADO (sem dado de cliente)",
+  "licao": "Dosimetria trifasica (CP 68): a atenuante nao reduz a pena abaixo do minimo legal (Sum. 231 STJ — e do STJ, nao do STF). Confissao atenua mesmo sem usada no convencimento (Sum. 545 STJ, redacao 2025).",
+  "cenario": "Reu primario confesso, pena-base no minimo. Defesa pede o reconhecimento da atenuante da confissao na 2a fase.",
+  "deve_concluir": [
+    "reconhecer a atenuante da confissao (Sum. 545 STJ)",
+    "registrar que, com a pena-base no minimo, a atenuante NAO desce abaixo do minimo (Sum. 231 STJ)",
+    "dosimetria fechada pelo metodo trifasico (CP 68), numeros de calculos-criminais"
+  ],
+  "nao_pode": [
+    "reduzir a pena abaixo do minimo por atenuante (viola Sum. 231 STJ)",
+    "atribuir a Sum. 231 ao STF (a 231 STF e processo civil — revel)",
+    "inventar fracoes fora do trifasico"
+  ],
+  "red_team_deve_pegar": ["DOSIMETRIA/VALORES", "CITACOES (tribunal correto)"]
+}

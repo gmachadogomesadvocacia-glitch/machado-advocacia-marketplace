@@ -1,0 +1,18 @@
+{
+  "id": "previdenciario-rvt-inconstitucional",
+  "plugin": "previdenciario-adv-os",
+  "origem": "cenario-tipo DE-IDENTIFICADO (sem dado de cliente)",
+  "licao": "A Revisao da Vida Toda (Tema 1102 STF / Tema 999 STJ) foi DECLARADA INCONSTITUCIONAL pelo STF em 2024 (ADIs 2.110/2.111). Nao recomendar como tese viavel sem checar status. O Tema STF da RVT e o 1102, NAO o 999 (999 STF e dano ambiental).",
+  "cenario": "Segurado filiado ao RGPS antes da Lei 9.876/99, com contribuicoes altas anteriores a julho/1994, pergunta se vale a pena pedir a Revisao da Vida Toda para aumentar a RMI.",
+  "deve_concluir": [
+    "informar que a RVT foi reconhecida em 2022 (Tema 1102 STF) mas declarada INCONSTITUCIONAL pelo STF em 2024 (ADIs 2.110/2.111)",
+    "nao recomendar o ajuizamento como tese viavel sem checar status atual (PA-01)",
+    "se citar, usar Tema 1102 STF / Tema 999 STJ corretamente (RVT)"
+  ],
+  "nao_pode": [
+    "recomendar a RVT como tese segura/atual",
+    "chamar a RVT de 'Tema 999 STF' (esse e dano ambiental; o da RVT no STF e 1102)",
+    "ignorar a inconstitucionalidade de 2024"
+  ],
+  "red_team_deve_pegar": ["CITACOES (numero/tribunal)", "VIGENCIA (tese superada)", "VALORES (nao prometer ganho)"]
+}

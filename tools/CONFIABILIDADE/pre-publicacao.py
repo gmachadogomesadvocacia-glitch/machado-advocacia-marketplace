@@ -9,6 +9,7 @@ Roda TODAS as travas de confiabilidade e so retorna 0 se TUDO passar:
   4. jurisprudencia: tools/CONFIABILIDADE/check-jurisprudencia.py (Camada 1)
   5. tokens: tools/CONFIABILIDADE/check-tokens.py (guarda de typo/drift de token)
   6. sigilo: tools/CONFIABILIDADE/check-sigilo.py (PII no repo publico — LGPD)
+  7. smoke: tools/CONFIABILIDADE/check-smoke.py (engine inicializa estado valido)
 
 Uso:  py tools/CONFIABILIDADE/pre-publicacao.py   (rodar ANTES de git push)
 Exit 1 se qualquer trava falhar.
@@ -68,6 +69,8 @@ secao("5. TOKENS (guarda de typo/drift)")
 roda("tokens", "tools/CONFIABILIDADE/check-tokens.py")
 secao("6. SIGILO / PII (LGPD — repo publico)")
 roda("sigilo", "tools/CONFIABILIDADE/check-sigilo.py")
+secao("7. SMOKE-TEST DO ENGINE")
+roda("smoke", "tools/CONFIABILIDADE/check-smoke.py")
 
 print("\n" + "=" * 48)
 if falhas:

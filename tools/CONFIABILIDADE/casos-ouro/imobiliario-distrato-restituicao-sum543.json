@@ -1,0 +1,17 @@
+{
+  "id": "imobiliario-distrato-restituicao-sum543",
+  "plugin": "imobiliario-adv-os",
+  "origem": "cenario-tipo DE-IDENTIFICADO (sem dado de cliente)",
+  "licao": "A sumula da restituicao no distrato do compromisso de compra e venda e a 543 do STJ (a 543 do STF e tributaria, sobre combustiveis, e superada). Trava o erro de tribunal.",
+  "cenario": "Promitente comprador de imovel na planta desiste/ha inadimplemento da incorporadora. Contrato anterior a Lei 13.786/2018. Pede a resolucao e a restituicao das parcelas pagas.",
+  "deve_concluir": [
+    "invocar a Sumula 543 do STJ (restituicao integral por culpa do vendedor/incorporadora; parcial por culpa do comprador)",
+    "checar o regime do contrato: Lei 13.786/2018 so para contratos posteriores; anteriores seguem CC + Sum. 543 (PA-04)",
+    "quantum da restituicao vindo de calculos-imobiliarios"
+  ],
+  "nao_pode": [
+    "atribuir a Sumula 543 ao STF (a 543 STF e tributaria e superada)",
+    "aplicar a retencao da Lei 13.786 a contrato anterior a sua vigencia"
+  ],
+  "red_team_deve_pegar": ["CITACOES (tribunal correto)", "VALORES", "INSTRUMENTO (regime do contrato datado)"]
+}

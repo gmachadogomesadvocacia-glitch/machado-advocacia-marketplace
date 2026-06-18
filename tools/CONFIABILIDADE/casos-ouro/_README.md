@@ -21,6 +21,15 @@ produz a conclusão correta — e para travar a volta de erros já corrigidos.
 Todo caso-piloto novo ou erro encontrado vira um caso-ouro aqui (de-identificado) + uma regra
 em `regressoes.json` quando o erro for checável estaticamente. Assim a confiabilidade só sobe.
 
-## Casos atuais
+## Casos atuais (1+ por plugin)
 - `isencao-rpps-municipal-ajuste-anual.json` — isenção IRPF; lição do quantum + instrumento (jose-antonio).
 - `rj-credor-trabalhista-concursal-integral.json` — habilitação RJ; concursalidade pelo fato gerador (Casa de Farinha).
+- `tributario-excecao-pre-executividade-sum393.json` — exceção de pré-executividade (Súm. 393 STJ) + prescrição intercorrente.
+- `consumidor-negativacao-sum385.json` — negativação com inscrição legítima preexistente (Súm. 385 STJ).
+- `civel-resp-civil-juros-sum54.json` — responsabilidade extracontratual; termo inicial dos juros (Súm. 54/362 STJ).
+- `criminal-dosimetria-sum231.json` — dosimetria; atenuante não desce do mínimo (Súm. 231 STJ, não STF).
+- `familia-separacao-legal-aquestos-sum377.json` — comunicação de aquestos (Súm. 377 STF, não STJ).
+- `imobiliario-distrato-restituicao-sum543.json` — restituição no distrato (Súm. 543 STJ, não STF).
+- `previdenciario-rvt-inconstitucional.json` — Revisão da Vida Toda (Tema 1102 STF / 999 STJ) inconstitucional 2024.
+- `transito-dupla-notificacao-sum312.json` — nulidade por ausência da dupla notificação (Súm. 312 STJ).
+- `usucapiao-extraordinaria-cc1238.json` — dispensa de justo título/boa-fé pelo art. 1.238 CC (não Súm. 391).

@@ -1,0 +1,17 @@
+{
+  "id": "usucapiao-extraordinaria-cc1238",
+  "plugin": "usucapiao-adv-os",
+  "origem": "cenario-tipo DE-IDENTIFICADO (sem dado de cliente)",
+  "licao": "Na usucapiao extraordinaria, a dispensa de justo titulo e boa-fe vem do art. 1.238 CC (NAO da Sum. 391, que trata da citacao do confrontante). Bem publico nao se usucape (Sum. 340 STF).",
+  "cenario": "Possuidor exerce posse mansa, pacifica e ininterrupta de imovel particular ha 16 anos, sem titulo e sem boa-fe documentada. Quer regularizar por usucapiao.",
+  "deve_concluir": [
+    "modalidade = extraordinaria (art. 1.238 CC — 15 anos, ou 10 com moradia/obra)",
+    "fundamentar a DISPENSA de justo titulo e boa-fe no art. 1.238 CC",
+    "citar pessoalmente confinantes (Sum. 391 STF) e possuidor (Sum. 263 STF); confirmar que o bem nao e publico (Sum. 340 STF)"
+  ],
+  "nao_pode": [
+    "atribuir a dispensa de justo titulo/boa-fe a Sum. 391 (essa e citacao do confrontante)",
+    "admitir usucapiao de bem publico"
+  ],
+  "red_team_deve_pegar": ["TESE (modalidade/fundamento)", "CITACOES (1.238 x Sum. 391)"]
+}

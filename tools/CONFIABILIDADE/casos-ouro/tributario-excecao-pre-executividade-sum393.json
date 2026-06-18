@@ -1,0 +1,18 @@
+{
+  "id": "tributario-excecao-pre-executividade-sum393",
+  "plugin": "tributario-adv-os",
+  "origem": "cenario-tipo DE-IDENTIFICADO (sem dado de cliente)",
+  "licao": "Excecao de pre-executividade so para materia de ordem publica sem dilacao probatoria (Sum. 393 STJ); prescricao intercorrente do art. 40 LEF (Sum. 314). A 393 e do STJ — nao existe Sumula CARF 393.",
+  "cenario": "Execucao fiscal de credito ja prescrito (intercorrencia: arquivamento ha mais de 6 anos sem bens). Contribuinte SEM garantia do juizo quer defesa imediata.",
+  "deve_concluir": [
+    "instrumento = excecao de pre-executividade (sem garantia), por ser materia de ordem publica sem dilacao (Sum. 393 STJ)",
+    "tese = prescricao intercorrente (art. 40 LEF + Sum. 314 STJ; inicio automatico — Tema 566 STJ)",
+    "pedido de extincao da execucao"
+  ],
+  "nao_pode": [
+    "exigir garantia/embargos quando a materia e so de direito (prescricao)",
+    "citar 'Sumula CARF 393' (inexistente) — a 393 da excecao e do STJ",
+    "usar a excecao para materia que exija prova"
+  ],
+  "red_team_deve_pegar": ["INSTRUMENTO/VIA", "CITACOES (393 STJ, nao CARF)", "PRESCRICAO"]
+}

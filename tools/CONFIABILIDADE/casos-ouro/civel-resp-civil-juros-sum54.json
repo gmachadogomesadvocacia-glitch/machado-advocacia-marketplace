@@ -1,0 +1,19 @@
+{
+  "id": "civel-resp-civil-juros-sum54",
+  "plugin": "civel-adv-os",
+  "origem": "cenario-tipo DE-IDENTIFICADO (sem dado de cliente)",
+  "licao": "Responsabilidade extracontratual: juros de mora desde o evento danoso (Sum. 54 STJ); correcao do dano moral desde o arbitramento (Sum. 362 STJ). Sum. 54 NAO se aplica a caso contratual.",
+  "cenario": "Vitima de ato ilicito (atropelamento) pede indenizacao por dano material e moral. Relacao extracontratual (aquiliana).",
+  "deve_concluir": [
+    "juros de mora desde o EVENTO danoso (Sum. 54 STJ — extracontratual)",
+    "correcao do dano moral desde o ARBITRAMENTO (Sum. 362 STJ) e do material desde o prejuizo (Sum. 43 STJ)",
+    "cumulacao de dano material e moral admitida (Sum. 37 STJ)",
+    "quantum vindo de calculos-civeis"
+  ],
+  "nao_pode": [
+    "aplicar a Sum. 54 a caso contratual (la os juros correm em regra da citacao/constituicao)",
+    "atribuir a Sum. 54 ao STF (a 54 dos juros e do STJ)",
+    "inventar quantum sem origem no calculo"
+  ],
+  "red_team_deve_pegar": ["VALORES (termo inicial)", "CITACOES (tribunal/regime)", "TESE (contratual x extracontratual)"]
+}

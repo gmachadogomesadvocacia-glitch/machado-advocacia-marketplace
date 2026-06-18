@@ -1,0 +1,17 @@
+{
+  "id": "transito-dupla-notificacao-sum312",
+  "plugin": "transito-adv-os",
+  "origem": "cenario-tipo DE-IDENTIFICADO (sem dado de cliente)",
+  "licao": "No processo administrativo de multa sao necessarias DUAS notificacoes (autuacao + penalidade) — Sum. 312 STJ. O pagamento da multa nao inibe a discussao judicial (Sum. 434 STJ).",
+  "cenario": "Condutor autuado que recebeu apenas a notificacao da PENALIDADE, sem a previa notificacao da AUTUACAO (defesa previa). Quer anular a multa.",
+  "deve_concluir": [
+    "tese = nulidade por ausencia da dupla notificacao (autuacao + penalidade) — Sum. 312 STJ",
+    "via administrativa (defesa previa/JARI) e/ou anulatoria/MS conforme a fase",
+    "se ja pagou, o pagamento nao impede a discussao (Sum. 434 STJ)"
+  ],
+  "nao_pode": [
+    "exigir so uma notificacao",
+    "dizer que o pagamento da multa preclui a discussao judicial"
+  ],
+  "red_team_deve_pegar": ["TESE (dupla notificacao)", "INSTRUMENTO/VIA", "CITACOES"]
+}

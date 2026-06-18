@@ -1,0 +1,17 @@
+{
+  "id": "familia-separacao-legal-aquestos-sum377",
+  "plugin": "familia-sucessoes-adv-os",
+  "origem": "cenario-tipo DE-IDENTIFICADO (sem dado de cliente)",
+  "licao": "A sumula do regime de separacao legal que comunica os aquestos e a 377 do STF (a 377 do STJ e visao monocular). Trava o erro de tribunal corrigido no endurecimento.",
+  "cenario": "Casamento sob separacao OBRIGATORIA (art. 1.641 CC, conjuge 70+ a epoca). Na constancia, adquiriram imovel. No divorcio/inventario, discute-se a meacao dos bens adquiridos onerosamente durante o casamento.",
+  "deve_concluir": [
+    "invocar a Sumula 377 do STF (comunicacao dos aquestos no regime de separacao legal)",
+    "registrar a releitura do STJ exigindo prova do esforco comum (EREsp 1.623.858)",
+    "tratar como controversa pos-CC/2002, marcando o ponto para o cliente"
+  ],
+  "nao_pode": [
+    "atribuir a sumula dos aquestos ao STJ (Sum. 377 STJ e visao monocular em concurso)",
+    "afirmar comunicacao automatica sem mencionar o debate sobre esforco comum"
+  ],
+  "red_team_deve_pegar": ["CITACOES (tribunal correto)", "TESE (controversia)"]
+}

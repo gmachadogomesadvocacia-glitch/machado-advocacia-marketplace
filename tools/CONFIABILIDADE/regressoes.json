@@ -1,85 +1,104 @@
 {
-  "_doc": "Camada 4 — registro de REGRESSOES. Cada erro corrigido vira uma assercao sobre o conteudo do repo, para nunca reaparecer. Rodar com check-regressao.py (entra na suite de pre-publicacao, C6). modo: proibido (nenhum arquivo do escopo pode casar) | exigido (>=1 arquivo casa) | exigido_todos (todo arquivo do escopo casa) | exigido_conjunto (>=1 arquivo casa TODOS os padroes da lista).",
-  "regras": [
-    {
-      "id": "trib-tema962-stf",
-      "descricao": "Tema 962 do redirecionamento ao socio e do STJ, nao do STF (no STF 962 e IRPJ/CSLL sobre Selic). Corrigido no Eixo 1.",
-      "origem": "auditoria jurisprudencia / commit bacceec",
-      "escopo": "tributario-adv-os/skills/**/SKILL.md",
-      "modo": "proibido",
-      "padrao": "962\\s*STF"
-    },
-    {
-      "id": "imob-tema1095-stf",
-      "descricao": "Constitucionalidade do rito da Lei 9.514 e Tema 982 STF, nao 1095 (1095 e do STJ). Corrigido no Eixo 1.",
-      "origem": "auditoria jurisprudencia / commit bacceec",
-      "escopo": "imobiliario-adv-os/skills/**/SKILL.md",
-      "modo": "proibido",
-      "padrao": "1095\\s*STF"
-    },
-    {
-      "id": "isencao-rpps-branch",
-      "descricao": "Plugin de isencao deve tratar o ramo RPPS estadual/municipal (IR do ente, Justica Estadual) — nao so federal. Corrigido no caso-piloto.",
-      "origem": "caso-piloto jose-antonio / commit 4aff2d9",
-      "escopo": "isencao-ir-doenca-adv-os/**/*.md",
-      "modo": "exigido",
-      "padrao": "RPPS\\s*ESTADUAL/MUNICIPAL|estadual/municipal"
-    },
-    {
-      "id": "rj-tema987-cancelado",
-      "descricao": "Tema 987 STJ foi cancelado (2021); onde for citado, deve constar CANCELADO. Corrigido no Eixo 1.",
-      "origem": "auditoria jurisprudencia / commit bacceec",
-      "escopo": "recuperacao-judicial-adv-os/skills/**/SKILL.md",
-      "modo": "exigido_conjunto",
-      "padrao": ["987", "CANCELAD"]
-    },
-    {
-      "id": "usucapiao-justotitulo-cc1238",
-      "descricao": "A dispensa de justo titulo/boa-fe na extraordinaria vem do art. 1.238 CC, NAO da Sum. 391 (que e citacao do confrontante). Corrigido no Eixo 1.",
-      "origem": "auditoria jurisprudencia / commit bacceec",
-      "escopo": "usucapiao-adv-os/skills/jurisprudencia-usucapiao/SKILL.md",
-      "modo": "exigido",
-      "padrao": "1\\.238"
-    },
-    {
-      "id": "familia-sum377-stf",
-      "descricao": "Sum. 377 (regime de separacao legal comunica aquestos) e do STF; a 377 do STJ e visao monocular. Em familia, nao atribuir a 377 ao STJ. Corrigido no endurecimento.",
-      "origem": "endurecimento / verificacao web 2026-06-18",
-      "escopo": "familia-sucessoes-adv-os/skills/**/SKILL.md",
-      "modo": "proibido",
-      "padrao": "377\\s+STJ"
-    },
-    {
-      "id": "prev-tema999-stf",
-      "descricao": "Revisao da Vida Toda no STF e o Tema 1102 (Tema 999 STF e dano ambiental). Nao atribuir Tema 999 ao STF. Corrigido no endurecimento.",
-      "origem": "endurecimento / verificacao web 2026-06-18",
-      "escopo": "previdenciario-adv-os/skills/**/SKILL.md",
-      "modo": "proibido",
-      "padrao": "Tema\\s*999\\s*STF"
-    },
-    {
-      "id": "trib-carf-sum393",
-      "descricao": "Nao existe Sumula CARF 393 (a 393 da execucao fiscal e do STJ). Vetar atribuicao da 393 ao CARF. Corrigido no endurecimento.",
-      "origem": "endurecimento / verificacao web 2026-06-18",
-      "escopo": "tributario-adv-os/skills/**/SKILL.md",
-      "modo": "proibido",
-      "padrao": "CARF\\s*393|393\\s*CARF"
-    },
-    {
-      "id": "c3-r5-adversarial-todas-revisoes",
-      "descricao": "Camada 3: toda skill de revisao final deve ter a rodada R5 adversarial.",
-      "origem": "Camada 3 / commits fd75dcd+bafbcc9",
-      "escopo": "*/skills/{revisao-final*,suprema-corte*}/SKILL.md",
-      "modo": "exigido_todos",
-      "padrao": "ADVERSARIAL"
-    },
-    {
-      "id": "c3-ficha-todas-revisoes",
-      "descricao": "Camada 3: toda skill de revisao final deve emitir a FICHA DE CONFERENCIA.",
-      "origem": "Camada 3 / commits fd75dcd+bafbcc9",
-      "escopo": "*/skills/{revisao-final*,suprema-corte*}/SKILL.md",
-      "modo": "exigido_todos",
-      "padrao": "FICHA DE CONFER"
-    }
-  ]
+ "_doc": "Camada 4 — registro de REGRESSOES. Cada erro corrigido vira uma assercao sobre o conteudo do repo, para nunca reaparecer. Rodar com check-regressao.py (entra na suite de pre-publicacao, C6). modo: proibido (nenhum arquivo do escopo pode casar) | exigido (>=1 arquivo casa) | exigido_todos (todo arquivo do escopo casa) | exigido_conjunto (>=1 arquivo casa TODOS os padroes da lista).",
+ "regras": [
+  {
+   "id": "trib-tema962-stf",
+   "descricao": "Tema 962 do redirecionamento ao socio e do STJ, nao do STF (no STF 962 e IRPJ/CSLL sobre Selic). Corrigido no Eixo 1.",
+   "origem": "auditoria jurisprudencia / commit bacceec",
+   "escopo": "tributario-adv-os/skills/**/SKILL.md",
+   "modo": "proibido",
+   "padrao": "962\\s*STF"
+  },
+  {
+   "id": "imob-tema1095-stf",
+   "descricao": "Constitucionalidade do rito da Lei 9.514 e Tema 982 STF, nao 1095 (1095 e do STJ). Corrigido no Eixo 1.",
+   "origem": "auditoria jurisprudencia / commit bacceec",
+   "escopo": "imobiliario-adv-os/skills/**/SKILL.md",
+   "modo": "proibido",
+   "padrao": "1095\\s*STF"
+  },
+  {
+   "id": "isencao-rpps-branch",
+   "descricao": "Plugin de isencao deve tratar o ramo RPPS estadual/municipal (IR do ente, Justica Estadual) — nao so federal. Corrigido no caso-piloto.",
+   "origem": "caso-piloto jose-antonio / commit 4aff2d9",
+   "escopo": "isencao-ir-doenca-adv-os/**/*.md",
+   "modo": "exigido",
+   "padrao": "RPPS\\s*ESTADUAL/MUNICIPAL|estadual/municipal"
+  },
+  {
+   "id": "rj-tema987-cancelado",
+   "descricao": "Tema 987 STJ foi cancelado (2021); onde for citado, deve constar CANCELADO. Corrigido no Eixo 1.",
+   "origem": "auditoria jurisprudencia / commit bacceec",
+   "escopo": "recuperacao-judicial-adv-os/skills/**/SKILL.md",
+   "modo": "exigido_conjunto",
+   "padrao": [
+    "987",
+    "CANCELAD"
+   ]
+  },
+  {
+   "id": "usucapiao-justotitulo-cc1238",
+   "descricao": "A dispensa de justo titulo/boa-fe na extraordinaria vem do art. 1.238 CC, NAO da Sum. 391 (que e citacao do confrontante). Corrigido no Eixo 1.",
+   "origem": "auditoria jurisprudencia / commit bacceec",
+   "escopo": "usucapiao-adv-os/skills/jurisprudencia-usucapiao/SKILL.md",
+   "modo": "exigido",
+   "padrao": "1\\.238"
+  },
+  {
+   "id": "familia-sum377-stf",
+   "descricao": "Sum. 377 (regime de separacao legal comunica aquestos) e do STF; a 377 do STJ e visao monocular. Em familia, nao atribuir a 377 ao STJ. Corrigido no endurecimento.",
+   "origem": "endurecimento / verificacao web 2026-06-18",
+   "escopo": "familia-sucessoes-adv-os/skills/**/SKILL.md",
+   "modo": "proibido",
+   "padrao": "377\\s+STJ"
+  },
+  {
+   "id": "prev-tema999-stf",
+   "descricao": "Revisao da Vida Toda no STF e o Tema 1102 (Tema 999 STF e dano ambiental). Nao atribuir Tema 999 ao STF. Corrigido no endurecimento.",
+   "origem": "endurecimento / verificacao web 2026-06-18",
+   "escopo": "previdenciario-adv-os/skills/**/SKILL.md",
+   "modo": "proibido",
+   "padrao": "Tema\\s*999\\s*STF"
+  },
+  {
+   "id": "trib-carf-sum393",
+   "descricao": "Nao existe Sumula CARF 393 (a 393 da execucao fiscal e do STJ). Vetar atribuicao da 393 ao CARF. Corrigido no endurecimento.",
+   "origem": "endurecimento / verificacao web 2026-06-18",
+   "escopo": "tributario-adv-os/skills/**/SKILL.md",
+   "modo": "proibido",
+   "padrao": "CARF\\s*393|393\\s*CARF"
+  },
+  {
+   "id": "c3-r5-adversarial-todas-revisoes",
+   "descricao": "Camada 3: toda skill de revisao final deve ter a rodada R5 adversarial.",
+   "origem": "Camada 3 / commits fd75dcd+bafbcc9",
+   "escopo": "*/skills/{revisao-final*,suprema-corte*}/SKILL.md",
+   "modo": "exigido_todos",
+   "padrao": "ADVERSARIAL"
+  },
+  {
+   "id": "c3-ficha-todas-revisoes",
+   "descricao": "Camada 3: toda skill de revisao final deve emitir a FICHA DE CONFERENCIA.",
+   "origem": "Camada 3 / commits fd75dcd+bafbcc9",
+   "escopo": "*/skills/{revisao-final*,suprema-corte*}/SKILL.md",
+   "modo": "exigido_todos",
+   "padrao": "FICHA DE CONFER"
+  },
+  {
+   "id": "juri-benchmark-janela-maturacao",
+   "descricao": "Jurimetria: benchmark DataJud sem janela de ajuizamento devolve so processos recem-ajuizados (mediana de duracao ~2 dias no teste real 2026-07-04). A funcao janela_ajuizamento (default 4a->1a atras) nao pode sumir do benchmark_datajud.py.",
+   "origem": "caso-piloto jurimetria 2026-07-04",
+   "escopo": "jurimetria-adv-os/scripts/benchmark_datajud.py",
+   "modo": "exigido",
+   "padrao": "janela_ajuizamento"
+  },
+  {
+   "id": "juri-freio-n-minimo",
+   "descricao": "Jurimetria: freio PE-04 — coletor do acervo nao reporta media/taxa com N abaixo do limiar. A constante N_MINIMO_QUANT nao pode sumir do coletar_acervo.py.",
+   "origem": "caso-piloto jurimetria 2026-07-04",
+   "escopo": "jurimetria-adv-os/scripts/coletar_acervo.py",
+   "modo": "exigido",
+   "padrao": "N_MINIMO_QUANT"
+  }
+ ]
 }

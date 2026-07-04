@@ -107,6 +107,15 @@
       }
     },
     {
+      "name": "jurimetria-adv-os",
+      "version": "0.1.0",
+      "source": "./jurimetria-adv-os",
+      "description": "Plugin ANALITICO de jurimetria do advogado brasileiro, no padrao Adv-OS — saida e relatorio/analise descritiva, nunca peca. Espinha: DataJud/CNJ (API publica gratuita — capa e movimentos: duracao, andamentos, classe/assunto/orgao oficiais) + acervo proprio (bloco jurimetrico nos CASO.md — quantum, desfecho, taxa de exito), unidos pelo numero CNJ. Motores: Modulo A consulta de processo, Modulo B benchmark por classe+assunto+orgao com janela de maturacao, Modulo C retrato do portfolio com freio de N-minimo, analise de quantum bifasica (procedencia x valor, metodo ABJ), tempo processual com censura a direita declarada e quadro de viabilidade (apoio a decisao SEM probabilidade de exito). Governanca de 4 Camadas com 14 Proibicoes Estatisticas SEM bypass (nenhum numero sem N+metodo+fonte+data; descritivo != preditivo; nunca promessa de resultado — veda OAB; N<5 so qualitativo; PII fora dos agregados — LGPD) e Suprema Corte R1-R4 + R5 red-team estatistico. 12 skills, 12 commands, 4 scripts stdlib-only. Onboarding via /start-jurimetria.",
+      "author": {
+        "name": "Machado Advocacia"
+      }
+    },
+    {
       "name": "roteador-adv-os",
       "version": "1.0.0",
       "source": "./roteador-adv-os",

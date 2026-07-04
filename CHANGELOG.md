@@ -2,6 +2,22 @@
 
 Histórico do conjunto de plugins jurídicos (Adv-OS). Datas em AAAA-MM-DD.
 
+## 2026-07-04
+
+### Novo plugin — `jurimetria-adv-os` v0.1.0 (analítico)
+- Primeiro plugin **analítico** do marketplace: saída = relatório/análise descritiva, nunca peça.
+- Espinha: **DataJud/CNJ** (capa+movimentos — duração/andamentos) + **acervo próprio** (bloco
+  jurimétrico nos CASO.md — quantum/desfecho), unidos pelo número CNJ.
+- 4 motores Python stdlib-only em `scripts/`: `datajud_client.py` (Módulo A), `benchmark_datajud.py`
+  (Módulo B — novo: consulta por classe+assunto+órgão com **janela de maturação** de ajuizamento;
+  campo `dataAjuizamento` do índice é string compacta `yyyyMMddHHmmss`), `ler_caso.py` e
+  `coletar_acervo.py` (Módulo C, freio de N-mínimo). Origem: fundações testadas de
+  `Claude Code/ferramentas/jurimetria/` — a cópia canônica agora é a do plugin.
+- Governança: **14 Proibições Estatísticas** (PE-01..14, sem bypass) no lugar das PAs; Suprema
+  Corte R1-R4 + R5 red-team estatístico; 12 skills, 12 commands; env `JURI_PERSONA`, estado `jurimetria/`.
+- Testes: engine (state/persona/hook) em sandbox; Módulos A/B/C ao vivo contra o DataJud
+  (TRT-1); `check-engine.py` verde nos 12; `check-sigilo.py` OK (placeholder todo-zeros allowlisted).
+
 ## 2026-06-16
 
 ### Eixo 2 — Harmonização e manutenção

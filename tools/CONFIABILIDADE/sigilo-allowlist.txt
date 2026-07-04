@@ -5,3 +5,6 @@
 
 # CNPJ nacional do INSS — re em toda acao previdenciaria (autarquia federal, dado publico).
 29.979.036/0001-40
+
+# Placeholder todo-zeros do schema jurimetrico (bloco do CASO.md) — numero ficticio de exemplo.
+0000000-00.0000.0.00.0000

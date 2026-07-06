@@ -84,9 +84,11 @@ DEMANDA -> [PA-01..PA-22] -> [Tier 0] master | validador | onboarding
             timeline-multiesfera (P4 — 2+ esferas)
   -> [P1] validador-legislacao-vigente -> SELO
   -> (producao so liberada COM o Selo)
-     [Tier 2 — RC, 6] responsabilidade-civil-medica, tcle-especialidades,
+     [Tier 2 — RC/processo, 9] responsabilidade-civil-medica, tcle-especialidades,
               perda-de-uma-chance, cirurgia-estetica-resultado,
-              responsabilidade-odontologica, prescricao-erro-medico
+              responsabilidade-odontologica, prescricao-erro-medico,
+              dano-fracionado-actio-nata, ato-de-enfermagem-lei7498,
+              especificacao-de-provas-medica
      [Tier 3 — Criminal, 4] defesa-culpa-medica-criminal, omissao-de-socorro-medico,
               violacao-sigilo-medico, falsidade-atestado-prontuario
      [Tier 4 — PED, 4] defesa-ped-crm, defesa-ped-cro, ms-contra-cassacao-conselho,
@@ -96,7 +98,7 @@ DEMANDA -> [PA-01..PA-22] -> [Tier 0] master | validador | onboarding
               tutela-urgencia-plano-saude
      [Tier 6 — Consultivo, 5] constituicao-sociedade-medica, contrato-prestacao-medica,
               credenciamento-plano-saude, lgpd-saude, compliance-publicidade-medica
-  -> [P6] revisao-final-medica R1->R2->R3->R4
+  -> [P6] revisao-final-medica R1->R2->R3->R4->R5
   -> ENTREGA (rascunho + ressalva OAB) + atualiza CASO.md
 ```
 

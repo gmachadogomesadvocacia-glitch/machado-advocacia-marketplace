@@ -130,7 +130,7 @@ DEMANDA
    - recursal: recurso-ordinario | recurso-revista | embargos-tst | agravos | embargos-declaracao |
                recurso-extraordinario | acoes-autonomas-impugnacao | pareceres-viabilidade-recursal
    - instrucao/execucao: razoes-finais | pericia | quesitos-assistente-tecnico | audiencia |
-                         calculos | liquidacao-execucao | acordo
+                         calculos | liquidacao-execucao | execucao-fazenda-publica | acordo
    - consultivo: medidas-disciplinares (RD) | contratos-preventivos (RD) | documentos-extrajudiciais
    |
    v  (transversal: estilo-juridico-trabalhista apoia todo Tenente; memoria-de-caso-trabalhista registra)

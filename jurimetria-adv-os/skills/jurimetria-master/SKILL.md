@@ -112,6 +112,7 @@ DEMANDA
         regua publica: benchmark-datajud (Modulo B — benchmark_datajud.py)
         quantum:     analise-quantum (acervo + jurisprudencia — bifasico ABJ)
         tempo:       tempo-processual (duracao/fases com incerteza)
+        varas:       comparativo-varas (Modulo B por orgao julgador — mesma comarca)
         decisao:     viabilidade-jurimetrica (apoio a pegar caso/proposta)
         (transversal: estilo-relatorio-jurimetrico)
   -> 5. SUPREMA CORTE (Tier 3): revisao-final-jurimetria — R1->R2->R3->R4 (+R5)

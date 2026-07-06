@@ -17,7 +17,7 @@ CAMADA 2 — PROTOCOLOS TECNICOS (6)                  — P1 Proveniencia · P2 
                                                       P3 N-minimo · P4 Harmonizacao CNJ ·
                                                       P5 Sigilo/LGPD · P6 Revisao R1-R4
 CAMADA 3 — ESTILO DO RELATORIO                       — pergunta->dados->resultados->limitacoes->leitura
-CAMADA 4 — SKILLS (Tier 0-3)                          — 13 skills, 13 commands
+CAMADA 4 — SKILLS (Tier 0-3)                          — 14 skills, 14 commands
 ```
 Injetada pela skill `jurimetria-master` (Tier 0).
 
@@ -31,7 +31,7 @@ estatistica, e uma Suprema Corte R1-R4+R5 que bloqueia numero sem carimbo.
 jurimetria-adv-os/
 ├── .claude-plugin/plugin.json   manifesto
 ├── commands/                    12 slash commands
-├── skills/                      13 skills (Tier 0-3), so SKILL.md por pasta
+├── skills/                      14 skills (Tier 0-3), so SKILL.md por pasta
 ├── hooks/                       hooks.json + scripts (persona, memoria, snapshot, corte)
 ├── scripts/                     engine (resolve-persona, state, hook-utils, state-schema)
 │                                + motores: datajud_client, ler_caso, coletar_acervo, benchmark_datajud

@@ -4,6 +4,22 @@ Histórico do conjunto de plugins jurídicos (Adv-OS). Datas em AAAA-MM-DD.
 
 ## 2026-07-06
 
+### Lacunas C7 aprovadas pelo advogado — 5 skills novas (médico 0.3.0, trabalhista 0.3.0, jurimetria 0.3.0)
+Das 8 lacunas candidatas dos pilotos, o advogado aprovou 5 (C7); construídas no mesmo dia:
+- **direito-medico (40 skills):** `dano-fracionado-actio-nata` (teste de autonomia do dano ×
+  fracionamento artificial; termo inicial por pretensão), `especificacao-de-provas-medica`
+  (peça própria, com as 2 regras de ouro da R5: perícia como prova própria subsidiária +
+  custeio do réu hipossuficiente CPC 95 §3º/98 §5º/99 §3º) e `ato-de-enfermagem-lei7498`
+  (fato de terceiro/dever institucional × ato médico próprio, com cautelas PA-07/PA-08).
+- **trabalhista (33 skills):** `execucao-fazenda-publica-trabalhista` — devedora subsidiária
+  ente público (Súm. 331 V/VI), rito do art. 535 CPC, precatório × RPV (tetos locais
+  [VERIFICAR]), OJ 382 SDI-1, tabela de impugnações típicas da Fazenda + espelho defensivo.
+- **jurimetria (14 skills, 14 commands):** `comparativo-varas` + `/comparativo-varas` —
+  Módulo B por órgão julgador (mesma comarca, recorte harmonizado PE-09, freio PE-04 por
+  unidade), com fronteira ética explícita: nunca para escolher vara.
+- Adiados pelo advogado: ação rescisória própria e relatório gerencial agendado; custeio de
+  perícia como skill própria dispensado (incorporado à especificação de provas).
+
 ### C4 estendido aos 3 consolidados — casos-ouro + regressões + cobertura
 - **4 casos-ouro novos** (15 no total, 1+ por plugin com engine): execução frustrada/penhora
   de crédito 855 CPC (trabalhista, do piloto real), MS contra conselho CF 109 VIII e rol ANS

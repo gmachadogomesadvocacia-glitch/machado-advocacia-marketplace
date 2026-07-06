@@ -90,6 +90,7 @@ PLUGIN_COMMANDS = [
     "/viabilidade-jurimetrica",
     "/instrumentar-caso",
     "/encerrar-caso",
+    "/comparativo-varas",
     "/revisao-final-jurimetria",
 ]
 

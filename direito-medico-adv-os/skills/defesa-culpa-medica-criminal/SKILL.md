@@ -35,7 +35,7 @@ Defesa do profissional indiciado/denunciado por **homicidio culposo (CP art. 121
 | **CPP 386 I-VII** | Especies de absolvicao — efeito civel/PED varia (PA-12) |
 | Lei 9.099/95 76 / **89** | Transacao penal / sursis processual (chave) |
 
-**Jurisprudencia paradigma:** STJ HC 421.604/RS (atipicidade ausencia previsibilidade); STJ AgRg AREsp 1.671.123 (trancamento por inepcia); STF HC 89.395 (descricao individualizada); STJ Sum. 105 (JE competente; JF so hospital federal).
+**Jurisprudencia paradigma:** STJ HC 421.604/RS (atipicidade ausencia previsibilidade); STJ AgRg AREsp 1.671.123 (trancamento por inepcia); STF HC 89.395 (descricao individualizada); CF art. 109 IV (regra: Justica Estadual; JF so quando atinge bens/servicos da Uniao — ex.: hospital federal).
 
 ## 3. Especies de culpa — anatomia
 
@@ -139,7 +139,7 @@ RESSALVA (PA-05): minuta tecnica — revisao + responsabilidade do advogado OAB 
 - **P2** — `analise-prontuario-medico` + `analise-pericia-medica` + `analise-tcle`.
 - **P3** — memoria de decisao da estrategia (HC x sursis x absolvicao).
 - **P4** — `timeline-multiesfera` se ha civel/PED paralelos.
-- **P5** — foro JE (Sum. 105 STJ); JF excepcional (hospital federal).
+- **P5** — foro JE (regra geral); JF excepcional (CF art. 109 IV — hospital federal).
 - **P6** — `revisao-final-medica` R1-R4.
 
 ## 12. Localizacao

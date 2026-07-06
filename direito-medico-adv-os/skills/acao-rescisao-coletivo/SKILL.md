@@ -35,10 +35,10 @@ Acao do beneficiario contra (a) **rescisao unilateral** do contrato coletivo (em
 | CPC 300 / 537 | Tutela + astreintes |
 
 **Jurisprudencia:**
-- **STJ Tema 1.082** — rescisao coletivo exige (a) aviso previo 60d; (b) **manutencao do beneficiario em tratamento medico em curso de doenca grave** ate completar 12 meses ou tratamento concluir
+- **STJ Tema 1.082** — mesmo licita a rescisao unilateral do coletivo, a operadora deve **manter o beneficiario internado ou em tratamento garantidor de sobrevivencia/incolumidade ate a alta**, com custeio integral pelo titular; aviso previo de 60 dias + rescisao so apos 12 meses = RN ANS 195/2009 art. 17
 - STJ Sum. 608 (CDC em coletivos)
 - STJ AgInt REsp 1.876.543 (manutencao em transplante / quimioterapia)
-- STJ Sum. 469 (CDC em planos)
+- STJ Sum. 608 (CDC em planos, salvo autogestao)
 - TJSP / TJRJ — tutela quase sempre concedida em doenca grave
 
 ## 3. Tema 1.082 STJ (coracao da peca)
@@ -61,7 +61,7 @@ Acao do beneficiario contra (a) **rescisao unilateral** do contrato coletivo (em
 | **Descredenciamento medico assistente em tratamento** | Tema 1.082 + continuidade do cuidado |
 | **Recusa de portabilidade especial** | RN 412 + Lei 9.656 — direito do beneficiario |
 | **Rescisao seletiva (sinistralidade individualizada)** | CDC 39 X + discriminacao vedada |
-| **Migracao forcada** | Sum. 470 STJ + abusividade |
+| **Migracao forcada** | Lei 9.656 art. 35 (faculdade do consumidor) + CDC 51 IV |
 | **Falta de comunicacao formal** | CDC 6o III — informacao adequada |
 
 ## 5. Conceito de "doenca grave em tratamento" (PA-13)
@@ -154,7 +154,7 @@ RESSALVA (PA-05).
 - **Crianca TEA em terapia ABA intensiva:** doenca cronica em fase aguda — cruzar com `acao-tea-multidisciplinar`.
 - **Idoso pos-AVC em home care:** manutencao + cruzar `acao-home-care`.
 - **Descredenciamento de hospital de referencia em meio a tratamento:** distincao da rescisao do contrato; continuidade do prestador.
-- **Migracao forcada para plano com co-pagamento:** Sum. 470 STJ + abusividade.
+- **Migracao forcada para plano com co-pagamento:** Lei 9.656 art. 35 + RN ANS 254/2011 + CDC 51 IV.
 
 ## 11. Vedacoes especificas
 

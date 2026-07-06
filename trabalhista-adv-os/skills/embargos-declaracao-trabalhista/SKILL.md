@@ -58,7 +58,7 @@ Os ED tambem servem, fora da estrategia recursal, para **integrar** decisao vici
 
 - Efeito **integrativo** (regra) — completam a decisao.
 - **Efeito interruptivo** — os ED interrompem o prazo para outros recursos (art. 897-A §3o CLT); apos o julgamento dos ED, o prazo do recurso cabivel recomeca integralmente.
-- **Efeito modificativo (infringente)** — excepcional: quando o saneamento do vicio altera o resultado. Exige contraditorio previo (intimacao da parte contraria — Sumula 278 TST e art. 1.023 §2o CPC).
+- **Efeito modificativo (infringente)** — excepcional: quando o saneamento do vicio altera o resultado. Exige contraditorio previo (intimacao da parte contraria — OJ 142 SDI-1 TST e art. 1.023 §2o CPC; a Sumula 278 TST autoriza o efeito modificativo em si).
 
 ## 5. MODO EMBARGANTE — EMBARGOS DE DECLARACAO
 

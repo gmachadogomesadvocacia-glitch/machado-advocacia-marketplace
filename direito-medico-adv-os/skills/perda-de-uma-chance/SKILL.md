@@ -30,7 +30,7 @@ Acionada quando o caso envolve **chance perdida de cura ou sobrevida** — nao o
 | STJ REsp 1.677.083/SP | Aplicacao — calculo do percentual |
 | STJ REsp 1.254.141/PR | Oncologia — atraso diagnostico que reduziu chance de sobrevida |
 | STJ REsp 1.622.538/MS | Obstetricia — chance de neonato sem sequela |
-| STJ Tema 1.094/1.095 | Limites de revisao do quantum em STJ |
+| Sum. 7 STJ + criterio irrisorio/exorbitante | Limites de revisao do quantum em REsp |
 | Doutrina (Sergio Cavalieri Filho; Rafael Pacheco Lanes Ribeiro) | Teoria da perda da chance — origem francesa |
 
 ## 3. Pressupostos da teoria

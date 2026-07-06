@@ -1,7 +1,7 @@
 ---
 name: prescricao-erro-medico
 description: >
-  Skill especializada em prescricao em erro medico/odontologico. Distingue 3 anos CC art. 206 §3o V (medico PF autonomo, relacao nao-consumerista) vs 5 anos CDC art. 27 (hospital/clinica/operadora/relacao consumerista). Aplica STJ Sum. 278 (actio nata — termo inicial = ciencia inequivoca do dano), EREsp 1.385.732 (matérias divergentes), REsp 1.708.628/RS (3 anos hospital privado quando consumerista vs CC), STJ Tema 1.061 (prescricao em erro medico vs Lei 8.078). Trata efeito lesivo continuado (sequela), morte do paciente (sucessao + termo inicial), interrupcao por acao penal (CC art. 200), suspensao por requerimento administrativo. Aciona: prescricao erro medico, prazo prescricional medico, 3 anos CC, 5 anos CDC, actio nata, Sum 278, ciencia inequivoca do dano, EREsp 1.385.732, Tema 1.061, prescricao odonto, prescricao hospital, prescricao operadora.
+  Skill especializada em prescricao em erro medico/odontologico. Distingue 3 anos CC art. 206 §3o V (medico PF autonomo, relacao nao-consumerista) vs 5 anos CDC art. 27 (hospital/clinica/operadora/relacao consumerista). Aplica STJ Sum. 278 (actio nata — termo inicial = ciencia inequivoca do dano), EREsp 1.385.732 (matérias divergentes), REsp 1.708.628/RS (3 anos hospital privado quando consumerista vs CC). Trata efeito lesivo continuado (sequela), morte do paciente (sucessao + termo inicial), interrupcao por acao penal (CC art. 200), suspensao por requerimento administrativo. Aciona: prescricao erro medico, prazo prescricional medico, 3 anos CC, 5 anos CDC, actio nata, Sum 278, ciencia inequivoca do dano, EREsp 1.385.732, prescricao odonto, prescricao hospital, prescricao operadora.
 ---
 
 # PRESCRICAO ERRO MEDICO
@@ -39,17 +39,17 @@ Acionada em toda peca civel envolvendo prazo (petic. inicial, contestacao, parec
 - **EREsp 1.385.732** — embargos de divergencia: prescricao em erro medico (materias divergentes nas Turmas STJ; 2a Secao pacificou).
 - **REsp 1.708.628/RS** — hospital privado em relacao consumerista: **5 anos CDC art. 27** (nao 3 do CC). Confirma posicao STJ.
 - **REsp 731.078/SP** — actio nata em caso de sequela tardia.
-- **Tema 1.061 STJ** (afetado) — prescricao em erro medico — **`[VERIFICAR — afetacao 2026]`** — pode alterar quadro.
+- Sem tema repetitivo especifico sobre prescricao em erro medico (jul/2026) — acompanhar novas afetacoes no STJ `[VERIFICAR]`.
 
 ## 3. Tabela operacional de prazos
 
 | Demandado (sujeito) | Relacao | Prazo | Base legal | Termo inicial |
 |---------------------|---------|-------|-----------|---------------|
 | Medico PF autonomo | NAO consumerista | **3 anos** | CC art. 206 §3o V | Ciencia inequivoca do dano (Sum. 278) |
-| Medico PF autonomo | CONSUMERISTA (atendimento via clinica/hospital como prestador) | **5 anos** | CDC art. 27 + Sum. 469 + REsp 1.708.628 (analogia) | Mesmo |
+| Medico PF autonomo | CONSUMERISTA (atendimento via clinica/hospital como prestador) | **5 anos** | CDC art. 27 + Sum. 608 + REsp 1.708.628 (analogia) | Mesmo |
 | Hospital privado (relacao consumerista) | CONSUMERISTA | **5 anos** | CDC art. 27 + REsp 1.708.628/RS | Mesmo |
-| Clinica/consultorio PJ | CONSUMERISTA | **5 anos** | CDC art. 27 + Sum. 469 | Mesmo |
-| Operadora de plano | CONSUMERISTA | **5 anos** | CDC art. 27 + Sum. 469 | Mesmo |
+| Clinica/consultorio PJ | CONSUMERISTA | **5 anos** | CDC art. 27 + Sum. 608 | Mesmo |
+| Operadora de plano | CONSUMERISTA | **5 anos** | CDC art. 27 + Sum. 608 | Mesmo |
 | Autogestao (Geap, Cassi) | NAO consumerista (Sum. 608) | **3 anos** | CC art. 206 §3o V | Mesmo |
 | SUS / hospital publico | Adm. publica (CF art. 37 §6o) | **5 anos** | DL 20.910/1932 art. 1o | Mesmo |
 | Acao regressiva (medico responde a hospital condenado) | Civil | 3 anos | CC art. 206 §3o V | Pagamento da condenacao |
@@ -105,7 +105,7 @@ Demandados: <lista por sujeito>
 - Sujeito 1 (<nome>): <medico PF / clinica PJ / hospital PJ / operadora>
   Relacao: <consumerista / nao consumerista>
   Prazo: <3 anos CC art. 206 §3o V / 5 anos CDC art. 27>
-  Fundamento: <Sum. 469 STJ / REsp 1.708.628/RS / Sum. 608 STJ>
+  Fundamento: <Sum. 608 STJ / REsp 1.708.628/RS / Sum. 608 STJ>
 - Sujeito 2: [...]
 
 ## Calculo
@@ -122,7 +122,7 @@ Demandados: <lista por sujeito>
 ## Recomendacao
 - [Para o autor:] ajuizamento ate <data> sob pena de prescricao
 - [Para o reu:] arguir prescricao em contestacao (CPC art. 487 II)
-- [VERIFICAR] — Tema 1.061 STJ afetado (afetacao 2026)
+- [VERIFICAR] — novas afetacoes do STJ sobre prescricao em erro medico
 ```
 
 ## 7. Vedacoes especificas
@@ -130,7 +130,7 @@ Demandados: <lista por sujeito>
 - **PA-09** — datacao pelo ano do fato gerador (e da ciencia, nao do ajuizamento).
 - **PA-13** — citacao precisa (CC art. 206 §3o V / CDC art. 27 / Sum. 278 STJ / REsp 1.708.628).
 - **PA-19** — sempre conferir e fundamentar prazo — autor que erra prazo perde caso; reu que nao argui em contestacao precluiu (CPC art. 337 — preliminar).
-- **PA-11** — Tema 1.061 STJ afetado -> `[VERIFICAR]`.
+- **PA-11** — acompanhar afetacoes novas do STJ sobre prescricao medica -> `[VERIFICAR]`.
 - **PA-02** — sem promessa: "provavelmente prescrito" e nao "estara prescrito".
 
 ## 8. Protocolos acionados

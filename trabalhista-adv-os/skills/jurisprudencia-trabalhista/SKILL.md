@@ -60,12 +60,12 @@ Sumulas e entendimentos frequentes — **confirmar vigencia e dados antes de cit
 - **Sumula 85 TST** — compensacao de jornada e horas extras.
 - **Sumula 90 TST** — horas in itinere (atencao a alteracao pela Reforma 13.467/2017).
 - **Sumula 212 TST** — onus de provar o termino do contrato.
-- **Sumula 244 TST** — estabilidade da gestante.
+- **Sumula 244 TST** — estabilidade da gestante (item III — contrato a termo — mitigado pelo Tema 497 STF; usar com ressalva).
 - **Sumula 291 TST** — supressao de horas extras habituais.
 - **Sumula 331 TST** — terceirizacao e responsabilidade subsidiaria.
 - **Sumula 338 TST** — registro de jornada; nao juntada de cartao de ponto gera presuncao.
 - **Sumula 366 TST** — minutos residuais.
-- **Sumula 437 TST** — intervalo intrajornada.
+- **Sumula 437 TST** — intervalo intrajornada (SUPERADA p/ fatos pos-11/11/2017: art. 71 §4o CLT — paga so o periodo suprimido, natureza indenizatoria; reducao negociada valida ate 30min — Tema 1046 STF).
 - **Sumula 443 TST** — dispensa discriminatoria (presuncao).
 - **STF Tema 1046** — limites da negociacao coletiva (negociado x legislado).
 - **STF ADC 58/59** — indices de correcao e juros (IPCA-E + Selic).

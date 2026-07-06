@@ -1,7 +1,7 @@
 ---
 name: acao-opme
 description: >
-  Acao contra operadora por glosa ou imposicao de marca/fornecedor em Orteses, Proteses e Materiais Especiais (OPME) prescritos pelo medico assistente — protese ortopedica, marca-passo, stent, valvulas cardiacas, neuroestimulador, lente intraocular, implantes de coluna, cirurgia bariatrica. Aplica Lei 9.656/1998 art. 10§4o (cobertura obrigatoria de OPME) + Lei 14.454/2022 (Rol exemplificativo) + STJ REsp 1.733.013/PR (operadora nao impoe marca; prevalece prescricao medica fundamentada) + Tema 990 + Sum. 469 STJ. Distingue OPME coberta (vinculada a procedimento do Rol) de OPME nao coberta. Tese central: autonomia tecnica (Lei 12.842/2013 art. 4o) + prescricao fundamentada vs poder regulatorio. Tutela de urgencia. Aciona: OPME negada, glosa material cirurgico, REsp 1.733.013, marca implante, stent, marca-passo, valvula cardiaca, lente intraocular, autonomia medica.
+  Acao contra operadora por glosa ou imposicao de marca/fornecedor em Orteses, Proteses e Materiais Especiais (OPME) prescritos pelo medico assistente — protese ortopedica, marca-passo, stent, valvulas cardiacas, neuroestimulador, lente intraocular, implantes de coluna, cirurgia bariatrica. Aplica Lei 9.656/1998 art. 10§4o (cobertura obrigatoria de OPME) + Lei 14.454/2022 (criterios p/ fora do rol; ADI 7.265 STF — taxativo mitigado) + STJ REsp 1.733.013/PR (operadora nao impoe marca; prevalece prescricao medica fundamentada) + Sum. 608 STJ. Distingue OPME coberta (vinculada a procedimento do Rol) de OPME nao coberta. Tese central: autonomia tecnica (Lei 12.842/2013 art. 4o) + prescricao fundamentada vs poder regulatorio. Tutela de urgencia. Aciona: OPME negada, glosa material cirurgico, REsp 1.733.013, marca implante, stent, marca-passo, valvula cardiaca, lente intraocular, autonomia medica.
 ---
 
 # ACAO DE OPME (Orteses, Proteses, Materiais Especiais)
@@ -38,7 +38,7 @@ Acao do paciente contra operadora em (a) negativa de OPME prescrito pelo medico 
 - **STJ REsp 1.733.013/PR** — operadora **nao pode impor marca** se prescricao medica e fundamentada
 - STJ REsp 1.815.071/PR — paciente nao paga por marca diversa imposta
 - STJ AgInt REsp 1.892.453 — distincao OPME funcional x marca-especifica
-- STJ Sum. 469 / 597 / 608
+- STJ Sum. 608 / 597
 
 ## 3. Estrutura da tese (3 eixos)
 
@@ -56,7 +56,7 @@ Acao do paciente contra operadora em (a) negativa de OPME prescrito pelo medico 
 | **"Marca substituida por equivalente"** | REsp 1.733.013 — operadora nao impoe; prescricao fundamentada prevalece |
 | **"OPME importada nao coberta"** | RN 424 prescreve criterios — ausencia nacional + fundamentacao + ANVISA regular |
 | **"OPME experimental"** | Distinguir — registrada ANVISA = nao experimental |
-| **"Co-participacao excessiva"** | Lei 9.656 + Sum. 469 — co-participacao abusiva e nula |
+| **"Co-participacao excessiva"** | Lei 9.656 + Sum. 608 — co-participacao abusiva e nula |
 | **"Limite de internacao"** | Sum. 302 STJ — vedacao |
 | **Glosa pos-cirurgia (cobranca do paciente)** | CDC 39 V — cobranca abusiva — restituicao em dobro |
 
@@ -68,7 +68,7 @@ A operadora **pode** propor alternativa equivalente quando a prescricao for **ge
 
 ## 6. Tutela de urgencia
 
-**Fumus:** Lei 9.656 §4o + Lei 14.454 + REsp 1.733.013 + prescricao fundamentada + Sum. 469.
+**Fumus:** Lei 9.656 §4o + Lei 14.454 + REsp 1.733.013 + prescricao fundamentada + Sum. 608.
 
 **Periculum:** procedimento cirurgico agendado; cancelamento gera atraso clinico (cardiologico — instabilidade hemodinamica; ortopedico — sequela funcional); paciente em pos-op aguarda revisao.
 
@@ -98,7 +98,7 @@ I — FATOS — diagnostico, indicacao cirurgica, prescricao fundamentada de OPM
 II — ISSUE — negativa/imposicao viola Lei 9.656 art. 10§4o + REsp 1.733.013?
 
 III — DIREITO
-  III.1 Regime — CDC 14 (PA-15) + Sum. 469 STJ
+  III.1 Regime — CDC 14 (PA-15) + Sum. 608 STJ
   III.2 Lei 9.656 art. 10§4o — OPME ligada a procedimento do Rol
   III.3 Lei 12.842/2013 art. 4o V/VII — autonomia tecnica do medico
   III.4 STJ REsp 1.733.013 — vedada imposicao de marca pela operadora

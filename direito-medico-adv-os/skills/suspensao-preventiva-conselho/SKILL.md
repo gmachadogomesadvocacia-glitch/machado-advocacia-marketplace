@@ -1,7 +1,7 @@
 ---
 name: suspensao-preventiva-conselho
 description: >
-  Defesa de urgencia contra suspensao preventiva do exercicio profissional aplicada por Conselho (CRM/CRO/COFEN/COFFITO/CFF) durante PED em curso (Res. CFM 2.145/2016 art. 33; Res. CFO 71/2006 dispositivo correlato). A medida tem natureza cautelar administrativa — exige motivacao concreta, fumus de gravidade do fato + risco a coletividade/pacientes (periculum). Defesa: presuncao de inocencia (CF 5o LVII), ausencia de motivacao adequada (Lei 9.784 art. 50), desproporcionalidade (CF 5o LIV), ausencia de periculum concreto, periculum in mora inverso (destruicao imediata da atividade profissional). Vias: pedido de reconsideracao no proprio Conselho + simultaneo Mandado de Seguranca com tutela de urgencia (Lei 12.016 art. 7o III) na JF (Sum. 105 STJ). Prazo decadencial MS: 120 dias do ato. Aciona: suspensao preventiva CRM, suspensao preventiva CRO, cautelar etica, afastamento medico, periculum in mora inverso, Lei 12.016, presuncao inocencia conselho, Res. CFM 2.145 art. 33.
+  Defesa de urgencia contra suspensao preventiva do exercicio profissional aplicada por Conselho (CRM/CRO/COFEN/COFFITO/CFF) durante PED em curso (Res. CFM 2.145/2016 art. 33; Res. CFO 71/2006 dispositivo correlato). A medida tem natureza cautelar administrativa — exige motivacao concreta, fumus de gravidade do fato + risco a coletividade/pacientes (periculum). Defesa: presuncao de inocencia (CF 5o LVII), ausencia de motivacao adequada (Lei 9.784 art. 50), desproporcionalidade (CF 5o LIV), ausencia de periculum concreto, periculum in mora inverso (destruicao imediata da atividade profissional). Vias: pedido de reconsideracao no proprio Conselho + simultaneo Mandado de Seguranca com tutela de urgencia (Lei 12.016 art. 7o III) na JF (CF art. 109 VIII + Tema 258 STF). Prazo decadencial MS: 120 dias do ato. Aciona: suspensao preventiva CRM, suspensao preventiva CRO, cautelar etica, afastamento medico, periculum in mora inverso, Lei 12.016, presuncao inocencia conselho, Res. CFM 2.145 art. 33.
 ---
 
 # SUSPENSAO PREVENTIVA EM CONSELHO
@@ -36,7 +36,7 @@ Acionada quando o Conselho (CRM/CRO/COFEN/COFFITO/CFF) aplica **suspensao preven
 | **Lei 12.016/2009** | Mandado de seguranca — via principal de defesa |
 | Lei 12.016 art. 7o III | Tutela de urgencia |
 | Lei 12.016 art. 23 | Prazo 120d |
-| **STJ Sum. 105** | MS contra ato de Conselho -> JF |
+| **CF art. 109 VIII + Tema 258 STF** | MS contra ato de Conselho -> JF |
 
 **Jurisprudencia:** STJ MS 22.345/DF (suspensao preventiva exige periculum **concreto**, nao presumido); STJ AgRg AREsp 1.123.456 (presuncao de inocencia limita cautelar administrativa); STF MS 27.067/DF (motivacao adequada da cautelar); STJ MS 11.123 (controle judicial de legalidade + proporcionalidade da cautelar).
 
@@ -90,7 +90,7 @@ Esse e o **periculum in mora inverso** — fundamento autonomo para liminar/tute
 - **Estrategia:** apresentar simultaneamente ao MS — nao espera resposta para distribuir
 
 ### 6.2 Mandado de Seguranca com tutela (Lei 12.016 art. 7o III) — VIA PRINCIPAL
-- Foro: JF da capital UF (Sum. 105 STJ)
+- Foro: JF da capital UF (CF art. 109 VIII + Tema 258 STF)
 - Prazo: 120d (Lei 12.016 art. 23) — contar do ato de suspensao
 - Tutela: suspensao imediata dos efeitos
 - **Sucesso medio:** alto quando ha vicio formal evidente ou motivacao deficiente
@@ -110,7 +110,7 @@ OAB/{{OAB_UF}} {{OAB_NUMERO}}, em face de ATO DO PRESIDENTE DO [Conselho] DE {{U
 
 I — TEMPESTIVIDADE — suspensao preventiva imposta em [data]; 120d (Lei 12.016 art. 23)
 
-II — COMPETENCIA — Sum. 105 STJ + CF art. 109 I
+II — COMPETENCIA — CF art. 109 I e VIII + Tema 258 STF
 
 III — FATOS — PED instaurado em [data]; suspensao preventiva em [data]
        (referencia CASO.md)
@@ -163,7 +163,7 @@ RESSALVA (PA-05).
 - **P1** — Selo (Res. vigente no fato + atual).
 - **P3** — memoria de decisao (reconsideracao + MS simultaneo).
 - **P4** — `timeline-multiesfera` (paralelo a recurso adm).
-- **P5** — JF da capital UF (Sum. 105 STJ).
+- **P5** — JF da capital UF (CF art. 109 VIII + Tema 258 STF).
 - **P6** — `revisao-final-medica`.
 
 ## 11. Localizacao

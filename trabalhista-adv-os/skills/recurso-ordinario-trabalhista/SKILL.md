@@ -63,7 +63,7 @@ As contrarrazoes defendem a sentenca no que ela favorece o cliente; podem vir ac
 
 ## 6. PONTOS DE ATENCAO
 
-- **Dialeticidade** — o RO deve atacar especificamente os fundamentos da sentenca (Sumula 422 TST); razoes genericas levam ao nao conhecimento.
+- **Dialeticidade** — o RO deve atacar os fundamentos da sentenca (Sumula 422 TST; no RO ao TRT, o nao conhecimento exige motivacao INTEIRAMENTE dissociada — item III).
 - **Deposito recursal** — pressuposto objetivo para a reclamada; conferir o valor vigente.
 - **Prequestionamento** — sem ele, o futuro RR esbarra (Sumula 297 TST).
 - **Intertemporal** — Protocolo 6; nao aplicar a Reforma a fato anterior (PA-07).

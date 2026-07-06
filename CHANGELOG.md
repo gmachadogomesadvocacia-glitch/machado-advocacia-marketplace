@@ -4,6 +4,39 @@ Histórico do conjunto de plugins jurídicos (Adv-OS). Datas em AAAA-MM-DD.
 
 ## 2026-07-06
 
+### Migrar-legados CONCLUÍDO — `trabalhista-adv-os` v0.2.0 e `direito-medico-adv-os` v0.2.0 — PRÉ-PUBLICAÇÃO VERDE
+Os dois plugins consolidados passaram pelos mesmos refinos dos outros 13. **Todas as travas
+do `pre-publicacao.py` agora passam** (estrutura, engine, regressão, jurisprudência, tokens,
+sigilo, smoke).
+
+- **Engine harmonizado (Eixo 2):** `resolve-persona.py`, `pre-compact-snapshot.py` e
+  `hooks/hooks.json` do trabalhista regenerados do canônico; `resolve-persona.py` do médico
+  recuperou o `/start-medico` na mensagem de fallback. **Prefixo de env do trabalhista
+  renomeado `TRABALHISTA_*` → `TRAB_*`** (o guarda exige prefixo ≤ 6 maiúsculas) — o
+  `settings.local.json` do escritório ganhou as chaves novas (antigas mantidas na transição).
+- **Auditoria de jurisprudência (Eixo 1, 3 agentes web em 06/07/2026):** 36 citações órfãs
+  verificadas → 42 entradas novas na curadoria (total 186; livro-razão com 204 distintas,
+  0 órfãs). Correções de TEXTO nos dois plugins, destaque:
+  - **Súmula 105 STJ** (~25 usos no médico): é sobre honorários em MS — competência de MS
+    contra conselho profissional corrigida para **CF art. 109 VIII + Tema 258 STF**;
+    competência criminal para CF art. 109 IV.
+  - **Súmula 469 STJ** (~52 usos): CANCELADA em 2018 — substituída pela **608** em massa,
+    com rótulos da 597/608 corrigidos.
+  - **Rol ANS:** a fórmula "Tema 990 pós-Lei 14.454 = rol exemplificativo" estava dupla-
+    mente errada (Tema 990 = medicamento sem registro ANVISA) e desatualizada — reescrita
+    como **EREsp 1.886.929 + Lei 14.454 + ADI 7.265 STF (set/2025: taxativo mitigado, 5
+    requisitos cumulativos)** em todo o plugin médico.
+  - **Inexistentes removidas:** "Súmula 14 CFM" (→ Lei 9.784 art. 2º + Lei 3.268/57 art. 22)
+    e "Súmula Normativa 91 ANS" (→ RN 565/2022 + RN 563/2022); entradas-sentinela na
+    curadoria impedem reaparição.
+  - **Outras atribuições corrigidas:** Sum 17 STJ (→ CC 935 + CPP 66/67), Sum 470 STJ
+    (cancelada; migração forçada → Lei 9.656 art. 35), Temas 1061/1069/1094/1095 STJ
+    (teores reais registrados; usos substituídos pelas bases corretas), Tema 1118 STF
+    (é Adm. Pública; pejotização → **Tema 1389 STF, suspensão nacional, mérito pendente**),
+    Sum 74/278/244/437/90/338 TST (nuances da Reforma/OJ 142/Tema 497 anotadas).
+- **Tokens (Camada 6):** 51 tokens de template dos dois plugins registrados no
+  tokens-registry (total 220; zero órfãos).
+
 ### `jurimetria-adv-os` v0.2.0 — ciclo de vida completo do caso
 - Nova skill + command **`encerrar-caso`** (Tier 1, contraparte da `instrumentar-caso`):
   confirma que o caso encerrou de verdade (execução pendente NÃO encerra), preenche o
@@ -20,7 +53,7 @@ Histórico do conjunto de plugins jurídicos (Adv-OS). Datas em AAAA-MM-DD.
 - **Pendência conhecida (pré-publicação ainda REPROVADA nestas travas, confinadas aos 2
   consolidados):** drift de engine do trabalhista (scripts + hooks.json divergem do canônico
   dos outros 13), 54 citações de tema/súmula a conferir contra a curadoria (Eixo 1 nunca
-  rodou neles) e tokens fora do registro ({{nome}}/{{nota}}/{{PENA}}/{{ESFERAS}}). É o
+  rodou neles) e tokens de template fora do registro canônico. É o
   pacote "migrar legados": harmonizar engine + auditoria de jurisprudência + registro de tokens.
 
 ### Consolidação — `trabalhista-adv-os` v0.1.1 e `direito-medico-adv-os` v0.1.0

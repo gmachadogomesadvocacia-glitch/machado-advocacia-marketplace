@@ -182,7 +182,7 @@ RESSALVA (PA-05).
 
 ## 12. Localizacao
 
-CRM/CFO da UF de inscricao. PROAD no Conselho Regional; recurso ao CFM/CFO em Brasilia. MS contra cassacao publicitaria na JF (Sum. 105 STJ).
+CRM/CFO da UF de inscricao. PROAD no Conselho Regional; recurso ao CFM/CFO em Brasilia. MS contra cassacao publicitaria na JF (CF art. 109 VIII + Tema 258 STF).
 
 ## 13. Integracao
 

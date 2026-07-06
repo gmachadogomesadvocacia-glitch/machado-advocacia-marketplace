@@ -1,7 +1,7 @@
 ---
 name: ms-contra-cassacao-conselho
 description: >
-  Mandado de seguranca contra ato de Conselho Profissional (CRM/CRO/COFEN/COFFITO/CFF) que aplique cassacao, suspensao do exercicio profissional ou ato analogo lesivo a direito liquido e certo. Foro: Justica Federal (CF art. 109 I + STJ Sum. 105 — autarquia federal). Aplica Lei 12.016/2009 (MS). Teses: violacao do devido processo (CF 5o LV), cerceamento de defesa, ausencia de motivacao adequada (Lei 9.784 art. 50), desproporcionalidade da sancao (CF 5o LIV), prescricao etica (5a — Res. CFM 2.145 art. 32 / Res. CFO 71 art. 35), nulidade por composicao indevida do colegiado, contradicao com decisao penal absolutoria (CC art. 935). Tutela de urgencia para suspender efeitos da cassacao/suspensao (Lei 12.016 art. 7o III). Prazo decadencial 120 dias (Lei 12.016 art. 23). Aciona: MS contra CRM, MS contra CRO, mandado seguranca conselho, cassacao medica, suspensao etica, suspensao preventiva, Sum 105 STJ, Lei 12.016, devido processo PED.
+  Mandado de seguranca contra ato de Conselho Profissional (CRM/CRO/COFEN/COFFITO/CFF) que aplique cassacao, suspensao do exercicio profissional ou ato analogo lesivo a direito liquido e certo. Foro: Justica Federal (CF art. 109 I e VIII + Tema 258 STF — autarquia federal). Aplica Lei 12.016/2009 (MS). Teses: violacao do devido processo (CF 5o LV), cerceamento de defesa, ausencia de motivacao adequada (Lei 9.784 art. 50), desproporcionalidade da sancao (CF 5o LIV), prescricao etica (5a — Res. CFM 2.145 art. 32 / Res. CFO 71 art. 35), nulidade por composicao indevida do colegiado, contradicao com decisao penal absolutoria (CC art. 935). Tutela de urgencia para suspender efeitos da cassacao/suspensao (Lei 12.016 art. 7o III). Prazo decadencial 120 dias (Lei 12.016 art. 23). Aciona: MS contra CRM, MS contra CRO, mandado seguranca conselho, cassacao medica, suspensao etica, suspensao preventiva, CF 109 VIII, Lei 12.016, devido processo PED.
 ---
 
 # MS CONTRA CASSACAO/SUSPENSAO EM CONSELHO PROFISSIONAL
@@ -37,7 +37,7 @@ Pre-requisito: ato administrativo concreto (decisao do Conselho); prazo decadenc
 | **Lei 12.016 art. 7o III** | Liminar — relevancia + risco de ineficacia |
 | Lei 12.016 art. 19 | Recurso de oficio em concessao |
 | **Lei 12.016 art. 23** | Prazo decadencial 120d |
-| **STJ Sum. 105** | MS contra ato de Conselho profissional (autarquia federal) -> JF |
+| **CF art. 109 VIII + Tema 258 STF** | MS contra ato de Conselho profissional (autarquia federal) -> JF |
 | CF 5o LIV (devido processo substancial) e LV (formal) | Fundamentos materiais |
 | Lei 9.784/99 | Processo administrativo federal — aplicacao subsidiaria |
 | Lei 9.784 art. 50 | Motivacao adequada da decisao |
@@ -45,9 +45,9 @@ Pre-requisito: ato administrativo concreto (decisao do Conselho); prazo decadenc
 | Res. CFM 2.145/2016 / Res. CFO 71/2006 | Regulamento do PED + prescricao 5a |
 | **CC art. 935** | Independencia relativa — penal alcanca etico se 386 I/III |
 | Lei 3.268/57 + 4.324/64 | Cria CRM/CFM e CRO/CFO (autarquias federais) |
-| Sum. 14 CFM (proporcionalidade) | Principio aplicavel |
+| Lei 9.784 art. 2o (proporcionalidade) + Lei 3.268/57 art. 22 | Principio aplicavel |
 
-**Jurisprudencia:** STF MS 27.067/DF (cassacao exige fundamentacao + proporcionalidade); STJ MS 11.123/DF (controle judicial e de legalidade, nao de merito etico — `[mas controle de proporcionalidade e admitido]`); STJ AgRg AREsp 1.456.987 (motivacao adequada); STJ Sum. 105.
+**Jurisprudencia:** STF MS 27.067/DF (cassacao exige fundamentacao + proporcionalidade); STJ MS 11.123/DF (controle judicial e de legalidade, nao de merito etico — `[mas controle de proporcionalidade e admitido]`); STJ AgRg AREsp 1.456.987 (motivacao adequada); STJ CF art. 109 VIII.
 
 ## 3. Pressupostos do MS
 
@@ -57,7 +57,7 @@ Pre-requisito: ato administrativo concreto (decisao do Conselho); prazo decadenc
 | **Ato coator** | Decisao do Conselho (cassacao, suspensao, etc.) — concreta |
 | **Autoridade coatora** | Presidente do CRM/CRO/COFEN/COFFITO/CFF |
 | **Prazo** | 120d do ato (Lei 12.016 art. 23) — decadencial |
-| **Foro** | JF da capital UF do Conselho (Sum. 105 STJ) |
+| **Foro** | JF da capital UF do Conselho (CF art. 109 VIII + Tema 258 STF) |
 
 ## 4. Teses tipicas (cardapio)
 
@@ -66,7 +66,7 @@ Pre-requisito: ato administrativo concreto (decisao do Conselho); prazo decadenc
 | **Violacao do devido processo formal** | CF 5o LV + Lei 9.784 | Citacao defeituosa; prazo nao concedido; prova negada |
 | **Cerceamento de defesa** | CF 5o LV | Recusa de oitiva de testemunhas; impugnacao de perito ignorada |
 | **Ausencia de motivacao adequada** | Lei 9.784 art. 50 + STF MS 27.067 | Decisao generica; sem analise da defesa |
-| **Desproporcionalidade da sancao** | CF 5o LIV + Sum. 14 CFM + Lei 9.784 art. 2o | Cassacao por fato isolado de baixa gravidade |
+| **Desproporcionalidade da sancao** | CF 5o LIV + Lei 9.784 art. 2o + Lei 3.268/57 art. 22 | Cassacao por fato isolado de baixa gravidade |
 | **Prescricao** | Res. CFM 2.145 art. 32 / Res. CFO 71 art. 35 | Fato > 5a; interruptivos verificados |
 | **Composicao defeituosa do colegiado** | Lei 9.784 art. 18-21 | Conselheiro impedido/suspeito participou |
 | **Contradicao com decisao penal absolutoria 386 I/III** | CC art. 935 | Penal absolveu por inexistencia/autoria -> vincula etico |
@@ -98,7 +98,7 @@ em face de ATO DO PRESIDENTE DO [CRM/CRO/etc.] DE {{UF}}
 
 I — DA TEMPESTIVIDADE — ato coator de [data] — dentro de 120d (Lei 12.016 art. 23)
 
-II — DO CABIMENTO E COMPETENCIA — Sum. 105 STJ + CF art. 109 I
+II — DO CABIMENTO E COMPETENCIA — CF art. 109 I e VIII + Tema 258 STF
 
 III — DOS FATOS — narrativa do PED + ato coator (referencia CASO.md)
 
@@ -135,13 +135,13 @@ Anexos: comprovacao OAB ativa; copia do PED; ato coator; ressalva de OAB.
 1. **Coletar TUDO do PED** — copia integral; ata; voto do relator; ata da sessao; notificacao do ato coator.
 2. **Distribuir MS em 120d** — preferencialmente nos primeiros 30d para manter forca de liminar.
 3. **Liminar e nuclear** — perder a liminar = sancao em curso ate sentenca (1-2 anos). Investir tudo na liminar.
-4. **Coordenar com recurso administrativo CFM/CFO** — vias podem ser simultaneas (nao se exige esgotamento — Sum. 105). Recurso adm com efeito suspensivo + MS na JF = blindagem dupla.
+4. **Coordenar com recurso administrativo CFM/CFO** — vias podem ser simultaneas (nao se exige esgotamento — CF art. 5o XXXV). Recurso adm com efeito suspensivo + MS na JF = blindagem dupla.
 5. **MPF e parecer obrigatorio** — Lei 12.016 art. 12.
 6. **Recursos:** Agravo de Instrumento (se nega liminar — TRF) + Apelacao + REsp/RE.
 
 ## 8. Casos tipicos
 
-- **Cassacao por fato isolado:** desproporcionalidade — Sum. 14 CFM. Tese forte.
+- **Cassacao por fato isolado:** desproporcionalidade — Lei 9.784 art. 2o + Lei 3.268/57 art. 22. Tese forte.
 - **Suspensao preventiva sem motivacao concreta:** violacao Lei 9.784 art. 50 + presuncao de inocencia. Tese muito forte.
 - **PED prescrito julgado mesmo assim:** Res. CFM 2.145 art. 32 (5a). Tese vencedora se prescricao consumada.
 - **Penal absolveu por 386 I (inexistencia) e CRM/CRO insistiu em PED:** CC art. 935 vincula. Tese forte.
@@ -159,12 +159,12 @@ Anexos: comprovacao OAB ativa; copia do PED; ato coator; ressalva de OAB.
 - **P1** — Selo (norma vigente no fato + no ato coator).
 - **P3** — memoria de decisao (MS x recurso adm + estrategia liminar).
 - **P4** — `timeline-multiesfera` (penal/civel/etico).
-- **P5** — JF da capital UF — Sum. 105 STJ.
+- **P5** — JF da capital UF — CF art. 109 VIII (Tema 258 STF).
 - **P6** — `revisao-final-medica`.
 
 ## 11. Localizacao
 
-JF da capital UF (CF 109 I + Sum. 105 STJ). Recurso: TRF da regiao. RE: STF. REsp: STJ. **Atencao:** o ato coator e do Conselho REGIONAL — foro vai pela sede do Conselho que praticou o ato.
+JF da capital UF (CF 109 I e VIII + Tema 258 STF). Recurso: TRF da regiao. RE: STF. REsp: STJ. **Atencao:** o ato coator e do Conselho REGIONAL — foro vai pela sede do Conselho que praticou o ato.
 
 ## 12. Integracao
 

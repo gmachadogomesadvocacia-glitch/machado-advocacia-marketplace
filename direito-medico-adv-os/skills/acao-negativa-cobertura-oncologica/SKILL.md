@@ -1,7 +1,7 @@
 ---
 name: acao-negativa-cobertura-oncologica
 description: >
-  Acao contra operadora por negativa de cobertura de tratamento oncologico — quimioterapia/imunoterapia/terapia-alvo (incluindo off-label e nao-Rol), cirurgia oncologica, radioterapia, PET-CT, transplante, medicamentos de alto custo. Aplica Lei 9.656/1998 + Lei 14.454/2022 (que tornou o Rol ANS exemplificativo) + Tema 990 STJ pos-Lei 14.454 + Sum. 469 STJ (CDC) + Sum. 597 (CDC + autogestao). Criterios pos-Lei 14.454 art. 10§13: comprovacao de eficacia + recomendacao de orgao tecnico (CONITEC, SBOC, NICE, etc.) ou aprovacao FDA/EMA/PMDA + bula nacional/internacional + ausencia de substituto pelo Rol. Tutela de urgencia CPC 300 — gravidade clinica + tempo (chance de cura tempo-dependente — perda de chance). Conservadorismo (PA-21) no quantum. Aciona: negativa oncologia, quimioterapia negada, imunoterapia, off-label, Lei 14.454, Tema 990 STJ, Rol exemplificativo, alto custo plano, transplante negado, PET-CT negado, SBOC, NICE, CONITEC, terapia alvo.
+  Acao contra operadora por negativa de cobertura de tratamento oncologico — quimioterapia/imunoterapia/terapia-alvo (incluindo off-label e nao-Rol), cirurgia oncologica, radioterapia, PET-CT, transplante, medicamentos de alto custo. Aplica Lei 9.656/1998 + Lei 14.454/2022 (criterios legais p/ cobertura fora do rol) + ADI 7.265 STF (2025 — rol taxativo mitigado, 5 requisitos) + Sum. 608 STJ (CDC) + Sum. 597 (CDC + autogestao). Criterios pos-Lei 14.454 art. 10§13: comprovacao de eficacia + recomendacao de orgao tecnico (CONITEC, SBOC, NICE, etc.) ou aprovacao FDA/EMA/PMDA + bula nacional/internacional + ausencia de substituto pelo Rol. Tutela de urgencia CPC 300 — gravidade clinica + tempo (chance de cura tempo-dependente — perda de chance). Conservadorismo (PA-21) no quantum. Aciona: negativa oncologia, quimioterapia negada, imunoterapia, off-label, Lei 14.454, ADI 7.265, rol taxativo mitigado, alto custo plano, transplante negado, PET-CT negado, SBOC, NICE, CONITEC, terapia alvo.
 ---
 
 # ACAO NEGATIVA DE COBERTURA ONCOLOGICA
@@ -25,7 +25,7 @@ Acao do paciente/beneficiario contra operadora por negativa de tratamento oncolo
 | Norma | Conteudo |
 |-------|----------|
 | **Lei 9.656/1998** | Lei dos planos de saude — art. 10 (coberturas obrigatorias), art. 12 (segmentacoes) |
-| **Lei 14.454/2022** | Alterou Lei 9.656 — Rol ANS **exemplificativo** (art. 10§13) + criterios para cobertura fora do Rol |
+| **Lei 14.454/2022** | Alterou Lei 9.656 — criterios legais (art. 10§13) p/ cobertura fora do Rol; ADI 7.265 STF (2025) fixou rol TAXATIVO MITIGADO |
 | Lei 9.961/2000 | Cria ANS |
 | **RN ANS 465/2021 + sucessoras** | Rol de Procedimentos `[VERIFICAR atualizacao]` |
 | CDC art. 6o III/VIII + 47 + 51 IV | Direito a informacao + inversao do onus + nulidade abusiva |
@@ -36,11 +36,11 @@ Acao do paciente/beneficiario contra operadora por negativa de tratamento oncolo
 | CPC art. 300 | Tutela de urgencia |
 | CPC art. 537 | Astreintes |
 
-**Sumulas STJ:** **469** (CDC em plano de saude); **597** (CDC nao em autogestao; carencia > 24h em emergencia); **608** (CDC em coletivos empresariais).
+**Sumulas STJ:** **608** (CDC em planos de saude, salvo autogestao — substituiu a 469, CANCELADA em 2018); **597** (carencia para urgencia/emergencia abusiva se ultrapassar 24h).
 
 **Temas STJ (atualizar pos-Lei 14.454):**
-- **Tema 990** — pos-Lei 14.454/2022 — Rol exemplificativo, com criterios objetivos para cobertura fora do Rol
-- Tema 1.069 — limites a recusa de medicamento de alto custo
+- **Rol ANS** — EREsp 1.886.929 + Lei 14.454/2022 + ADI 7.265 STF — taxativo mitigado; cobertura fora do rol exige os 5 requisitos cumulativos
+- Vedacao de recusa por alto custo — linha REsp 668.216 STJ (plano limita doencas, nao o tratamento de doenca coberta) + Sum. 102 TJSP
 - Tema 952 — reajuste por faixa etaria
 - **REsp 1.733.013/PR** (OPME), **REsp 1.846.502/SP** (off-label oncologico) `[VERIFICAR jurisprudencia mais recente]`
 
@@ -60,20 +60,20 @@ Cobertura **fora do Rol** deve ser concedida quando comprovada:
 
 | Negativa | Tese juridica |
 |----------|---------------|
-| **"Fora do Rol ANS"** | Lei 14.454/2022 — Rol exemplificativo + criterios 1-5 demonstrados |
+| **"Fora do Rol ANS"** | Lei 14.454/2022 + ADI 7.265 STF — 5 requisitos demonstrados |
 | **"Off-label"** | Eficacia cientifica (NCCN/ESMO) + indicacao oncologica analoga + ausencia substituto |
-| **"Alto custo"** | Tema 1.069 STJ + Lei 9.656 art. 10 — operadora nao pode recusar por valor |
+| **"Alto custo"** | linha REsp 668.216 STJ + Lei 9.656 art. 10 — nao pode limitar tratamento de doenca coberta |
 | **"Carencia"** | Lei 9.656 art. 12 V "c" — emergencia oncologica 24h; URGENCIA |
 | **"Pre-existencia"** | Lei 9.656 art. 11 — CPT 24 meses limitado; oncologia em curso = continuidade |
 | **"Procedimento experimental"** | Distinguir experimental (nao registrado) de off-label (registrado, uso analogo) |
-| **Glosa de medicamento de uso domiciliar** | Sum. 469 + tratamento conexo a quimio (antiemetico, hematopoietico) |
+| **Glosa de medicamento de uso domiciliar** | Sum. 608 + tratamento conexo a quimio (antiemetico, hematopoietico) |
 | **Negativa de PET-CT/exame diagnostico** | Necessidade tecnica + diretriz SBOC |
 | **Negativa de transplante** | Lei 9.434/1997 + protocolo SUS de prioridade `[VERIFICAR]` |
 | **Negativa de CAR-T / terapia avancada** | Lei 14.454 + parecer SBOC + aprovacao internacional |
 
 ## 5. Tutela de urgencia (CPC 300) — coracao da peca
 
-**Probabilidade do direito (fumus):** Lei 14.454 + Sum. 469/608 + Tema 990 pos-lei + parecer medico assistente + comprovacao dos 5 criterios.
+**Probabilidade do direito (fumus):** Lei 14.454 + Sum. 608 + rol taxativo mitigado (ADI 7.265) + parecer medico assistente + comprovacao dos 5 criterios.
 
 **Perigo de dano (periculum):** oncologia e tempo-dependente — atraso reduz chance de cura/sobrevida (`perda-de-uma-chance` aplicavel). Documentar: estadio do tumor; janela terapeutica; literatura sobre impacto do atraso.
 
@@ -85,7 +85,7 @@ Cobertura **fora do Rol** deve ser concedida quando comprovada:
 |------|------|-------|
 | **Custeio do tratamento** | Lei 9.656 + Lei 14.454 | Custo efetivo (faturas hospitalares + recibos) |
 | **Reembolso por desembolso proprio** | CDC 14 + CC 944 | Comprovantes (NF) — Selic desde desembolso (Sum. 54) |
-| **Dano moral autonomo** | CC 186 + 927 + ancorado em Tema 1.094/1.095 | Parametro conservador (PA-21) |
+| **Dano moral autonomo** | CC 186 + 927 + jurisprudencia consolidada STJ (revisao so se irrisorio/exorbitante — Sum. 7) | Parametro conservador (PA-21) |
 | **Astreintes** | CPC 537 | Diaria proporcional (`[VERIFICAR EAREsp 650.536 STJ]`) com teto |
 | **Honorarios sucumbenciais** | CPC 85 | 10-20% |
 
@@ -105,15 +105,15 @@ I — FATOS — diagnostico em [data]; prescricao em [data]; negativa em [data]
 II — ISSUE — negativa de [tratamento X] viola Lei 9.656 + Lei 14.454/2022?
 
 III — DIREITO
-  III.1 Regime — CDC art. 14 (objetiva — PA-15) + Sum. 469 STJ (PA-13)
-  III.2 Lei 14.454/2022 art. 10§13 — Rol exemplificativo
+  III.1 Regime — CDC art. 14 (objetiva — PA-15) + Sum. 608 STJ (PA-13)
+  III.2 Lei 14.454/2022 art. 10§13 + ADI 7.265 STF — rol taxativo mitigado
   III.3 Criterios atendidos (PA-13):
         - Eficacia cientifica: [estudos + NCCN/ESMO + parecer SBOC]
         - Recomendacao tecnica: [CONITEC/sociedade]
         - Aprovacao internacional: [FDA/EMA]
         - Bula: [registro/indicacao analoga]
         - Ausencia de substituto eficaz no Rol
-  III.4 Inversao do onus — CDC 6o VIII + Sum. 469 STJ (PA-14 fundamentado)
+  III.4 Inversao do onus — CDC 6o VIII + Sum. 608 STJ (PA-14 fundamentado)
   III.5 Tutela de urgencia — CPC 300 (probabilidade + perigo tempo-dependente)
   III.6 [Estatuto Idoso / LBI se aplicavel]
 
@@ -146,9 +146,9 @@ RESSALVA (PA-05).
 
 ## 9. Casos tipicos
 
-- **Imunoterapia (Pembrolizumabe/Nivolumabe) em tumor sem indicacao especifica:** off-label com PD-L1 alto — eficacia cientifica robusta — Tema 990 pos-lei.
+- **Imunoterapia (Pembrolizumabe/Nivolumabe) em tumor sem indicacao especifica:** off-label com PD-L1 alto — eficacia cientifica robusta — rol taxativo mitigado (Lei 14.454 + ADI 7.265 STF).
 - **Terapia alvo (Trastuzumabe) em tumor HER2 ressuscitado:** indicacao adjuvante x metastatica — distinguir Rol.
-- **CAR-T em LLA refrataria:** alto custo + tecnologia avancada — Tema 1.069 + Lei 14.454.
+- **CAR-T em LLA refrataria:** alto custo + tecnologia avancada — linha REsp 668.216 + Lei 14.454 + ADI 7.265 STF.
 - **Transplante de medula em LMA:** Rol cobre — recusa indica vicio de glosa.
 - **PET-CT para estadiamento:** Rol cobre em hipoteses; fora delas, Lei 14.454.
 - **Radioterapia protontoterapia:** raramente coberta — Lei 14.454 + estudos NICE.
@@ -157,10 +157,10 @@ RESSALVA (PA-05).
 
 - **PA-02** — sem promessa.
 - **PA-03 / PA-06** — sem opinar sobre conduta clinica nem orientacao ao paciente.
-- **PA-10** — Tema 990 **pos-Lei 14.454** — citar como Rol **exemplificativo** (nao taxativo).
+- **PA-10** — rol ANS: citar EREsp 1.886.929 + Lei 14.454 + **ADI 7.265 STF** (taxativo mitigado, 5 requisitos).
 - **PA-11** — Rol ANS em atualizacao -> `[VERIFICAR RN vigente]`.
 - **PA-13** — Lei 9.656 + Lei 14.454 + CDC com identificacao precisa.
-- **PA-14** — inversao do onus fundamentada (CDC 6o VIII + Sum. 469).
+- **PA-14** — inversao do onus fundamentada (CDC 6o VIII + Sum. 608).
 - **PA-21** — quantum conservador.
 
 ## 11. Protocolos acionados

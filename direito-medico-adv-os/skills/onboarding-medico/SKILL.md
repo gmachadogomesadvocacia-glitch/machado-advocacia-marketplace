@@ -55,7 +55,7 @@ Validar OAB (digitos/pontos), UF (2 letras maiusculas), email. **OAB ativa suste
 ### Bloco 3 — Localizacao (eixo do Protocolo 5)
 > "Localizacao do escritorio: 1. Cidade-sede? 2. UF de atuacao predominante?
 >
-> Por que importa (P5): MS contra cassacao/suspensao -> JF (Sum. 105 STJ + CF art. 109 I); civel/criminal -> JE comarca (CDC art. 101 I; CPP art. 70); PED CRM/CRO -> Conselho da UF de inscricao do medico-cliente (Res. CFM 2.145/2016, Res. CFO 71/2006); vigilancia sanitaria -> municipal/estadual.
+> Por que importa (P5): MS contra cassacao/suspensao -> JF (CF art. 109 I e VIII + Tema 258 STF); civel/criminal -> JE comarca (CDC art. 101 I; CPP art. 70); PED CRM/CRO -> Conselho da UF de inscricao do medico-cliente (Res. CFM 2.145/2016, Res. CFO 71/2006); vigilancia sanitaria -> municipal/estadual.
 >
 > `triagem-medica` confirma a localizacao por caso (UF de inscricao do cliente pode diferir)."
 

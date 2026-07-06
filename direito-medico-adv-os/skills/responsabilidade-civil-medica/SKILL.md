@@ -1,7 +1,7 @@
 ---
 name: responsabilidade-civil-medica
 description: >
-  Nucleo civel do plugin — responsabilidade civil em erro medico/odontologico. Distincao critica subjetiva x objetiva (PA-15): medico PF autonomo CC art. 951 (subjetiva — provar culpa) vs clinica/hospital/operadora PJ CDC art. 14 (objetiva — basta nexo+dano). Aplica STJ Sum. 469 (CDC em planos), Sum. 608 (coletivos), Sum. 597 (odonto), Sum. 387 (cumulacao moral+estetico), Sum. 326 (sucumbencia). Inversao do onus CDC art. 6o VIII / Sum. 469 STJ vs distribuicao dinamica CC art. 373 §1o. Memoria de quantum (CC arts. 948-950 + parametros STJ por especialidade) conservadora (PA-21). Aciona: erro medico, responsabilidade civil medica, indenizacao por dano medico, danos morais medicos, danos materiais medicos, pensao por morte medica, REsp 1.708.628, Sumula 469 STJ, CDC art. 14, CC art. 951, inversao do onus, peticao inicial erro medico, contestacao erro medico.
+  Nucleo civel do plugin — responsabilidade civil em erro medico/odontologico. Distincao critica subjetiva x objetiva (PA-15): medico PF autonomo CC art. 951 (subjetiva — provar culpa) vs clinica/hospital/operadora PJ CDC art. 14 (objetiva — basta nexo+dano). Aplica STJ Sum. 608 (CDC em planos, salvo autogestao — substituiu a 469, cancelada), Sum. 597 (carencia urgencia/emergencia 24h), Sum. 387 (cumulacao moral+estetico), Sum. 326 (sucumbencia). Inversao do onus CDC art. 6o VIII / Sum. 608 STJ vs distribuicao dinamica CC art. 373 §1o. Memoria de quantum (CC arts. 948-950 + parametros STJ por especialidade) conservadora (PA-21). Aciona: erro medico, responsabilidade civil medica, indenizacao por dano medico, danos morais medicos, danos materiais medicos, pensao por morte medica, REsp 1.708.628, Sumula 608 STJ, CDC art. 14, CC art. 951, inversao do onus, peticao inicial erro medico, contestacao erro medico.
 ---
 
 # RESPONSABILIDADE CIVIL MEDICA
@@ -33,7 +33,7 @@ Acionada em demanda civel — peticao inicial do paciente, contestacao do medico
 | CDC art. 6o VIII / 27 | Inversao do onus / prescricao 5 anos |
 | CPC art. 373 §1o | Distribuicao dinamica (regime CC) |
 
-**Sumulas STJ:** 469 (CDC em planos); 597 (CDC nao em autogestao; carencia > 24h emergencia; odonto CDC); 608 (CDC em coletivos); 387 (cumulacao moral+estetico); 326 (sucumbencia — quantum inferior nao gera reciproca); 278 (actio nata — ciencia inequivoca); 54 (juros desde evento extracontratual); 362 (correcao do moral desde a fixacao).
+**Sumulas STJ:** 608 (CDC em planos de saude, salvo autogestao — substituiu a 469, CANCELADA em 2018); 597 (carencia para urgencia/emergencia abusiva se ultrapassar 24h); 387 (cumulacao moral+estetico); 326 (sucumbencia — quantum inferior nao gera reciproca); 278 (actio nata — ciencia inequivoca); 54 (juros desde evento extracontratual); 362 (correcao do moral desde a fixacao).
 
 **REsp paradigma:** 1.708.628/RS (hospital privado obj. + medico autonomo subj. — distincao); 1.526.466/RS (estetica = resultado); 1.291.247/RS (perda de chance); EREsp 1.385.732 (prescricao consumerista x CC).
 
@@ -43,7 +43,7 @@ Acionada em demanda civel — peticao inicial do paciente, contestacao do medico
 |---------|--------|-------|-----------------|
 | Medico PF autonomo | **Subjetiva** | CC art. 951 + CDC art. 14 §4o | Autor prova: conduta + culpa (negligencia, imprudencia, impericia) + nexo + dano |
 | Clinica/hospital PJ | **Objetiva** (relacao consumerista) | CDC art. 14 | Autor prova: nexo + dano. Re prova excludente (caso fortuito, culpa exclusiva do consumidor, fato de terceiro) |
-| Operadora de plano | **Objetiva** | CDC art. 14 + Sum. 469 | Idem |
+| Operadora de plano | **Objetiva** | CDC art. 14 + Sum. 608 | Idem |
 | Autogestao (Geap, Cassi, etc.) | NAO consumerista (Sum. 608) | CC art. 927 + 951 | Autor prova culpa |
 | Hospital publico/SUS | Objetiva (CF art. 37 §6o — Estado) | CF art. 37 §6o | Idem objetiva |
 | SUS — entes federados | Responsabilidade solidaria | STF RE 855.178 | Acao contra qualquer ente |
@@ -54,7 +54,7 @@ Acionada em demanda civel — peticao inicial do paciente, contestacao do medico
 
 | Regime | Base legal | Pressupostos |
 |--------|-----------|--------------|
-| **Inversao CDC** | CDC art. 6o VIII + Sum. 469 STJ | Relacao de consumo + verossimilhanca OU hipossuficiencia do consumidor |
+| **Inversao CDC** | CDC art. 6o VIII + Sum. 608 STJ | Relacao de consumo + verossimilhanca OU hipossuficiencia do consumidor |
 | **Distribuicao dinamica CPC** | CPC art. 373 §1o | Caso concreto sem relacao consumerista — onus a quem melhor possa produzir (clinica vs paciente) |
 
 **Aplicacao pratica:** medico PF autonomo em relacao **nao-consumerista** -> CC art. 373 §1o (distribuicao dinamica). Clinica/hospital/operadora -> inversao CDC art. 6o VIII. **Fundamentar sempre** — inversao automatica nao existe; depende de pedido fundamentado.
@@ -69,13 +69,13 @@ Tabela canonica (insumo de `estilo-entrega-medica`):
 | **Lucros cessantes** | CC art. 402 + 950 | Comprovacao de renda + tempo afastamento | R$ X | Selic |
 | **Pensao por morte** | CC art. 948 II + 950 | Dependentes (Sum. 491 STF — companheira; idade base 25-65 anos) | R$ X x prazo Y | Selic; revisao salarial |
 | **Pensao por incapacidade** | CC art. 950 | Percentual de incapacidade x renda | Idem | Idem |
-| **Dano moral** | CC art. 186 + 927 + parametros STJ por gravidade/especialidade | Conservador (PA-21); ancorado em Tema 1.094/1.095 STJ | R$ X (parametro) | Sum. 362 STJ (desde a fixacao) |
+| **Dano moral** | CC art. 186 + 927 + parametros STJ por gravidade/especialidade | Conservador (PA-21); revisao em REsp so se irrisorio/exorbitante (Sum. 7 STJ) | R$ X (parametro) | Sum. 362 STJ (desde a fixacao) |
 | **Dano estetico** | CC art. 949 + Sum. 387 STJ | Cumulavel com moral | R$ Y | Selic |
 | **Perda de uma chance** | CC art. 186 + 927 + REsp 1.291.247 | Percentual sobre prejuizo total | % x R$ Z | Selic |
 | **Honorarios sucumbenciais** | CPC art. 85 §§2o-3o | 10-20% sobre condenacao | — | — |
 | **TOTAL pleiteado** | — | — | **R$ TOTAL** | — |
 
-**Conservadorismo (PA-21):** parametros por especialidade — consultar jurisprudencia STJ atual `[VERIFICAR — Tema 1.094/1.095]`. Valor inflado prejudica credibilidade da peca e pode gerar honorarios menores.
+**Conservadorismo (PA-21):** parametros por especialidade — consultar jurisprudencia STJ atual `[VERIFICAR — parametros por especialidade]`. Valor inflado prejudica credibilidade da peca e pode gerar honorarios menores.
 
 ## 6. Esqueleto FIRAC — Peticao inicial (template)
 
@@ -90,9 +90,9 @@ EXMO. SR. JUIZ DE DIREITO DA ___ VARA CIVEL DE [Cidade/UF]
 I — FATOS [F] — narrativa cronologica datada do evento (referencia CASO.md)
 II — ISSUE [I] — houve erro do Re X (CC art. 951) e falha do Re Y (CDC art. 14)?
 III — DIREITO [R]
-  III.1 Regime (PA-15): Re Y objetiva CDC art. 14 + Sum. 469 STJ + REsp 1.708.628;
+  III.1 Regime (PA-15): Re Y objetiva CDC art. 14 + Sum. 608 STJ + REsp 1.708.628;
         Re X subjetiva CC art. 951 + CDC art. 14 §4o
-  III.2 Inversao do onus (PA-14): Re Y -> CDC art. 6o VIII + Sum. 469;
+  III.2 Inversao do onus (PA-14): Re Y -> CDC art. 6o VIII + Sum. 608;
         Re X -> CPC art. 373 §1o (distribuicao dinamica fundamentada)
   III.3 Conduta culposa do Re X — negligencia/imprudencia/impericia
         (posicao juridica, NAO clinica — PA-03; conduta tecnica e do perito)
@@ -119,7 +119,7 @@ OAB ativo. Selo em [data] — CASO.md.
 
 ## 7. Esqueleto FIRAC — Contestacao (defesa)
 
-Inverte: identificar regime (subjetiva se medico PF — onus do autor; objetiva se PJ — apontar excludentes); demolir nexo causal (caso fortuito, evolucao natural da doenca, condicao pre-existente, culpa exclusiva do paciente — descumprimento de TCLE); impugnar inversao do onus; impugnar quantum por excesso (Tema 1.094/1.095 STJ); arguir prescricao (PA-19 — `prescricao-erro-medico`).
+Inverte: identificar regime (subjetiva se medico PF — onus do autor; objetiva se PJ — apontar excludentes); demolir nexo causal (caso fortuito, evolucao natural da doenca, condicao pre-existente, culpa exclusiva do paciente — descumprimento de TCLE); impugnar inversao do onus; impugnar quantum por excesso (criterio exorbitante — jurisprudencia STJ, Sum. 7); arguir prescricao (PA-19 — `prescricao-erro-medico`).
 
 ## 8. Vedacoes especificas
 
@@ -128,7 +128,7 @@ Inverte: identificar regime (subjetiva se medico PF — onus do autor; objetiva 
 - **PA-15** — subjetiva x objetiva separadas com precisao.
 - **PA-14** — inversao do onus fundamentada com norma certa.
 - **PA-19** — prazo prescricional conferido (3 anos CC x 5 anos CDC) — acionar `prescricao-erro-medico`.
-- **PA-21** — quantum conservador (Tema 1.094/1.095 STJ).
+- **PA-21** — quantum conservador (revisao em REsp so se irrisorio/exorbitante — Sum. 7 STJ).
 - **PA-05** — ressalva OAB obrigatoria.
 
 ## 9. Protocolos acionados

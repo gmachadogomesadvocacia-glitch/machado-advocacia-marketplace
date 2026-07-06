@@ -84,7 +84,7 @@ Plugin trabalhista especializado **side-aware** (32 skills, Tier 0/1/2/3) com **
 3. **plugin.json minimal:** `name`, `version`, `description`, `author`, `license`.
 4. **Tokens `{{...}}`** permanecem LITERAIS no disco — LLM resolve em runtime via persona.
 5. **Privacidade LGPD:** pasta `<cwd>/trabalhista/` (e `casos/`) gitignored por default; warning se pasta sincronizada. Compartimentacao por caso e PA-22.
-6. **Portabilidade:** scripts Python 3.11+; `${CLAUDE_PLUGIN_ROOT}` em todos os hooks; `${TRABALHISTA_PERSONA}` resolvido por fallback chain.
+6. **Portabilidade:** scripts Python 3.11+; `${CLAUDE_PLUGIN_ROOT}` em todos os hooks; `${TRAB_PERSONA}` resolvido por fallback chain.
 7. **Commits semanticos** por task — `feat(skill): <nome>`, `feat:`, `chore:`, `docs:`.
 8. **Atualizar `MEMORY.md` ANTES de qualquer push.**
 

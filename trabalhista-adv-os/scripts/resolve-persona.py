@@ -3,8 +3,8 @@
 resolve-persona.py — Resolve qual persona carregar no hook SessionStart.
 
 Fallback chain (ordem de prioridade):
-1. Env var TRABALHISTA_PERSONA aponta para arquivo existente
-2. <CWD>/.claude/settings.local.json contem env.TRABALHISTA_PERSONA
+1. Env var TRAB_PERSONA aponta para arquivo existente
+2. <CWD>/.claude/settings.local.json contem env.TRAB_PERSONA
 3. ~/.config/trabalhista-adv-os/active-cowork.json contem persona_path
 4. Fallback para <PLUGIN_ROOT>/context/persona-fallback.md
 
@@ -34,7 +34,7 @@ def _fallback_path() -> Path:
 
 
 def _try_env_var() -> Path | None:
-    p = os.environ.get("TRABALHISTA_PERSONA")
+    p = os.environ.get("TRAB_PERSONA")
     if p:
         path = Path(p).expanduser()
         if path.exists() and path.is_file():
@@ -51,7 +51,7 @@ def _try_settings_local() -> Path | None:
             try:
                 data = json.loads(settings.read_text(encoding="utf-8"))
                 env = data.get("env", {}) if isinstance(data, dict) else {}
-                p = env.get("TRABALHISTA_PERSONA")
+                p = env.get("TRAB_PERSONA")
                 if p:
                     path = Path(p).expanduser()
                     if path.exists() and path.is_file():
@@ -86,7 +86,7 @@ def _try_active_cowork_config() -> Path | None:
 def resolve_persona() -> tuple[Path, str]:
     """Resolve persona via fallback chain. Retorna (path, source_tag)."""
     for fn, tag in (
-        (_try_env_var, "env:TRABALHISTA_PERSONA"),
+        (_try_env_var, "env:TRAB_PERSONA"),
         (_try_settings_local, "settings.local.json"),
         (_try_active_cowork_config, "active-cowork.json"),
     ):
@@ -110,7 +110,7 @@ def main() -> int:
 
     # Header de diagnostico no comeco (nao interfere com markdown renderizado)
     if source == "fallback":
-        sys.stderr.write(f"[trabalhista-adv-os] Persona: FALLBACK (nenhuma persona configurada, rode /start)\n")
+        sys.stderr.write(f"[trabalhista-adv-os] Persona: FALLBACK (nenhuma persona configurada, rode /start-trabalhista)\n")
     else:
         sys.stderr.write(f"[trabalhista-adv-os] Persona carregada de {source}: {path}\n")
 

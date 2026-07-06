@@ -74,7 +74,7 @@ Checklist R2:
 [ ] Jurisprudencia STJ/STF/TST com tribunal + turma + numero + ano
 [ ] Sumula/Tema vigente e nao-superado (PA-10)
 [ ] Lei 14.454/2022 considerada quando ha discussao de Rol
-[ ] Tema 990 STJ pos-Lei 14.454 corretamente citado
+[ ] Rol ANS citado corretamente (EREsp 1.886.929 + Lei 14.454 + ADI 7.265 STF — taxativo mitigado)
 [ ] Subjetiva (CC 951) x objetiva (CDC 14) (PA-15)
 [ ] Inversao do onus fundamentada com norma certa (PA-14)
 [ ] Prescricao conferida (PA-19 — 3a CC x 5a CDC)
@@ -110,7 +110,7 @@ Checklist R3:
        defensivo cruzado (CPP 386 I/III via CC 935)?
 [ ] Res. CFM 2.336/CFO 196 se ha publicidade
 [ ] Res. CFM 2.145/CFO 71 se ha PED
-[ ] Sum. 105 STJ se MS contra Conselho
+[ ] CF art. 109 VIII + Tema 258 STF se MS contra Conselho
 ```
 
 **Veredito:** APROVADO / APROVADO COM RESSALVAS / REPROVADO.
@@ -141,7 +141,7 @@ Checklist R4:
 
 Mude de chapeu: voce AGORA e o advogado da parte adversa (operadora, acusacao, comissao do PED) ou o perito mais rigoroso — contratado para DERRUBAR o documento. UMA falha material -> REPROVADO. Eixos:
 
-- **VIGENCIA** — alguma norma/tema citado que a adversa demonstraria superado (Tema 990 pre/pos-Lei 14.454, resolucao CFM revogada)?
+- **VIGENCIA** — alguma norma/tema citado que a adversa demonstraria superado (rol ANS sem os 5 requisitos da ADI 7.265 STF, resolucao CFM revogada)?
 - **ESFERA** — argumento de uma esfera que contamina outra (confissao civel usada no PED/criminal)? Independencia das instancias respeitada?
 - **NEXO/PROVA** — o nexo causal sustenta pericia hostil? Prontuario/TCLE citados existem no rol?
 - **QUANTUM** — valor que a adversa reduziria por falta de ancoragem STJ?
@@ -210,7 +210,7 @@ Selo:
 | Rodada | Reprovacao tipica |
 |--------|-------------------|
 | R1 | Documento e parecer mas pedido era peca; CASO.md errado |
-| R2 | Tema 990 citado como "rol taxativo" (pre-Lei 14.454 — PA-10) |
+| R2 | Rol tratado como "exemplificativo puro", ignorando a ADI 7.265 STF (taxativo mitigado — PA-10) |
 | R2 | Inversao do onus sem fundamentacao (PA-14) |
 | R2 | Quantum inflado sem ancoragem STJ (PA-21) |
 | R3 | Plugin opinou sobre conduta clinica (PA-03) |
@@ -240,4 +240,4 @@ Verifica em R1 que foro/competencia (P5) estao corretos para o caso (JE/JF/CRM/C
 
 **Entrega para:** operador — documento aprovado ou bloqueado.
 
-**Sem esta skill:** pecas com defeitos sutis (Tema 990 pre/pos-lei, subjetiva x objetiva, ressalva OAB ausente, cruzamento P4 perdido) chegam ao operador sem auditoria — risco de improcedencia/PED/responsabilidade tecnica.
+**Sem esta skill:** pecas com defeitos sutis (rol ANS pre/pos-ADI 7.265, subjetiva x objetiva, ressalva OAB ausente, cruzamento P4 perdido) chegam ao operador sem auditoria — risco de improcedencia/PED/responsabilidade tecnica.

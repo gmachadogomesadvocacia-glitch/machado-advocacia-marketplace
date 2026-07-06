@@ -84,14 +84,14 @@ Tres pilares:
 2. **Ausencia de fotografia pre** — impossibilidade de demonstrar resultado esperado x alcancado.
 3. **Lacuna no seguimento** — falta de consultas pos-operatorias, falta de registro de orientacoes.
 4. **Resultado claramente alheio** (assimetria grosseira, queloide previsivel, infeccao por falha de antissepsia).
-5. **Inversao de onus (CDC art. 6o VIII + Sum. 469 STJ em clinica/hospital PJ; CPC art. 373 §1o em medico PF).**
+5. **Inversao de onus (CDC art. 6o VIII + Sum. 608 STJ em clinica/hospital PJ; CPC art. 373 §1o em medico PF).**
 
 ## 7. Memoria de quantum (P3)
 
 | Item | Base | Conservador? |
 |------|------|--------------|
 | Dano material — despesas de retoque/correcao | CC art. 949 | Comprovante |
-| Dano moral — frustracao estetica | CC art. 186 + 927 + REsp 1.526.466 | Tema 1.094/1.095 STJ — moderado |
+| Dano moral — frustracao estetica | CC art. 186 + 927 + REsp 1.526.466 | STJ: revisao do quantum so se irrisorio/exorbitante (Sum. 7) — moderado |
 | Dano estetico autonomo | CC art. 949 + Sum. 387 STJ (cumulavel) | Por gravidade |
 | Lucros cessantes (raros — modelo, ator) | CC art. 402 | Comprovacao |
 
@@ -105,7 +105,7 @@ Tres pilares:
 III — DIREITO
 III.1 — Cirurgia estetica = obrigacao de RESULTADO (STJ REsp 1.526.466/RS)
 III.2 — Inversao da presuncao — medico/clinica prova excludente
-III.3 — Re Y (clinica/hospital) — CDC art. 14 + Sum. 469 STJ
+III.3 — Re Y (clinica/hospital) — CDC art. 14 + Sum. 608 STJ
        Re X (medico PF) — CC art. 951 + REsp 1.526.466 (regime de resultado
        transcende a regra geral subjetiva do CDC art. 14 §4o)
 III.4 — Tese de defesa (se for o caso): excludente comprovada — descumprimento
@@ -117,7 +117,7 @@ III.5 — Quantum (P3 — conservador)
 
 - **PA-15** — distinguir estetica pura (resultado) x reparadora (meio).
 - **PA-13** — STJ REsp 1.526.466/RS sempre citado.
-- **PA-21** — quantum estetico conservador — STJ corta valores inflados (Tema 1.094/1.095).
+- **PA-21** — quantum estetico conservador — STJ corta valores exorbitantes (criterio irrisorio/exorbitante; Sum. 7).
 - **PA-19** — prescricao 3 anos (medico PF) vs 5 anos (clinica/hospital).
 - **PA-08** — sem critica pessoal (ao medico, ao paciente, ao perito).
 - **PA-02** — sem promessa de procedencia.

@@ -1,12 +1,12 @@
 ---
 name: acao-tea-multidisciplinar
 description: >
-  Acao contra operadora por negativa/limitacao de tratamento multidisciplinar de Transtorno do Espectro Autista (TEA) — terapia ABA, fonoaudiologia, terapia ocupacional, psicologia, psicomotricidade, equoterapia, musicoterapia, integracao sensorial. Aplica Lei 12.764/2012 (Lei Berenice Piana — TEA equiparado a deficiencia para fins legais) + Lei 13.146/2015 (LBI) + Lei 14.454/2022 (Rol exemplificativo) + RN ANS 469/2021 + RN ANS 539/2022 (cobertura ilimitada de sessoes para TEA) + Sum. 469/608 STJ + Tema 990 pos-Lei 14.454. Vedacao de limite numerico de sessoes (RN 539). Vedacao de exigencia de habilitacao especifica da clinica (criterio cientifico aceito basta). Tutela de urgencia — janela neurodesenvolvimental tempo-critica (0-6 anos, depois 7-12). Conservadorismo (PA-21). Aciona: TEA negado, autismo plano de saude, terapia ABA, fonoaudiologia TEA, terapia ocupacional TEA, RN 539, RN 469, Lei 12.764, Berenice Piana, sessoes ilimitadas, janela neurodesenvolvimental, neurodivergente.
+  Acao contra operadora por negativa/limitacao de tratamento multidisciplinar de Transtorno do Espectro Autista (TEA) — terapia ABA, fonoaudiologia, terapia ocupacional, psicologia, psicomotricidade, equoterapia, musicoterapia, integracao sensorial. Aplica Lei 12.764/2012 (Lei Berenice Piana — TEA equiparado a deficiencia para fins legais) + Lei 13.146/2015 (LBI) + Lei 14.454/2022 (Rol exemplificativo) + RN ANS 469/2021 + RN ANS 539/2022 (cobertura ilimitada de sessoes para TEA) + Sum. 608 STJ + ADI 7.265 STF (rol taxativo mitigado). Vedacao de limite numerico de sessoes (RN 539). Vedacao de exigencia de habilitacao especifica da clinica (criterio cientifico aceito basta). Tutela de urgencia — janela neurodesenvolvimental tempo-critica (0-6 anos, depois 7-12). Conservadorismo (PA-21). Aciona: TEA negado, autismo plano de saude, terapia ABA, fonoaudiologia TEA, terapia ocupacional TEA, RN 539, RN 469, Lei 12.764, Berenice Piana, sessoes ilimitadas, janela neurodesenvolvimental, neurodivergente.
 ---
 
 # ACAO TEA — TRATAMENTO MULTIDISCIPLINAR
 
-> Skill **Tier 5** — acao contra operadora por negativa/limitacao de tratamento multidisciplinar do TEA. Implementa PA-04, PA-10 (Lei 14.454 + Tema 990), PA-11 (RN ANS em atualizacao), PA-13, PA-14, PA-15, PA-21. Acionada por `medico-master`, `triagem-medica`, `tutela-urgencia-plano-saude`.
+> Skill **Tier 5** — acao contra operadora por negativa/limitacao de tratamento multidisciplinar do TEA. Implementa PA-04, PA-10 (Lei 14.454 + ADI 7.265 STF), PA-11 (RN ANS em atualizacao), PA-13, PA-14, PA-15, PA-21. Acionada por `medico-master`, `triagem-medica`, `tutela-urgencia-plano-saude`.
 
 ---
 
@@ -39,9 +39,9 @@ Acao do paciente neurodivergente (TEA) — geralmente crianca representada pelos
 | CPC 300 / 537 | Tutela + astreintes |
 
 **Jurisprudencia:**
-- STJ Sum. 469 (CDC em planos)
+- STJ Sum. 608 (CDC em planos, salvo autogestao)
 - STJ Sum. 608 (CDC em coletivos)
-- **Tema 990 STJ pos-Lei 14.454** — Rol exemplificativo
+- **Rol ANS (EREsp 1.886.929 + Lei 14.454 + ADI 7.265 STF)** — taxativo mitigado, 5 requisitos
 - STJ AgInt REsp 1.876.543 (cobertura ABA em TEA) `[VERIFICAR jurisprudencia atual]`
 - TJSP / TJRJ — jurisprudencia consolidada — tutela quase sempre concedida
 
@@ -74,7 +74,7 @@ Cada mes sem tratamento adequado e perda potencial irreversivel. **Argumento per
 1. **TEA = deficiencia legal** (Lei 12.764 + LBI) — protecao reforcada
 2. **CDC + CF 227** — prioridade absoluta (em criancas)
 3. **RN ANS 469 + 539** — cobertura ampla, sem limite numerico
-4. **Lei 14.454 + Tema 990** — Rol exemplificativo
+4. **Lei 14.454 + ADI 7.265 STF** — rol taxativo mitigado (5 requisitos)
 5. **Janela tempo-critica** — periculum demonstrado por literatura
 
 ## 6. Tutela de urgencia (CPC 300)
@@ -110,11 +110,11 @@ I — FATOS — diagnostico TEA (CID F84), plano terapeutico, negativa/limitacao
 II — ISSUE — negativa/limitacao viola Lei 12.764 + LBI + RN 469/539 + Lei 14.454?
 
 III — DIREITO
-  III.1 Regime — CDC 14 (PA-15) + Sum. 469 STJ
+  III.1 Regime — CDC 14 (PA-15) + Sum. 608 STJ
   III.2 Lei 12.764/2012 — TEA equiparado a deficiencia
   III.3 LBI Lei 13.146/2015 — protecao integral
   III.4 RN ANS 469/2021 + RN 539/2022 — sessoes sem limite numerico
-  III.5 Lei 14.454/2022 + Tema 990 STJ pos-lei — Rol exemplificativo
+  III.5 Lei 14.454/2022 + rol taxativo mitigado (EREsp 1.886.929 + Lei 14.454 + ADI 7.265 STF) — Rol exemplificativo
   III.6 CF art. 227 + ECA — prioridade absoluta
   III.7 Inversao do onus — CDC 6o VIII (PA-14)
   III.8 Janela tempo-critica — periculum reforcado (literatura SBP)
@@ -156,7 +156,7 @@ RESSALVA (PA-05).
 ## 11. Vedacoes especificas
 
 - **PA-03 / PA-06** — sem opinar sobre conduta clinica/terapeutica; sem orientacao ao paciente/responsavel sobre quanto/qual terapia (e o medico assistente).
-- **PA-10** — Tema 990 pos-lei + RN 539 vigentes.
+- **PA-10** — rol taxativo mitigado (Lei 14.454 + ADI 7.265 STF) + RN 539 vigentes.
 - **PA-11** — RN ANS atualizada `[VERIFICAR]`.
 - **PA-13** — Lei 12.764 + LBI + Lei 14.454 + RN com identificacao precisa.
 - **PA-14** — inversao do onus.

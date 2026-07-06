@@ -36,7 +36,7 @@ Defesa em PED instaurado por CRM contra medico inscrito por suposta infracao a (
 | CF art. 5o LV | Devido processo + ampla defesa |
 | **CC art. 935** | Independencia relativa — penal alcanca etico/civel se 386 I/III |
 | **Lei 9.784/99** | Processo administrativo federal — aplica subsidiariamente |
-| Sum. 105 STJ | MS contra cassacao -> JF |
+| CF art. 109 VIII (Tema 258 STF) | MS contra cassacao -> JF |
 | Lei 12.016/2009 | Mandado de seguranca |
 
 **Jurisprudencia:** STJ AgRg AREsp 1.456.987 (devido processo no PED + dever de motivar sancao); STF MS 27.067 (cassacao exige fundamentacao + proporcionalidade); STJ MS 11.123/DF (revisao judicial limitada — controle de legalidade, nao de merito).
@@ -57,7 +57,7 @@ Defesa em PED instaurado por CRM contra medico inscrito por suposta infracao a (
 | **10. Recurso voluntario CFM** | **30d (art. 84)** | Recurso + sustentacao em Brasilia |
 | 11. Julgamento CFM (2a inst.) | — | — |
 | 12. Pedido de revisao | A qualquer tempo (art. 95) | Prova nova / contradicao penal / vicio insanavel |
-| 13. MS contra cassacao | 120d (Lei 12.016 23) | `ms-contra-cassacao-conselho` (JF — Sum. 105) |
+| 13. MS contra cassacao | 120d (Lei 12.016 23) | `ms-contra-cassacao-conselho` (JF — CF 109 VIII) |
 
 **Suspensao preventiva (art. 33):** durante o PED, CRM pode suspender preventivamente em casos extremos — `suspensao-preventiva-conselho`.
 
@@ -97,7 +97,7 @@ Sempre articular preliminar de prescricao na defesa previa quando aplicavel.
 | **Boa-fe / divergencia clinica** | CEM 33+ | Conduta dentro de protocolo; divergencia entre profissionais |
 | **Conduta em emergencia / estado de necessidade** | CEM 32-35 + CP 24 | Risco iminente + recurso limitado |
 | **Cruzamento P4 — absolvicao penal por 386 I/III** | CC art. 935 | Penal absolveu por inexistencia ou sem autoria -> alcanca PED |
-| **Desproporcionalidade da pena** | CF 5o LIV + Sum. 14 CFM (proporcionalidade) | Sancao excede gravidade do fato |
+| **Desproporcionalidade da pena** | CF 5o LIV + Lei 9.784 art. 2o (proporcionalidade) + Lei 3.268/57 art. 22 | Sancao excede gravidade do fato |
 | **Reincidencia inexistente** | Res. CFM 2.145 art. 24 | Conduta isolada — afasta agravamento |
 | **Vicio de motivacao do voto** | Lei 9.784 art. 50 | Decisao generica; sem analise da defesa |
 
@@ -141,7 +141,7 @@ RESSALVA (PA-05).
 2. **Sustentacao oral no julgamento** — pratica nuclear; preparar resumo de 10-15 min.
 3. **Recurso ao CFM (30d)** — efeito suspensivo amplo em geral; sustentacao oral em Brasilia.
 4. **Pedido de revisao** — so com prova nova ou contradicao com penal absolutoria.
-5. **MS contra cassacao** — JF; via simultanea ao recurso administrativo (nao se exige esgotamento — Sum. 105 STJ).
+5. **MS contra cassacao** — JF; via simultanea ao recurso administrativo (nao se exige esgotamento — CF art. 5o XXXV).
 6. **Suspensao preventiva** — se aplicada, agir imediatamente — `suspensao-preventiva-conselho`.
 
 ## 9. Cruzamento P4 (PA-12) — coracao da defesa multi-frente
@@ -168,12 +168,12 @@ Articular com `timeline-multiesfera` para coordenar prazos e estrategia simultan
 - **P2** — `analise-prontuario-medico`.
 - **P3** — memoria de decisao (defesa x recurso x MS).
 - **P4** — `timeline-multiesfera`.
-- **P5** — CRM da UF de inscricao; CFM em Brasilia; MS na JF da capital UF (Sum. 105 STJ).
+- **P5** — CRM da UF de inscricao; CFM em Brasilia; MS na JF da capital UF (CF art. 109 VIII + Tema 258 STF).
 - **P6** — `revisao-final-medica`.
 
 ## 12. Localizacao
 
-CRM da UF de inscricao do medico. Recurso administrativo: CFM (Brasilia). MS contra cassacao/suspensao: JF da capital da UF (Sum. 105 STJ). Estatuto interno do CRM-UF pode complementar Res. CFM 2.145 — `[VERIFICAR estatuto CRM-UF]`.
+CRM da UF de inscricao do medico. Recurso administrativo: CFM (Brasilia). MS contra cassacao/suspensao: JF da capital da UF (CF art. 109 VIII + Tema 258 STF). Estatuto interno do CRM-UF pode complementar Res. CFM 2.145 — `[VERIFICAR estatuto CRM-UF]`.
 
 ## 13. Integracao
 

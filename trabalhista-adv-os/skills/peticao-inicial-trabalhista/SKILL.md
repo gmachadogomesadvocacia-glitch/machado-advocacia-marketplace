@@ -56,7 +56,7 @@ Reconstruir o vinculo de forma cronologica e afirmativa: data de admissao, funca
 | Equiparacao salarial | identidade de funcao com paradigma; art. 461 CLT; Sumula 6 TST |
 | Verbas rescisorias | parcelas nao pagas ou pagas a menor; multas dos arts. 467 e 477 CLT |
 | Rescisao indireta | falta grave patronal (art. 483 CLT) — descumprimento contratual do empregador |
-| Estabilidade gestante | dispensa na vigencia da garantia (art. 10 II b ADCT; Sumula 244 TST) |
+| Estabilidade gestante | dispensa na vigencia da garantia (art. 10 II b ADCT; Sumula 244 TST — em contrato a termo, ressalvar o Tema 497 STF) |
 | Dano moral | lesao a direito da personalidade no contrato de trabalho |
 
 Cada causa de pedir vira um bloco FIRAC e gera o pedido correspondente.

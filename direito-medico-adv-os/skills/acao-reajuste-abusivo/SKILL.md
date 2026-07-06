@@ -1,7 +1,7 @@
 ---
 name: acao-reajuste-abusivo
 description: >
-  Acao revisional/declaratoria contra reajuste abusivo de mensalidade de plano de saude — individual/familiar (controle ANS via IPCA-Saude) e coletivo empresarial/por adesao (controle nao-direto da ANS). Aplica Lei 9.656/1998 + Tema 952 STJ (reajuste por faixa etaria — exige base atuarial e nao pode ser excessivo) + Sum. 608 STJ (CDC em coletivos) + Lei 10.741/2003 art. 15§3o (Estatuto do Idoso — vedacao a reajuste apos 60a por faixa) + Sum. 91 ANS + RN ANS 195/2009. Distingue 3 modalidades: reajuste anual (IPCA + variacao de custos); reajuste por faixa etaria (10 faixas); reajuste por sinistralidade (coletivos). Tese central: razoabilidade + base atuarial + transparencia + vedacao a discriminacao etaria. Tutela de urgencia (descontinuidade do plano). Conservadorismo (PA-21). Aciona: reajuste abusivo, mensalidade abusiva, Tema 952, faixa etaria, Estatuto Idoso plano, sinistralidade coletivo, IPCA-Saude, RN 195, Sum 608, revisional plano, Sum 91 ANS.
+  Acao revisional/declaratoria contra reajuste abusivo de mensalidade de plano de saude — individual/familiar (controle ANS via IPCA-Saude) e coletivo empresarial/por adesao (controle nao-direto da ANS). Aplica Lei 9.656/1998 + Tema 952 STJ (reajuste por faixa etaria — exige base atuarial e nao pode ser excessivo) + Sum. 608 STJ (CDC nos planos, salvo autogestao) + Lei 10.741/2003 art. 15§3o (Estatuto do Idoso — vedacao a reajuste apos 60a por faixa) + RN ANS 565/2022 e 563/2022 + RN 195/2009. Distingue 3 modalidades: reajuste anual (IPCA + variacao de custos); reajuste por faixa etaria (10 faixas); reajuste por sinistralidade (coletivos). Tese central: razoabilidade + base atuarial + transparencia + vedacao a discriminacao etaria. Tutela de urgencia (descontinuidade do plano). Conservadorismo (PA-21). Aciona: reajuste abusivo, mensalidade abusiva, Tema 952, faixa etaria, Estatuto Idoso plano, sinistralidade coletivo, IPCA-Saude, RN 195, Sum 608, revisional plano, RN 565 ANS.
 ---
 
 # ACAO REAJUSTE ABUSIVO DE PLANO DE SAUDE
@@ -36,9 +36,9 @@ Acao do beneficiario contra operadora por reajuste abusivo em (a) **individual/f
 
 **Jurisprudencia:**
 - **STJ Tema 952** — reajuste por faixa etaria exige base atuarial + razoabilidade (sem excesso); apos 60a em contratos pos-Estatuto Idoso, vedado
-- STJ Sum. 91 ANS (administrativa)
+- RN ANS 565/2022 (reajuste individual — autorizacao previa ANS) + RN 563/2022 (faixas etarias)
 - **STJ Sum. 608** — CDC aplica em coletivos
-- STJ Sum. 469 (CDC em planos)
+- STJ Sum. 608 (CDC em planos, salvo autogestao)
 - STJ Sum. 302 (vedacao limite internacao)
 - STJ AgInt REsp 1.876.543 (sinistralidade em coletivo exige fundamentacao tecnica)
 - STJ EREsp 1.385.732 (matérias prescricao)
@@ -60,9 +60,9 @@ Acao do beneficiario contra operadora por reajuste abusivo em (a) **individual/f
 | **Por idade apos 60a (contrato pos-Estatuto Idoso)** | Lei 10.741 art. 15§3o + Tema 952 STJ — vedado |
 | **Coletivo sem base atuarial** | CDC 6o III + 51 + Sum. 608 STJ + RN 309 — transparencia obrigatoria |
 | **Sinistralidade nao fundamentada** | CDC 51 IV/X — clausula abusiva + AgInt REsp 1.876.543 |
-| **Cumulativo abusivo** | Sum. 91 ANS — limites cumulativos |
+| **Cumulativo abusivo** | RN ANS 565/2022 + CDC arts. 39 e 51 IV — abusividade |
 | **Discriminatorio (saude do beneficiario)** | Lei 9.656 + LBI + CDC — vedado |
-| **Migracao forcada para plano superior** | Sum. 470 STJ + abusividade |
+| **Migracao forcada para plano superior** | Lei 9.656 art. 35 (migracao e faculdade do consumidor) + CDC 51 IV |
 | **Reajuste retroativo** | CDC 39 X + ato juridico perfeito (CF 5o XXXVI) |
 
 ## 5. Tema 952 STJ (faixa etaria) — checklist (peca depende deste enquadramento)
@@ -114,7 +114,7 @@ I — FATOS — contrato, historico de reajustes, abusividade caracterizada
 II — ISSUE — reajuste de [%] viola Lei 9.656/1998 + Tema 952 STJ + Estatuto Idoso?
 
 III — DIREITO
-  III.1 Regime — CDC 14 (PA-15) + Sum. 608 STJ (coletivos) ou Sum. 469
+  III.1 Regime — CDC 14 (PA-15) + Sum. 608 STJ (coletivos) ou Sum. 608
   III.2 Lei 9.656 + RN ANS 195/309 — indice oficial obrigatorio (individual)
   III.3 Tema 952 STJ — faixa etaria: base atuarial + razoabilidade
   III.4 Lei 10.741 art. 15§3o — vedado apos 60a (contrato pos-2004)
@@ -156,8 +156,8 @@ RESSALVA (PA-05).
 - **Aumento de 50% num ano (individual):** desvio do indice ANS — Lei 9.656 art. 35-E.
 - **Coletivo empresarial reajustado 30%+ sem fundamentacao:** sem memoria atuarial — abusivo.
 - **Casamento -> reajuste:** vedado se nao por faixa etaria.
-- **Migracao forcada para plano com co-pagamento:** Sum. 470 STJ — abusividade.
-- **Reajustes acumulados em 5a chegam a triplicar mensalidade:** Sum. 91 ANS + abusividade global.
+- **Migracao forcada para plano com co-pagamento:** Lei 9.656 art. 35 + RN ANS 254/2011 + CDC 51 IV — abusividade.
+- **Reajustes acumulados em 5a chegam a triplicar mensalidade:** RN ANS 565/2022 + CDC 39/51 IV — abusividade global.
 
 ## 11. Vedacoes especificas
 

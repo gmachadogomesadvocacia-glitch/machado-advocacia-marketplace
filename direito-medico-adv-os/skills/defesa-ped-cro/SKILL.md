@@ -35,7 +35,7 @@ Defesa em PED no CRO contra (a) cirurgiao-dentista PF inscrito; (b) **clinica od
 | CF art. 5o LV | Devido processo + ampla defesa |
 | **CC art. 935** | Independencia relativa |
 | Lei 9.784/99 | Processo administrativo federal — subsidiaria |
-| Sum. 105 STJ | MS contra cassacao -> JF |
+| CF art. 109 VIII (Tema 258 STF) | MS contra cassacao -> JF |
 | Lei 12.016/2009 | MS |
 
 **Jurisprudencia:** STJ MS 22.345/DF (devido processo no CRO — motivacao + proporcionalidade); STJ AgRg AREsp 1.876.543 (publicidade odontologica — Res. CFO 196 e vinculante); TJ-SP / TJ-MG recorrente em selfie com paciente em rede social `[VERIFICAR jurisprudencia local]`.
@@ -163,7 +163,7 @@ RESSALVA (PA-05).
 - **P2** — `analise-prontuario-medico` (registros, TCLE odonto).
 - **P3** — memoria de decisao.
 - **P4** — `timeline-multiesfera`.
-- **P5** — CRO da UF; CFO em Brasilia; MS na JF (Sum. 105).
+- **P5** — CRO da UF; CFO em Brasilia; MS na JF (CF 109 VIII).
 - **P6** — `revisao-final-medica`.
 
 ## 12. Localizacao

@@ -209,8 +209,8 @@ def _suprema_corte_enabled(cowork: Path | None) -> bool:
 
 
 def _resolve_cowork() -> Path | None:
-    """Resolve COWORK root via env TRABALHISTA_COWORK_PATH ou cwd ancestral."""
-    env = os.environ.get("TRABALHISTA_COWORK_PATH") or os.environ.get("COWORK_PATH")
+    """Resolve COWORK root via env TRAB_COWORK_PATH ou cwd ancestral."""
+    env = os.environ.get("TRAB_COWORK_PATH") or os.environ.get("COWORK_PATH")
     if env:
         p = Path(env)
         if (p / "trabalhista" / "cowork-state.json").exists():

@@ -31,7 +31,7 @@ Acionada quando a triagem 4D identifica **2 ou mais esferas** simultaneas (civel
 | CPP art. 386 | Hipoteses de absolvicao penal — algumas alcancam civel, outras nao (ver secao 3) |
 | CP art. 91 I | Efeitos da condenacao penal — vincula civel |
 | STJ AgInt no AREsp 1.245.831/MG | Independencia relativa — aproveitamento cruzado |
-| STJ Sum. 17 | Sentenca penal absolutoria por falta de provas nao impede acao civil |
+| CC art. 935 + CPP arts. 66 e 67 | Absolvicao penal por falta de provas nao impede a acao civel |
 
 ## 3. Hipoteses do art. 386 CPP (mapa de alcance penal -> civel/etico)
 
@@ -40,7 +40,7 @@ Acionada quando a triagem 4D identifica **2 ou mais esferas** simultaneas (civel
 | Inexistencia do fato | I | **SIM** — civel/etico inviabilizados (CC art. 935) |
 | Fato nao constitui infracao penal | III | Parcialmente — depende: se a conduta nao e tipica penal mas pode ser ilicita civil, civel prossegue |
 | Nao ser autor o reu | IV | **SIM** — civel/etico contra esse reu inviabilizados |
-| Insuficiencia de prova de autoria | V | **NAO** — civel/etico podem prosseguir (Sum. 17 STJ) |
+| Insuficiencia de prova de autoria | V | **NAO** — civel/etico podem prosseguir (CC 935 + CPP 66/67) |
 | Existir excludente de ilicitude/culpabilidade | VI | Parcialmente: legitima defesa absoluta protege civel; insuficiencia de prova de dolo nao |
 | Insuficiencia de prova para condenar | VII | **NAO** — civel/etico podem prosseguir |
 

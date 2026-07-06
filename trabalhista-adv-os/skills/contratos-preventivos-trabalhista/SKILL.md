@@ -46,13 +46,13 @@ A skill redige o contrato com clausulas que reflitam — e a empresa deve fazer 
 
 ## 5. ALERTA DE REALIDADE
 
-A skill sempre adverte o operador: **o contrato e necessario, mas nao suficiente**. Se a empresa, na pratica, dirige a prestacao com subordinacao, exige pessoalidade e habitualidade, o vinculo sera reconhecido apesar do contrato (primazia da realidade — e Tema 1118/725 STF nao salvam fraude). A skill orienta tambem a conduta operacional, nao so o papel.
+A skill sempre adverte o operador: **o contrato e necessario, mas nao suficiente**. Se a empresa, na pratica, dirige a prestacao com subordinacao, exige pessoalidade e habitualidade, o vinculo sera reconhecido apesar do contrato (primazia da realidade — e o Tema 725 STF nao salva fraude; pejotizacao e objeto do Tema 1389 STF, com suspensao nacional desde abr/2025 e merito pendente `[VERIFICAR]`). A skill orienta tambem a conduta operacional, nao so o papel.
 
 ## 6. VEDACOES ESPECIFICAS
 
 - **PA-05** — skill do lado empresa; confirmar o polo.
 - **PA-21** — nunca prometer que o contrato "blinda" o risco; o vinculo decide-se pela realidade.
-- **PA-11/PA-03** — Lei 11.788/2008, art. 443/445/452-A CLT, Tema 725/1118 STF citados e corretos.
+- **PA-11/PA-03** — Lei 11.788/2008, art. 443/445/452-A CLT, Tema 725 STF citados e corretos; pejotizacao = Tema 1389 STF (suspensao nacional, merito pendente `[VERIFICAR]`); Tema 1118 STF so p/ tomador ente publico (onus do autor de provar falha de fiscalizacao).
 - **PA-06** — o contrato e contrato; a orientacao consultiva sobre a conduta e outro escopo.
 - Nunca estruturar instrumento para fraudar relacao empregaticia real — orientar a licitude, nao a simulacao.
 

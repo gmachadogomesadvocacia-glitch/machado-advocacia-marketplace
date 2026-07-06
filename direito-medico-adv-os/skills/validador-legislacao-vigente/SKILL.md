@@ -1,7 +1,7 @@
 ---
 name: validador-legislacao-vigente
 description: >
-  Protocolo 1 do plugin. Valida vigencia normativa nos 4 niveis (federal + conselho profissional CFM/CFO + regulador ANS/ANVISA + estadual/municipal) e a jurisprudencia STJ/STF/TRFs (Sumulas e Temas repetitivos) no ANO DO FATO GERADOR. Emite o Selo de Validacao Legal Previa — pre-requisito absoluto de toda peca, parecer, contrato, defesa e calculo de quantum. Cobre a reforma 2022-2026: Lei 14.510/2022 (telemedicina), Lei 14.454/2022 (Rol ANS exemplificativo), Lei 15.378/2026 (Estatuto do Paciente), Res. CFM 2.336/2023 (publicidade), Res. CFM 2.337/2023 (HOF), Res. CFM 2.320/2022 (reproducao). Marca [VERIFICAR] em alvo movel (Rol ANS, RN, prazos locais, sumula em revisao). Aciona: validar legislacao, lei vigente, a norma ainda vale, datar fato gerador, qual regime se aplica, reforma medica, Lei 14.454, Tema 990 STJ, Sum. 469/597/608 STJ, Res. CFM, Res. CFO, RDC ANVISA, RN ANS, emitir o Selo.
+  Protocolo 1 do plugin. Valida vigencia normativa nos 4 niveis (federal + conselho profissional CFM/CFO + regulador ANS/ANVISA + estadual/municipal) e a jurisprudencia STJ/STF/TRFs (Sumulas e Temas repetitivos) no ANO DO FATO GERADOR. Emite o Selo de Validacao Legal Previa — pre-requisito absoluto de toda peca, parecer, contrato, defesa e calculo de quantum. Cobre a reforma 2022-2026: Lei 14.510/2022 (telemedicina), Lei 14.454/2022 (criterios p/ fora do rol; ADI 7.265 STF — rol taxativo mitigado), Lei 15.378/2026 (Estatuto do Paciente), Res. CFM 2.336/2023 (publicidade), Res. CFM 2.337/2023 (HOF), Res. CFM 2.320/2022 (reproducao). Marca [VERIFICAR] em alvo movel (Rol ANS, RN, prazos locais, sumula em revisao). Aciona: validar legislacao, lei vigente, a norma ainda vale, datar fato gerador, qual regime se aplica, reforma medica, Lei 14.454, ADI 7.265, rol taxativo mitigado, Sum. 608/597 STJ, Res. CFM, Res. CFO, RDC ANVISA, RN ANS, emitir o Selo.
 ---
 
 # VALIDADOR DE LEGISLACAO VIGENTE
@@ -24,8 +24,8 @@ Acionada por `medico-master` antes de toda producao, ou diretamente pelo operado
 
 O direito medico muda em duas dimensoes simultaneas:
 
-- **Eixo temporal** — reforma legislativa 2022-2026: Lei 14.510/2022 (telemedicina), Lei 14.454/2022 (Rol ANS exemplificativo — afeta Tema 990 STJ), Res. CFM 2.314/2022 (telemedicina), Res. CFM 2.320/2022 (reproducao), Res. CFM 2.336/2023 (publicidade), Res. CFM 2.337/2023 (HOF — conflito CFM x CFO), Lei 15.378/2026 (Estatuto do Paciente). A norma aplicavel e a vigente **no ano do fato gerador** (PA-09).
-- **Eixo geografico** — foro federal (MS contra conselho — Sum. 105 STJ + CF art. 109 I), estadual (civel/criminal — CDC art. 101 I; CPP art. 70), municipal (vigilancia sanitaria local), administrativo (CRM/CRO da UF de inscricao — Res. CFM 2.145/2016 + Res. CFO 71/2006). Estatutos regionais complementam.
+- **Eixo temporal** — reforma legislativa 2022-2026: Lei 14.510/2022 (telemedicina), Lei 14.454/2022 (criterios p/ fora do rol; ADI 7.265 STF 2025 — rol taxativo mitigado), Res. CFM 2.314/2022 (telemedicina), Res. CFM 2.320/2022 (reproducao), Res. CFM 2.336/2023 (publicidade), Res. CFM 2.337/2023 (HOF — conflito CFM x CFO), Lei 15.378/2026 (Estatuto do Paciente). A norma aplicavel e a vigente **no ano do fato gerador** (PA-09).
+- **Eixo geografico** — foro federal (MS contra conselho — CF art. 109 I e VIII + Tema 258 STF), estadual (civel/criminal — CDC art. 101 I; CPP art. 70), municipal (vigilancia sanitaria local), administrativo (CRM/CRO da UF de inscricao — Res. CFM 2.145/2016 + Res. CFO 71/2006). Estatutos regionais complementam.
 
 ## 3. Os 8 passos do Protocolo 1
 
@@ -43,19 +43,19 @@ Para cada norma: publicacao (DOU), vacatio legis, vigencia efetiva, revogacao ex
 
 ### Passo 4 — Validar jurisprudencia STJ/STF/TRFs/Conselho
 **Sumulas vivas em 2026** (verificar status `[VERIFICAR — revisao]`):
-- Sum. 469 STJ — CDC aplica a planos.
+- Sum. 608 STJ — CDC aplica a planos.
 - Sum. 597 STJ — CDC odontologia (subjetiva CD); CDC nao aplica autogestao; carencia abusiva > 24h em urgencia.
 - Sum. 608 STJ — CDC aplica a coletivos (nao autogestao).
-- Sum. 105 STJ — MS contra ato de conselho profissional (autarquia federal) -> JF.
+- CF art. 109 VIII (Tema 258 STF) — MS contra ato de conselho profissional (autarquia federal) -> JF.
 - Sum. 387 STJ — cumulacao dano moral + estetico.
 - Sum. 326 STJ — quantum/sucumbencia reciproca.
 - Sum. 278 STJ — actio nata (termo inicial prescricao).
 
-**Temas STJ vivos:** 952 (reajuste faixa etaria), 1.037 (clausulas limitativas abusivas), 1.069 (reembolso integral excepcional), 1.082 (rescisao coletivo + tratamento grave), 1.094/1.095 (limites de revisao do quantum).
+**Temas STJ vivos:** 952 (reajuste faixa etaria), 1.037 `[VERIFICAR teor]`, 1.069 (plastica reparadora pos-bariatrica), 1.082 (rescisao coletivo + tratamento grave); revisao de quantum em REsp so se irrisorio/exorbitante (Sum. 7).
 
-**Tema 990 STJ** (rol ANS taxativo mitigado) — **alterado pela Lei 14.454/2022**: pre-lei usa redacao anterior; pos-lei aplica rol exemplificativo. Status `[VERIFICAR — afetacao 2026]`.
+**Rol ANS** — taxativo mitigado: EREsp 1.886.929 (2022) + Lei 14.454/2022 + **ADI 7.265 STF** (set/2025, 5 requisitos — linha do tempo abaixo). O Tema 990 STJ e OUTRO assunto (medicamento sem registro ANVISA).
 
-**STF:** RE 855.178 (responsabilidade solidaria dos entes na saude publica), Tema 793 (alto custo SUS), RE 958.252 (terceirizacao/pejotizacao — repercussao geral).
+**STF:** RE 855.178 = Tema 793 (responsabilidade solidaria dos entes na saude publica), RE 958.252 = Tema 725 (terceirizacao licita — repercussao geral).
 
 ### Passo 5 — Travar o regime aplicavel
 Distinguir o regime do ano:
@@ -63,7 +63,7 @@ Distinguir o regime do ano:
 | Tema | Pre-marco | Pos-marco |
 |------|-----------|-----------|
 | Telemedicina | Res. CFM 1.643/2002 (transitoria) | Lei 14.510/2022 + Res. CFM 2.314/2022 |
-| Rol ANS | Tema 990 STJ taxativo mitigado | Lei 14.454/2022 — exemplificativo + criterios |
+| Rol ANS | EREsp 1.886.929 (taxativo mitigado) | Lei 14.454/2022 + ADI 7.265 STF — taxativo mitigado, 5 requisitos |
 | DAV | Res. CFM 1.995/2012 (administrativa) | Lei 15.378/2026 — status legal |
 | Publicidade medica | Res. CFM 1.974/2011 | Res. CFM 2.336/2023 |
 | HOF | Res. CFO autonoma | Res. CFM 2.337/2023 — conflito interconselhos |
@@ -93,7 +93,7 @@ Normas validadas (4 niveis):
   Regulador:  [RDC ANVISA / RN ANS + numero/ano] — [VIGENTE | VERIFICAR atualizacao]
   Estadual/Municipal: [estatuto CRM-UF / lei estadual / norma municipal] — [VIGENTE | VERIFICAR]
 Jurisprudencia aplicavel: [Sumula | Tema STJ | REsp + ano + turma — status: viva / superada / em revisao]
-Foro/competencia: [JF Sum. 105 STJ | JE comarca [Cidade] | administrativo CRM-UF/CRO-UF]
+Foro/competencia: [JF CF art. 109 VIII (Tema 258 STF) | JE comarca [Cidade] | administrativo CRM-UF/CRO-UF]
 Alertas: [PL/MP pendente | sumula em revisao | Rol ANS atualizacao | conflito interconselhos HOF]
 [VERIFICAR]: [pontos que demandam checagem manual pelo operador]
 Validade: reflete legislacao na data-base. Reverificar se caso fechar apos [data-base + 60 dias].
@@ -115,7 +115,7 @@ Nunca prosseguir com norma REVOGADA sem confirmacao expressa do operador.
 
 ## 6. Casos transitorios criticos (alvo movel)
 
-- **Pre vs pos Lei 14.454/2022** — Tema 990 STJ: pre-lei usa rol como referencia obrigatoria com excecoes restritas; pos-lei aplica rol exemplificativo + criterios (eficacia comprovada, recomendacao oficial, evidencia cientifica).
+- **Linha do tempo do rol** — EREsp 1.886.929 (2022: taxatividade mitigada) -> Lei 14.454/2022 (criterios legais) -> ADI 7.265 STF (set/2025: taxativo mitigado, 5 requisitos cumulativos: prescricao do medico assistente; sem negativa/pendencia na ANS; sem alternativa no rol; comprovacao cientifica de alto nivel; registro ANVISA).
 - **Telemedicina** — pre-Lei 14.510/2022: Res. CFM 1.643/2002 (transitoria); pos-Lei + Res. CFM 2.314/2022: moldura estavel.
 - **DAV** — pre-Lei 15.378/2026: Res. CFM 1.995/2012 (administrativa); pos-lei: status legal expresso.
 - **HOF — Res. CFM 2.337/2023** — conflito CFM x CFO ativo: pre-Res. regime CFO autonomo; pos-Res. demanda triagem do sujeito (medico x CD) e do procedimento.

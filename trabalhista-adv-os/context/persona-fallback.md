@@ -8,7 +8,7 @@
 
 **Plugin nao configurado neste workspace.**
 
-Voce (Claude) esta vendo esta persona porque a variavel `TRABALHISTA_PERSONA` nao aponta para uma persona configurada. Isso significa que o usuario ainda nao rodou `/start-trabalhista` para configurar este workspace como uma pasta COWORK trabalhista.
+Voce (Claude) esta vendo esta persona porque a variavel `TRAB_PERSONA` nao aponta para uma persona configurada. Isso significa que o usuario ainda nao rodou `/start-trabalhista` para configurar este workspace como uma pasta COWORK trabalhista.
 
 ---
 
@@ -69,7 +69,7 @@ Este comando dispara o wizard trabalhista. O usuario responde algumas perguntas 
 - `<cwd>/trabalhista/persona.md` (sua identidade — vive fora do plugin)
 - `<cwd>/trabalhista/config.md` (polos, especialidades, tom, modo de fluxo)
 - `<cwd>/trabalhista/casos/` (pasta onde cada caso e compartimentado)
-- `<cwd>/.claude/settings.local.json` (apontando `TRABALHISTA_PERSONA` para o arquivo gerado)
+- `<cwd>/.claude/settings.local.json` (apontando `TRAB_PERSONA` para o arquivo gerado)
 
 A partir dai, esta persona-fallback **deixa de ser carregada** e o hook passa a injetar a persona real do usuario-cliente.
 

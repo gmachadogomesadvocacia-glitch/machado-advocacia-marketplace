@@ -34,7 +34,7 @@ Preparar a parte (reclamante ou preposto da reclamada) para o depoimento:
 - alinhar a versao com a peca (inicial ou contestacao) — incoerencia gera confissao;
 - antecipar as perguntas dificeis da parte adversa e do juizo;
 - orientar postura: responder o perguntado, sem inventar, sem hostilidade.
-- **Preposto** (reclamada): deve conhecer os fatos; suas declaracoes obrigam a empresa (Sumula 74 e art. 843 §1o CLT).
+- **Preposto** (reclamada): deve conhecer os fatos; suas declaracoes obrigam a empresa (art. 843 §1o CLT); ausencia da parte intimada para depor gera confissao ficta (Sumula 74 TST).
 
 ### 3.2 Perguntas as testemunhas
 

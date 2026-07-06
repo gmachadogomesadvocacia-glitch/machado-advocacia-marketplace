@@ -121,7 +121,7 @@ Apresentar o resumo da configuracao e pedir "confirma? (s/n)". Confirmado, gerar
 2. **`trabalhista/persona.md`** — a partir de `templates/persona.md.tpl`, resolvendo os tokens `{{...}}` com os valores coletados.
 3. **`trabalhista/config.md`** — a partir de `templates/config.md.tpl` (polos, especialidades, tom, modo de fluxo, ferramentas).
 4. **`trabalhista/casos/`** — pasta vazia onde cada caso sera compartimentado.
-5. **`.claude/settings.local.json`** — a partir de `templates/settings-local.json.tpl`, apontando `TRABALHISTA_PERSONA` e `TRABALHISTA_COWORK_PATH`.
+5. **`.claude/settings.local.json`** — a partir de `templates/settings-local.json.tpl`, apontando `TRAB_PERSONA` e `TRAB_COWORK_PATH`.
 
 ### Bloco 10 — Encerramento
 
@@ -173,5 +173,5 @@ Se (c): confirmar duas vezes antes de prosseguir.
 - [ ] `trabalhista/persona.md` com tokens resolvidos
 - [ ] `trabalhista/config.md` com polos e modo de fluxo
 - [ ] `trabalhista/casos/` criada
-- [ ] `.claude/settings.local.json` com `TRABALHISTA_PERSONA`
+- [ ] `.claude/settings.local.json` com `TRAB_PERSONA`
 - [ ] Polos, tom de voz, modo de fluxo e Suprema Corte definidos

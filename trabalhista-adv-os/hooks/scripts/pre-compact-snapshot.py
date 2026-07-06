@@ -46,7 +46,7 @@ MAX_SNAPSHOTS_RETAINED = 20
 
 
 def _resolve_cowork() -> Path | None:
-    env = os.environ.get("COWORK_PATH")
+    env = os.environ.get("TRAB_COWORK_PATH") or os.environ.get("COWORK_PATH")
     if env:
         p = Path(env)
         if (p / "trabalhista" / "cowork-state.json").exists():

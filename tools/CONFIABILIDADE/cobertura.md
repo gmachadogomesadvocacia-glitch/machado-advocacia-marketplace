@@ -82,3 +82,24 @@ Eixos: 2 vias (judicial/extrajudicial) × 6 modalidades.
 
 > Nenhuma destas é erro: são candidatas. Confirmar caso a caso; se confirmada, vira item de roadmap
 > (skill nova) e, depois de construída, um **caso-ouro** em `casos-ouro/`.
+
+---
+
+## Plugins consolidados em 06/07/2026 (mapeados nos pilotos em caso real)
+
+## trabalhista-adv-os (32 skills)
+Eixos: 2 polos × fases (conhecimento/recursal/liquidação-execução) × consultivo.
+- Conhecimento (inicial/contestação/réplica/audiência/razões finais) ✓ · recursal completo (RO/RR/AIRR/ED/embargos SDI/RE + pareceres de viabilidade) ✓ · CCT ✓ · perícia + quesitos ✓
+- Liquidação/execução: impugnação/embargos ✓ · **execução frustrada/redirecionamento (855 CPC, IDPJ/Tema 1232, 448-A, 792, interposta pessoa) ✓ (adicionada na v0.2.1, lição do piloto)**
+- Consultivo: contratos preventivos ✓ · medidas disciplinares ✓ · documentos extrajudiciais ✓
+- **[GAP?]** ação rescisória como peça própria (a `acoes-autonomas` cobre por alto) · **[GAP?]** execução contra a Fazenda (precatório/RPV — art. 535 CPC apareceu no caso real da subsidiária e só há menção transversal).
+
+## direito-medico-adv-os (37 skills)
+Eixos: sujeito × modo × esfera × subdomínio (triagem 4D).
+- Defesa multi-frente do profissional (cível/criminal/PED CRM-CRO) ✓ · ações contra operadora (oncológico, home care, OPME, TEA, reajuste, rescisão de coletivo) ✓ · consultivo (sociedade, contratos, LGPD, publicidade) ✓ · rol ANS pós-ADI 7.265 ✓ (corrigido 06/07/2026)
+- **[GAP?]** especificação de provas como tipo de peça (piloto resolveu "na mão"; esqueletos são inicial/contestação) · **[GAP?]** actio nata de dano fracionado/autônomo (coração do caso-piloto) · **[GAP?]** custeio de perícia pelo réu hipossuficiente (CPC 95 §3º, 98 §5º, 99 §3º) · **[GAP?]** ilegitimidade material por ato de enfermagem (Lei 7.498/86).
+
+## jurimetria-adv-os (13 skills, analítico)
+Eixos: fontes (DataJud × acervo) × módulos (A caso/B benchmark/C portfólio) × ciclo de vida do caso.
+- Consulta/benchmark/coleta ✓ · quantum bifásico ✓ · tempo com censura ✓ · viabilidade ✓ · instrumentação no nascimento ✓ · **encerramento com desfecho + arquivamento ✓ (v0.2.0)**
+- **[GAP?]** relatório gerencial periódico agendado (hoje sob demanda) · **[GAP?]** comparativo entre unidades judiciárias da mesma comarca (1ª VT × 3ª VT — padrão visto na série real: mesmo executado, ritmos opostos).

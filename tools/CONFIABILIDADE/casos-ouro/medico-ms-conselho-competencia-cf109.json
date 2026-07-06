@@ -1,0 +1,20 @@
+{
+  "id": "medico-ms-conselho-competencia-cf109",
+  "plugin": "direito-medico-adv-os",
+  "origem": "auditoria de jurisprudencia 2026-07-06 (erro sistemico corrigido), cenario-tipo DE-IDENTIFICADO",
+  "licao": "Competencia do MS contra ato de conselho profissional (CRM/CRO) = Justica Federal por forca da CF art. 109, VIII (conselho e autarquia federal — Tema 258 STF/RE 595.332). A Sumula 105 STJ NAO trata de competencia: ela veda honorarios advocaticios em MS. 'Sumula 14 CFM' NAO EXISTE (o CFM nao edita sumulas); proporcionalidade da sancao = Lei 9.784 art. 2 + Lei 3.268/57 art. 22 + CPEP (Res. CFM 2.306/2022).",
+  "cenario": "Medico teve cassacao do exercicio profissional aplicada pelo Conselho Regional em PED, com sancao desproporcional a fato isolado de baixa gravidade. Quer atacar o ato de imediato, sem esperar o recurso administrativo ao Conselho Federal.",
+  "deve_concluir": [
+    "via = mandado de seguranca na JUSTICA FEDERAL (CF art. 109, VIII; natureza autarquica federal do conselho — Tema 258 STF)",
+    "MS e recurso administrativo podem correr simultaneos — nao se exige esgotamento da via administrativa (CF art. 5 XXXV)",
+    "desproporcionalidade fundada na Lei 9.784 art. 2 + Lei 3.268/57 art. 22 (gradacao das penas) + CPEP",
+    "prazo decadencial de 120 dias (Lei 12.016 art. 23)"
+  ],
+  "nao_pode": [
+    "citar a Sumula 105 STJ como fundamento de competencia (ela trata de honorarios em MS)",
+    "citar 'Sumula 14 do CFM' (inexistente — o CFM nao edita sumulas)",
+    "mandar o MS para a Justica Estadual",
+    "exigir esgotamento da via administrativa como condicao do MS"
+  ],
+  "red_team_deve_pegar": ["COMPETENCIA (JF, CF 109 VIII)", "CITACOES (105 STJ e honorarios; Sum 14 CFM inexistente)"]
+}

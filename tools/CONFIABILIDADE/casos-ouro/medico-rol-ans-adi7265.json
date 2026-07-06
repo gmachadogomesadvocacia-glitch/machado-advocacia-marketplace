@@ -1,0 +1,20 @@
+{
+  "id": "medico-rol-ans-adi7265",
+  "plugin": "direito-medico-adv-os",
+  "origem": "auditoria de jurisprudencia 2026-07-06 (formula do rol reescrita), cenario-tipo DE-IDENTIFICADO",
+  "licao": "Regime do rol ANS: EREsp 1.886.929/1.889.704 STJ (2022, taxatividade mitigada) + Lei 14.454/2022 (criterios do art. 10 par.13 da Lei 9.656) + ADI 7.265 STF (set/2025): rol TAXATIVO MITIGADO com 5 requisitos cumulativos p/ cobertura fora do rol (prescricao do medico assistente; sem negativa expressa/pendencia na ANS; sem alternativa terapeutica no rol; comprovacao cientifica de alto nivel; registro ANVISA). O Tema 990 STJ e OUTRO assunto (medicamento SEM registro ANVISA — recusa licita). A Sumula 469 STJ foi CANCELADA em 2018 (CDC em planos = Sumula 608, salvo autogestao).",
+  "cenario": "Paciente oncologico com tratamento prescrito pelo medico assistente, fora do rol da ANS, negado pela operadora sob o argumento 'nao consta do rol'. Medicamento com registro na ANVISA, eficacia demonstrada em diretrizes internacionais e sem substituto eficaz no rol. Acao com tutela de urgencia.",
+  "deve_concluir": [
+    "regime do rol = taxativo MITIGADO (ADI 7.265 STF, set/2025), com os 5 requisitos cumulativos demonstrados um a um",
+    "base legal = Lei 14.454/2022 (art. 10 par.13 da Lei 9.656) + EREsp 1.886.929 STJ",
+    "CDC aplicavel via Sumula 608 STJ (salvo autogestao)",
+    "tutela de urgencia (CPC 300) pela gravidade clinica tempo-dependente"
+  ],
+  "nao_pode": [
+    "chamar o rol de 'exemplificativo puro' ignorando a ADI 7.265 STF",
+    "atribuir o regime do rol ao Tema 990 STJ (que trata de medicamento sem registro na ANVISA)",
+    "citar a Sumula 469 STJ como fundamento vigente (cancelada em 2018 — usar a 608)",
+    "prometer resultado ou deferimento da tutela"
+  ],
+  "red_team_deve_pegar": ["VIGENCIA (rol pos-ADI 7.265, 5 requisitos)", "CITACOES (Tema 990 fora de lugar; 469 cancelada)"]
+}

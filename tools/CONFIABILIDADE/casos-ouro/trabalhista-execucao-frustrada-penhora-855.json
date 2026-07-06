@@ -1,0 +1,21 @@
+{
+  "id": "trabalhista-execucao-frustrada-penhora-855",
+  "plugin": "trabalhista-adv-os",
+  "origem": "piloto em caso real 2026-07-06, DE-IDENTIFICADO (execucao frustrada com blindagem patrimonial familiar)",
+  "licao": "Penhora de credito do executado contra terceiro = art. 855, I e II, CPC (c/c arts. 769/889 CLT) — NAO e o art. 855-A CLT (IDPJ), nem o 854 CPC (SISBAJUD), nem o 860 CPC (penhora no rosto dos autos). Fraude a execucao (art. 792 CPC) exige acao ja pendente NA DATA do ato de desvio; ato anterior ao ajuizamento = interposta pessoa/abuso (art. 50 CC), nao 792. Tema 1232 STF joga A FAVOR de quem instaura o IDPJ pelas excecoes (sucessao 448-A + abuso 50 CC).",
+  "cenario": "Execucao trabalhista frustrada: executada revel, sem saldo (SISBAJUD negativo 2x), em local incerto. Ela titulariza credito de valor relevante contra ente publico tomador de servicos (contrato administrativo rescindido). Socios controladores localizados no endereco em que a empresa foi citada. Ha empresa-irma no mesmo endereco, com nome de fantasia igual ao da executada e socia em comum (sucessora de fato). Ha ainda empresa aberta em nome de familiar sem capacidade economica ('laranja') MESES ANTES do ajuizamento desta acao. Juizo vinha indeferindo 'grupo economico' citando o Tema 1232 STF. Exequente deve indicar meios efetivos em 10 dias, sob pena de prescricao intercorrente (art. 11-A CLT).",
+  "deve_concluir": [
+    "penhora do credito contra o terceiro fundada no art. 855, I e II, do CPC (c/c arts. 769/889 CLT), aperfeicoada pela intimacao do terceiro devedor para nao pagar",
+    "IDPJ (art. 855-A CLT + arts. 133-137 CPC) liderado pelas EXCECOES do Tema 1232 STF: sucessao (448-A CLT) e abuso da personalidade (art. 50 CC) — o precedente e fundamento, nao obstaculo",
+    "onus do exequente de demonstrar os requisitos do art. 50 CC dito expressamente na peca",
+    "a empresa do familiar entra por interposta pessoa/abuso (art. 50 CC), pois a abertura e ANTERIOR ao ajuizamento; art. 792 CPC reservado a atos de desvio posteriores",
+    "a indicacao dos meios afasta a prescricao intercorrente (art. 11-A CLT)"
+  ],
+  "nao_pode": [
+    "fundar a penhora de credito contra terceiro no art. 855-A da CLT ou nos arts. 854/860 do CPC (dispositivos impertinentes ao pedido)",
+    "enquadrar como fraude a execucao (art. 792 CPC) ato praticado ANTES do ajuizamento da acao",
+    "pedir reconhecimento generico de 'grupo economico' (art. 2 par.2 CLT) na execucao, contra a vedacao do Tema 1232",
+    "tratar o Tema 1232 STF como obstaculo ao IDPJ pelas hipoteses de sucessao/abuso"
+  ],
+  "red_team_deve_pegar": ["BASE LEGAL (pertinencia dos dispositivos ao pedido)", "LINHA DO TEMPO (792 x data do ajuizamento)", "JURISPRUDENCIA (Tema 1232 com as ressalvas)"]
+}

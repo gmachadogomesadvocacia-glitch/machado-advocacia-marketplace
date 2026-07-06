@@ -99,6 +99,49 @@
    "escopo": "jurimetria-adv-os/scripts/coletar_acervo.py",
    "modo": "exigido",
    "padrao": "N_MINIMO_QUANT"
+  },
+  {
+   "id": "trab-penhora-credito-855",
+   "descricao": "Penhora de credito do executado contra terceiro = art. 855, I e II, CPC (nao 855-A CLT/854/860 CPC). Erro achado pela R5 no piloto em caso real (peticao real corrigida); a distincao nao pode sumir da skill de execucao.",
+   "origem": "piloto trabalhista 2026-07-06 / commit e6b72b3",
+   "escopo": "trabalhista-adv-os/skills/liquidacao-execucao-trabalhista/SKILL.md",
+   "modo": "exigido",
+   "padrao": "855, I e II"
+  },
+  {
+   "id": "med-rol-adi7265",
+   "descricao": "Rol ANS = taxativo mitigado pos-ADI 7.265 STF (set/2025), com 5 requisitos; a formula 'Tema 990 = rol exemplificativo' era duplamente errada. A referencia a ADI 7.265 nao pode sumir do validador.",
+   "origem": "auditoria jurisprudencia 2026-07-06 / commit 777b6fe",
+   "escopo": "direito-medico-adv-os/skills/validador-legislacao-vigente/SKILL.md",
+   "modo": "exigido",
+   "padrao": "ADI 7\\.265"
+  },
+  {
+   "id": "med-ms-conselho-cf109",
+   "descricao": "Competencia de MS contra conselho profissional = CF art. 109 VIII (+ Tema 258 STF), NAO Sumula 105 STJ (que e honorarios em MS). A base correta nao pode sumir da skill de MS.",
+   "origem": "auditoria jurisprudencia 2026-07-06 / commit 777b6fe",
+   "escopo": "direito-medico-adv-os/skills/ms-contra-cassacao-conselho/SKILL.md",
+   "modo": "exigido",
+   "padrao": "109 VIII"
+  },
+  {
+   "id": "med-sum469-cancelada",
+   "descricao": "Sumula 469 STJ cancelada em 2018 (substituida pela 608): onde a 469 for mencionada no plugin medico, deve haver a marcacao de cancelamento em pelo menos um arquivo.",
+   "origem": "auditoria jurisprudencia 2026-07-06 (52 usos corrigidos) / commit 777b6fe",
+   "escopo": "direito-medico-adv-os/skills/**/SKILL.md",
+   "modo": "exigido_conjunto",
+   "padrao": [
+    "469",
+    "CANCELAD"
+   ]
+  },
+  {
+   "id": "juri-encerrar-nunca-apagar",
+   "descricao": "Skill encerrar-caso: a pasta do caso NUNCA e apagada (mover para o acervo formal, destino escolhido pelo operador, integridade conferida). A regra mover-nunca-apagar nao pode sumir.",
+   "origem": "construcao encerrar-caso 2026-07-06 / commit 49cef5f",
+   "escopo": "jurimetria-adv-os/skills/encerrar-caso/SKILL.md",
+   "modo": "exigido",
+   "padrao": "nunca apagar"
   }
  ]
 }

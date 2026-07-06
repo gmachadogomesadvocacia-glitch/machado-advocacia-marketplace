@@ -33,3 +33,7 @@ em `regressoes.json` quando o erro for checável estaticamente. Assim a confiabi
 - `previdenciario-rvt-inconstitucional.json` — Revisão da Vida Toda (Tema 1102 STF / 999 STJ) inconstitucional 2024.
 - `transito-dupla-notificacao-sum312.json` — nulidade por ausência da dupla notificação (Súm. 312 STJ).
 - `usucapiao-extraordinaria-cc1238.json` — dispensa de justo título/boa-fé pelo art. 1.238 CC (não Súm. 391).
+- `trabalhista-execucao-frustrada-penhora-855.json` — execução frustrada; penhora de crédito = art. 855, I e II, CPC (não 855-A/854/860); 792 CPC exige ação pendente; Tema 1232 a favor (piloto 06/07/2026).
+- `medico-ms-conselho-competencia-cf109.json` — MS contra conselho → JF por CF 109 VIII + Tema 258 STF (Súm. 105 STJ é honorários; "Súm. 14 CFM" inexiste).
+- `medico-rol-ans-adi7265.json` — rol ANS taxativo mitigado (EREsp 1.886.929 + Lei 14.454 + ADI 7.265 STF, 5 requisitos); Tema 990 é outro assunto; 469 cancelada.
+- `jurimetria-encerrar-caso-desfecho.json` — encerrar-caso: acordo com parcelas em aberto NÃO encerra; mover-nunca-apagar; destino escolhido pelo operador.

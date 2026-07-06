@@ -4,6 +4,16 @@ Histórico do conjunto de plugins jurídicos (Adv-OS). Datas em AAAA-MM-DD.
 
 ## 2026-07-06
 
+### C4 estendido aos 3 consolidados — casos-ouro + regressões + cobertura
+- **4 casos-ouro novos** (15 no total, 1+ por plugin com engine): execução frustrada/penhora
+  de crédito 855 CPC (trabalhista, do piloto real), MS contra conselho CF 109 VIII e rol ANS
+  pós-ADI 7.265 (médico, da auditoria), encerrar-caso com parcelas em aberto (jurimetria).
+- **5 regras novas de regressão** (17 no total, todas verdes): 855 I/II na skill de execução,
+  ADI 7.265 no validador, CF 109 VIII no MS, marcação de cancelamento da 469, mover-nunca-apagar
+  no encerrar-caso.
+- **cobertura.md** ganhou os mapas de trabalhista/médico/jurimetria com 8 lacunas candidatas
+  vindas dos pilotos (p/ o advogado confirmar — C7).
+
 ### Piloto em caso real + ajustes — `trabalhista-adv-os` v0.2.1 e `direito-medico-adv-os` v0.2.1
 Validação da v0.2.0 em dois casos reais do escritório (execução trabalhista frustrada e
 responsabilidade médica), por agentes auditores independentes. **Ambos APROVADOS COM

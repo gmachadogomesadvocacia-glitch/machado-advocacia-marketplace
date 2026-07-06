@@ -1,7 +1,7 @@
 ---
 name: prescricao-erro-medico
 description: >
-  Skill especializada em prescricao em erro medico/odontologico. Distingue 3 anos CC art. 206 §3o V (medico PF autonomo, relacao nao-consumerista) vs 5 anos CDC art. 27 (hospital/clinica/operadora/relacao consumerista). Aplica STJ Sum. 278 (actio nata — termo inicial = ciencia inequivoca do dano), EREsp 1.385.732 (matérias divergentes), REsp 1.708.628/RS (3 anos hospital privado quando consumerista vs CC). Trata efeito lesivo continuado (sequela), morte do paciente (sucessao + termo inicial), interrupcao por acao penal (CC art. 200), suspensao por requerimento administrativo. Aciona: prescricao erro medico, prazo prescricional medico, 3 anos CC, 5 anos CDC, actio nata, Sum 278, ciencia inequivoca do dano, EREsp 1.385.732, prescricao odonto, prescricao hospital, prescricao operadora.
+  Skill especializada em prescricao em erro medico/odontologico. Distingue 3 anos CC art. 206 §3o V (medico PF autonomo, relacao nao-consumerista) vs 5 anos CDC art. 27 (hospital/clinica/operadora/relacao consumerista). Aplica STJ Sum. 278 (actio nata — termo inicial = ciencia inequivoca do dano), EREsp 1.385.732 (matérias divergentes), REsp 1.708.628/RS (hospital privado em relacao consumerista: 5 anos CDC art. 27 — nao 3 do CC). Trata efeito lesivo continuado (sequela), morte do paciente (sucessao + termo inicial), interrupcao por acao penal (CC art. 200), suspensao por requerimento administrativo. Aciona: prescricao erro medico, prazo prescricional medico, 3 anos CC, 5 anos CDC, actio nata, Sum 278, ciencia inequivoca do dano, EREsp 1.385.732, prescricao odonto, prescricao hospital, prescricao operadora.
 ---
 
 # PRESCRICAO ERRO MEDICO
@@ -105,7 +105,7 @@ Demandados: <lista por sujeito>
 - Sujeito 1 (<nome>): <medico PF / clinica PJ / hospital PJ / operadora>
   Relacao: <consumerista / nao consumerista>
   Prazo: <3 anos CC art. 206 §3o V / 5 anos CDC art. 27>
-  Fundamento: <Sum. 608 STJ / REsp 1.708.628/RS / Sum. 608 STJ>
+  Fundamento: <Sum. 608 STJ / REsp 1.708.628/RS>
 - Sujeito 2: [...]
 
 ## Calculo

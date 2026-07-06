@@ -21,7 +21,7 @@ Argumento recebido: `$ARGUMENTS`
    - `acao-reajuste-abusivo` — Tema 952 + Estatuto Idoso
    - `acao-rescisao-coletivo` — Tema 1.082 + RN 412 (portabilidade especial)
 3. **Aplicar `tutela-urgencia-plano-saude`** — modelo unificado CPC 300 + 537 + 854 + astreintes proporcionais (EAREsp 650.536).
-4. **Aplicar:** PA-10 (Tema 990 pos-Lei 14.454), PA-11 (Rol ANS em atualizacao), PA-14 (inversao do onus — CDC 6o VIII), PA-21 (conservadorismo).
+4. **Aplicar:** PA-10 (rol taxativo mitigado — EREsp 1.886.929 + Lei 14.454 + ADI 7.265 STF), PA-11 (Rol ANS em atualizacao), PA-14 (inversao do onus — CDC 6o VIII), PA-21 (conservadorismo).
 5. **Finalizar** com `revisao-final-medica` R1-R4.
 
 **Skills tipicas:** todas do Tier 5.

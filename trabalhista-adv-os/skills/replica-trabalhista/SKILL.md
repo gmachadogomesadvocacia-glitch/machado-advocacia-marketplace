@@ -21,7 +21,7 @@ Confirmar no `CASO.md`: `Polo do cliente: reclamante`. A replica/impugnacao a co
 ## 2. POSICAO NA ORQUESTRA
 
 ```
-contestacao da reclamada nos autos  ->  REPLICA-TRABALHISTA  ->  suprema-corte-trabalhista (R1-R4)
+contestacao da reclamada nos autos  ->  REPLICA-TRABALHISTA  ->  suprema-corte-trabalhista (R1-R5)
 ```
 
 Insumo critico: o **texto integral da contestacao** a impugnar. Sem ele, sinalizar Ponto de Omissao e parar (PA-15).
@@ -78,4 +78,4 @@ Para cada tese defensiva da reclamada:
 
 ## 8. INTEGRACAO
 
-Acionada por: `trabalhista-master` (polo reclamante). Apoio: `estilo-juridico-trabalhista`, `jurisprudencia-trabalhista`, `auditoria-documental-trabalhista`. Entrega obrigatoriamente para: `suprema-corte-trabalhista` (R1-R4) antes da entrega (PA-24).
+Acionada por: `trabalhista-master` (polo reclamante). Apoio: `estilo-juridico-trabalhista`, `jurisprudencia-trabalhista`, `auditoria-documental-trabalhista`. Entrega obrigatoriamente para: `suprema-corte-trabalhista` (R1-R5) antes da entrega (PA-24).

@@ -20,7 +20,7 @@
 
 **Leitura automática:** o Claude lê este arquivo ao iniciar trabalho no caso. Usa o que encontra para retomar de onde parou.
 
-**Escrita:** a skill `memoria-de-caso-trabalhista` registra aqui cada etapa concluída do pipeline (triagem, auditoria documental, trilateral, jurisprudência, linha estratégica, peça produzida, auditoria R1-R4). Anotações manuais do operador (pedidas com "lembre disso", "anote") também entram aqui.
+**Escrita:** a skill `memoria-de-caso-trabalhista` registra aqui cada etapa concluída do pipeline (triagem, auditoria documental, trilateral, jurisprudência, linha estratégica, peça produzida, auditoria R1-R5). Anotações manuais do operador (pedidas com "lembre disso", "anote") também entram aqui.
 
 **Compartimentação (PA-22):** este MEMORY.md cobre **apenas** este caso. Nunca misturar informação de outro caso aqui.
 
@@ -48,7 +48,7 @@
 
 ## Peças Produzidas
 
-*(Cada peça produzida e auditada é listada aqui com data e veredito R1-R4.)*
+*(Cada peça produzida e auditada é listada aqui com data e veredito R1-R5.)*
 
 ---
 

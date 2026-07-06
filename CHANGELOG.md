@@ -4,6 +4,25 @@ Histórico do conjunto de plugins jurídicos (Adv-OS). Datas em AAAA-MM-DD.
 
 ## 2026-07-06
 
+### Piloto em caso real + ajustes — `trabalhista-adv-os` v0.2.1 e `direito-medico-adv-os` v0.2.1
+Validação da v0.2.0 em dois casos reais do escritório (execução trabalhista frustrada e
+responsabilidade médica), por agentes auditores independentes. **Ambos APROVADOS COM
+RESSALVAS** — e a rodada R5 adversarial provou valor imediato: no caso trabalhista achou
+2 falhas materiais na petição real (base legal da penhora de crédito e enquadramento
+temporal de fraude à execução) que R1-R4 estruturalmente não pegariam; no médico, expôs
+lacuna estratégica na especificação de provas (adesão à perícia sem pedido subsidiário).
+Ajustes aplicados:
+- **trabalhista:** R5 + FICHA propagados em TODAS as referências residuais "R1-R4"
+  (description, README, commands, integrações das skills, hooks, templates, CLAUDE.md);
+  `liquidacao-execucao-trabalhista` ganhou a seção **"Execução frustrada e
+  redirecionamento"** (penhora de crédito art. 855 CPC ≠ 854 ≠ 860; IDPJ 855-A CLT +
+  Tema 1232 STF com ônus do art. 50 CC; sucessão 448-A; fraude à execução 792 CPC com o
+  requisito temporal da ação pendente; interposta pessoa) — a lacuna que teria evitado a
+  falha da petição real.
+- **médico:** últimos resíduos removidos (Sum. 469 na `medico-master`, Sum. 105 no
+  `commands/ped.md`, Tema 990 no `commands/plano-saude.md`, 469 no README, contradição
+  3/5 anos no frontmatter da `prescricao-erro-medico`, duplicata e fragmento solto).
+
 ### Migrar-legados CONCLUÍDO — `trabalhista-adv-os` v0.2.0 e `direito-medico-adv-os` v0.2.0 — PRÉ-PUBLICAÇÃO VERDE
 Os dois plugins consolidados passaram pelos mesmos refinos dos outros 13. **Todas as travas
 do `pre-publicacao.py` agora passam** (estrutura, engine, regressão, jurisprudência, tokens,

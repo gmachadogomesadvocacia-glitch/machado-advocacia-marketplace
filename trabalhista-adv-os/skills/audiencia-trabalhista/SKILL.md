@@ -65,4 +65,4 @@ Apos a audiencia, estruturar a ata/resumo: o que foi decidido, depoimentos colhi
 
 ## 7. INTEGRACAO
 
-Acionada por: `trabalhista-master`. Apoio: `estilo-juridico-trabalhista`, `analise-trilateral-trabalhista` (pontos controvertidos). Aciona: `acordo-trabalhista` (se ha conciliacao). Alimenta: `razoes-finais-trabalhistas`. Entrega para: `suprema-corte-trabalhista` (R1-R4).
+Acionada por: `trabalhista-master`. Apoio: `estilo-juridico-trabalhista`, `analise-trilateral-trabalhista` (pontos controvertidos). Aciona: `acordo-trabalhista` (se ha conciliacao). Alimenta: `razoes-finais-trabalhistas`. Entrega para: `suprema-corte-trabalhista` (R1-R5).

@@ -24,6 +24,6 @@ Argumento recebido: `$ARGUMENTS`
 3. **Antes de redigir**, considerar acionar `pareceres-viabilidade-recursal` para avaliar cabimento, prazo e prognostico.
 4. **Modo dual:** ler quem recorreu no `CASO.md` — produzir o recurso (se o cliente recorre) ou a contrarrazao/contraminuta (se a outra parte recorreu).
 5. **Cravar o prazo** conforme o Protocolo 7. Confundir prazo e PA-08.
-6. Apos a redacao, auditoria obrigatoria pela `suprema-corte-trabalhista` (R1-R4).
+6. Apos a redacao, auditoria obrigatoria pela `suprema-corte-trabalhista` (R1-R5).
 
 **Skill a acionar:** a skill recursal correspondente ao tipo.

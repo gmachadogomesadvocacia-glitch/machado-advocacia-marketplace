@@ -1043,6 +1043,12 @@
    "enunciado": "INEXISTENTE — Sumulas Normativas da ANS chegam a ~28; reajuste = RN 565/2022 (individual), RN 563/2022 (faixas etarias), RN 195/2009 (coletivos).",
    "fonte": "auditoria web (3 agentes) 2026-07-06 — migrar-legados",
    "data": "2026-07-06"
+  },
+  "STF|Tema|1232": {
+   "status": "CONFIRMADO",
+   "enunciado": "Execucao trabalhista nao pode ser promovida contra empresa que nao participou da fase de conhecimento (exequente deve indicar na inicial os responsaveis solidarios, inclusive grupo economico); EXCECAO: sucessao empresarial e abuso da personalidade (art. 50 CC), pelo IDPJ (art. 855-A CLT + arts. 133-137 CPC). RE 1.387.795, merito julgado no plenario virtual em out/2025.",
+   "fonte": "portal.stf.jus.br Tema 1232 (verificado web 2026-07-06)",
+   "data": "2026-07-06"
   }
  }
 }

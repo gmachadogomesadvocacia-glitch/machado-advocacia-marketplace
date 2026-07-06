@@ -76,4 +76,4 @@ A saida e uma **memoria de calculo**: cada verba com fundamento legal, base, per
 
 ## 8. INTEGRACAO
 
-Acionada por: `trabalhista-master`, `/calculo-trabalhista`, e as skills produtoras (peticao inicial — valores dos pedidos; liquidacao). Apoio: `cct-normas-coletivas` (adicionais convencionais). Entrega para: `suprema-corte-trabalhista` (R1-R4) — a R2 confere a metodologia.
+Acionada por: `trabalhista-master`, `/calculo-trabalhista`, e as skills produtoras (peticao inicial — valores dos pedidos; liquidacao). Apoio: `cct-normas-coletivas` (adicionais convencionais). Entrega para: `suprema-corte-trabalhista` (R1-R5) — a R2 confere a metodologia.

@@ -87,4 +87,4 @@ ED nao e instrumento de mero inconformismo — embargos protelatorios sujeitam a
 
 ## 8. INTEGRACAO
 
-Acionada por: `trabalhista-master`, `/recurso-trabalhista`. Apoio: `estilo-juridico-trabalhista`. Frequentemente antecede `recurso-ordinario-trabalhista` ou `recurso-revista-trabalhista` (prequestionamento). Entrega para: `suprema-corte-trabalhista` (R1-R4) — a R2 confere o prazo de 5 dias (PA-08).
+Acionada por: `trabalhista-master`, `/recurso-trabalhista`. Apoio: `estilo-juridico-trabalhista`. Frequentemente antecede `recurso-ordinario-trabalhista` ou `recurso-revista-trabalhista` (prequestionamento). Entrega para: `suprema-corte-trabalhista` (R1-R5) — a R2 confere o prazo de 5 dias (PA-08).

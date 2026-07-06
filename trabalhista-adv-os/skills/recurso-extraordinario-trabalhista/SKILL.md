@@ -71,4 +71,4 @@ Sustentar a ausencia de prequestionamento, a ausencia de repercussao geral, a na
 
 ## 8. INTEGRACAO
 
-Acionada por: `trabalhista-master`, `/recurso-trabalhista`. Apoio: `estilo-juridico-trabalhista`, `jurisprudencia-trabalhista` (Temas STF), `pareceres-viabilidade-recursal`. Entrega para: `suprema-corte-trabalhista` (R1-R4) — a R2 confere o prazo de 15 dias e a R3 a repercussao geral e o prequestionamento.
+Acionada por: `trabalhista-master`, `/recurso-trabalhista`. Apoio: `estilo-juridico-trabalhista`, `jurisprudencia-trabalhista` (Temas STF), `pareceres-viabilidade-recursal`. Entrega para: `suprema-corte-trabalhista` (R1-R5) — a R2 confere o prazo de 15 dias e a R3 a repercussao geral e o prequestionamento.

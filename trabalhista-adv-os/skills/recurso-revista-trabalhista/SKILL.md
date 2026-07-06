@@ -72,4 +72,4 @@ Negado seguimento ao RR na origem, cabe **AIRR** (art. 897 b CLT) ao TST, no pra
 
 ## 9. INTEGRACAO
 
-Acionada por: `trabalhista-master`, `/recurso-trabalhista`. Apoio: `estilo-juridico-trabalhista`, `jurisprudencia-trabalhista`, `pareceres-viabilidade-recursal` (avalia cabimento e transcendencia antes). Entrega para: `suprema-corte-trabalhista` (R1-R4) — a R2 confere prazo e a R3 confere transcendencia/prequestionamento.
+Acionada por: `trabalhista-master`, `/recurso-trabalhista`. Apoio: `estilo-juridico-trabalhista`, `jurisprudencia-trabalhista`, `pareceres-viabilidade-recursal` (avalia cabimento e transcendencia antes). Entrega para: `suprema-corte-trabalhista` (R1-R5) — a R2 confere prazo e a R3 confere transcendencia/prequestionamento.

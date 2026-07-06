@@ -61,4 +61,4 @@ Atencao a presuncoes: cartao de ponto nao juntado pela reclamada (Sumula 338 TST
 
 ## 6. INTEGRACAO
 
-Acionada por: `trabalhista-master`. Apoio: `estilo-juridico-trabalhista`, `jurisprudencia-trabalhista`, `audiencia-trabalhista` (insumo da instrucao), `pericia-trabalhista` (conclusao do laudo). Entrega para: `suprema-corte-trabalhista` (R1-R4).
+Acionada por: `trabalhista-master`. Apoio: `estilo-juridico-trabalhista`, `jurisprudencia-trabalhista`, `audiencia-trabalhista` (insumo da instrucao), `pericia-trabalhista` (conclusao do laudo). Entrega para: `suprema-corte-trabalhista` (R1-R5).

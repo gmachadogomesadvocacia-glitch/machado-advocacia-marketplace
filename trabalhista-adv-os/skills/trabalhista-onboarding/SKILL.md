@@ -101,7 +101,7 @@ Gravar em `config.md` o campo `Modo`.
 
 ### Bloco 7 — Suprema Corte
 
-> "O plugin tem a **Suprema Corte** — auditoria de 4 etapas (R1-R4) que revisa toda peca, recurso, parecer e calculo antes da entrega. Adiciona alguns segundos mas garante qualidade e conformidade. Manter ATIVA? (s/n — default: s)
+> "O plugin tem a **Suprema Corte** — auditoria de 5 etapas (R1-R5, com rodada adversarial) que revisa toda peca, recurso, parecer e calculo antes da entrega. Adiciona alguns segundos mas garante qualidade e conformidade. Manter ATIVA? (s/n — default: s)
 >
 > Voce sempre pode pular caso a caso com `--no-corte` ou `--quick`."
 

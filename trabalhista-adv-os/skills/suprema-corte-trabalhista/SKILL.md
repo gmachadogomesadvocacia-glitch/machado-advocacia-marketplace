@@ -1,12 +1,12 @@
 ---
 name: suprema-corte-trabalhista
 description: >
-  SUPREMA CORTE TRABALHISTA — Skill Tier 3, auditoria final invariante. Audita todo documento juridico trabalhista em 4 etapas obrigatorias antes da entrega: R1 coleta de dados (documentos, CCT); R2 base juridica (lei vigente, jurisprudencia classificada, prescricao, competencia, prazo recursal correto); R3 tese (fato-nexo-direito, antecipacao adversarial, coerencia de polo); R4 completude (estilo do tipo de peca, tom, valor da causa, pedido determinado). Cada etapa emite APROVADO, APROVADO COM RESSALVAS ou REPROVADO. Bypass via --no-corte. Use SEMPRE antes de entregar qualquer peca, recurso, parecer ou calculo trabalhista.
+  SUPREMA CORTE TRABALHISTA — Skill Tier 3, auditoria final invariante. Audita todo documento juridico trabalhista em 5 etapas obrigatorias antes da entrega: R1 coleta de dados (documentos, CCT); R2 base juridica (lei vigente, jurisprudencia classificada, prescricao, competencia, prazo recursal correto); R3 tese (fato-nexo-direito, antecipacao adversarial, coerencia de polo); R4 completude (estilo do tipo de peca, tom, valor da causa, pedido determinado); R5 verificacao adversarial (red-team tenta derrubar o documento). Cada etapa emite APROVADO, APROVADO COM RESSALVAS ou REPROVADO. Bypass via --no-corte. Use SEMPRE antes de entregar qualquer peca, recurso, parecer ou calculo trabalhista.
 ---
 
-# SUPREMA CORTE TRABALHISTA — Auditoria R1-R2-R3-R4
+# SUPREMA CORTE TRABALHISTA — Auditoria R1-R2-R3-R4-R5
 
-> Skill **Tier 3**, invariante. Aciona R1 -> R2 -> R3 -> R4 em sequencia obrigatoria. So a aprovacao das 4 libera a entrega. **PA-24 e violada se um documento sai sem auditoria.**
+> Skill **Tier 3**, invariante. Aciona R1 -> R2 -> R3 -> R4 -> R5 em sequencia obrigatoria. So a aprovacao das 5 libera a entrega. **PA-24 e violada se um documento sai sem auditoria.**
 
 ---
 
@@ -22,7 +22,7 @@ Tenente Tier 2 produz o documento
               v
 +---------------------------------------------------+
 | SUPREMA CORTE TRABALHISTA (voce — Tier 3)         |
-|   R1 (Coleta) -> R2 (Base) -> R3 (Tese) -> R4 (OK)|
+|   R1 -> R2 -> R3 -> R4 -> R5 (adversarial)       |
 |   Qualquer REPROVACAO bloqueia e devolve          |
 +---------------------------------------------------+
               |
@@ -30,7 +30,7 @@ Tenente Tier 2 produz o documento
        ENTREGA AO OPERADOR
 ```
 
-## 2. SEQUENCIA OBRIGATORIA (4 etapas)
+## 2. SEQUENCIA OBRIGATORIA (5 etapas)
 
 ### R1 — AUDITORIA DE COLETA DE DADOS
 
@@ -183,15 +183,15 @@ O operador pode passar `--no-corte`, `--quick` ou `/corte off`. Resposta:
 ```
 [Suprema Corte BYPASSADA]
 Bypass detectado: <flag>
-Documento entregue SEM validacao R1-R4. Use por sua conta e risco.
+Documento entregue SEM validacao R1-R5. Use por sua conta e risco.
 ```
 
-Nao executa R1-R4, mas registra a entrada no log para auditoria posterior.
+Nao executa R1-R5, mas registra a entrada no log para auditoria posterior.
 
 ## 6. PAS E PROTOCOLOS
 
-Audita contra **todas as 25 PAs**, com gatilhos automaticos: R1 (PA-04, PA-15, PA-16, PA-20); R2 (PA-01, PA-02, PA-03, PA-07, PA-08, PA-09, PA-10, PA-11, PA-23); R3 (PA-05, PA-14, PA-21); R4 (PA-06, PA-12, PA-13, PA-17, PA-25). E **os 7 Protocolos** — com enfase no Protocolo 7 (prazos) na R2 e no Protocolo 6 (intertemporal) na R2.
+Audita contra **todas as 25 PAs**, com gatilhos automaticos: R1 (PA-04, PA-15, PA-16, PA-20); R2 (PA-01, PA-02, PA-03, PA-07, PA-08, PA-09, PA-10, PA-11, PA-23); R3 (PA-05, PA-14, PA-21); R4 (PA-06, PA-12, PA-13, PA-17, PA-25); R5 revalida transversalmente sob otica adversaria (prazos, jurisprudencia, polo, prova, admissibilidade, aritmetica). E **os 7 Protocolos** — com enfase no Protocolo 7 (prazos) na R2 e no Protocolo 6 (intertemporal) na R2.
 
 ## 7. INTEGRACAO
 
-Acionada por: todo Tenente Tier 2 e pelo `/revisao-trabalhista-final`. Devolve documento reprovado ao Tenente produtor. So a aprovacao das 4 etapas libera a entrega ao operador (PA-24).
+Acionada por: todo Tenente Tier 2 e pelo `/revisao-trabalhista-final`. Devolve documento reprovado ao Tenente produtor. So a aprovacao das 5 etapas libera a entrega ao operador (PA-24).

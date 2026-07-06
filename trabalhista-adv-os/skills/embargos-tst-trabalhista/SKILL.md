@@ -73,4 +73,4 @@ Sustentar:
 
 ## 8. INTEGRACAO
 
-Acionada por: `trabalhista-master`, `/recurso-trabalhista`. Apoio: `estilo-juridico-trabalhista`, `jurisprudencia-trabalhista`, `pareceres-viabilidade-recursal`. Entrega para: `suprema-corte-trabalhista` (R1-R4) — a R2 confere prazo e cabimento.
+Acionada por: `trabalhista-master`, `/recurso-trabalhista`. Apoio: `estilo-juridico-trabalhista`, `jurisprudencia-trabalhista`, `pareceres-viabilidade-recursal`. Entrega para: `suprema-corte-trabalhista` (R1-R5) — a R2 confere prazo e cabimento.

@@ -21,7 +21,7 @@ Acionada pela `trabalhista-master` quando a linha estrategica esta validada e o 
 ## 2. POSICAO NA ORQUESTRA
 
 ```
-linha-estrategica (Checkpoint 4)  ->  PETICAO-INICIAL-TRABALHISTA  ->  suprema-corte-trabalhista (R1-R4)
+linha-estrategica (Checkpoint 4)  ->  PETICAO-INICIAL-TRABALHISTA  ->  suprema-corte-trabalhista (R1-R5)
 ```
 
 Consome: mapa de fatos (auditoria documental), linha estrategica, jurisprudencia, CCT. Apoio: `estilo-juridico-trabalhista`, `calculos-trabalhistas` (valores dos pedidos).
@@ -82,4 +82,4 @@ Pedidos **determinados e especificos**. No rito sumarissimo (ate 40 salarios min
 
 ## 9. INTEGRACAO
 
-Acionada por: `trabalhista-master` (polo reclamante). Apoio: `estilo-juridico-trabalhista`, `calculos-trabalhistas`, `jurisprudencia-trabalhista`, `cct-normas-coletivas`. Entrega obrigatoriamente para: `suprema-corte-trabalhista` (R1-R4) antes da entrega ao operador (PA-24).
+Acionada por: `trabalhista-master` (polo reclamante). Apoio: `estilo-juridico-trabalhista`, `calculos-trabalhistas`, `jurisprudencia-trabalhista`, `cct-normas-coletivas`. Entrega obrigatoriamente para: `suprema-corte-trabalhista` (R1-R5) antes da entrega ao operador (PA-24).

@@ -55,7 +55,7 @@ Se o `CASO.md` nao tiver o polo definido, nenhuma skill produtora avanca (PA-05)
 ## 5. O MEMORY.md DO CASO — LOG EVOLUTIVO
 
 A cada etapa do pipeline, registrar no `MEMORY.md` do caso:
-- **Linha do tempo** — data + etapa + resultado (triagem, auditoria, trilateral, jurisprudencia, linha estrategica, peca produzida, auditoria R1-R4).
+- **Linha do tempo** — data + etapa + resultado (triagem, auditoria, trilateral, jurisprudencia, linha estrategica, peca produzida, auditoria R1-R5).
 - **Decisoes estrategicas** — a tese central e as subsidiarias validadas no Checkpoint 4.
 - **Pendencias e Pontos de Omissao** — documentos faltantes, prazos a confirmar.
 - **Pecas produzidas** — cada peca com data e veredito da Suprema Corte.

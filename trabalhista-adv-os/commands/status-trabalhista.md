@@ -25,7 +25,7 @@ Linha estrategica: <tese central — se ja validada>
 Ultima etapa concluida: <do MEMORY.md>
 Prazos: <tabela de prazos do CASO.md>
 Pendencias / Pontos de Omissao: <lista>
-Pecas produzidas: <lista com veredito R1-R4>
+Pecas produzidas: <lista com veredito R1-R5>
 Proximo passo sugerido: <...>
 ```
 

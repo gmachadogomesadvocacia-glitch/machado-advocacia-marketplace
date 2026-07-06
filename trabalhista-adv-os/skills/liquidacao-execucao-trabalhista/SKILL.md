@@ -1,7 +1,7 @@
 ---
 name: liquidacao-execucao-trabalhista
 description: >
-  LIQUIDACAO E EXECUCAO TRABALHISTA — Skill Tier 2 transversal. Atua na fase de liquidacao e execucao: liquidacao de sentenca, impugnacao aos calculos de liquidacao, embargos a execucao, defesa do executado. Use quando menciona liquidacao de sentenca, impugnacao aos calculos, embargos a execucao, fase de execucao trabalhista, penhora.
+  LIQUIDACAO E EXECUCAO TRABALHISTA — Skill Tier 2 transversal. Atua na fase de liquidacao e execucao: liquidacao de sentenca, impugnacao aos calculos de liquidacao, embargos a execucao, defesa do executado. Cobre tambem a execucao FRUSTRADA promovida pelo exequente: penhora de credito contra terceiro (art. 855 CPC), IDPJ (art. 855-A CLT + arts. 133-137 CPC + Tema 1232 STF), sucessao (art. 448-A CLT), fraude a execucao (art. 792 CPC) e interposta pessoa (art. 50 CC). Use quando menciona liquidacao de sentenca, impugnacao aos calculos, embargos a execucao, fase de execucao trabalhista, penhora, execucao frustrada, desconsideracao, redirecionamento.
 ---
 
 # LIQUIDACAO E EXECUCAO TRABALHISTA
@@ -51,6 +51,16 @@ Garantido o juizo (penhora, deposito), o executado pode opor **embargos a execuc
 
 Na execucao, orientar quanto a penhora (inclusive penhora online — SISBAJUD), avaliacao, e as defesas cabiveis contra constricao indevida (impenhorabilidade, excesso de penhora). A defesa do executado e tecnica e tempestiva.
 
+## 5-B. EXECUCAO FRUSTRADA E REDIRECIONAMENTO (exequente)
+
+Quando o SISBAJUD e as diligencias contra a executada fracassam, o arsenal do exequente — cada arma com a base certa (nao confundir):
+
+- **Penhora de credito do executado contra terceiro** — **art. 855, I e II, CPC** (c/c arts. 769/889 CLT): intima-se o TERCEIRO devedor (ex.: contratante de servicos da executada) para nao pagar ao executado. NAO confundir com o **art. 854 CPC** (SISBAJUD — dinheiro em deposito) nem com o **art. 860 CPC** (penhora no rosto dos autos — credito que o executado pleiteia EM JUIZO). Complemento: art. 856 CPC (creditos de terceiro em poder do executado).
+- **IDPJ — incidente de desconsideracao** — art. 855-A CLT + arts. 133-137 CPC. O **Tema 1232 STF** exige o incidente e joga A FAVOR de quem o instaura corretamente; requisitos do art. 50 CC (abuso: desvio de finalidade ou confusao patrimonial) — **onus do exequente, dizer expressamente na peca** (PA-14). Alcanca socios, administradores de fato e desconsideracao expansiva (empresa-irma/sucessora informal).
+- **Sucessao de empregadores** — arts. 10/448/448-A CLT: nova PJ no mesmo endereco/atividade/clientela responde; independe de formalizacao.
+- **Fraude a execucao** — art. 792 CPC: **exige acao ja pendente** (inciso IV — averbacao/citacao) NA DATA do ato de desvio; ato ANTERIOR ao ajuizamento nao e fraude a execucao — e fraude contra credores (via pauliana) ou interposta pessoa/abuso (art. 50 CC). Conferir SEMPRE a linha do tempo antes de enquadrar.
+- **Interposta pessoa ("laranja")** — art. 50 CC + prova indiciaria (mesmo endereco, mesmos socios de fato, patrimonio incompativel); via propria = IDPJ.
+
 ## 6. PRESCRICAO INTERCORRENTE
 
 A Reforma 13.467/2017 introduziu a **prescricao intercorrente** na execucao trabalhista (art. 11-A CLT) — 2 anos de inercia do exequente. Atencao ao marco intertemporal (Protocolo 6): aplica-se a execucoes conforme o entendimento sobre o termo inicial.
@@ -65,4 +75,4 @@ A Reforma 13.467/2017 introduziu a **prescricao intercorrente** na execucao trab
 
 ## 8. INTEGRACAO
 
-Acionada por: `trabalhista-master`. Apoio: `calculos-trabalhistas` (a conta), `estilo-juridico-trabalhista`. Aciona: `agravos-trabalhistas` (agravo de peticao contra a decisao da execucao). Entrega para: `suprema-corte-trabalhista` (R1-R4).
+Acionada por: `trabalhista-master`. Apoio: `calculos-trabalhistas` (a conta), `estilo-juridico-trabalhista`. Aciona: `agravos-trabalhistas` (agravo de peticao contra a decisao da execucao). Entrega para: `suprema-corte-trabalhista` (R1-R5).

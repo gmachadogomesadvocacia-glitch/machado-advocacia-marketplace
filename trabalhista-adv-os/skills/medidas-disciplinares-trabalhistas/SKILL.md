@@ -67,4 +67,4 @@ A skill redige o **ato disciplinar** (carta de advertencia, comunicado de suspen
 
 ## 9. INTEGRACAO
 
-Acionada por: `trabalhista-master` (consultivo, polo reclamada). Apoio: `estilo-juridico-trabalhista`. Conecta-se a `contestacao-trabalhista` (defesa de justa causa impugnada) e `documentos-extrajudiciais-trabalhistas`. Entrega para: `suprema-corte-trabalhista` (R1-R4).
+Acionada por: `trabalhista-master` (consultivo, polo reclamada). Apoio: `estilo-juridico-trabalhista`. Conecta-se a `contestacao-trabalhista` (defesa de justa causa impugnada) e `documentos-extrajudiciais-trabalhistas`. Entrega para: `suprema-corte-trabalhista` (R1-R5).

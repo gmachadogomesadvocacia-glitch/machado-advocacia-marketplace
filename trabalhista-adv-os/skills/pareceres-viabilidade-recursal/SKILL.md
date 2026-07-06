@@ -79,4 +79,4 @@ Apresentar prognostico **fundamentado** — cenarios e probabilidades — nunca 
 
 ## 7. INTEGRACAO
 
-Acionada por: `trabalhista-master`, `/parecer-trabalhista`. Antecede as skills recursais (`recurso-ordinario-trabalhista`, `recurso-revista-trabalhista`, etc.). Entrega para: `suprema-corte-trabalhista` (R1-R4) — auditoria de parecer.
+Acionada por: `trabalhista-master`, `/parecer-trabalhista`. Antecede as skills recursais (`recurso-ordinario-trabalhista`, `recurso-revista-trabalhista`, etc.). Entrega para: `suprema-corte-trabalhista` (R1-R5) — auditoria de parecer.

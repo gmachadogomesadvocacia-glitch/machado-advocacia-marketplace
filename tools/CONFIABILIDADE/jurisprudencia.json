@@ -1,8 +1,8 @@
 {
  "_doc": "Livro-razao de jurisprudencia (Camada 1). Gerado por gerar-livro-razao.py a partir das skills + curadoria. Status: CONFIRMADO (verificado, com fonte/data) | VALIDAR (extraido, a re-verificar) | SUPERADO (cancelado/superado) | REMOVIDO. As skills so devem citar o que esta aqui; check-jurisprudencia.py faz cumprir.",
  "resumo": {
-  "total": 204,
-  "CONFIRMADO": 176,
+  "total": 205,
+  "CONFIRMADO": 177,
   "VALIDAR": 20,
   "SUPERADO": 6,
   "REMOVIDO": 2
@@ -646,6 +646,20 @@
    "data": "",
    "plugins": [
     "recuperacao-judicial-adv-os"
+   ],
+   "ocorrencias": 2,
+   "nota": ""
+  },
+  "STF|Tema|1232": {
+   "tribunal": "STF",
+   "tipo": "Tema",
+   "numero": "1232",
+   "status": "CONFIRMADO",
+   "enunciado": "Execucao trabalhista nao pode ser promovida contra empresa que nao participou da fase de conhecimento (exequente deve indicar na inicial os responsaveis solidarios, inclusive grupo economico); EXCECAO: sucessao empresarial e abuso da personalidade (art. 50 CC), pelo IDPJ (art. 855-A CLT + arts. 133-137 CPC). RE 1.387.795, merito julgado no plenario virtual em out/2025.",
+   "fonte": "portal.stf.jus.br Tema 1232 (verificado web 2026-07-06)",
+   "data": "2026-07-06",
+   "plugins": [
+    "trabalhista-adv-os"
    ],
    "ocorrencias": 2,
    "nota": ""
@@ -1663,13 +1677,11 @@
    "numero": "469",
    "status": "SUPERADO",
    "enunciado": "CANCELADA em 2018 (DJe 17/04/2018) — substituida pela Sumula 608 STJ.",
-   "fonte": "web STJ",
-   "data": "2026-06-18",
-   "plugins": [
-    "direito-medico-adv-os"
-   ],
-   "ocorrencias": 1,
-   "nota": ""
+   "fonte": "auditoria de jurisprudencia (web, STF/STJ/TST/TNU) — Eixo 1, commit bacceec",
+   "data": "2026-06-16",
+   "plugins": [],
+   "ocorrencias": 0,
+   "nota": "curado, nao citado nas skills"
   },
   "STJ|Sum|470": {
    "tribunal": "STJ",
@@ -2065,7 +2077,7 @@
     "familia-sucessoes-adv-os",
     "recuperacao-judicial-adv-os"
    ],
-   "ocorrencias": 16,
+   "ocorrencias": 17,
    "nota": ""
   },
   "STJ|Sum|72": {

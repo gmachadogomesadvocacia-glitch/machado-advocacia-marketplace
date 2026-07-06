@@ -58,4 +58,4 @@ A skill sempre adverte o operador: **o contrato e necessario, mas nao suficiente
 
 ## 7. INTEGRACAO
 
-Acionada por: `trabalhista-master` (consultivo, polo reclamada). Apoio: `estilo-juridico-trabalhista`, `jurisprudencia-trabalhista` (Temas STF). Conecta-se a `contestacao-trabalhista` (quando o contrato vira tese de defesa em RT de reconhecimento de vinculo). Entrega para: `suprema-corte-trabalhista` (R1-R4).
+Acionada por: `trabalhista-master` (consultivo, polo reclamada). Apoio: `estilo-juridico-trabalhista`, `jurisprudencia-trabalhista` (Temas STF). Conecta-se a `contestacao-trabalhista` (quando o contrato vira tese de defesa em RT de reconhecimento de vinculo). Entrega para: `suprema-corte-trabalhista` (R1-R5).

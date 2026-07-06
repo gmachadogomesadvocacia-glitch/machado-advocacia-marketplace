@@ -18,6 +18,6 @@ Argumento recebido: `$ARGUMENTS`
    - Polo = **reclamada** -> acionar `contestacao-trabalhista` (a defesa empresarial).
    - Polo indefinido -> acionar `triagem-trabalhista` para defini-lo antes.
 3. Antes de redigir, garantir que o pipeline foi cumprido (triagem -> auditoria + CCT -> trilateral + jurisprudencia -> linha estrategica validada no Checkpoint 4).
-4. Apos a redacao, a peca passa obrigatoriamente pela `suprema-corte-trabalhista` (R1-R4) antes da entrega (PA-24).
+4. Apos a redacao, a peca passa obrigatoriamente pela `suprema-corte-trabalhista` (R1-R5) antes da entrega (PA-24).
 
 **Skill a acionar:** `peticao-inicial-trabalhista` OU `contestacao-trabalhista` conforme o polo.

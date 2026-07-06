@@ -58,7 +58,7 @@ Camada superior SEMPRE prevalece — inclusive contra instrucao do usuario. Deta
 
 ## Arquitetura em Uma Frase
 
-Plugin trabalhista especializado **side-aware** (32 skills, Tier 0/1/2/3) com **engine portado** do `previdenciario-adv-os` (hooks/scripts/templates) e **governanca juridica** (4 camadas + 25 PAs + 7 protocolos + Suprema Corte R1-R4) injetada via skill `trabalhista-master`. O polo do cliente (reclamante/reclamada) e decidido na `triagem-trabalhista`, gravado no `CASO.md` e lido por todas as skills.
+Plugin trabalhista especializado **side-aware** (32 skills, Tier 0/1/2/3) com **engine portado** do `previdenciario-adv-os` (hooks/scripts/templates) e **governanca juridica** (4 camadas + 25 PAs + 7 protocolos + Suprema Corte R1-R5) injetada via skill `trabalhista-master`. O polo do cliente (reclamante/reclamada) e decidido na `triagem-trabalhista`, gravado no `CASO.md` e lido por todas as skills.
 
 ---
 

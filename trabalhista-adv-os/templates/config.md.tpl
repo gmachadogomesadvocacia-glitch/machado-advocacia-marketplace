@@ -45,7 +45,7 @@
 
 ## Suprema Corte
 
-- **Auditoria R1-R4:** {{SUPREMA_CORTE_STATUS}}
+- **Auditoria R1-R5:** {{SUPREMA_CORTE_STATUS}}
   <!-- ATIVA (default) | DESATIVADA -->
 - Bypass por demanda: `--no-corte`, `--quick`, `/corte off`.
 

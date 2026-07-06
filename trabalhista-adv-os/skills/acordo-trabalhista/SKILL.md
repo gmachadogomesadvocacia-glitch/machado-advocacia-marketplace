@@ -64,4 +64,4 @@ O termo de acordo deve definir com clareza:
 
 ## 7. INTEGRACAO
 
-Acionada por: `trabalhista-master`, `audiencia-trabalhista` (conciliacao em audiencia). Apoio: `calculos-trabalhistas`, `linha-estrategica-trabalhista` (prognostico), `estilo-juridico-trabalhista`. Entrega para: `suprema-corte-trabalhista` (R1-R4).
+Acionada por: `trabalhista-master`, `audiencia-trabalhista` (conciliacao em audiencia). Apoio: `calculos-trabalhistas`, `linha-estrategica-trabalhista` (prognostico), `estilo-juridico-trabalhista`. Entrega para: `suprema-corte-trabalhista` (R1-R5).

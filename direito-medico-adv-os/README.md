@@ -45,7 +45,7 @@ SessionStart (persona) · UserPromptSubmit (detecta demanda jurídico-médica e 
 - **Leis chave:** 9.656/98 (planos), 12.842/2013 (Ato Médico), 14.510/2022 (Telemedicina), 14.454/2022 (Rol ANS exemplificativo), 13.709/2018 (LGPD), 10.216/2001 (Reforma psiquiátrica), 13.146/2015 (PCD), 12.764/2012 (TEA), 13.840/2019 (internação compulsória), 15.378/2026 (Estatuto dos Direitos do Paciente).
 - **Resoluções CFM:** 2.217/2018 (CEM), 2.314/2022 (Telemedicina), 2.336/2023 (Publicidade), 2.320/2022 (Reprodução), 2.337/2023 (HOF), 1.821/2007 (Prontuário), 2.145/2016 (PED), 1.805/2006 (Cuidados paliativos), 1.995/2012 (DAV).
 - **Resoluções CFO:** 118/2012 (Ética), 71/2006 (PED), 196/2019 (Publicidade), 287/2022 (Teleodontologia).
-- **Súmulas STJ:** 469, 597, 608, 547.
+- **Súmulas STJ:** 608 (substituiu a 469, cancelada em 2018), 597, 547.
 - **Temas STJ:** 952, 990, 1037, 1069, 1082.
 - **STF:** ADPF 54, ADI 4275, ADI 6.586, RE 855.178.
 - **ANS:** RN 465/2021, 195/2009, 387/2015, 469/2021, 539/2022.

@@ -64,4 +64,4 @@ A impugnacao retorica, sem contraponto tecnico, viola a PA-13 e nao convence o j
 
 ## 7. INTEGRACAO
 
-Acionada por: `trabalhista-master`. Trabalha junto com: `quesitos-assistente-tecnico` (quesitos e assistente). Apoio: `auditoria-documental-trabalhista` (documentos tecnicos), `estilo-juridico-trabalhista`. Alimenta: `razoes-finais-trabalhistas`. Entrega para: `suprema-corte-trabalhista` (R1-R4).
+Acionada por: `trabalhista-master`. Trabalha junto com: `quesitos-assistente-tecnico` (quesitos e assistente). Apoio: `auditoria-documental-trabalhista` (documentos tecnicos), `estilo-juridico-trabalhista`. Alimenta: `razoes-finais-trabalhistas`. Entrega para: `suprema-corte-trabalhista` (R1-R5).

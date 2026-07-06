@@ -47,7 +47,7 @@ Pre-requisito: ato administrativo concreto (decisao do Conselho); prazo decadenc
 | Lei 3.268/57 + 4.324/64 | Cria CRM/CFM e CRO/CFO (autarquias federais) |
 | Lei 9.784 art. 2o (proporcionalidade) + Lei 3.268/57 art. 22 | Principio aplicavel |
 
-**Jurisprudencia:** STF MS 27.067/DF (cassacao exige fundamentacao + proporcionalidade); STJ MS 11.123/DF (controle judicial e de legalidade, nao de merito etico — `[mas controle de proporcionalidade e admitido]`); STJ AgRg AREsp 1.456.987 (motivacao adequada); STJ CF art. 109 VIII.
+**Jurisprudencia:** STF MS 27.067/DF (cassacao exige fundamentacao + proporcionalidade); STJ MS 11.123/DF (controle judicial e de legalidade, nao de merito etico — `[mas controle de proporcionalidade e admitido]`); STJ AgRg AREsp 1.456.987 (motivacao adequada).
 
 ## 3. Pressupostos do MS
 

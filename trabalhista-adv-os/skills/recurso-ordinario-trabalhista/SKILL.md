@@ -77,4 +77,4 @@ As contrarrazoes defendem a sentenca no que ela favorece o cliente; podem vir ac
 
 ## 8. INTEGRACAO
 
-Acionada por: `trabalhista-master`, `/recurso-trabalhista`. Apoio: `estilo-juridico-trabalhista`, `jurisprudencia-trabalhista`, `pareceres-viabilidade-recursal` (antes — avalia se vale recorrer). Entrega para: `suprema-corte-trabalhista` (R1-R4) — a R2 confere o prazo de 8 dias (PA-08, PA-24).
+Acionada por: `trabalhista-master`, `/recurso-trabalhista`. Apoio: `estilo-juridico-trabalhista`, `jurisprudencia-trabalhista`, `pareceres-viabilidade-recursal` (antes — avalia se vale recorrer). Entrega para: `suprema-corte-trabalhista` (R1-R5) — a R2 confere o prazo de 8 dias (PA-08, PA-24).

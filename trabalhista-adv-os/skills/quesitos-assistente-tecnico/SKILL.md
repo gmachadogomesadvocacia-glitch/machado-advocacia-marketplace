@@ -67,4 +67,4 @@ A parte pode indicar **assistente tecnico** (profissional de sua confianca) para
 
 ## 6. INTEGRACAO
 
-Acionada por: `trabalhista-master`, `pericia-trabalhista`. Trabalha acoplada a: `pericia-trabalhista`. Apoio: `estilo-juridico-trabalhista`. Entrega para: `suprema-corte-trabalhista` (R1-R4).
+Acionada por: `trabalhista-master`, `pericia-trabalhista`. Trabalha acoplada a: `pericia-trabalhista`. Apoio: `estilo-juridico-trabalhista`. Entrega para: `suprema-corte-trabalhista` (R1-R5).

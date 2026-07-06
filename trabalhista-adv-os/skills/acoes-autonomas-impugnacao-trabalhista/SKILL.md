@@ -71,4 +71,4 @@ Quando o cliente e o requerido:
 
 ## 8. INTEGRACAO
 
-Acionada por: `trabalhista-master`, `/recurso-trabalhista`. Apoio: `estilo-juridico-trabalhista`, `jurisprudencia-trabalhista`. Entrega para: `suprema-corte-trabalhista` (R1-R4) — a R2 confere prazo decadencial e cabimento.
+Acionada por: `trabalhista-master`, `/recurso-trabalhista`. Apoio: `estilo-juridico-trabalhista`, `jurisprudencia-trabalhista`. Entrega para: `suprema-corte-trabalhista` (R1-R5) — a R2 confere prazo decadencial e cabimento.

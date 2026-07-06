@@ -72,4 +72,4 @@ Sustentar o nao conhecimento (vicio formal, ausencia de delimitacao no agravo de
 
 ## 8. INTEGRACAO
 
-Acionada por: `trabalhista-master`, `/recurso-trabalhista`. Apoio: `estilo-juridico-trabalhista`, `liquidacao-execucao-trabalhista` (agravo de peticao sobre calculos), `calculos-trabalhistas`. Entrega para: `suprema-corte-trabalhista` (R1-R4).
+Acionada por: `trabalhista-master`, `/recurso-trabalhista`. Apoio: `estilo-juridico-trabalhista`, `liquidacao-execucao-trabalhista` (agravo de peticao sobre calculos), `calculos-trabalhistas`. Entrega para: `suprema-corte-trabalhista` (R1-R5).

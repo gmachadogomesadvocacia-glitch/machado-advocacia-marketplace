@@ -67,4 +67,4 @@ O documento extrajudicial, recebido pela outra parte (com comprovante de entrega
 
 ## 8. INTEGRACAO
 
-Acionada por: `trabalhista-master`. Apoio: `estilo-juridico-trabalhista`. Conecta-se a `medidas-disciplinares-trabalhistas` (comunicacao de abandono) e ao consultivo preventivo. Entrega para: `suprema-corte-trabalhista` (R1-R4).
+Acionada por: `trabalhista-master`. Apoio: `estilo-juridico-trabalhista`. Conecta-se a `medidas-disciplinares-trabalhistas` (comunicacao de abandono) e ao consultivo preventivo. Entrega para: `suprema-corte-trabalhista` (R1-R5).

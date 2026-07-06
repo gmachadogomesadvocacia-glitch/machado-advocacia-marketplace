@@ -190,7 +190,7 @@
       "properties": {
         "invariants": {
           "type": "array",
-          "description": "Skills SEMPRE ativas (não-removíveis): trabalhista-master (Tier 0 - orquestração + 25 PAs + 4 Camadas + 7 Protocolos) + suprema-corte-trabalhista (Tier 3 - auditoria R1-R4) + estilo-juridico-trabalhista (Tier 1 transversal) + memoria-de-caso-trabalhista (Tier 1, compartimentação de casos). Escape session-only da Suprema Corte via /corte off.",
+          "description": "Skills SEMPRE ativas (não-removíveis): trabalhista-master (Tier 0 - orquestração + 25 PAs + 4 Camadas + 7 Protocolos) + suprema-corte-trabalhista (Tier 3 - auditoria R1-R5) + estilo-juridico-trabalhista (Tier 1 transversal) + memoria-de-caso-trabalhista (Tier 1, compartimentação de casos). Escape session-only da Suprema Corte via /corte off.",
           "items": { "type": "string" },
           "default": [
             "trabalhista-master",

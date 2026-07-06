@@ -12,12 +12,12 @@ Logica (ativacao automatica por contexto):
    - Gatilho 3: comandos `/start-trabalhista`, `/trabalhista-master`, etc.
 4. Se gatilho dispara:
    - Verifica se `trabalhista/cowork-state.json` existe no path atual
-   - SIM: injeta protocolo R1-R4 + aponta para skill `trabalhista-master`
+   - SIM: injeta protocolo R1-R5 + aponta para skill `trabalhista-master`
    - NAO: sugere `/start-trabalhista` ao usuario (mas nao bloqueia)
 5. Se ha bypass: reafirma em stdout que o bypass foi aceito (transparencia).
 6. Se nao eh tarefa trabalhista nem juridica geral: silencio (exit 0 sem output).
 
-Tambem respeita state.json: se `suprema_corte.enabled = false`, nunca injeta R1-R4.
+Tambem respeita state.json: se `suprema_corte.enabled = false`, nunca injeta R1-R5.
 
 Stdlib only.
 """
@@ -235,7 +235,7 @@ def main() -> int:
         sys.stdout.write(
             f"[trabalhista-adv-os] Bypass detectado ({bypass}). "
             "Pecas, recursos, pareceres e calculos serao entregues SEM validacao "
-            "da Suprema Corte (R1-R4). Use por sua conta e risco.\n"
+            "da Suprema Corte (R1-R5). Use por sua conta e risco.\n"
         )
         return 0
 
@@ -291,7 +291,7 @@ def main() -> int:
             "1. Questionamento previo (sem suposicoes silenciosas).\n"
             "2. Apresentar estrutura + premissas antes de redigir.\n"
             "3. Aguardar confirmacao do usuario.\n"
-            "4. Antes de entregar: executar Suprema Corte R1-R4 se aplicavel.\n"
+            "4. Antes de entregar: executar Suprema Corte R1-R5 se aplicavel.\n"
             "Bypass: `--no-corte`, `--quick`, `/corte off`.\n"
         )
         return 0

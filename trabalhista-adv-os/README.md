@@ -23,14 +23,14 @@ ou tomador que se defende). A resposta orienta toda a estratégia e a redação.
 
 - **Orquestrador side-aware** — a `trabalhista-master` carrega a Hierarquia das 4
   Camadas, faz cumprir as 25 Proibições Absolutas, aciona os 7 Protocolos Técnicos
-  e garante a auditoria final R1-R4.
+  e garante a auditoria final R1-R5.
 - **Pipeline com checkpoint** — triagem → auditoria documental + CCT → análise
   trilateral + jurisprudência → linha estratégica → peça → Suprema Corte. Em cada
   fase o plugin para e confirma com o advogado (modo `--continuo` disponível).
 - **Memória de caso** — cada caso vive em `trabalhista/casos/<cliente>-x-<adverso>/`
   com sua ficha, log evolutivo, documentos, peças e jurisprudência. Pasta gitignored
   por padrão (LGPD).
-- **Suprema Corte R1-R4** — toda peça passa por auditoria de 4 etapas antes da
+- **Suprema Corte R1-R5** — toda peça passa por auditoria de 5 etapas (a 5ª adversarial) antes da
   entrega: coleta de dados → base jurídica → tese → completude.
 
 ---
@@ -45,7 +45,7 @@ ou tomador que se defende). A resposta orienta toda a estratégia e a redação.
 | **Tier 2 — recursal** (8) | Recurso Ordinário, Recurso de Revista/AIRR, Embargos no TST, Agravos, Embargos de Declaração, Recurso Extraordinário, ações autônomas de impugnação, pareceres de viabilidade recursal — cada um em **modo dual** (recurso + contrarrazão/contraminuta) |
 | **Tier 2 — instrução/execução** (7) | Razões finais, perícia, quesitos/assistente técnico, audiência, cálculos, liquidação/execução, acordo |
 | **Tier 2 — consultivo/preventivo** (3) | Medidas disciplinares, contratos preventivos, documentos extrajudiciais |
-| **Tier 3** (1) | `suprema-corte-trabalhista` — auditoria final R1-R4 |
+| **Tier 3** (1) | `suprema-corte-trabalhista` — auditoria final R1-R5 |
 
 ---
 

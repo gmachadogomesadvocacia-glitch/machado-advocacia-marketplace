@@ -21,7 +21,7 @@ Acionada pela `trabalhista-master` quando a linha estrategica esta validada e o 
 ## 2. POSICAO NA ORQUESTRA
 
 ```
-linha-estrategica (Checkpoint 4)  ->  CONTESTACAO-TRABALHISTA  ->  suprema-corte-trabalhista (R1-R4)
+linha-estrategica (Checkpoint 4)  ->  CONTESTACAO-TRABALHISTA  ->  suprema-corte-trabalhista (R1-R5)
 ```
 
 Consome: mapa de fatos (auditoria documental — a prova documental e a arma da reclamada), linha estrategica, jurisprudencia, CCT. Apoio: `estilo-juridico-trabalhista`.
@@ -96,4 +96,4 @@ Tese defensiva de fechamento, deduzida nos pedidos da contestacao. Para acoes aj
 
 ## 9. INTEGRACAO
 
-Acionada por: `trabalhista-master` (polo reclamada). Apoio: `estilo-juridico-trabalhista`, `jurisprudencia-trabalhista`, `cct-normas-coletivas`, `auditoria-documental-trabalhista`. Entrega obrigatoriamente para: `suprema-corte-trabalhista` (R1-R4) antes da entrega (PA-24).
+Acionada por: `trabalhista-master` (polo reclamada). Apoio: `estilo-juridico-trabalhista`, `jurisprudencia-trabalhista`, `cct-normas-coletivas`, `auditoria-documental-trabalhista`. Entrega obrigatoriamente para: `suprema-corte-trabalhista` (R1-R5) antes da entrega (PA-24).

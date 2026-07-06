@@ -38,7 +38,10 @@ R3 — Conformidade etico-regulatoria + Cruzamento Multi-esfera (P4)
 R4 — Entrega / Clareza / Ressalva OAB
    |
    v (APROVADO)
-ENTREGA AUTORIZADA
+R5 — Verificacao adversarial (red-team)
+   |
+   v (PASSOU)
+ENTREGA AUTORIZADA + FICHA DE CONFERENCIA
 ```
 
 Rodadas sequenciais. Reprovacao em qualquer **bloqueia as seguintes** e devolve ao produtor.
@@ -134,6 +137,19 @@ Checklist R4:
 
 **Veredito:** APROVADO / APROVADO COM RESSALVAS / REPROVADO.
 
+## 6b. R5 — Verificacao ADVERSARIAL (red-team)
+
+Mude de chapeu: voce AGORA e o advogado da parte adversa (operadora, acusacao, comissao do PED) ou o perito mais rigoroso — contratado para DERRUBAR o documento. UMA falha material -> REPROVADO. Eixos:
+
+- **VIGENCIA** — alguma norma/tema citado que a adversa demonstraria superado (Tema 990 pre/pos-Lei 14.454, resolucao CFM revogada)?
+- **ESFERA** — argumento de uma esfera que contamina outra (confissao civel usada no PED/criminal)? Independencia das instancias respeitada?
+- **NEXO/PROVA** — o nexo causal sustenta pericia hostil? Prontuario/TCLE citados existem no rol?
+- **QUANTUM** — valor que a adversa reduziria por falta de ancoragem STJ?
+- **FRONTEIRA** — alguma frase opinando conduta clinica (PA-03) ou prometendo resultado (PA-02)?
+- **ARITMETICA** — refazer 2-3 calculos da memoria de quantum por amostragem.
+
+**Veredito R5:** PASSOU / REPROVADO (eixo + falha exata + correcao).
+
 ## 7. Saida da revisao (formato canonico)
 
 ```
@@ -151,6 +167,16 @@ R3 — Conformidade + P4: APROVADO | APROVADO COM RESSALVAS | REPROVADO
 
 R4 — Entrega + clareza + ressalva OAB: APROVADO | APROVADO COM RESSALVAS | REPROVADO
    Ressalvas: [lista]
+
+R5 — Adversarial (red-team): PASSOU | REPROVADO
+   Falha/correcao: [lista]
+
+FICHA DE CONFERENCIA (acompanha a entrega, nao integra a peca):
+   - DOCUMENTO/TIPO + triagem 4D (sujeito x modo x esfera x subdominio): ...
+   - DOCUMENTOS-BASE usados (cada um -> onde entra): ...
+   - TESES sustentadas (cada uma -> fundamento + vigencia conferida): ...
+   - PRAZO/PRESCRICAO aplicavel: ...
+   - VEREDITO: R1 _ · R2 _ · R3 _ · R4 _ · R5 _
 
 VEREDITO FINAL:
    [APROVADO — pode entregar ao operador]

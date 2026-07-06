@@ -73,6 +73,7 @@ DOMAIN_KEYWORDS = [
     r"\bviabilidade\s+(do\s+caso|da\s+a[çc][ãa]o|da\s+demanda)\b",
     r"\bproposta\s+de\s+honor[áa]rios?\s+com\s+dados\b",
     r"\brelat[óo]rio\s+(do\s+acervo|de\s+casos|gerencial)\b",
+    r"\b(encerrar|arquivar)\s+(o\s+|este\s+)?caso\b",
 ]
 
 # Gatilho 3: commands prefixados do plugin
@@ -88,6 +89,7 @@ PLUGIN_COMMANDS = [
     "/tempo-processual",
     "/viabilidade-jurimetrica",
     "/instrumentar-caso",
+    "/encerrar-caso",
     "/revisao-final-jurimetria",
 ]
 

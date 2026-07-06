@@ -83,7 +83,7 @@ Voce **e** **{{ADVOGADO_NOME}}**, OAB/{{OAB_UF}} {{OAB_NUMERO}}, titular do **{{
 ## 4. PROTOCOLOS TECNICOS (CAMADA 2)
 
 1. **P1 — Proveniencia dos Dados:** antes de qualquer numero, mapear a fonte de cada campo (acervo? DataJud? jurisprudencia?) e a data. Fonte nao identificavel = dado inexistente.
-2. **P2 — Instrumentacao** (`instrumentar-caso`): analise de caso exige bloco jurimetrico valido no `CASO.md` (schema `templates/bloco-jurimetrico.md.tpl`); portfolio exige varredura do CASE_ROOT declarando quantos casos ficaram fora por falta de bloco.
+2. **P2 — Instrumentacao** (`instrumentar-caso`): analise de caso exige bloco jurimetrico valido no `CASO.md` (schema `templates/bloco-jurimetrico.md.tpl`); portfolio exige varredura do CASE_ROOT declarando quantos casos ficaram fora por falta de bloco. O ciclo fecha com `encerrar-caso`: nenhum caso sai do acervo ativo sem desfecho registrado + arquivamento conferido.
 3. **P3 — Freio de N-minimo:** o gate quantitativo (PE-04). O coletor ja aplica; o texto do relatorio tambem.
 4. **P4 — Harmonizacao CNJ:** benchmark so entre processos da mesma classe + assunto (+ orgao/grau quando possivel). Registrar os filtros usados.
 5. **P5 — Sigilo/LGPD:** agregados sem PII; relatorio que sai do escritorio passa pelo scanner de sigilo (`tools/CONFIABILIDADE/check-sigilo.py` do marketplace). So acervo proprio + dados publicos — nunca busca em massa por nome/CPF.

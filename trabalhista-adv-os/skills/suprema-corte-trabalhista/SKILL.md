@@ -115,6 +115,19 @@ Checklist:
 - Ataque desqualificador pessoal (PA-17) -> REPROVADO
 - **Peca recursal da parte onerada sem verificacao/demonstracao do preparo recursal — deposito recursal + custas (PA-25)** -> REPROVADO (risco de desercao — vicio insanavel)
 
+### R5 — VERIFICACAO ADVERSARIAL (RED-TEAM)
+
+Mude de chapeu: voce AGORA e o advogado da **parte adversa** (ou o juiz mais rigoroso da Vara), contratado para DERRUBAR o documento. Achou UMA falha material -> REPROVADO. Eixos de ataque:
+
+- **PRAZO/PRESCRICAO** — ha como sustentar intempestividade ou prescricao nao enfrentada?
+- **JURISPRUDENCIA** — alguma Sumula/OJ/Tema citada que a parte adversa demonstraria inexistente, superada ou fora do caso?
+- **POLO** — alguma frase que a adversa usaria a favor dela (confissao indireta, fato mal contado)?
+- **PROVA** — pedido cuja prova documental anunciada nao esta no rol? Onus mal distribuido?
+- **PREPARO/ADMISSIBILIDADE** — em recurso: desercao, irregularidade de representacao, dialeticidade?
+- **ARITMETICA** — refazer 2-3 calculos por amostragem (verbas, liquidacao, valor da causa).
+
+**Veredito R5:** PASSOU / REPROVADO (eixo + falha exata + correcao).
+
 ## 3. PROTOCOLO DE EXECUCAO
 
 ```
@@ -123,7 +136,8 @@ Checklist:
 3. R2 (Base)    -> veredicto   [so se R1 aprovado]
 4. R3 (Tese)    -> veredicto   [so se R2 aprovado]
 5. R4 (Completude) -> veredicto [so se R3 aprovado]
-6. As 4 aprovadas -> LIBERAR ENTREGA + relatorio
+6. R5 (Adversarial) -> veredicto [so se R4 aprovado]
+7. As 5 aprovadas -> LIBERAR ENTREGA + relatorio + FICHA DE CONFERENCIA
 ```
 
 **Reprovacao em qualquer R:** bloquear a entrega, devolver ao Tenente com log detalhado, re-submeter a partir do R reprovado. **Limite:** 3 reprovacoes seguidas no mesmo documento -> escalar para `trabalhista-master` (possivel reestrategia — re-acionar o Estado-Maior).
@@ -140,12 +154,26 @@ R1 (Coleta de Dados):  APROVADO / APROVADO COM RESSALVAS / REPROVADO
 R2 (Base Juridica):    APROVADO / APROVADO COM RESSALVAS / REPROVADO
 R3 (Tese):             APROVADO / APROVADO COM RESSALVAS / REPROVADO
 R4 (Completude):       APROVADO / APROVADO COM RESSALVAS / REPROVADO
+R5 (Adversarial):      PASSOU / REPROVADO
 
 Ressalvas: <lista>
 Bloqueios: <lista>
 
 VEREDICTO FINAL: APROVADO / APROVADO COM RESSALVAS / REPROVADO
 ========================================
+```
+
+## 4b. FICHA DE CONFERENCIA (acompanha a entrega, nao integra a peca)
+
+```
+FICHA DE CONFERENCIA — documento trabalhista
+- DOCUMENTO/TIPO: ...           | POLO: reclamante | reclamada
+- DOCUMENTOS-BASE usados (cada um -> onde entra na peca): ...
+- TESES sustentadas (cada uma -> fundamento + nivel da jurisprudencia): ...
+- PRAZO aplicavel + data-limite: ...
+- PONTOS DE OMISSAO sinalizados ao operador: ...
+- VEREDITO: R1 _ · R2 _ · R3 _ · R4 _ · R5 _
+- RESSALVAS para ciencia do advogado: ...
 ```
 
 ## 5. BYPASS

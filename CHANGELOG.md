@@ -4,6 +4,25 @@ Histórico do conjunto de plugins jurídicos (Adv-OS). Datas em AAAA-MM-DD.
 
 ## 2026-07-06
 
+### `jurimetria-adv-os` v0.2.0 — ciclo de vida completo do caso
+- Nova skill + command **`encerrar-caso`** (Tier 1, contraparte da `instrumentar-caso`):
+  confirma que o caso encerrou de verdade (execução pendente NÃO encerra), preenche o
+  desfecho do bloco jurimétrico via P2 (com sync DataJud final e validação do parser),
+  fecha o MEMORY.md do caso e arquiva a pasta no acervo formal — o operador escolhe o
+  destino, mover-nunca-apagar, conferência de integridade e checagem MAX_PATH (~250).
+- Hook de intercept: gatilho "encerrar/arquivar caso" + `/encerrar-caso` na lista de commands.
+- Fecha a pendência contínua do caso-piloto: desfecho registrado em todo encerramento.
+
+### C3 nos plugins consolidados — `trabalhista-adv-os` v0.1.2 e `direito-medico-adv-os` v0.1.1
+- Rodada **R5 adversarial** e **FICHA DE CONFERÊNCIA** adicionadas à `suprema-corte-trabalhista`
+  e à `revisao-final-medica`, no estilo de cada casa — as regras de regressão
+  `c3-r5-adversarial-todas-revisoes` e `c3-ficha-todas-revisoes` agora passam nos 14 arquivos.
+- **Pendência conhecida (pré-publicação ainda REPROVADA nestas travas, confinadas aos 2
+  consolidados):** drift de engine do trabalhista (scripts + hooks.json divergem do canônico
+  dos outros 13), 54 citações de tema/súmula a conferir contra a curadoria (Eixo 1 nunca
+  rodou neles) e tokens fora do registro ({{nome}}/{{nota}}/{{PENA}}/{{ESFERAS}}). É o
+  pacote "migrar legados": harmonizar engine + auditoria de jurisprudência + registro de tokens.
+
 ### Consolidação — `trabalhista-adv-os` v0.1.1 e `direito-medico-adv-os` v0.1.0
 - Os dois últimos plugins hospedados fora do marketplace próprio (repositórios
   `sbroggioadv/trabalhista-adv-os-marketplace` e `sbroggioadv/direito-medico-adv-os-marketplace`)

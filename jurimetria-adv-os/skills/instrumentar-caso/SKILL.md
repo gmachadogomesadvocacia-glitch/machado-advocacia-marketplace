@@ -22,7 +22,7 @@ metadata:
 
 ## 0. QUANDO ACIONAR
 
-(a) Caso novo aberto (por qualquer plugin Adv-OS) — inserir o bloco com identificacao + classificacao + caso; (b) caso encerrado — preencher o desfecho (quantum_obtido, resultado, forma/data de encerramento); (c) `coleta-acervo` listou casos sem bloco; (d) antes de analise que dependa do caso.
+(a) Caso novo aberto (por qualquer plugin Adv-OS) — inserir o bloco com identificacao + classificacao + caso; (b) caso encerrado — preencher o desfecho (quantum_obtido, resultado, forma/data de encerramento); o encerramento COMPLETO (desfecho + memoria + arquivamento) e orquestrado pela skill `encerrar-caso`, que chama esta; (c) `coleta-acervo` listou casos sem bloco; (d) antes de analise que dependa do caso.
 
 ## 1. FONTES DE PREENCHIMENTO (nesta ordem)
 

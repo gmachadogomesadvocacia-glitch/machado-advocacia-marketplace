@@ -17,7 +17,7 @@ CAMADA 2 — PROTOCOLOS TECNICOS (6)                  — P1 Proveniencia · P2 
                                                       P3 N-minimo · P4 Harmonizacao CNJ ·
                                                       P5 Sigilo/LGPD · P6 Revisao R1-R4
 CAMADA 3 — ESTILO DO RELATORIO                       — pergunta->dados->resultados->limitacoes->leitura
-CAMADA 4 — SKILLS (Tier 0-3)                          — 12 skills, 12 commands
+CAMADA 4 — SKILLS (Tier 0-3)                          — 13 skills, 13 commands
 ```
 Injetada pela skill `jurimetria-master` (Tier 0).
 
@@ -31,7 +31,7 @@ estatistica, e uma Suprema Corte R1-R4+R5 que bloqueia numero sem carimbo.
 jurimetria-adv-os/
 ├── .claude-plugin/plugin.json   manifesto
 ├── commands/                    12 slash commands
-├── skills/                      12 skills (Tier 0-3), so SKILL.md por pasta
+├── skills/                      13 skills (Tier 0-3), so SKILL.md por pasta
 ├── hooks/                       hooks.json + scripts (persona, memoria, snapshot, corte)
 ├── scripts/                     engine (resolve-persona, state, hook-utils, state-schema)
 │                                + motores: datajud_client, ler_caso, coletar_acervo, benchmark_datajud
@@ -57,6 +57,9 @@ jurimetria-adv-os/
 - NAO renomear o slug sem nova decisao.
 
 ## Status do build
+v0.2.0 — Ciclo de vida completo: nova skill+command `encerrar-caso` (Tier 1, contraparte da
+instrumentar-caso) — confirma encerramento real, preenche desfecho via P2, fecha MEMORY.md e
+arquiva a pasta (operador escolhe o destino; mover-nunca-apagar; conferencia de integridade;
+MAX_PATH ~250). Hook intercept ganhou o gatilho "encerrar/arquivar caso" e o /encerrar-caso.
 v0.1.0 — Nucleo completo: engine portado do consumidor-adv-os, 4 motores Python (A/B/C + quantum
-via skill), 12 skills, 12 commands, Suprema Corte R1-R5. Pendente: caso-piloto de ponta a ponta
-com o acervo real e camadas de confiabilidade (C3 red-team ficha) como nos demais plugins.
+via skill), 12 skills, 12 commands, Suprema Corte R1-R5. Caso-piloto rodado 04/07/2026.

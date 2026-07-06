@@ -12,7 +12,8 @@ numero com carimbo (N, metodo, fonte, data).
 | **Acervo proprio** (bloco jurimetrico nos `CASO.md`) | quantum pretendido/obtido, resultado, taxa de exito | o que nao foi instrumentado |
 
 Unidas pelo **numero CNJ**. O bloco jurimetrico (schema em `templates/bloco-jurimetrico.md.tpl`)
-e a materia-prima — a skill `instrumentar-caso` o preenche, puxando a classificacao oficial do DataJud.
+e a materia-prima — a skill `instrumentar-caso` o preenche, puxando a classificacao oficial do DataJud,
+e a skill `encerrar-caso` fecha o ciclo (desfecho + arquivamento) quando o caso termina.
 
 ## Motores (Tier 2)
 
@@ -30,7 +31,7 @@ e a materia-prima — a skill `instrumentar-caso` o preenche, puxando a classifi
   N < limiar → so qualitativo; PII fora de agregados (LGPD + sigilo OAB).
 - **Camada 2:** 6 Protocolos (Proveniencia, Instrumentacao, N-minimo, Harmonizacao CNJ, Sigilo, Revisao).
 - **Camada 3:** estilo do relatorio (pergunta → dados → resultados → limitacoes → leitura).
-- **Camada 4:** 12 skills (Tier 0-3) + 12 commands. Suprema Corte `revisao-final-jurimetria` (R1-R4 + R5 red-team).
+- **Camada 4:** 13 skills (Tier 0-3) + 13 commands. Suprema Corte `revisao-final-jurimetria` (R1-R4 + R5 red-team).
 
 ## Instalar / comecar
 

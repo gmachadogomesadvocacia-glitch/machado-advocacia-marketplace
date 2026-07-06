@@ -123,6 +123,24 @@
       "author": {
         "name": "Machado Advocacia"
       }
+    },
+    {
+      "name": "trabalhista-adv-os",
+      "version": "0.1.1",
+      "source": "./trabalhista-adv-os",
+      "description": "Plugin Claude Code especializado em Direito e Processo do Trabalho brasileiro. Atende os dois polos da Reclamacao Trabalhista — reclamante e reclamada — com orquestrador side-aware, triagem trilateral, auditoria de documentos, 32 skills (Tier 0/1/2/3), Suprema Corte R1-R4 e busca viva de jurisprudencia. Hierarquia de 4 camadas: 25 Proibicoes Absolutas, 7 Protocolos Tecnicos, identidade FIRAC e skills operacionais. Onboarding via /start-trabalhista. Consolidado no marketplace Machado Advocacia em 06/07/2026 (origem: sbroggioadv/trabalhista-adv-os-marketplace, MIT).",
+      "author": {
+        "name": "Sbroggio Advocacia & IA Combativa"
+      }
+    },
+    {
+      "name": "direito-medico-adv-os",
+      "version": "0.1.0",
+      "source": "./direito-medico-adv-os",
+      "description": "Sistema operacional do advogado especialista em direito medico e direito da saude. 37 skills + 11 commands + 4 hooks orquestrando defesa multi-frente do profissional (civil + criminal + etico-disciplinar), acoes contra plano de saude (oncologia, home care, OPME, TEA, reajuste, rescisao), consultivo empresarial para clinicas/sociedades medicas (Lei 12.842, LGPD, publicidade Res. CFM 2.336/2023) e revisao tecnica R1-R4 (Suprema Corte) em toda entrega. Inclui o Protocolo P4 — Cruzamento Multi-esfera (CC art. 935). Onboarding via /start-medico. Consolidado no marketplace Machado Advocacia em 06/07/2026 (origem: sbroggioadv/direito-medico-adv-os-marketplace, MIT).",
+      "author": {
+        "name": "Sbroggio Advocacia & IA Combativa"
+      }
     }
   ]
 }

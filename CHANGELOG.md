@@ -2,6 +2,17 @@
 
 Histórico do conjunto de plugins jurídicos (Adv-OS). Datas em AAAA-MM-DD.
 
+## 2026-07-06
+
+### Consolidação — `trabalhista-adv-os` v0.1.1 e `direito-medico-adv-os` v0.1.0
+- Os dois últimos plugins hospedados fora do marketplace próprio (repositórios
+  `sbroggioadv/trabalhista-adv-os-marketplace` e `sbroggioadv/direito-medico-adv-os-marketplace`)
+  foram **incorporados sem alteração de conteúdo** (mesmas versões instaladas no CLI).
+- Licença MIT de origem preservada (`LICENSE` dentro de cada pasta de plugin);
+  autoria original mantida no `marketplace.json`.
+- Com isso o marketplace passa a hospedar os **15 plugins** do escritório; os dois
+  marketplaces externos podem ser removidos do CLI após a reinstalação apontar para cá.
+
 ## 2026-07-04
 
 ### Novo plugin — `jurimetria-adv-os` v0.1.0 (analítico)

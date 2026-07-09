@@ -1,13 +1,7 @@
 ---
 name: usucapiao-master
 description: >
-  USUCAPIAO MASTER — Skill orquestradora Tier 0, sempre ativa em qualquer demanda de usucapiao
-  (judicial ou extrajudicial). Carrega a Hierarquia das 4 Camadas, as Proibicoes Absolutas, os
-  Protocolos e a Suprema Corte R1-R4. Side-aware: usucapiente (autor) x confrontante/oponente.
-  Ative quando o usuario mencionar usucapiao, usucapir, prescricao aquisitiva, posse ad usucapionem,
-  justo titulo, animus domini, usucapiao extraordinaria/ordinaria/especial urbana/rural/familiar/
-  coletiva, usucapiao extrajudicial, cartorio, ata notarial, planta e memorial, ART, anuencia de
-  confrontantes, Registro de Imoveis, regularizacao fundiaria, CPC art. 1.071, Lei 6.015 art. 216-A.
+  USUCAPIAO MASTER — orquestradora Tier 0, sempre ativa em qualquer demanda de usucapiao. Carrega as 4 Camadas, Proibicoes, Protocolos e a Suprema Corte R1-R4. Side-aware: usucapiente x confrontante. Ative quando o usuario mencionar usucapiao, usucapir, prescricao aquisitiva, posse ad usucapionem, justo titulo, animus domini, modalidades (extraordinaria/ordinaria/especial/familiar/coletiva), usucapiao extrajudicial, cartorio, ata notarial, planta e memorial, ART, Registro de Imoveis, CPC 1.071, Lei 6.015 216-A.
 metadata:
   version: "0.1.0"
   area: "Usucapiao (Judicial e Extrajudicial)"

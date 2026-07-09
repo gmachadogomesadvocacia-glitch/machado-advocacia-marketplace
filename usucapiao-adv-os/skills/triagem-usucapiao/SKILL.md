@@ -1,11 +1,7 @@
 ---
 name: triagem-usucapiao
 description: >
-  TRIAGEM USUCAPIAO — Skill Tier 1, porta de entrada. Classifica a demanda em 4 dimensoes (polo;
-  via judicial x extrajudicial; modalidade; imovel urbano/rural) e faz o pre-check da posse, abrindo
-  o CASO.md. Acione em todo caso novo de usucapiao, quando o usuario pedir para enquadrar a demanda,
-  decidir a via, ou antes de qualquer producao. Gatilhos: quero usucapir um imovel, moro ha anos num
-  terreno sem documento, regularizar imovel, usucapiao em cartorio, confrontante quer me processar.
+  TRIAGEM USUCAPIAO — Tier 1, porta de entrada. Classifica a demanda em 4 dimensoes (polo; judicial x extrajudicial; modalidade; urbano/rural) e faz o pre-check da posse, abrindo o CASO.md. Acione em todo caso novo, quando o usuario pedir para enquadrar a demanda ou decidir a via. Gatilhos: quero usucapir, moro ha anos num terreno sem documento, regularizar imovel, usucapiao em cartorio, confrontante quer me processar.
 metadata:
   version: "0.1.0"
   area: "Usucapiao (Judicial e Extrajudicial)"

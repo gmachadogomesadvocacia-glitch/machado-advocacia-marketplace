@@ -1,13 +1,7 @@
 ---
 name: usucapiao-extrajudicial
 description: >
-  USUCAPIAO EXTRAJUDICIAL — Skill Tier 2 (lado usucapiente), via cartorio. Conduz o procedimento de
-  usucapiao administrativa no Registro de Imoveis (CPC art. 1.071 + Lei 6.015 art. 216-A + Provimento
-  CNJ): ata notarial atestando o tempo de posse, planta e memorial descritivo com ART/responsavel
-  tecnico, anuencia dos confrontantes e titulares (e o tratamento da falta de anuencia/silencio), o
-  requerimento dirigido ao oficial do RI, e o caminho da impugnacao. Acione quando ha CONSENSO e a via
-  for extrajudicial. Havendo litigio/oposicao, encaminhar para a via judicial (acao-usucapiao). Exige
-  Selo P1.
+  USUCAPIAO EXTRAJUDICIAL — Tier 2 (usucapiente), via cartorio (CPC 1.071 + Lei 6.015 art. 216-A + Provimento CNJ). Conduz o procedimento no RI: ata notarial, planta/memorial com ART, anuencia de confrontantes/titulares, requerimento ao oficial e o caminho da impugnacao. Acione quando ha CONSENSO e a via for extrajudicial; havendo litigio, encaminhar ao judicial.
 metadata:
   version: "0.1.0"
   area: "Usucapiao (Judicial e Extrajudicial)"

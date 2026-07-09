@@ -1,12 +1,7 @@
 ---
 name: onboarding-usucapiao
 description: >
-  ONBOARDING USUCAPIAO — Skill Tier 1, wizard de configuracao do escritorio (/start-usucapiao).
-  Coleta identidade (nome, OAB, cidade/UF), frentes de atuacao (judicial / extrajudicial-cartorio /
-  defesa-confrontante / consultivo de regularizacao), tom, modo de fluxo e ferramentas; grava o estado
-  do plugin, renderiza a persona local e cria a pasta de casos. Acione quando o usuario disser
-  configurar usucapiao, instalar, primeira vez, comecar a usar, onboarding, /start-usucapiao, ou montar
-  o escritorio de usucapiao. Wizard travado em USUCAPIAO. Alerta de LGPD/sigilo no fim.
+  ONBOARDING USUCAPIAO — Tier 1, wizard de configuracao (/start-usucapiao). Coleta identidade (nome, OAB, cidade/UF), frentes, tom e ferramentas; grava o estado, renderiza a persona e cria a pasta de casos. Acione quando o usuario disser configurar usucapiao, instalar, primeira vez, comecar a usar, onboarding, /start-usucapiao, ou montar o escritorio.
 metadata:
   version: "0.1.0"
   area: "Usucapiao (Judicial e Extrajudicial)"

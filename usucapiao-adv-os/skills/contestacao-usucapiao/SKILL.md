@@ -1,13 +1,7 @@
 ---
 name: contestacao-usucapiao
 description: >
-  CONTESTACAO USUCAPIAO — Skill Tier 2 (lado confrontante/reu). Redige a DEFESA na acao de usucapiao:
-  preliminares (CPC art. 337) e merito para DESCARACTERIZAR a posse do autor — e detencao/permissao/
-  comodato e nao posse (PA-09), falta animus domini, posse violenta/clandestina/precaria nao usucape,
-  interrupcao/oposicao que quebra a continuidade — impugnar metragem/confrontacoes, alegar BEM PUBLICO
-  (PA-04) ou o justo titulo/registro do reu, e a posse do proprio confrontante. Side-aware
-  (confrontante/reu). Acione quando o cliente e o confrontante/titular/reu e ha acao de usucapiao a
-  contestar. Exige Selo P1, matricula/certidoes e a analise de posse.
+  CONTESTACAO USUCAPIAO — Tier 2 (confrontante/reu). Redige a defesa na acao de usucapiao: preliminares (CPC 337) e merito para descaracterizar a posse do autor (detencao, falta de animus domini, posse viciada, interrupcao, metragem, bem publico, justo titulo do reu). Side-aware. Acione quando o cliente e o confrontante/titular/reu e ha acao de usucapiao a contestar.
 metadata:
   version: "0.1.0"
   area: "Usucapiao (Judicial e Extrajudicial)"

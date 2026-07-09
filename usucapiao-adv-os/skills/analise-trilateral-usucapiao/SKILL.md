@@ -1,12 +1,7 @@
 ---
 name: analise-trilateral-usucapiao
 description: >
-  ANALISE TRILATERAL USUCAPIAO — Skill Tier 1. Antes da linha estrategica, analisa o caso por 3 prismas
-  obrigatorios: Cliente (posse + modalidade + documentacao), OPONENTE/confrontante (a melhor defesa
-  contra a usucapiao) e Juiz/Oficial do RI (como o caso aparece para quem decide ou registra). Gera a
-  matriz forcas x fragilidades x contra-teses. Acione apos a triagem e as analises de posse/documental,
-  antes da estrategia. Gatilhos: analisar o caso pelos tres lados, qual a defesa do confrontante, pontos
-  fortes e fracos da usucapiao, como o juiz/cartorio ve isso, antecipar a oposicao, trilateral.
+  ANALISE TRILATERAL USUCAPIAO — Tier 1. Analisa o caso por 3 prismas (cliente, confrontante/oponente, juiz/oficial do RI) e gera a matriz forcas x fragilidades x contra-teses. Acione apos a triagem e as analises de posse/documental, antes da estrategia. Gatilhos: analisar pelos tres lados, defesa do confrontante, pontos fortes/fracos, antecipar a oposicao, trilateral.
 metadata:
   version: "0.1.0"
   area: "Usucapiao (Judicial e Extrajudicial)"

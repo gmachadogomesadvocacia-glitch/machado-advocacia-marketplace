@@ -1,14 +1,7 @@
 ---
 name: impugnacao-usucapiao-extrajudicial
 description: >
-  IMPUGNACAO USUCAPIAO EXTRAJUDICIAL — Skill Tier 2, procedimento de cartorio (Lei 6.015 art. 216-A).
-  Side-aware. (a) Pelo CONFRONTANTE/interessado: IMPUGNA fundamentadamente, perante o oficial do RI, o
-  pedido de usucapiao extrajudicial; impugnacao nao resolvida no extrajudicial faz o oficial remeter os
-  autos ao juizo (a via vira judicial). (b) Pelo REQUERENTE: responde a impugnacao, suscita duvida ou
-  converte em acao judicial. Cobre prazos e o efeito da impugnacao sobre a via. Acione no procedimento
-  de usucapiao em cartorio quando ha impugnacao a apresentar ou a responder. Exige Selo P1. Gatilhos:
-  impugnar usucapiao extrajudicial, oficial do RI, notificacao do confrontante, responder impugnacao,
-  suscitar duvida, converter em acao.
+  IMPUGNACAO USUCAPIAO EXTRAJUDICIAL — Tier 2, cartorio (Lei 6.015 art. 216-A). Side-aware: (a) confrontante impugna perante o oficial do RI; (b) requerente responde, suscita duvida ou converte em acao. Cobre prazos e o efeito sobre a via. Acione no procedimento em cartorio quando ha impugnacao a apresentar ou responder. Gatilhos: impugnar usucapiao extrajudicial, oficial do RI, notificacao do confrontante, responder impugnacao, suscitar duvida, converter em acao.
 metadata:
   version: "0.1.0"
   area: "Usucapiao (Judicial e Extrajudicial)"

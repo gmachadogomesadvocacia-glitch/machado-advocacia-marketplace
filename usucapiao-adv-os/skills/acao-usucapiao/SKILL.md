@@ -1,12 +1,7 @@
 ---
 name: acao-usucapiao
 description: >
-  ACAO USUCAPIAO — Skill Tier 2 (lado usucapiente), peca principal da via judicial. Redige a peticao
-  inicial da acao de usucapiao em qualquer modalidade, com a qualificacao do imovel, a causa de pedir
-  (posse ad usucapionem + modalidade), o rol de citacoes obrigatorias (confrontantes, titulares,
-  Uniao/Estado/Municipio + reus incertos por edital — CPC art. 246 §3 e 259 III), a planta/memorial e
-  os pedidos (declaracao do dominio + registro no RI). Acione quando a via for judicial e o cliente e o
-  usucapiente. Exige Selo P1, matricula/certidoes e a analise de posse.
+  ACAO USUCAPIAO — Tier 2 (usucapiente). Redige a peticao inicial da acao de usucapiao (qualquer modalidade): qualificacao do imovel, causa de pedir, rol de citacoes obrigatorias, planta/memorial e pedidos. Acione quando a via for judicial e o cliente e o usucapiente.
 metadata:
   version: "0.1.0"
   area: "Usucapiao (Judicial e Extrajudicial)"

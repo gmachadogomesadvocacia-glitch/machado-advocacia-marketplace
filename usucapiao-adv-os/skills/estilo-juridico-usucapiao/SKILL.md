@@ -1,13 +1,7 @@
 ---
 name: estilo-juridico-usucapiao
 description: >
-  ESTILO JURIDICO USUCAPIAO — Skill Tier 1 transversal (Camada 3). Padrao de redacao de toda peca de
-  usucapiao: FIRAC, texto enxuto, documentos numerados "doc. N", DESCRICAO TECNICA DO IMOVEL apta a
-  registro (coerente com planta/memorial — confrontacoes, metragem, georreferenciamento quando rural),
-  antecipacao adversarial dura (detencao, animus domini, interrupcao da posse, bem publico, metragem) e
-  tom tecnico imobiliario. Apoia a producao de inicial, contestacao, requerimento extrajudicial e
-  impugnacao. Acione durante a redacao de qualquer peca de usucapiao, ou quando o usuario pedir o estilo,
-  o padrao de redacao, ou a descricao do imovel para registro.
+  ESTILO JURIDICO USUCAPIAO — Tier 1 transversal (Camada 3). Padrao de redacao de toda peca de usucapiao: FIRAC, texto enxuto, docs 'doc. N', descricao tecnica do imovel apta a registro, antecipacao adversarial e tom tecnico imobiliario. Acione durante a redacao de qualquer peca, ou quando o usuario pedir o estilo, o padrao de redacao, ou a descricao do imovel para registro.
 metadata:
   version: "0.1.0"
   area: "Usucapiao (Judicial e Extrajudicial)"

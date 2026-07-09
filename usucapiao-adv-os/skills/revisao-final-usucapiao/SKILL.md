@@ -1,12 +1,7 @@
 ---
 name: revisao-final-usucapiao
 description: >
-  REVISAO FINAL USUCAPIAO — Skill Tier 3, a Suprema Corte do plugin. Auditoria invariante R1-R4
-  obrigatoria sobre todo documento (acao, requerimento extrajudicial, contestacao, impugnacao, parecer)
-  ANTES da entrega: R1 coleta/escopo, R2 base juridica, R3 tese/coerencia de polo, R4 completude/estilo.
-  Cada etapa emite APROVADO, APROVADO COM RESSALVAS ou REPROVADO; reprovacao bloqueia a entrega. Acione
-  SEMPRE antes de entregar, ou quando o usuario pedir revisar/auditar/conferir antes de protocolar.
-  Bypass so com --no-corte/--quick explicito.
+  REVISAO FINAL USUCAPIAO — Tier 3, a Suprema Corte do plugin. Auditoria invariante R1-R4 sobre todo documento antes da entrega (R1 escopo, R2 base juridica, R3 tese/polo, R4 completude/estilo); reprovacao bloqueia. Acione SEMPRE antes de entregar, ou quando o usuario pedir revisar/auditar/conferir antes de protocolar. Bypass so com --no-corte/--quick.
 metadata:
   version: "0.1.0"
   area: "Usucapiao (Judicial e Extrajudicial)"

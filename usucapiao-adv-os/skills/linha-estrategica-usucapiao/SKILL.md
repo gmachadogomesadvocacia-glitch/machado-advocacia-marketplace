@@ -1,13 +1,7 @@
 ---
 name: linha-estrategica-usucapiao
 description: >
-  LINHA ESTRATEGICA USUCAPIAO — Skill Tier 1. Consolida a analise trilateral e a jurisprudencia e
-  define a linha do caso: a VIA (judicial x extrajudicial — extrajudicial so com CONSENSO/anuencias;
-  havendo litigio/oposicao vai para judicial, PA-07), a MODALIDADE mais favoravel (quando cabe mais de
-  uma, a de menor prazo/menos requisitos — ex.: extraordinaria dispensa justo titulo), o foro (situacao
-  do imovel) ou o RI da circunscricao, e a interface com possessorias/reivindicatoria. Respeita
-  {{MODO_MELHOR_SAIDA}}. Acione apos a trilateral/jurisprudencia, quando o usuario pede a estrategia, a
-  melhor via, a melhor modalidade ou a linha de acao. Saida: linha estrategica para o advogado validar.
+  LINHA ESTRATEGICA USUCAPIAO — Tier 1. Consolida trilateral + jurisprudencia e define a linha do caso: a via (judicial x extrajudicial), a modalidade mais favoravel, o foro/RI e a interface com possessorias. Respeita {{MODO_MELHOR_SAIDA}}. Acione apos a trilateral/jurisprudencia, quando o usuario pede a estrategia, a melhor via, a melhor modalidade ou a linha de acao.
 metadata:
   version: "0.1.0"
   area: "Usucapiao (Judicial e Extrajudicial)"

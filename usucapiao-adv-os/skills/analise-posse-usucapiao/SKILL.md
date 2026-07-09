@@ -1,13 +1,7 @@
 ---
 name: analise-posse-usucapiao
 description: >
-  ANALISE POSSE USUCAPIAO — Skill Tier 1 (Protocolo P4), o coracao do plugin. Verifica a POSSE ad
-  usucapionem e DEFINE a MODALIDADE cabivel. Checa tempo de posse (com accessio possessionis), qualidade
-  (mansa, pacifica, continua, ininterrupta, com animus domini), a distincao POSSE x DETENCAO
-  (comodatario/locatario/permissionario nao usucapem), justo titulo + boa-fe (ordinaria), metragem e
-  destinacao (250 m2 urbana / 50 ha rural / moradia) e o requisito de nao ser proprietario de outro
-  imovel (especiais). Acione quando o usuario pedir para analisar a posse, definir a modalidade, saber
-  qual usucapiao cabe, conferir tempo/metragem/animus domini, ou distinguir posse de detencao.
+  ANALISE POSSE USUCAPIAO — Tier 1 (P4), coracao do plugin. Verifica a posse ad usucapionem e DEFINE a MODALIDADE cabivel (tempo, animus domini, posse x detencao, justo titulo/boa-fe, metragem/destinacao). Acione quando o usuario pedir para analisar a posse, definir a modalidade, saber qual usucapiao cabe, conferir tempo/metragem/animus domini, ou distinguir posse de detencao.
 metadata:
   version: "0.1.0"
   area: "Usucapiao (Judicial e Extrajudicial)"

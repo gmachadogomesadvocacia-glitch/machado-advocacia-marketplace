@@ -1,13 +1,7 @@
 ---
 name: analise-documental-usucapiao
 description: >
-  ANALISE DOCUMENTAL USUCAPIAO — Skill Tier 1 (Protocolo P2, integridade documental). Inventaria e
-  testa a integridade dos documentos do caso: matricula/certidao do RI (titular registral, onus, se ha
-  registro), planta e memorial descritivo com ART/RRT, comprovantes de posse (IPTU, contas de luz/agua,
-  benfeitorias, fotos, contratos), certidoes dos distribuidores e identificacao dos confrontantes e suas
-  anuencias. Monta o mapa "doc. N" e marca faltantes com [INFORMAR]. Acione quando o usuario entregar
-  documentos, mencionar matricula, planta, memorial, ART, IPTU, anuencia de confrontante, ou pedir para
-  conferir a documentacao. Verifica se o imovel e BEM PUBLICO (PA-04) ou tem titular registral.
+  ANALISE DOCUMENTAL USUCAPIAO — Tier 1 (P2). Inventaria e testa a integridade dos documentos (matricula/RI, planta e memorial com ART, comprovantes de posse, certidoes, confrontantes/anuencias); monta o mapa 'doc. N' e marca faltantes. Acione quando o usuario entregar documentos, mencionar matricula, planta, memorial, ART, IPTU, anuencia de confrontante, ou pedir para conferir a documentacao.
 metadata:
   version: "0.1.0"
   area: "Usucapiao (Judicial e Extrajudicial)"

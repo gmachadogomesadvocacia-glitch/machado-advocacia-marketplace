@@ -1,12 +1,7 @@
 ---
 name: memoria-de-caso-usucapiao
 description: >
-  MEMORIA DE CASO USUCAPIAO — Skill Tier 1 invariante (Protocolo P3). Gerencia o CASO.md (estado vivo)
-  e o MEMORY.md (decisoes) compartimentados por cliente em `<cwd>/usucapiao/casos/<slug>/`. Opera o
-  PA-12 (sigilo OAB + LGPD): pasta gitignored, alerta se o workspace for sincronizado (OneDrive/iCloud/
-  Google Drive/Dropbox). Suporta novo, retomar, listar e arquivar. Acione ao abrir caso novo, retomar
-  caso, atualizar o CASO.md, registrar decisao, ou ao fim de cada fase do pipeline. Gatilhos: novo caso
-  usucapiao, abrir caso, retomar caso, CASO.md, memoria do caso, listar casos, arquivar caso.
+  MEMORIA DE CASO USUCAPIAO — Tier 1 invariante (P3). Gerencia CASO.md e MEMORY.md por cliente em usucapiao/casos/<slug>/; opera o PA-12 (sigilo OAB + LGPD). Suporta novo, retomar, listar, arquivar. Acione ao abrir/retomar caso, atualizar o CASO.md, registrar decisao, ou ao fim de cada fase. Gatilhos: novo caso usucapiao, abrir/retomar caso, CASO.md, listar casos, arquivar caso.
 metadata:
   version: "0.1.0"
   area: "Usucapiao (Judicial e Extrajudicial)"

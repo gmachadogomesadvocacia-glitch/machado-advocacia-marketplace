@@ -1,13 +1,7 @@
 ---
 name: jurisprudencia-usucapiao
 description: >
-  JURISPRUDENCIA USUCAPIAO — Skill Tier 1 (apoio ao Selo P1, Protocolo PA-01). Busca viva, valida e
-  organiza jurisprudencia de usucapiao em 3 niveis (sumulas/ancoras, repetitivos/STJ, TJ). Ancoras:
-  art. 1.238 CC (extraordinaria dispensa justo titulo e boa-fe), Sumula 340 STF (bem publico dominical
-  nao se adquire por usucapiao), STJ sobre justo titulo/posse/area e a usucapiao extrajudicial e o
-  silencio do confrontante (Lei 6.015 art. 216-A §2). Acione quando o usuario pedir jurisprudencia,
-  sumula, precedente, tema repetitivo, posicao do STJ/STF sobre posse, justo titulo, bem publico,
-  metragem ou usucapiao em cartorio. PA-01: nunca citar sem validar.
+  JURISPRUDENCIA USUCAPIAO — Tier 1 (apoio ao Selo P1, PA-01). Busca viva, valida e organiza jurisprudencia de usucapiao em 3 niveis (sumulas/ancoras, repetitivos/STJ, TJ). Acione quando o usuario pedir jurisprudencia, sumula, precedente, tema repetitivo, posicao do STJ/STF sobre posse, justo titulo, bem publico, metragem ou usucapiao em cartorio. PA-01: nunca citar sem validar.
 metadata:
   version: "0.1.0"
   area: "Usucapiao (Judicial e Extrajudicial)"

@@ -1,15 +1,7 @@
 ---
 name: acao-telecom-servicos
 description: >
-  ACAO TELECOM E SERVICOS ESSENCIAIS — Skill Tier 2 (lado consumidor). Cobre dois eixos: telecom
-  (ANATEL — cobranca indevida, ma prestacao, fidelizacao abusiva, interrupcao, planos) e servicos
-  essenciais (energia, agua, gas — Lei 8.987). Tese central dos essenciais: o corte so e licito com
-  aviso previo e por DEBITO ATUAL — vedado o corte por debito pretérito apurado unilateralmente
-  (recuperacao de consumo), em nome da essencialidade e da dignidade. Pedidos: restabelecimento,
-  declaracao de inexigibilidade, repeticao de indebito e dano moral; religacao por
-  `tutela-urgencia-consumidor`. Acione quando o consumidor reclama de conta de luz/agua/gas, corte de
-  servico, cobranca de telefonia/internet, fidelizacao, multa de cancelamento, ANATEL ou recuperacao
-  de consumo. Exige Selo P1.
+  ACAO TELECOM E SERVICOS ESSENCIAIS — Skill Tier 2 (lado consumidor). Acione quando o consumidor reclama de conta de luz/agua/gas, corte de servico, cobranca de telefonia/internet, fidelizacao, multa de cancelamento, ANATEL ou recuperacao de consumo. Exige Selo P1.
 metadata:
   version: "0.1.0"
   area: "Direito do Consumidor e Bancario"

@@ -1,17 +1,7 @@
 ---
 name: contratos-civeis
 description: >
-  Tier 2 — teoria geral dos contratos e contratos tipicos civis (prestacao de servico, mutuo/emprestimo,
-  comodato, mandato, doacao, fianca civil, locacao de coisas moveis). Cobre os dois polos: AUTOR
-  (cobranca/revisao/resolucao) e REU (defesa). Principios (autonomia da vontade, funcao social — CC 421,
-  boa-fe objetiva — CC 422). Inadimplemento absoluto x mora (CC 394-401), clausula penal (CC 408-416),
-  exceptio non adimpleti contractus (CC 476), revisao por onerosidade excessiva e teoria da imprevisao
-  (CC 478), resolucao/rescisao, distrato (CC 472), vicios redibitorios (CC 441-446) e evicção (CC
-  447-457) em contratos civis. Acoes: revisional, de rescisao/resolucao contratual, de obrigacao de
-  fazer/dar contratual, consignatoria. Ative em contrato, inadimplemento, mora, clausula penal, multa
-  contratual, revisao de contrato, rescisao, distrato, comodato, mutuo, mandato, doacao, fianca civil
-  ou vicio redibitorio. NAO trata contrato de consumo, locacao predial urbana (Lei 8.245) nem imovel —
-  rotear (PA-09).
+  Tier 2 — teoria geral dos contratos e contratos tipicos civis (prestacao de servico, mutuo/emprestimo, comodato, mandato, doacao, fianca civil, locacao de coisas moveis). Ative em contrato, inadimplemento, mora, clausula penal, multa contratual, revisao de contrato, rescisao, distrato, comodato, mutuo, mandato, doacao, fianca civil ou vicio redibitorio. NAO trata contrato de consumo, locacao predial urbana (Lei 8.245) nem imovel — rotear (PA-09).
 metadata:
   version: "0.1.0"
   area: "Direito Civil e Processo Civil"

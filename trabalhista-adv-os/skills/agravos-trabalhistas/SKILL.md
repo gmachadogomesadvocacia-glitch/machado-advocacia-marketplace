@@ -1,7 +1,7 @@
 ---
 name: agravos-trabalhistas
 description: >
-  AGRAVOS TRABALHISTAS — Skill Tier 2 recursal transversal. Produz o Agravo de Peticao (impugna decisao na execucao), o Agravo Regimental/Interno (contra decisao monocratica), o Pedido de Revisao do valor de alcada e a contraminuta de agravo. Prazos: 8 dias / 48h. Use quando menciona agravo de peticao, agravo regimental, agravo interno, contraminuta de agravo, recorrer na execucao.
+  AGRAVOS TRABALHISTAS — Skill Tier 2 recursal transversal. Use quando menciona agravo de peticao, agravo regimental, agravo interno, contraminuta de agravo, recorrer na execucao.
 ---
 
 # AGRAVOS TRABALHISTAS

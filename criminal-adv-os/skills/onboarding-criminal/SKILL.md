@@ -1,13 +1,7 @@
 ---
 name: onboarding-criminal
 description: >
-  Onboarding criminal Tier 1 — configura o escritorio e a persona do plugin no ambiente do operador.
-  Conduz o fluxo /start-criminal: coleta identidade (nome, OAB/UF/numero, firma, cidade/UF, email),
-  tom de voz e intensidade, e as fases de atuacao (investigacao/inquerito, acao penal, tribunal do juri,
-  recursos, execucao penal, acordos despenalizadores). Gera a persona.md a partir do template (fora do
-  plugin distribuido) e inicializa o estado de caso. Aponta /start-criminal, /status-criminal e
-  /caso-criminal. Ative em primeira configuracao, instalar, configurar escritorio, persona, primeira vez
-  ou /start-criminal.
+  Onboarding criminal Tier 1 — configura o escritorio e a persona do plugin no ambiente do operador. Ative em primeira configuracao, instalar, configurar escritorio, persona, primeira vez ou /start-criminal.
 metadata:
   version: "0.1.0"
   area: "Direito Penal e Processo Penal"

@@ -1,12 +1,7 @@
 ---
 name: pensao-por-morte-dependentes
 description: >
-  Producao para PENSAO POR MORTE e habilitacao de DEPENDENTES no RGPS (Lei 8.213/91
-  arts. 16, 74-79; EC 103/2019; Lei 13.135/2015), e tambem AUXILIO-RECLUSAO. Ative em:
-  obito de segurado, habilitacao/rateio de pensao, dependencia economica, qualidade de
-  segurado no obito, cotas e duracao da pensao, perda/restabelecimento, pensao a ex-conjuge/
-  companheiro(a), uniao estavel, filho invalido/com deficiencia, e auxilio-reclusao. So apos
-  triagem + Selo. Encerra na suprema-corte-previdenciaria (R1-R4).
+  Producao para PENSAO POR MORTE e habilitacao de DEPENDENTES no RGPS (Lei 8.213/91 arts. Ative em: obito de segurado, habilitacao/rateio de pensao, dependencia economica, qualidade de segurado no obito, cotas e duracao da pensao, perda/restabelecimento, pensao a ex-conjuge/ companheiro(a), uniao estavel, filho invalido/com deficiencia, e auxilio-reclusao. So apos triagem + Selo. Encerra na suprema-corte-previdenciaria (R1-R4).
 ---
 
 # PENSAO POR MORTE E HABILITACAO DE DEPENDENTES

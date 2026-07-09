@@ -1,14 +1,7 @@
 ---
 name: triagem-rj
 description: >
-  TRIAGEM-RJ — Tier 1 (Porta de Entrada). Realiza o enquadramento
-  jurídico-estratégico inicial de casos de insolvência empresarial.
-  Primeira pergunta SEMPRE: o cliente é CREDOR ou DEVEDORA? Para
-  CREDOR TRABALHISTA, roteia imediatamente para `credor-trabalhista-rj`
-  (eixo prioritário do plug-in). Para credor não-trabalhista, segue
-  com `habilitacao-credito-rj`. Para devedora ou AJ, faz a triagem
-  clássica (art. 48, art. 51, viabilidade). Cria o CASO.md
-  credor-centric ou devedor-centric conforme o polo.
+  TRIAGEM-RJ — Tier 1 (Porta de Entrada). Realiza o enquadramento jurídico-estratégico inicial de casos de insolvência empresarial. Primeira pergunta SEMPRE: o cliente é CREDOR ou DEVEDORA? Para CREDOR TRABALHISTA, roteia imediatamente para `credor-trabalhista-rj` (eixo prioritário do plug-in). Para credor não-trabalhista, segue com `habilitacao-credito-rj`. Para devedora ou AJ, faz a triagem clássica (art. 48, art. 51, viabilidade). Cria o CASO.md credor-centric ou devedor-centric conforme o polo.
 ---
 
 # TRIAGEM-RJ

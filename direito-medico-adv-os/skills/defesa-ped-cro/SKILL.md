@@ -1,7 +1,7 @@
 ---
 name: defesa-ped-cro
 description: >
-  Defesa em PED no Conselho Regional de Odontologia (CRO) — Res. CFO 71/2006 (CPEO) + Res. CFO 118/2012 (CEO) + Res. CFO 196/2019 (publicidade — tema recorrente). Particularidades vs CRM: CRO julga clinica/PJ (Lei 4.324/64 + Res. CFO 63/2005); fluxo similar com instancia revisora CFO e penas analogas (advertencia confidencial -> cassacao). Denuncias tipicas: publicidade irregular (selfie, antes/depois, sensacionalismo), preposicao indevida, terceirizacao, HOF interconselhos (Res. CFM 2.337/2023 vs Res. CFO 198/2019). Teses: prescricao 5a (Res. CFO 71 art. 35), atipicidade etica, vicio processual, divergencia tecnica, cruzamento P4. Aciona: PED CRO, defesa etica odontologica, Res. CFO 71, CEO 118, Res. CFO 196, publicidade odontologica, HOF dentista, cassacao CRO, sindicancia CRO, recurso CFO.
+  Defesa em PED no Conselho Regional de Odontologia (CRO). Aciona: PED CRO, defesa etica odontologica, Res. CFO 71, CEO 118, Res. CFO 196, publicidade odontologica, HOF dentista, cassacao CRO, sindicancia CRO, recurso CFO.
 ---
 
 # DEFESA EM PED CRO

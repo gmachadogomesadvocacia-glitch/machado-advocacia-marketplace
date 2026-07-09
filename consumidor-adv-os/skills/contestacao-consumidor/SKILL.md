@@ -1,13 +1,7 @@
 ---
 name: contestacao-consumidor
 description: >
-  CONTESTACAO CONSUMIDOR — Skill Tier 2 (lado fornecedor/reu). Redige a defesa empresarial em acao
-  consumerista: preliminares, prejudiciais (prescricao art. 27 / decadencia art. 26) e impugnacao
-  ponto a ponto do merito, com as excludentes de responsabilidade (culpa exclusiva do consumidor ou de
-  terceiro, caso fortuito/forca maior, inexistencia de defeito — art. 12 §3 / 14 §3 CDC) e o ataque ao
-  dano moral e ao seu quantum. Peca-base das defesas do fornecedor. Acione quando o cliente e o
-  fornecedor (banco, loja, operadora, prestador) e o usuario pede contestacao, defesa, resposta. Exige
-  Selo P1 e os documentos da empresa.
+  CONTESTACAO CONSUMIDOR — Skill Tier 2 (lado fornecedor/reu). Acione quando o cliente e o fornecedor (banco, loja, operadora, prestador) e o usuario pede contestacao, defesa, resposta. Exige Selo P1 e os documentos da empresa.
 metadata:
   version: "0.1.0"
   area: "Direito do Consumidor e Bancario"

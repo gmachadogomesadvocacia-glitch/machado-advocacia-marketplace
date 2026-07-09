@@ -1,12 +1,7 @@
 ---
 name: memoria-de-caso-rj
 description: >
-  MEMORIA-DE-CASO-RJ — Transversal (Estado Vivo). Cria, atualiza e mantém o CASO.md de cada
-  processo de recuperação judicial ou falência. Registra polo, fase, credores, documentos,
-  decisões, prazos críticos e peças produzidas. Deve ser chamada após cada evento relevante
-  no processo — protocolo de peça, decisão judicial, AGC, pagamento, convolação. Acionar
-  quando o usuário quiser salvar o estado atual do caso, registrar uma decisão, atualizar
-  prazos, ou consultar o histórico de um processo de RJ. Protocolo P3 obrigatório.
+  MEMORIA-DE-CASO-RJ — Transversal (Estado Vivo). Acionar quando o usuário quiser salvar o estado atual do caso, registrar uma decisão, atualizar prazos, ou consultar o histórico de um processo de RJ. Protocolo P3 obrigatório.
 ---
 
 # MEMORIA-DE-CASO-RJ

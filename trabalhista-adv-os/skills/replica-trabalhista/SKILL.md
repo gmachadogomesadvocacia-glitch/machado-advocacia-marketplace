@@ -1,7 +1,7 @@
 ---
 name: replica-trabalhista
 description: >
-  REPLICA TRABALHISTA — Skill Tier 2 (lado reclamante). Redige a replica/impugnacao a contestacao: rebate preliminares, prejudiciais e a tese de merito da reclamada e reforca a inicial. Use quando o cliente e o reclamante e ha contestacao a impugnar, ou o usuario pede replica, impugnacao a contestacao, manifestacao sobre a defesa.
+  REPLICA TRABALHISTA — Skill Tier 2 (lado reclamante). Use quando o cliente e o reclamante e ha contestacao a impugnar, ou o usuario pede replica, impugnacao a contestacao, manifestacao sobre a defesa.
 ---
 
 # REPLICA TRABALHISTA

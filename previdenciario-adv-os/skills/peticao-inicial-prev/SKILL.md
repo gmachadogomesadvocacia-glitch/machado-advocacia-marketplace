@@ -1,13 +1,7 @@
 ---
 name: peticao-inicial-prev
 description: >
-  PETICAO INICIAL PREVIDENCIARIA — Skill Tier 2 A. Produz peticao inicial em acoes
-  previdenciarias: concessoria de beneficio (B41/B42/B46/B31/B32/B21/B91/B87/B80),
-  revisional de RMI, mandado de seguranca preventivo, acao de concessao de BPC/LOAS.
-  Estrutura FIRAC + AIDA com fundamentacao em Lei 8.213/91, EC 103/2019, IN INSS,
-  jurisprudencia TNU (vinculante para JEF), STJ e STF. Inclui pedido de tutela de urgencia
-  quando cabivel. Acionar apos triagem-dogmatica + analise-trilateral + calculos-previdenciarios
-  e jurisprudencia-estrategica. Suprema Corte R1-R4 aplicada automaticamente ao final.
+  PETICAO INICIAL PREVIDENCIARIA — Skill Tier 2 A. Acionar apos triagem-dogmatica + analise-trilateral + calculos-previdenciarios e jurisprudencia-estrategica. Suprema Corte R1-R4 aplicada automaticamente ao final.
 ---
 
 # PETICAO INICIAL PREVIDENCIARIA

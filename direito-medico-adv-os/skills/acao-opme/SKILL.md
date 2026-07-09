@@ -1,7 +1,7 @@
 ---
 name: acao-opme
 description: >
-  Acao contra operadora por glosa ou imposicao de marca/fornecedor em Orteses, Proteses e Materiais Especiais (OPME) prescritos pelo medico assistente — protese ortopedica, marca-passo, stent, valvulas cardiacas, neuroestimulador, lente intraocular, implantes de coluna, cirurgia bariatrica. Aplica Lei 9.656/1998 art. 10§4o (cobertura obrigatoria de OPME) + Lei 14.454/2022 (criterios p/ fora do rol; ADI 7.265 STF — taxativo mitigado) + STJ REsp 1.733.013/PR (operadora nao impoe marca; prevalece prescricao medica fundamentada) + Sum. 608 STJ. Distingue OPME coberta (vinculada a procedimento do Rol) de OPME nao coberta. Tese central: autonomia tecnica (Lei 12.842/2013 art. 4o) + prescricao fundamentada vs poder regulatorio. Tutela de urgencia. Aciona: OPME negada, glosa material cirurgico, REsp 1.733.013, marca implante, stent, marca-passo, valvula cardiaca, lente intraocular, autonomia medica.
+  Acao contra operadora por glosa ou imposicao de marca/fornecedor em Orteses, Proteses e Materiais Especiais (OPME) prescritos pelo medico assistente. Aciona: OPME negada, glosa material cirurgico, REsp 1.733.013, marca implante, stent, marca-passo, valvula cardiaca, lente intraocular, autonomia medica.
 ---
 
 # ACAO DE OPME (Orteses, Proteses, Materiais Especiais)

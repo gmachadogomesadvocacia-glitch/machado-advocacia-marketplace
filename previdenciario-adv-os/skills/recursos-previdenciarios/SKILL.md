@@ -1,12 +1,7 @@
 ---
 name: recursos-previdenciarios
 description: >
-  RECURSOS PREVIDENCIARIOS — Skill consolidada para producao de qualquer recurso em materia
-  previdenciaria: Recurso Inominado (JEF), Apelacao (JF), Recurso ao JR e CaJ (CRPS),
-  Pedido de Uniformizacao (TNU), Recurso Especial (STJ) e Recurso Extraordinario (STF).
-  Identifica a instancia correta, verifica prazo e cabimento, e constroi o recurso com
-  FIRAC + tese recursal especifica. Acionar quando uma decisao adversa for proferida em
-  qualquer instancia e o prazo recursal estiver em aberto. Verificar prazo IMEDIATAMENTE.
+  RECURSOS PREVIDENCIARIOS — Skill consolidada para producao de qualquer recurso em materia previdenciaria: Recurso Inominado (JEF), Apelacao (JF), Recurso ao JR e CaJ (CRPS), Pedido de Uniformizacao (TNU), Recurso Especial (STJ) e Recurso Extraordinario (STF). Acionar quando uma decisao adversa for proferida em qualquer instancia e o prazo recursal estiver em aberto. Verificar prazo IMEDIATAMENTE.
 ---
 
 # RECURSOS PREVIDENCIARIOS

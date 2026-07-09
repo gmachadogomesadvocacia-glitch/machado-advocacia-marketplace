@@ -1,12 +1,7 @@
 ---
 name: guarda-alimentos
 description: >
-  GUARDA-ALIMENTOS — Tier 2 (Produção). Especializado em guarda compartilhada e unilateral,
-  regulamentação de convivência, alimentos para filhos menores e maiores estudantes,
-  revisão de alimentos, exoneração alimentar, alienação parental (Lei 12.318/2010),
-  guarda de netos por avós, e execução de alimentos (prisão civil + expropriação).
-  Acionar quando o foco do caso for os filhos (guarda, convivência, alimentos) ou
-  quando houver pedido de revisão/exoneração de prestação alimentícia.
+  GUARDA-ALIMENTOS — Tier 2 (Produção). Especializado em guarda compartilhada e unilateral, regulamentação de convivência, alimentos para filhos menores e maiores estudantes... Acionar quando o foco do caso for os filhos (guarda, convivência, alimentos) ou quando houver pedido de revisão/exoneração de prestação alimentícia.
 metadata:
   version: "1.0.0"
 ---

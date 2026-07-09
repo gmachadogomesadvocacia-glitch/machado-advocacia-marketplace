@@ -1,14 +1,7 @@
 ---
 name: analise-contratual-consumidor
 description: >
-  ANALISE CONTRATUAL CONSUMIDOR — Skill Tier 1 (Protocolo P2). Varre o contrato de adesao a caca de
-  clausulas abusivas a luz do art. 51 do CDC (rol exemplificativo) e entrega a TABELA clausula →
-  inciso do art. 51 → vicio → consequencia (nulidade de pleno direito, art. 51 caput). PA-13: nunca
-  pedir nulidade sem indicar o inciso. Acione apos a analise documental, antes da producao; quando o
-  usuario pedir para revisar o contrato, achar clausula abusiva, conferir taxas/encargos/foro/multa,
-  ou avaliar fidelizacao e distrato. Gatilhos: clausula abusiva, contrato de adesao, art. 51, nulidade
-  de clausula, foro de eleicao, comissao de permanencia, capitalizacao, fidelizacao, multa
-  desproporcional, reajuste unilateral, perda das prestacoes, distrato, letra miuda.
+  ANALISE CONTRATUAL CONSUMIDOR — Skill Tier 1 (Protocolo P2). Gatilhos: clausula abusiva, contrato de adesao, art. 51, nulidade de clausula, foro de eleicao, comissao de permanencia, capitalizacao, fidelizacao, multa desproporcional, reajuste unilateral, perda das prestacoes, distrato, letra miuda.
 metadata:
   version: "0.1.0"
   area: "Direito do Consumidor e Bancario"

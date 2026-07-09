@@ -1,14 +1,7 @@
 ---
 name: transito-master
 description: >
-  TRANSITO MASTER — Skill orquestradora Tier 0, sempre ativa em qualquer demanda de Direito de Transito
-  (recursos de multas e CNH). Carrega a Hierarquia das 4 Camadas, as Proibicoes Absolutas, os Protocolos
-  e a Suprema Corte R1-R4. Foco: defesa do condutor/proprietario. Cobre 3 eixos (administrativo, CNH/
-  habilitacao, judicial) + analise de vicios do auto. Base CTB Lei 9.503/97 + Lei 14.071/2020 + CONTRAN.
-  Ative quando o usuario mencionar multa, infracao de transito, auto de infracao, AIT, notificacao de
-  autuacao/penalidade, defesa previa, recurso, JARI, CETRAN, CONTRAN, DETRAN, pontuacao, pontos, CNH,
-  suspensao do direito de dirigir, cassacao, indicacao de condutor, radar, afericao, lei seca (art. 165),
-  zona azul, anulatoria de multa ou mandado de seguranca de transito.
+  TRANSITO MASTER — Skill orquestradora Tier 0, sempre ativa em qualquer demanda de Direito de Transito (recursos de multas e CNH). Ative quando o usuario mencionar multa, infracao de transito, auto de infracao, AIT, notificacao de autuacao/penalidade, defesa previa, recurso, JARI, CETRAN, CONTRAN, DETRAN, pontuacao, pontos, CNH, suspensao do direito de dirigir, cassacao, indicacao de condutor, radar, afericao, lei seca (art. 165), zona azul, anulatoria de multa ou mandado de seguranca de transito.
 metadata:
   version: "0.1.0"
   area: "Direito de Transito"

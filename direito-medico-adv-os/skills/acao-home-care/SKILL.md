@@ -1,7 +1,7 @@
 ---
 name: acao-home-care
 description: >
-  Acao contra operadora por negativa de internacao domiciliar (home care) — paciente que substitui internacao hospitalar por atendimento em residencia com equipe multidisciplinar (medico, enfermagem 12/24h, fisioterapia, fonoaudiologia, nutricao, equipamentos). Aplica Lei 9.656/1998 + Lei 14.454/2022 (Rol exemplificativo) + STJ AgInt no AREsp 1.232.473 (criterios de cobertura: necessidade tecnica + custo equivalente ou inferior + parecer medico + estabilidade clinica) + Sum. 608 STJ + RN ANS 211/2010 (cuidados domiciliares — equivalencia funcional) `[VERIFICAR atual]`. Tutela de urgencia CPC 300 — gravidade clinica + tempo. Distingue home care **propriamente dito** (internacao domiciliar) de cuidador domiciliar e visitas domiciliares avulsas. Aciona: home care, internacao domiciliar, negativa home care, AgInt AREsp 1.232.473, cuidador, ventilacao mecanica domiciliar, alimentacao enteral PEG, paciente acamado, idoso plano de saude, equipe multidisciplinar.
+  Acao contra operadora por negativa de internacao domiciliar (home care). Aciona: home care, internacao domiciliar, negativa home care, AgInt AREsp 1.232.473, cuidador, ventilacao mecanica domiciliar, alimentacao enteral PEG, paciente acamado, idoso plano de saude, equipe multidisciplinar.
 ---
 
 # ACAO DE HOME CARE

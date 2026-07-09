@@ -1,12 +1,7 @@
 ---
 name: analise-viabilidade-rj
 description: >
-  ANALISE-VIABILIDADE-RJ — Tier 1 (Insumo Estratégico). Elabora ou analisa o laudo de viabilidade
-  econômico-financeira exigido pelo art. 53, II da LFRJ como fundamento do plano de recuperação.
-  Avalia fluxo de caixa projetado, EBITDA, índices de endividamento, capacidade de pagamento,
-  e sustentabilidade do negócio. Acionar quando o usuário precisar construir o argumento de
-  viabilidade para o plano, contestar laudo apresentado pelo AJ ou credor, ou avaliar se
-  a recuperação é economicamente justificável antes de peticionar.
+  ANALISE-VIABILIDADE-RJ — Tier 1 (Insumo Estratégico). Acionar quando o usuário precisar construir o argumento de viabilidade para o plano, contestar laudo apresentado pelo AJ ou credor, ou avaliar se a recuperação é economicamente justificável antes de peticionar.
 ---
 
 # ANALISE-VIABILIDADE-RJ

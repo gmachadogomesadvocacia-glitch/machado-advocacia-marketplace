@@ -1,12 +1,7 @@
 ---
 name: cumprimento-sentenca-inss
 description: >
-  CUMPRIMENTO DE SENTENCA INSS — Skill Tier 2 A. Produz peticao de cumprimento de sentenca
-  condenatoria do INSS: calculo de parcelas atrasadas com correcao INPC + juros, pedido
-  de RPV (Requisicao de Pequeno Valor) ou precatorio, requerimento de implantacao do
-  beneficio, e impugnacao a calculo do INSS em fase de liquidacao. Acionar apos transito
-  em julgado de sentenca condenatoria ou quando o INSS nao cumpre espontaneamente a
-  obrigacao de fazer (implantar beneficio).
+  CUMPRIMENTO DE SENTENCA INSS — Skill Tier 2 A. Acionar apos transito em julgado de sentenca condenatoria ou quando o INSS nao cumpre espontaneamente a obrigacao de fazer (implantar beneficio).
 ---
 
 # CUMPRIMENTO DE SENTENCA INSS

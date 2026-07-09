@@ -1,14 +1,7 @@
 ---
 name: cumprimento-sentenca-consumidor
 description: >
-  CUMPRIMENTO DE SENTENCA CONSUMIDOR — Skill Tier 2 de execucao e side-aware. Conduz a fase de
-  cumprimento: pagamento voluntario em 15 dias sob pena de multa de 10% + honorarios de 10% (CPC art.
-  523); liquidacao quando o titulo e iliquido; execucao de astreintes pelo descumprimento de obrigacao
-  de fazer (ex.: nao baixou a negativacao, nao religou o servico); penhora (art. 835); e impugnacao ao
-  cumprimento (art. 525) quando o cliente e o executado/fornecedor. Side-aware: exequente consumidor x
-  executado fornecedor, e vice-versa. Acione quando o usuario pede cumprimento de sentenca, executar a
-  sentenca, cobrar a condenacao, astreintes, multa diaria, penhora, impugnacao ao cumprimento. Exige
-  Selo P1 e o titulo conferido (PA-08 para prazos).
+  CUMPRIMENTO DE SENTENCA CONSUMIDOR — Skill Tier 2 de execucao e side-aware. Acione quando o usuario pede cumprimento de sentenca, executar a sentenca, cobrar a condenacao, astreintes, multa diaria, penhora, impugnacao ao cumprimento. Exige Selo P1 e o titulo conferido (PA-08 para prazos).
 metadata:
   version: "0.1.0"
   area: "Direito do Consumidor e Bancario"

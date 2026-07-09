@@ -1,7 +1,7 @@
 ---
 name: auditoria-documental-trabalhista
 description: >
-  AUDITORIA DOCUMENTAL TRABALHISTA — Skill Tier 1. Audita os documentos do cliente (cartao de ponto, holerites, CTPS, contrato de trabalho, TRCT, ficha de EPI, laudos, CCT) e mapeia os fatos em defesas (reclamada) ou causas de pedir (reclamante). Aplica o Protocolo da Prova. Use quando houver documentos do caso para analisar, ou o usuario diz auditar documentos, analisar provas, cartao de ponto, holerite.
+  AUDITORIA DOCUMENTAL TRABALHISTA — Skill Tier 1. Use quando houver documentos do caso para analisar, ou o usuario diz auditar documentos, analisar provas, cartao de ponto, holerite.
 ---
 
 # AUDITORIA DOCUMENTAL TRABALHISTA

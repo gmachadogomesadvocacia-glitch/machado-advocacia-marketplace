@@ -1,16 +1,7 @@
 ---
 name: memoria-de-caso-consumidor
 description: >
-  MEMORIA DE CASO CONSUMIDOR — Skill Tier 1, Protocolo P3. Gerencia o CASO.md (estado vivo) e o
-  MEMORY.md (decisoes e historico), compartimentados por cliente em <CASE_ROOT>/<slug>/ (pasta unificada
-  compartilhada entre os plugins Adv-OS; CASE_ROOT = <acervo>/Casos-Ativos no Code, senao fallback
-  <COWORK>/consumidor/casos).
-  Operacionaliza PA-21 (sigilo OAB + LGPD): pasta gitignored e alerta agressivo se o workspace estiver
-  sincronizado (OneDrive/iCloud/Google Drive/Dropbox). Suporta novo caso, retomar, listar e arquivar.
-  Usa os templates CASO.md.tpl e MEMORY-caso.md.tpl. Atualiza o CASO.md ao fim de cada fase. Acione
-  ao abrir caso novo, retomar caso, listar casos, arquivar caso, gravar o CASO.md, atualizar a memoria
-  do caso, ou sempre que a triagem precisar criar a ficha do cliente. Gatilhos: novo caso, abrir caso,
-  CASO.md, memoria do caso, retomar, /caso-consumidor, sigilo LGPD compartimentacao.
+  MEMORIA DE CASO CONSUMIDOR — Skill Tier 1, Protocolo P3. Gatilhos: novo caso, abrir caso, CASO.md, memoria do caso, retomar, /caso-consumidor, sigilo LGPD compartimentacao.
 metadata:
   version: "0.1.0"
   area: "Direito do Consumidor e Bancario"

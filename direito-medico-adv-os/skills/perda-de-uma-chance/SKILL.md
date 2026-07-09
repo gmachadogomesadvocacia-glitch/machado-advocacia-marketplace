@@ -1,7 +1,7 @@
 ---
 name: perda-de-uma-chance
 description: >
-  Teoria da perda de uma chance aplicada ao erro medico/odontologico. Aplica STJ REsp 1.291.247/RS (paradigma — 2a Secao), REsp 1.677.083/SP, REsp 1.254.141/PR (oncologia/atraso diagnostico), REsp 1.622.538/MS (obstetricia). Casos tipicos: atraso de diagnostico oncologico, demora na cesarea de urgencia (paralisia cerebral neonatal), atraso no diagnostico de infarto/AVC, demora em diagnostico de sepsis. Calcula percentual de chance perdida sobre prejuizo total (formula: chance% x prejuizo_integral). Diferencia perda de chance de dano consumado e de dano hipotetico. Conservadorismo (PA-21) na arbitragem. Aciona: perda de uma chance, perda de chance, REsp 1.291.247, atraso diagnostico oncologia, paralisia cerebral neonatal, demora cesarea, atraso AVC, atraso infarto, chance de sobrevida, chance de cura.
+  Teoria da perda de uma chance aplicada ao erro medico/odontologico. Aplica STJ REsp 1.291.247/RS (paradigma. Aciona: perda de uma chance, perda de chance, REsp 1.291.247, atraso diagnostico oncologia, paralisia cerebral neonatal, demora cesarea, atraso AVC, atraso infarto, chance de sobrevida, chance de cura.
 ---
 
 # PERDA DE UMA CHANCE

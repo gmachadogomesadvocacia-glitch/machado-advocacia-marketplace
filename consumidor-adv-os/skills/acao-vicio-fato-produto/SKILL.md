@@ -1,14 +1,7 @@
 ---
 name: acao-vicio-fato-produto
 description: >
-  ACAO VICIO/FATO DO PRODUTO OU SERVICO — Skill Tier 2 (lado consumidor). Redige a acao do eixo
-  produto/servico, distinguindo VICIO (art. 18/20 — produto/servico improprio ou diminuido; saidas:
-  substituicao, abatimento ou restituicao; decadencia 30/90 dias, art. 26) de FATO DO PRODUTO/SERVICO
-  (art. 12/14 — acidente de consumo, defeito que causa dano; prescricao 5 anos, art. 27). Trata
-  responsabilidade do fabricante (art. 12), comerciante subsidiario (art. 13), prestador de servico
-  (art. 14), solidariedade no vicio (art. 18), garantia legal x contratual, vicio oculto e recall.
-  Acione quando o consumidor reclama de produto/servico com defeito, garantia, troca, conserto,
-  devolucao do dinheiro, recall, ou dano causado por produto defeituoso. Exige Selo P1.
+  ACAO VICIO/FATO DO PRODUTO OU SERVICO — Skill Tier 2 (lado consumidor). Acione quando o consumidor reclama de produto/servico com defeito, garantia, troca, conserto, devolucao do dinheiro, recall, ou dano causado por produto defeituoso. Exige Selo P1.
 metadata:
   version: "0.1.0"
   area: "Direito do Consumidor e Bancario"

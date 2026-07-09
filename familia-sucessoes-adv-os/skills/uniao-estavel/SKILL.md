@@ -1,12 +1,7 @@
 ---
 name: uniao-estavel
 description: >
-  UNIAO-ESTAVEL — Tier 2 (Produção). Trata de todas as questões jurídicas da união estável:
-  reconhecimento judicial e extrajudicial, dissolução consensual e litigiosa, contrato de
-  convivência, partilha dos bens adquiridos na constância (regime de comunhão parcial por
-  analogia), direitos sucessórios do companheiro, reconhecimento post mortem em inventário,
-  e conversão em casamento. Acionar quando o caso envolver casais que vivem ou viveram
-  em união estável (sem casamento civil formal).
+  UNIAO-ESTAVEL — Tier 2 (Produção). Trata de todas as questões jurídicas da união estável: reconhecimento judicial e extrajudicial, dissolução consensual e litigiosa, contrato de... Acionar quando o caso envolver casais que vivem ou viveram em união estável (sem casamento civil formal).
 metadata:
   version: "1.0.0"
 ---

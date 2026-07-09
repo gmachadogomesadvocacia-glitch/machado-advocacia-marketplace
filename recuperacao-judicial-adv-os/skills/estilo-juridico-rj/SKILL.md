@@ -1,13 +1,7 @@
 ---
 name: estilo-juridico-rj
 description: >
-  ESTILO-JURIDICO-RJ — Transversal (Padrão de Redação). Define e aplica o padrão técnico
-  de redação jurídica para peças de recuperação judicial e falência: vocabulário específico
-  de insolvência empresarial, tratamento das partes, estrutura de pedidos, forma de citar
-  a LFRJ e jurisprudência do STJ. Aplicado automaticamente a toda peça produzida no
-  pipeline de RJ. Consultar quando o usuário precisar padronizar uma peça, adaptar o
-  estilo ao tipo de juízo (vara empresarial especializada), ou humanizar um texto jurídico
-  de insolvência mantendo a precisão técnica.
+  ESTILO-JURIDICO-RJ — Transversal (Padrão de Redação). Define e aplica o padrão técnico de redação jurídica para peças de recuperação judicial e falência: vocabulário específico de insolvência empresarial, tratamento das partes, estrutura de pedidos, forma de citar a LFRJ e jurisprudência do STJ. Aplicado automaticamente a toda peça produzida no pipeline de RJ. Consultar quando o usuário precisar padronizar uma peça, adaptar o estilo ao tipo de juízo (vara empresarial especializada), ou humanizar um texto jurídico de insolvência mantendo a precisão técnica.
 ---
 
 # ESTILO-JURIDICO-RJ

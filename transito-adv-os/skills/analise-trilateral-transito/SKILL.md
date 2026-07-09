@@ -1,13 +1,7 @@
 ---
 name: analise-trilateral-transito
 description: >
-  Analise trilateral de transito Tier 1 — le o caso pelos 3 vertices antes de qualquer producao:
-  (1) cliente/condutor (o que sustenta a defesa e os pontos fortes), (2) orgao autuador/administracao
-  (a posicao mais provavel do Estado e a presuncao de legitimidade do auto), (3) julgador (JARI, CETRAN
-  ou juizo — como o caso aparece para quem decide). Nao ha "outro lado" simetrico: o Estado autua e deve
-  comprovar a regularidade do auto e das notificacoes; o condutor aponta os vicios. Antecipa a resposta da
-  administracao, monta o quadro de forcas e a antecipacao adversarial antes da estrategia. Ative apos a
-  triagem e a analise documental, antes de definir a linha estrategica ou redigir.
+  Analise trilateral de transito Tier 1 — le o caso pelos 3 vertices antes de qualquer producao: (1) cliente/condutor (o que sustenta a defesa e os pontos fortes), (2) orgao autuador/administracao (a posicao mais provavel do Estado e a presuncao de legitimidade do auto), (3) julgador (JARI, CETRAN ou juizo — como o caso aparece para quem decide). Ative apos a triagem e a analise documental, antes de definir a linha estrategica ou redigir.
 metadata:
   version: "0.1.0"
   area: "Direito de Transito"

@@ -1,7 +1,7 @@
 ---
 name: defesa-ped-crm
 description: >
-  Defesa em Processo Etico-Profissional/Disciplinar (PED) no Conselho Regional de Medicina (CRM) — Res. CFM 2.145/2016 (Codigo de Processo Etico) + CEM 2.217/2018 (Codigo Etica Medica). Cobre fluxo completo: sindicancia -> defesa previa (15 dias) -> instrucao -> alegacoes finais -> julgamento 1a instancia CRM -> recurso voluntario ao CFM (30 dias) -> pedido de revisao. Penas: advertencia confidencial -> censura confidencial -> censura publica -> suspensao 30d -> cassacao do exercicio. Prescricao 5 anos (Res. CFM 2.145 art. 32) — interruptivos especificos. Articula independencia relativa civel/penal/etico (CC 935 + PA-12). Teses: vicio processual (nulidade), cerceamento de defesa, ausencia de tipicidade etica especifica, ausencia de provas, prescricao, desproporcionalidade da sancao. Aciona: PED CRM, defesa etica medica, processo etico-disciplinar, Res. CFM 2.145, CEM, codigo etica medica, sindicancia CRM, recurso CFM, cassacao CRM, suspensao etica, censura medica, Camara Sindicancia.
+  Defesa em Processo Etico-Profissional/Disciplinar (PED) no Conselho Regional de Medicina (CRM). Aciona: PED CRM, defesa etica medica, processo etico-disciplinar, Res. CFM 2.145, CEM, codigo etica medica, sindicancia CRM, recurso CFM, cassacao CRM, suspensao etica, censura medica, Camara Sindicancia.
 ---
 
 # DEFESA EM PED CRM

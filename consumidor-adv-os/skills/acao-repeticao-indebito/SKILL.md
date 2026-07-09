@@ -1,13 +1,7 @@
 ---
 name: acao-repeticao-indebito
 description: >
-  ACAO REPETICAO DE INDEBITO — Skill Tier 2 (eixo cobranca indevida, lado consumidor). Redige a acao de
-  restituicao do indebito por cobranca indevida: descontos nao contratados (consignado, tarifas, servicos
-  embutidos), cobranca de divida paga ou inexistente, valor cobrado a maior. Define corretamente a
-  restituicao SIMPLES versus EM DOBRO do art. 42, paragrafo unico, CDC — o dobro exige cobranca indevida
-  + engano injustificavel (Tema 929 STJ, sem prova de ma-fe mas sem engano justificavel). Acione quando o
-  cliente e o consumidor e o caso envolve cobranca indevida, desconto indevido, restituicao, devolucao em
-  dobro, valor pago a maior, divida ja quitada cobrada de novo. Exige Selo P1 e a prova do pagamento.
+  ACAO REPETICAO DE INDEBITO — Skill Tier 2 (eixo cobranca indevida, lado consumidor). Acione quando o cliente e o consumidor e o caso envolve cobranca indevida, desconto indevido, restituicao, devolucao em dobro, valor pago a maior, divida ja quitada cobrada de novo. Exige Selo P1 e a prova do pagamento.
 metadata:
   version: "0.1.0"
   area: "Direito do Consumidor e Bancario"

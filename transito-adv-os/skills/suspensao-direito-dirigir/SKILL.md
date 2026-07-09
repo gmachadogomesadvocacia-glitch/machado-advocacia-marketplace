@@ -1,14 +1,7 @@
 ---
 name: suspensao-direito-dirigir
 description: >
-  Skill Tier 2 — processo administrativo de SUSPENSAO DO DIREITO DE DIRIGIR (CTB 261; Lei 14.071/2020).
-  Duas hipoteses: (a) por ATINGIR O LIMITE DE PONTOS (20/30/40 conforme o nº de gravissimas nos 12 meses
-  — sistema da Lei 14.071); (b) por INFRACAO AUTOSSUSPENSIVA (ex.: art. 165 embriaguez; racha art. 173;
-  excesso de velocidade superior a 50%). Rito: instauracao, defesa, recurso ao CETRAN; penalidade =
-  periodo de suspensao + curso de reciclagem. Defesa: nulidades das multas que somaram pontos, prescricao,
-  desproporcionalidade. Norma vigente na infracao (PA-04 — tempus regit actum). Ative em processo de
-  suspensao do direito de dirigir, atingimento de pontos na CNH, infracao autossuspensiva ou defesa de
-  suspensao da carteira.
+  Skill Tier 2 — processo administrativo de SUSPENSAO DO DIREITO DE DIRIGIR (CTB 261; Lei 14.071/2020). Ative em processo de suspensao do direito de dirigir, atingimento de pontos na CNH, infracao autossuspensiva ou defesa de suspensao da carteira.
 metadata:
   version: "0.1.0"
   area: "Direito de Transito"

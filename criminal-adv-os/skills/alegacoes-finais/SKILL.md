@@ -1,14 +1,7 @@
 ---
 name: alegacoes-finais
 description: >
-  Skill Tier 2 — alegacoes finais / memoriais (CPP 403 §3º e 404 § unico), apresentadas apos encerrada a
-  instrucao. Faz a analise critica de toda a prova produzida (interrogatorio, testemunhas, pericias,
-  documentos) e sustenta as teses de absolvicao do CPP 386 (inciso a inciso), in dubio pro reo,
-  desclassificacao, nulidades e, subsidiariamente, dosimetria favoravel (pena-base no minimo, atenuantes,
-  regime mais brando, substituicao por restritivas e sursis). Confronta a prova de acusacao apontando
-  fragilidades, contradicoes e ausencia de prova alem da duvida razoavel. Estrutura por topicos:
-  preliminares, mérito (absolvicao), subsidiario (dosimetria). Polo: defesa. Ative em memoriais,
-  alegacoes finais, encerramento da instrucao, CPP 403, CPP 386, debates.
+  Skill Tier 2 — alegacoes finais / memoriais (CPP 403 §3º e 404 § unico), apresentadas apos encerrada a instrucao. Ative em memoriais, alegacoes finais, encerramento da instrucao, CPP 403, CPP 386, debates.
 metadata:
   version: "0.1.0"
   area: "Direito Penal e Processo Penal"

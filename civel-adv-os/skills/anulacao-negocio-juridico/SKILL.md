@@ -1,16 +1,7 @@
 ---
 name: anulacao-negocio-juridico
 description: >
-  Tier 2 — acao anulatoria e acao declaratoria de nulidade de negocio juridico. Cobre os dois polos:
-  AUTOR (desconstitui o negocio) e REU (defende a validade). Defeitos do negocio — vicios do
-  consentimento: erro (CC 138-144), dolo (CC 145-150), coacao (CC 151-155), lesao (CC 157), estado de
-  perigo (CC 156); vicios sociais: simulacao (CC 167 — NULIDADE) e fraude contra credores (CC 158-165 —
-  ANULABILIDADE via acao pauliana/revocatoria). Distincao nulidade (CC 166 — absoluta, imprescritivel,
-  pronunciavel de oficio) x anulabilidade (CC 171 — relativa, DECADENCIA de 4 anos — CC 178). Planos do
-  negocio (existencia/validade/eficacia — escada ponteana). Acao pauliana x fraude a execucao (CPC 792 —
-  ineficacia). Ative em anular contrato/negocio, vicio de consentimento, erro, dolo, coacao, lesao,
-  estado de perigo, simulacao, fraude contra credores, acao pauliana, nulidade ou declaratoria de
-  nulidade.
+  Tier 2 — acao anulatoria e acao declaratoria de nulidade de negocio juridico. Ative em anular contrato/negocio, vicio de consentimento, erro, dolo, coacao, lesao, estado de perigo, simulacao, fraude contra credores, acao pauliana, nulidade ou declaratoria de nulidade.
 metadata:
   version: "0.1.0"
   area: "Direito Civil e Processo Civil"

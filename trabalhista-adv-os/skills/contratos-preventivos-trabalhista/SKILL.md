@@ -1,7 +1,7 @@
 ---
 name: contratos-preventivos-trabalhista
 description: >
-  CONTRATOS PREVENTIVOS TRABALHISTAS — Skill Tier 2 (lado reclamada / consultivo). Redige contratos e instrumentos preventivos antivinculo e de mitigacao de risco trabalhista: prestacao de servicos, autonomo, estagio, PJ, terceirizacao. Use quando o cliente e empresa e menciona contrato preventivo, evitar vinculo, contratar autonomo ou PJ, terceirizacao, blindagem trabalhista.
+  CONTRATOS PREVENTIVOS TRABALHISTAS — Skill Tier 2 (lado reclamada / consultivo). Use quando o cliente e empresa e menciona contrato preventivo, evitar vinculo, contratar autonomo ou PJ, terceirizacao, blindagem trabalhista.
 ---
 
 # CONTRATOS PREVENTIVOS TRABALHISTAS

@@ -1,13 +1,7 @@
 ---
 name: tutela-urgencia-consumidor
 description: >
-  TUTELA DE URGENCIA CONSUMIDOR — Skill Tier 2 transversal (side-aware). Redige o pedido de tutela
-  provisoria de urgencia (art. 300 CPC) e da evidencia (art. 311) em materia consumerista, com requisitos
-  de probabilidade do direito, perigo de dano e reversibilidade, e fixacao de astreintes (art. 537).
-  Casos tipicos: baixa de negativacao, religacao de servico essencial, suspensao de desconto/cobranca,
-  manutencao na posse na busca e apreensao, fornecimento de produto/servico. Cabe em carater antecedente
-  (art. 303) ou incidental. Acione quando o caso pede liminar, tutela de urgencia, tutela antecipada,
-  medida liminar, religacao, baixa imediata, suspensao de cobranca. Exige Selo P1 e a prova do perigo.
+  TUTELA DE URGENCIA CONSUMIDOR — Skill Tier 2 transversal (side-aware). Acione quando o caso pede liminar, tutela de urgencia, tutela antecipada, medida liminar, religacao, baixa imediata, suspensao de cobranca. Exige Selo P1 e a prova do perigo.
 metadata:
   version: "0.1.0"
   area: "Direito do Consumidor e Bancario"

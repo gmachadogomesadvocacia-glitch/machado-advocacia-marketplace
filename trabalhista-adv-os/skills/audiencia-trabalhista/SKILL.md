@@ -1,7 +1,7 @@
 ---
 name: audiencia-trabalhista
 description: >
-  AUDIENCIA TRABALHISTA — Skill Tier 2 transversal. Prepara a audiencia una/de instrucao: roteiro de depoimento pessoal, perguntas para testemunhas, pontos controvertidos, estrategia de acordo. Use quando menciona audiencia trabalhista, audiencia de instrucao, depoimento, testemunhas, preparar audiencia.
+  AUDIENCIA TRABALHISTA — Skill Tier 2 transversal. Use quando menciona audiencia trabalhista, audiencia de instrucao, depoimento, testemunhas, preparar audiencia.
 ---
 
 # AUDIENCIA TRABALHISTA

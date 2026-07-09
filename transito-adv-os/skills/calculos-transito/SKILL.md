@@ -1,13 +1,7 @@
 ---
 name: calculos-transito
 description: >
-  Calculos de transito Tier 1 — nucleo de calculo e conferencia. (a) Pontuacao: pontos por natureza
-  (leve 3, media 4, grave 5, gravissima 7) e multiplicadores; soma nos 12 meses; limite de suspensao
-  (20 pontos com 2+ gravissimas; 30 com 1 gravissima; 40 sem gravissima — Lei 14.071/2020); EAR/motorista
-  profissional. (b) Prazos: contagem dos prazos administrativos (defesa previa, JARI, CETRAN — 30 dias da
-  notificacao), prazo de expedicao da NA (CTB 281 § unico — 30 dias sob pena de arquivamento), prescricao
-  quinquenal contra a Fazenda. (c) Valores: multa por natureza e multiplicador; conversao em advertencia
-  (CTB 267). Memoria de calculo passo a passo com datas. Ative para calcular pontos, prazos ou valores.
+  Calculos de transito Tier 1 — nucleo de calculo e conferencia. Ative para calcular pontos, prazos ou valores.
 metadata:
   version: "0.1.0"
   area: "Direito de Transito"

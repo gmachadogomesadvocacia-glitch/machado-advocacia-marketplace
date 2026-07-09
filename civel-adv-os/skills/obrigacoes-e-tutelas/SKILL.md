@@ -1,16 +1,7 @@
 ---
 name: obrigacoes-e-tutelas
 description: >
-  Tier 2 — obrigacoes especificas e tutelas provisorias no processo civil civel. Cobre os dois polos:
-  AUTOR (pleiteia) e REU (resiste). (a) OBRIGACOES de FAZER/NAO FAZER (CPC 497, 536-537 — tutela
-  especifica, multa/astreintes) e de DAR COISA (CPC 538). (b) TUTELA PROVISORIA (CPC 294+): de URGENCIA
-  antecipada e cautelar (fumus boni iuris + periculum in mora — CPC 300), de EVIDENCIA (CPC 311 — sem
-  urgencia), tutela antecedente e ESTABILIZACAO (CPC 304), arresto e sequestro (cautelares). (c)
-  CONSIGNACAO EM PAGAMENTO (CC 334-345; CPC 539-549 — recusa injusta do credor, mora accipiendi, duvida
-  sobre quem deve receber). Ative em obrigacao de fazer/nao fazer, astreintes, multa diaria, tutela de
-  urgencia, liminar, tutela antecipada, tutela de evidencia, tutela cautelar, arresto, sequestro,
-  estabilizacao da tutela ou acao consignatoria. Tutela em materia de outro plugin (saude/familia/
-  consumo) → rotear (PA-09).
+  Tier 2 — obrigacoes especificas e tutelas provisorias no processo civil civel. Ative em obrigacao de fazer/nao fazer, astreintes, multa diaria, tutela de urgencia, liminar, tutela antecipada, tutela de evidencia, tutela cautelar, arresto, sequestro, estabilizacao da tutela ou acao consignatoria. Tutela em materia de outro plugin (saude/familia/ consumo) → rotear (PA-09).
 metadata:
   version: "0.1.0"
   area: "Direito Civil e Processo Civil"

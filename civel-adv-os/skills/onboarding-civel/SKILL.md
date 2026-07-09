@@ -1,12 +1,7 @@
 ---
 name: onboarding-civel
 description: >
-  Onboarding civel Tier 1 — configura o escritorio e a persona do plugin civel-adv-os (Adv-OS).
-  Fluxo /start-civel: gera persona.md a partir do template com nome do advogado, OAB/UF e numero,
-  firma, cidade/UF, email, perfil e intensidade de tom; define as frentes ativas (responsabilidade
-  civil/indenizatorias, contratos/obrigacoes, cobranca/execucao, obrigacoes/tutelas) e o modo de fluxo
-  (checkpoint x continuo). Inicializa o estado de caso. Ative quando o usuario disser configurar civel,
-  primeira vez, instalar, comecar a usar, /start-civel, onboarding, persona, configurar escritorio.
+  Onboarding civel Tier 1 — configura o escritorio e a persona do plugin civel-adv-os (Adv-OS). Ative quando o usuario disser configurar civel, primeira vez, instalar, comecar a usar, /start-civel, onboarding, persona, configurar escritorio.
 metadata:
   version: "0.1.0"
   area: "Direito Civil e Processo Civil"

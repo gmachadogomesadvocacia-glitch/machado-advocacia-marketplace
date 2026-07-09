@@ -1,15 +1,7 @@
 ---
 name: ato-de-enfermagem-lei7498
 description: >
-  ATO DE ENFERMAGEM E FATO DE TERCEIRO (Lei 7.498/86) — tese defensiva do medico: quando o dano
-  decorre de ato proprio da equipe de enfermagem ou de dever institucional do hospital (identificacao
-  de paciente/recem-nascido, guarda, checagem, administracao de medicacao, vigilancia), a
-  responsabilidade e da INSTITUICAO (CDC art. 14 caput, objetiva; CC art. 932 III) e nao do medico
-  PF (CC art. 951 + CDC art. 14 par.4 — subjetiva, por ato PROPRIO). Sistematiza a separacao de
-  atribuicoes (Lei 7.498/86 + Dec. 94.406/87), a prova (prontuario, escalas, protocolos, quesitos) e
-  as cautelas eticas (sem acusar colega nominalmente — PA-07/PA-08). Aciona: ato de enfermagem,
-  fato de terceiro, ilegitimidade do medico, erro de identificacao, dever institucional, culpa da
-  equipe, responsabilidade do hospital x do medico.
+  ATO DE ENFERMAGEM E FATO DE TERCEIRO (Lei 7.498/86). Aciona: ato de enfermagem, fato de terceiro, ilegitimidade do medico, erro de identificacao, dever institucional, culpa da equipe, responsabilidade do hospital x do medico.
 metadata:
   version: "0.1.0"
   area: "Direito Medico"

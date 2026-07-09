@@ -1,12 +1,7 @@
 ---
 name: acao-plano-de-saude
 description: >
-  Producao para litigios de PLANO DE SAUDE / saude suplementar (Lei 9.656/98 + CDC +
-  normas ANS). Ative em: negativa de cobertura (tratamento, medicamento, cirurgia,
-  home care, protese/ortese, terapia), reajuste abusivo (faixa etaria, anual, sinistralidade
-  em coletivo), rescisao/cancelamento unilateral, carencia, doenca preexistente, rol da ANS,
-  internacao. Lado beneficiario (padrao) ou operadora. So roda apos triagem + Selo + linha
-  estrategica. Encerra em revisao-final-consumidor (R1-R5).
+  Producao para litigios de PLANO DE SAUDE / saude suplementar (Lei 9.656/98 + CDC + normas ANS). Ative em: negativa de cobertura (tratamento, medicamento, cirurgia, home care, protese/ortese, terapia), reajuste abusivo (faixa etaria, anual, sinistralidade em coletivo), rescisao/cancelamento unilateral, carencia, doenca preexistente, rol da ANS, internacao. Lado beneficiario (padrao) ou operadora. So roda apos triagem + Selo + linha estrategica. Encerra em revisao-final-consumidor (R1-R5).
 ---
 
 # ACAO DE PLANO DE SAUDE (saude suplementar)

@@ -1,12 +1,7 @@
 ---
 name: onboarding-imobiliario
 description: >
-  Onboarding imobiliario Tier 1 — wizard de configuracao do escritorio e da persona no plugin de
-  Direito Imobiliario e Locacao. Conduz o comando /start-imobiliario: coleta nome, OAB/UF/numero,
-  firma, cidade/UF, email, tom de voz e intensidade, e as frentes de atuacao (locacao, contratos
-  imobiliarios, direitos reais e posse, consultivo). Gera persona.md a partir do template e prepara o
-  estado de caso (CASO.md). Aponta /start-imobiliario, /status-imobiliario e /caso-imobiliario. Ative
-  na primeira utilizacao, ao configurar o escritorio, criar persona ou trocar dados do advogado.
+  Onboarding imobiliario Tier 1 — wizard de configuracao do escritorio e da persona no plugin de Direito Imobiliario e Locacao. Ative na primeira utilizacao, ao configurar o escritorio, criar persona ou trocar dados do advogado.
 metadata:
   version: "0.1.0"
   area: "Direito Imobiliario e Locacao"

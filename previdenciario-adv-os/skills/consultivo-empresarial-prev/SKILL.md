@@ -1,14 +1,7 @@
 ---
 name: consultivo-empresarial-prev
 description: >
-  CONSULTIVO EMPRESARIAL PREVIDENCIARIO — Skill Tier 2 F. Cobre o INSS do lado do
-  empregador / empresa: calculo e auditoria da folha previdenciaria (RAT/FAP, terceiros,
-  contribuicao patronal), classificacao de empregados vs contribuintes individuais (contrato
-  PJ irregular), responsabilidade solidaria e subsidiaria em terceirizacao, planejamento
-  do PPP e LTCAT para aposentadoria especial, impacto do eSocial, defesa em autuacao fiscal
-  previdenciaria, parcelamento de debitos INSS (REFIS/PERT), e consultoria sobre concessao
-  de beneficios por incapacidade que impactam o FAP. Acionar quando o usuario for empresa,
-  RH, contador, ou advogado consultando sobre obrigacoes previdenciarias patronais.
+  CONSULTIVO EMPRESARIAL PREVIDENCIARIO — Skill Tier 2 F. Acionar quando o usuario for empresa, RH, contador, ou advogado consultando sobre obrigacoes previdenciarias patronais.
 ---
 
 # CONSULTIVO EMPRESARIAL PREVIDENCIARIO

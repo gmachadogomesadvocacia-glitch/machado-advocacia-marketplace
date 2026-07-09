@@ -1,16 +1,7 @@
 ---
 name: acidente-transito-civel
 description: >
-  Tier 2 — reparacao civil por acidente de transito (esfera CIVEL). NAO trata crime de transito
-  (rotear ao penal) nem multa/CTB administrativa. Cobre os dois polos: AUTOR/vitima (acao
-  indenizatoria) e REU/condutor-proprietario (defesa). Responsabilidade por culpa na colisao,
-  presuncoes (abalroamento traseiro, conversao/mudanca de faixa, contramao), responsabilidade do
-  proprietario pelo condutor (culpa in eligendo/vigilando). Danos: materiais (conserto,
-  desvalorizacao, lucros cessantes de taxi/app), morais, esteticos, pensionamento por morte ou
-  incapacidade (CC 948-950). DPVAT (deducao — Sum. 246 STJ; validar) e acao de regresso da seguradora
-  (Sum. 188 STF) e do segurado. Prova: BO, fotos, laudo pericial, orcamentos. Ative em batida,
-  colisao, acidente de transito, atropelamento, indenizacao de veiculo, DPVAT, pensao por morte no
-  transito ou defesa do condutor.
+  Tier 2 — reparacao civil por acidente de transito (esfera CIVEL). Ative em batida, colisao, acidente de transito, atropelamento, indenizacao de veiculo, DPVAT, pensao por morte no transito ou defesa do condutor.
 metadata:
   version: "0.1.0"
   area: "Direito Civil e Processo Civil"

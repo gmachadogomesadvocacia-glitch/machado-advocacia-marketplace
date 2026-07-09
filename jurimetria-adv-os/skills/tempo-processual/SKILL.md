@@ -1,13 +1,7 @@
 ---
 name: tempo-processual
 description: >
-  TEMPO PROCESSUAL — Skill Tier 2. Analisa duracao e ritmo: quanto tempo processos de um recorte
-  levam (ajuizamento ao ultimo movimento), como o tempo se distribui, ha quanto tempo um caso esta
-  sem movimentar, e leitura de fases a partir dos movimentos DataJud quando marcos sao identificaveis
-  (sentenca, transito). Fontes: DataJud (movimentos) + acervo (datas do bloco). Sempre com censura a
-  direita declarada — processo vivo ainda nao terminou de demorar. Acione para "quanto tempo demora",
-  "esta parado ha quanto tempo", "quando devemos ter sentenca" (resposta descritiva, nao previsao),
-  ou a perna de tempo de uma viabilidade.
+  TEMPO PROCESSUAL — Skill Tier 2. Analisa duracao e ritmo: quanto tempo processos de um recorte levam (ajuizamento ao ultimo movimento), como o tempo se distribui, ha quanto tempo um caso esta sem movimentar, e leitura de fases a partir dos movimentos DataJud quando marcos sao identificaveis (sentenca, transito). Acione para "quanto tempo demora", "esta parado ha quanto tempo", "quando devemos ter sentenca" (resposta descritiva, nao previsao), ou a perna de tempo de uma viabilidade.
 metadata:
   version: "0.1.0"
   area: "Jurimetria"

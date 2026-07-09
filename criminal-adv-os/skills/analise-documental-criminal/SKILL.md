@@ -1,13 +1,7 @@
 ---
 name: analise-documental-criminal
 description: >
-  Analise documental criminal Tier 1 — Protocolo P2. Checklist de integridade dos autos penais:
-  inquerito policial (portaria, oitivas, indiciamento), auto de prisao em flagrante (APF), boletim de
-  ocorrencia, denuncia/queixa (aptidao — CPP 41; inepcia), laudos periciais (local, IML/necropsia,
-  toxicologico, balistico, exame de corpo de delito — CPP 158), FAC/antecedentes/certidoes,
-  interceptacoes e quebras (legalidade), decisoes e sentenca, guia de execucao. Extrai tipificacao,
-  materialidade, autoria e verifica a cadeia de custodia (CPP 158-A). Marca lacunas, nulidades e provas
-  ilicitas. Ative para analisar autos, IP, BO, laudos, FAC, denuncia ou apos a triagem.
+  Analise documental criminal Tier 1 — Protocolo P2. Ative para analisar autos, IP, BO, laudos, FAC, denuncia ou apos a triagem.
 metadata:
   version: "0.1.0"
   area: "Direito Penal e Processo Penal"

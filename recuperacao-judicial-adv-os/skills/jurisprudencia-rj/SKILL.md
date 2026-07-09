@@ -1,13 +1,7 @@
 ---
 name: jurisprudencia-rj
 description: >
-  JURISPRUDENCIA-RJ — Tier 1 (Pesquisa). Pesquisa, valida e organiza jurisprudência de
-  recuperação judicial e falência: STJ (Corte Especial, 3ª e 4ª Turmas), TJs e TRFs.
-  Mapeia temas repetitivos, recursos especiais representativos, súmulas e painéis de
-  jurisprudência do STJ sobre insolvência empresarial. Acionar sempre que o usuário
-  precisar de fundamento jurisprudencial para peça de RJ, precisar saber o posicionamento
-  atual dos tribunais sobre prazos, stay, cram down, habilitação, ou qualquer tese em
-  recuperação judicial. Protocolo PA-01 obrigatório — nunca citar sem validar.
+  JURISPRUDENCIA-RJ — Tier 1 (Pesquisa). Pesquisa, valida e organiza jurisprudência de recuperação judicial e falência: STJ (Corte Especial, 3ª e 4ª Turmas), TJs e TRFs. Acionar sempre que o usuário precisar de fundamento jurisprudencial para peça de RJ, precisar saber o posicionamento atual dos tribunais sobre prazos, stay, cram down, habilitação, ou qualquer tese em recuperação judicial. Protocolo PA-01 obrigatório — nunca citar sem validar.
 ---
 
 # JURISPRUDENCIA-RJ

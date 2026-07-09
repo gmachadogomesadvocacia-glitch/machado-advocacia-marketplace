@@ -1,7 +1,7 @@
 ---
 name: estilo-entrega-medica
 description: >
-  Skill invariante de Camada 3 — define a estrutura canonica das entregas do plugin (peca civel, criminal, PED, MS, contrato, parecer). Aplica FIRAC (Fato-Issue-Regra-Analise-Conclusao) + 6 secoes obrigatorias da peca/parecer (Escopo, Dados, Base legal, Memoria de quantum, Resultado, Ressalva OAB). Estabelece abertura com Selo P1 + data do fato gerador (PA-09) + fechamento com ressalva OAB ativa (PA-05). Operacionaliza memoria de decisao (P3 — tabela auditavel). Aciona: formato peca, estrutura parecer, FIRAC medica, ressalva OAB, memoria de quantum, abertura com Selo, fechamento padrao.
+  Skill invariante de Camada 3 — define a estrutura canonica das entregas do plugin (peca civel, criminal, PED, MS, contrato, parecer). Aciona: formato peca, estrutura parecer, FIRAC medica, ressalva OAB, memoria de quantum, abertura com Selo, fechamento padrao.
 ---
 
 # ESTILO E ENTREGA MEDICA (CAMADA 3)

@@ -1,14 +1,7 @@
 ---
 name: planejamento-prev-pj
 description: >
-  PLANEJAMENTO PREVIDENCIARIO PJ / SOCIO-EMPRESARIO — Skill Tier 2 F. Analisa e planeja
-  a contribuicao previdenciaria para socios de sociedades limitadas, empresarios individuais,
-  profissionais liberais com PJ propria, e MEI: otimizacao da contribuicao como CI (pro-labore
-  vs distribuicao de lucros), calculo de carencia e TC para aposentadoria, planejamento de
-  beneficios (B91/B41/B46), conversao de periodo MEI para contribuicao plena, aliquotas
-  facultativo vs CI, e estrategia para maximizar RMI com menor custo contributivo.
-  Acionar quando o usuario for socio de PJ, empresario, profissional liberal, MEI, ou
-  quando o caso envolver otimizacao de contribuicao previdenciaria para pessoa juridica.
+  PLANEJAMENTO PREVIDENCIARIO PJ / SOCIO-EMPRESARIO. Acionar quando o usuario for socio de PJ, empresario, profissional liberal, MEI, ou quando o caso envolver otimizacao de contribuicao previdenciaria para pessoa juridica.
 ---
 
 # PLANEJAMENTO PREVIDENCIARIO PJ / SOCIO-EMPRESARIO

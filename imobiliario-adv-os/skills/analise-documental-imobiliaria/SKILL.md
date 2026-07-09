@@ -1,14 +1,7 @@
 ---
 name: analise-documental-imobiliaria
 description: >
-  Analise documental imobiliaria Tier 1 — Protocolo P2 (Integridade Documental). Checklist de
-  integridade e extracao de dados-chave dos documentos do caso: matricula atualizada (cadeia dominial,
-  onus reais — hipoteca, alienacao fiduciaria, penhora, usufruto, averbacoes), contrato (locacao,
-  promessa, compra e venda — partes, objeto, prazo, valor, garantia, foro de eleicao), certidoes
-  (negativas de onus, IPTU, acoes reais e pessoais reipersecutorias, do vendedor), convencao de
-  condominio, comprovantes de pagamento, notificacao extrajudicial, edital de leilao na fiduciaria.
-  Marca lacunas e nao inventa dados (PA-03). Ative ao receber matricula, contrato, certidoes ou
-  qualquer documento imobiliario para analisar.
+  Analise documental imobiliaria Tier 1 — Protocolo P2 (Integridade Documental). Ative ao receber matricula, contrato, certidoes ou qualquer documento imobiliario para analisar.
 metadata:
   version: "0.1.0"
   area: "Direito Imobiliario e Locacao"

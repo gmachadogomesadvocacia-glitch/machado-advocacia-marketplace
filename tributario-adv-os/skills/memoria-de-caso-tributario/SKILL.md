@@ -1,12 +1,7 @@
 ---
 name: memoria-de-caso-tributario
 description: >
-  Protocolo P3 — memoria de caso tributario. Define a estrutura do CASO.md (partes, tributo, esferas,
-  fatos geradores/competencias, documentos numerados "doc. N", prazos com datas — decadencia,
-  prescricao, impugnacao, embargos —, fase atual, pecas produzidas, proximos passos, decisoes
-  estrategicas). Ensina a atualizar apos cada entrega. Sigilo: pasta gitignored, dados fiscais nao
-  versionados (PA-12 — CTN 198 + LGPD). Convencao de nomenclatura AAAA-MM-DD - Cliente - tipo.ext e
-  entrega em .txt. Ative ao abrir/retomar caso, criar CASO.md, registrar decisao, ou /caso-tributario.
+  Protocolo P3 — memoria de caso tributario. Ative ao abrir/retomar caso, criar CASO.md, registrar decisao, ou /caso-tributario.
 metadata:
   version: "0.1.0"
   area: "Direito Tributario"

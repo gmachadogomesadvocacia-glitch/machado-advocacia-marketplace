@@ -1,13 +1,7 @@
 ---
 name: revisao-final-imobiliaria
 description: >
-  Revisao final Tier 3 — Suprema Corte R1-R4. Ultima barreira antes de qualquer entrega de peca,
-  contrato, parecer ou calculo imobiliario/locaticio. R1 valida fundamentos (Lei 8.245, CC, Lei 9.514,
-  Lei 4.591, Lei 6.015, Lei 13.786 vigentes no contrato/fato) e jurisprudencia (Sumula/Tema STF/STJ)
-  contra alucinacao (PA-01/PA-02/PA-04); R2 audita fatos, matricula, area, valores, datas e prazos
-  (decadencia da renovatoria, purgacao da mora — PA-03/PA-07); R3 verifica coerencia de polo, via
-  processual e a distincao posse x propriedade (PA-05/PA-10); R4 confere forma, foro do imovel, garantia,
-  sigilo e LGPD (PA-12). Ative SEMPRE antes de entregar qualquer produto imobiliario ao usuario.
+  Revisao final Tier 3 — Suprema Corte R1-R4. Ative SEMPRE antes de entregar qualquer produto imobiliario ao usuario.
 metadata:
   version: "0.1.0"
   area: "Direito Imobiliario e Locacao"

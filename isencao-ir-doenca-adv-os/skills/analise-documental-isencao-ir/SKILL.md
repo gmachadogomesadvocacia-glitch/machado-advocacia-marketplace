@@ -1,13 +1,7 @@
 ---
 name: analise-documental-isencao-ir
 description: >
-  ANALISE DOCUMENTAL ISENCAO-IR — Skill Tier 1 (Protocolo P2). Inventaria e checa a integridade dos
-  documentos do caso: laudo medico (data, CID, doenca do rol, se e de servico medico oficial), carta
-  de concessao do beneficio, informes de rendimentos / comprovantes de IR retido (base do calculo da
-  restituicao) e DIRPF dos ultimos 5 anos. Monta o mapa "doc. N", sinaliza faltante [INFORMAR] e nao
-  analisa sem doc essencial. NAO opina sobre o diagnostico (PA-04). Protege dado de saude sensivel
-  (PA-10). Acione apos a triagem, para preparar calculo, trilateral e producao. Gatilhos: laudo, CID,
-  informe de rendimentos, comprovante de IR retido, carta de concessao, DIRPF, documentos do caso.
+  ANALISE DOCUMENTAL ISENCAO-IR — Skill Tier 1 (Protocolo P2). Gatilhos: laudo, CID, informe de rendimentos, comprovante de IR retido, carta de concessao, DIRPF, documentos do caso.
 metadata:
   version: "0.1.0"
   area: "Isencao de IRPF por Doenca Grave"

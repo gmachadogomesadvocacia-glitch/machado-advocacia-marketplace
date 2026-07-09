@@ -1,15 +1,7 @@
 ---
 name: parcelamento-transacao
 description: >
-  Orienta e instrui parcelamento de debito fiscal (CTN 151, VI e 155-A) e
-  transacao tributaria (Lei 13.988/2020). Aciona quando o cliente quer parcelar
-  debito, aderir a REFIS/programa especial, negociar com a PGFN/Fazenda, obter
-  desconto em multa/juros, regularizar para emitir CND, ou decidir entre aderir e
-  litigar. Cobre: parcelamento ordinario e especial, efeito suspensivo, confissao
-  de divida e seus limites (debito declarado pode ser revisto quanto a legalidade
-  — validar); transacao por adesao (editais PGFN) e individual, no contencioso de
-  relevante controversia, descontos e creditos irrecuperaveis, efeito sobre CND.
-  Entrega: orientacao + requerimento (nao e peca processual contenciosa).
+  Orienta e instrui parcelamento de debito fiscal (CTN 151, VI e 155-A) e transacao tributaria (Lei 13.988/2020). Aciona quando o cliente quer parcelar debito, aderir a REFIS/programa especial, negociar com a PGFN/Fazenda, obter desconto em multa/juros, regularizar para emitir CND, ou decidir entre aderir e litigar. Cobre: parcelamento ordinario e especial, efeito suspensivo, confissao de divida e seus limites (debito declarado pode ser revisto quanto a legalidade — validar); transacao por adesao (editais PGFN) e individual, no contencioso de relevante controversia, descontos e creditos irrecuperaveis, efeito sobre CND. Entrega: orientacao + requerimento (nao e peca processual contenciosa).
 metadata:
   version: "0.1.0"
   area: "Direito Tributario"

@@ -1,13 +1,7 @@
 ---
 name: triagem-transito
 description: >
-  Triagem de transito Tier 1 — primeiro contato com a demanda. Classifica em 5 eixos: (1) EIXO
-  (administrativo, CNH/habilitacao, judicial, analise), (2) FASE do processo (autuacao — recebeu a NA;
-  penalidade — recebeu a NP; recurso JARI; recurso CETRAN; pos-administrativo/judicial), (3) AUTO/
-  INFRACAO (codigo CTB, natureza leve/media/grave/gravissima, orgao autuador, equipamento?), (4)
-  PONTUACAO e situacao da CNH (pontos acumulados, suspensao/cassacao em curso), (5) PRAZO em curso
-  (defesa previa, JARI, CETRAN — 30 dias da notificacao; preclusao). Define a porta de saida. Ative no
-  inicio de qualquer caso de transito.
+  Triagem de transito Tier 1 — primeiro contato com a demanda. Ative no inicio de qualquer caso de transito.
 metadata:
   version: "0.1.0"
   area: "Direito de Transito"

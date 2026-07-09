@@ -1,12 +1,7 @@
 ---
 name: violencia-domestica-maria-penha
 description: >
-  Producao em VIOLENCIA DOMESTICA E FAMILIAR CONTRA A MULHER (Lei 11.340/2006 — Maria da
-  Penha). Ative em: medidas protetivas de urgencia (pedido/defesa), afastamento do lar,
-  proibicao de contato/aproximacao, lesao corporal/ameaca/injuria em ambito domestico,
-  descumprimento de medida protetiva (art. 24-A), e o lado VITIMA (assistencia) ou AUTOR
-  (defesa). Interface com familia-sucessoes (divorcio/guarda/alimentos). So apos triagem +
-  Selo. Encerra em revisao-final-criminal (R1-R5).
+  Producao em VIOLENCIA DOMESTICA E FAMILIAR CONTRA A MULHER (Lei 11.340/2006. Ative em: medidas protetivas de urgencia (pedido/defesa), afastamento do lar, proibicao de contato/aproximacao, lesao corporal/ameaca/injuria em ambito domestico, descumprimento de medida protetiva (art. 24-A), e o lado VITIMA (assistencia) ou AUTOR (defesa). Interface com familia-sucessoes (divorcio/guarda/alimentos). So apos triagem + Selo. Encerra em revisao-final-criminal (R1-R5).
 ---
 
 # VIOLENCIA DOMESTICA — LEI MARIA DA PENHA (Lei 11.340/2006)

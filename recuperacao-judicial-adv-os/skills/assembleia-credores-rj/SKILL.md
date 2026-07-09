@@ -1,12 +1,7 @@
 ---
 name: assembleia-credores-rj
 description: >
-  ASSEMBLEIA-CREDORES-RJ — Tier 2 (Produção). Prepara toda a estratégia e documentação para
-  a Assembleia Geral de Credores (AGC): mapa de quóruns por classe, estratégia de votação,
-  análise de forças (credores favoráveis/contrários), pedido de convocação, ata e impugnação
-  de deliberação assemblear. Acionar quando o usuário precisar se preparar para uma AGC,
-  calcular quóruns de aprovação do plano (arts. 45 e 58), analisar se o cram down é viável,
-  ou contestar irregularidades em assembleia já realizada.
+  ASSEMBLEIA-CREDORES-RJ — Tier 2 (Produção). Acionar quando o usuário precisar se preparar para uma AGC, calcular quóruns de aprovação do plano (arts. 45 e 58), analisar se o cram down é viável, ou contestar irregularidades em assembleia já realizada.
 ---
 
 # ASSEMBLEIA-CREDORES-RJ

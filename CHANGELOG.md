@@ -4,6 +4,18 @@ Histórico do conjunto de plugins jurídicos (Adv-OS). Datas em AAAA-MM-DD.
 
 ## 2026-07-09
 
+### Redução de tokens — descrições das SKILLS encurtadas (patch em 14 plugins)
+Segunda fase do corte de contexto fixo: cada `description:` de skill (o maior custo always-on,
+blocos multilinha de ~150-250 tok) foi reduzida ao **título + resumo de 1 linha + a cláusula de
+gatilho ("Acione quando…"/"Aciona:"/"Use…")**, preservando o auto-disparo; a enumeração de
+leis/precedentes migrou para o corpo do `SKILL.md` (carregado sob demanda). Skills sem cláusula
+de gatilho explícita foram **mantidas inteiras** (segurança de matching). 331 skills auditadas,
+0 YAML quebrado. Always-on somado dos 15 plugins: **~61k → ~30,5k tok/sessão (−50%)**.
+Bump de patch nos 14 plugins com skills alteradas (usucapiao ja fora liberado em 0.1.2):
+consumidor 0.1.2, previdenciario 0.2.3, familia-sucessoes 2.0.3, recuperacao-judicial 0.3.2,
+isencao-ir-doenca 0.1.3, tributario 0.1.3, imobiliario 0.1.2, criminal 0.1.2, civel 0.1.2,
+transito 0.1.2, roteador 1.0.2, jurimetria 0.3.2, trabalhista 0.3.2, direito-medico 0.3.2.
+
 ### Redução de tokens — descrições dos slash-commands encurtadas (patch em todos os 15 plugins)
 Corte de contexto fixo por turno: cada `description:` de command foi reduzida ao resumo que
 aparece no menu `/` (corte no primeiro travessão " — " ou na primeira frase). 164 de 172

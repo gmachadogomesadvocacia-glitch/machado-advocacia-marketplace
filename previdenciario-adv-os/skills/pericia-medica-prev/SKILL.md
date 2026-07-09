@@ -1,12 +1,7 @@
 ---
 name: pericia-medica-prev
 description: >
-  PERICIA MEDICA PREVIDENCIARIA — Skill consolidada para analise de laudos periciais em
-  acoes previdenciarias: analise critica do laudo do perito judicial, elaboracao de quesitos
-  periciais, formulacao de impugnacao a laudo desfavoravel, analise de laudo do assistente
-  tecnico do INSS, e orientacao sobre CID e incapacidade laboral por especie (B31/B32/B91/
-  B94/B87). Acionar quando o caso envolver incapacidade laboral, contestacao de alta medica,
-  BPC por deficiencia, ou necessidade de quesitos ao perito judicial.
+  PERICIA MEDICA PREVIDENCIARIA — Skill consolidada para analise de laudos periciais em acoes previdenciarias: analise critica do laudo do perito judicial, elaboracao de quesitos... Acionar quando o caso envolver incapacidade laboral, contestacao de alta medica, BPC por deficiencia, ou necessidade de quesitos ao perito judicial.
 ---
 
 # PERICIA MEDICA PREVIDENCIARIA

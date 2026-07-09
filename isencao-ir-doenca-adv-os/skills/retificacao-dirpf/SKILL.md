@@ -1,12 +1,7 @@
 ---
 name: retificacao-dirpf
 description: >
-  RETIFICACAO DIRPF — Skill Tier 2 (lado contribuinte). Orienta a retificacao das Declaracoes de Ajuste
-  Anual (DIRPF) dos ultimos 5 anos, reclassificando os proventos como RENDIMENTOS ISENTOS (doenca grave)
-  para gerar a restituicao via Receita Federal. Cobre o prazo de 5 anos (decadencia/prescricao da
-  restituicao — CTN art. 168), o passo a passo da retificadora, o risco de malha fina e como instruir
-  (laudo + comprovantes), e a complementaridade com o requerimento administrativo. Acione quando o cliente
-  ja recolheu/teve IR retido em anos anteriores e quer restituir. Exige Selo P1, laudo e informes de IR.
+  RETIFICACAO DIRPF — Skill Tier 2 (lado contribuinte). Acione quando o cliente ja recolheu/teve IR retido em anos anteriores e quer restituir. Exige Selo P1, laudo e informes de IR.
 metadata:
   version: "0.1.0"
   area: "Isencao de IRPF por Doenca Grave"

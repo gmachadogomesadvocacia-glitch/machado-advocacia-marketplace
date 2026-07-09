@@ -1,14 +1,7 @@
 ---
 name: rpps-servidor-publico
 description: >
-  RPPS SERVIDOR PUBLICO — Skill Tier 2 E. Cobre o Regime Proprio de Previdencia Social
-  para servidores publicos efetivos: aposentadoria voluntaria (EC 103), aposentadoria por
-  invalidez (ato medico + processo administrativo), pensao por morte de servidor, abono
-  de permanencia (art. 40 CF + EC 103), licenca para tratamento de saude (LTS), acumulacao
-  de cargos, contagem reciproca RPPS-RGPS, averbacao de tempo de servico, e regras de
-  transicao EC 103 para servidores. Diferencia RPPS federal (SIAPE/SIGEPE) de estaduais/
-  municipais. Acionar quando o usuario for servidor publico estatutario ou quando o caso
-  envolver contagem reciproca ou migracao RGPS-RPPS.
+  RPPS SERVIDOR PUBLICO — Skill Tier 2 E. Cobre o Regime Proprio de Previdencia Social para servidores publicos efetivos: aposentadoria voluntaria (EC 103), aposentadoria por invalidez (ato medico + processo administrativo), pensao por morte de servidor, abono de permanencia (art. Acionar quando o usuario for servidor publico estatutario ou quando o caso envolver contagem reciproca ou migracao RGPS-RPPS.
 ---
 
 # RPPS SERVIDOR PUBLICO

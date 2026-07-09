@@ -1,13 +1,7 @@
 ---
 name: estilo-juridico-imobiliario
 description: >
-  Estilo juridico imobiliario Tier 1 — Camada 3. Define o estilo das pecas imobiliarias e locaticias:
-  enxuto, tecnico, com documentos numerados "doc. N" citados por numero, sem rol final, com antecipacao
-  adversarial e estrutura padrao (enderecamento — foro do imovel quando a acao for real; qualificacao;
-  sintese; fundamentos; pedidos; valor da causa; provas). Tom {{TOM_VOZ_PERFIL}} na intensidade
-  {{TOM_VOZ_INTENSIDADE}}/10. Garante linguagem imobiliaria correta — nao confundir posse, propriedade e
-  dominio; denuncia vazia x cheia; promessa x compra e venda. Ative ao redigir, revisar a forma ou
-  ajustar o tom de qualquer peca imobiliaria.
+  Estilo juridico imobiliario Tier 1 — Camada 3. Ative ao redigir, revisar a forma ou ajustar o tom de qualquer peca imobiliaria.
 metadata:
   version: "0.1.0"
   area: "Direito Imobiliario e Locacao"

@@ -1,7 +1,7 @@
 ---
 name: analise-pericia-medica
 description: >
-  Leitura critica de laudo pericial medico/odontologico (judicial, IML criminal, conselho), formulacao de quesitos defensivos por especialidade, impugnacao de laudo (CPC arts. 466-480 + CPP art. 159), papel e operacao do assistente tecnico (CPC art. 466). Identifica falhas tecnicas do laudo (omissao de exame relevante, ausencia de bibliografia, divergencia com prontuario, falta de qualificacao especifica do perito) — vedada critica pessoal (PA-08). Aplica jurisprudencia STJ sobre pericia medica em erro medico, defesa criminal e PED. Aciona: pericia medica, laudo pericial, IML, assistente tecnico, quesitos, impugnacao de laudo, pericia em PED, divergencia laudo prontuario, CPC 466, CPP 159, qualificacao do perito.
+  Leitura critica de laudo pericial medico/odontologico (judicial, IML criminal, conselho), formulacao de quesitos defensivos por especialidade, impugnacao de laudo (CPC arts. Aciona: pericia medica, laudo pericial, IML, assistente tecnico, quesitos, impugnacao de laudo, pericia em PED, divergencia laudo prontuario, CPC 466, CPP 159, qualificacao do perito.
 ---
 
 # ANALISE DE PERICIA MEDICA

@@ -1,12 +1,7 @@
 ---
 name: timeline-familia
 description: >
-  TIMELINE-FAMILIA — Tier 2 (Produção). Constrói a linha do tempo fática e processual de
-  casos de família e sucessões: cronologia da relação conjugal, fatos relevantes para a
-  partilha, histórico de convivência parental, evolução do inventário, datas de transmissão
-  de bens, e timeline processual com prazos e marcos. Essencial para casos complexos com
-  muitos eventos. Acionar quando o caso tiver muitos fatos temporalmente relevantes ou quando
-  o advogado precisar organizar a narrativa cronológica do caso.
+  TIMELINE-FAMILIA — Tier 2 (Produção). Constrói a linha do tempo fática e processual de casos de família e sucessões: cronologia da relação conjugal, fatos relevantes para a partilha, histórico de convivência parental, evolução do inventário, datas de transmissão de bens, e timeline processual com prazos e marcos. Acionar quando o caso tiver muitos fatos temporalmente relevantes ou quando o advogado precisar organizar a narrativa cronológica do caso.
 metadata:
   version: "1.0.0"
 ---

@@ -1,7 +1,7 @@
 ---
 name: responsabilidade-civil-medica
 description: >
-  Nucleo civel do plugin — responsabilidade civil em erro medico/odontologico. Distincao critica subjetiva x objetiva (PA-15): medico PF autonomo CC art. 951 (subjetiva — provar culpa) vs clinica/hospital/operadora PJ CDC art. 14 (objetiva — basta nexo+dano). Aplica STJ Sum. 608 (CDC em planos, salvo autogestao — substituiu a 469, cancelada), Sum. 597 (carencia urgencia/emergencia 24h), Sum. 387 (cumulacao moral+estetico), Sum. 326 (sucumbencia). Inversao do onus CDC art. 6o VIII / Sum. 608 STJ vs distribuicao dinamica CC art. 373 §1o. Memoria de quantum (CC arts. 948-950 + parametros STJ por especialidade) conservadora (PA-21). Aciona: erro medico, responsabilidade civil medica, indenizacao por dano medico, danos morais medicos, danos materiais medicos, pensao por morte medica, REsp 1.708.628, Sumula 608 STJ, CDC art. 14, CC art. 951, inversao do onus, peticao inicial erro medico, contestacao erro medico.
+  Nucleo civel do plugin — responsabilidade civil em erro medico/odontologico. Aciona: erro medico, responsabilidade civil medica, indenizacao por dano medico, danos morais medicos, danos materiais medicos, pensao por morte medica, REsp 1.708.628, Sumula 608 STJ, CDC art. 14, CC art. 951, inversao do onus, peticao inicial erro medico, contestacao erro medico.
 ---
 
 # RESPONSABILIDADE CIVIL MEDICA

@@ -1,13 +1,7 @@
 ---
 name: mandado-seguranca-prev
 description: >
-  MANDADO DE SEGURANCA PREVIDENCIARIO — Skill Tier 2 A. Produz mandado de seguranca
-  preventivo ou repressivo contra ato coator do INSS: alta indevida em beneficio acidentario
-  (B91/B94), cessacao arbitraria de aposentadoria por invalidez (B31), negativa ilegal de
-  implantacao de beneficio concedido administrativamente, bloqueio indevido de cadastro,
-  e recusa de cumprimento de decisao judicial. Inclui pedido de liminar. Acionar quando
-  o ato do INSS e ilegal, ha direito liquido e certo demonstrado de plano, e o prazo de
-  120 dias nao foi ultrapassado.
+  MANDADO DE SEGURANCA PREVIDENCIARIO — Skill Tier 2 A. Acionar quando o ato do INSS e ilegal, ha direito liquido e certo demonstrado de plano, e o prazo de 120 dias nao foi ultrapassado.
 ---
 
 # MANDADO DE SEGURANCA PREVIDENCIARIO

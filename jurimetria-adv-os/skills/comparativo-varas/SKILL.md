@@ -1,14 +1,7 @@
 ---
 name: comparativo-varas
 description: >
-  COMPARATIVO ENTRE VARAS — Skill Tier 2, extensao do Modulo B. Compara unidades judiciarias da
-  mesma comarca/regiao para a MESMA classe+assunto (harmonizacao PE-09), via benchmark DataJud
-  rodado por orgao julgador: mediana/quartis de duracao, volume e ritmo de andamentos. Uso legitimo:
-  expectativa de tempo por caso ja distribuido, gestao de carteira, leitura de padrao decisorio
-  agregado (ex.: mesma tese com ritmos opostos em varas vizinhas). NUNCA para escolher vara
-  (distribuicao e sorteio; manipulacao e fraude) nem para prometer resultado (PE-02/PE-03).
-  Acione para: comparar varas, por que esta vara demora mais, ritmo da 1a x 3a vara, mesma tese
-  andamentos diferentes, expectativa de tempo por unidade.
+  COMPARATIVO ENTRE VARAS — Skill Tier 2, extensao do Modulo B. Acione para: comparar varas, por que esta vara demora mais, ritmo da 1a x 3a vara, mesma tese andamentos diferentes, expectativa de tempo por unidade.
 metadata:
   version: "0.1.0"
   area: "Jurimetria"

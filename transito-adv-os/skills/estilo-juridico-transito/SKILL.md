@@ -1,14 +1,7 @@
 ---
 name: estilo-juridico-transito
 description: >
-  Estilo juridico de transito Camada 3 (Tier 1) — define a forma das pecas de transito: defesa previa,
-  recurso JARI/CETRAN, anulatoria e mandado de seguranca. Estilo objetivo, tecnico, com teses ordenadas
-  (preliminares de nulidade → merito). Estrutura padrao: endereçamento ao orgao/juizo, identificacao do
-  auto e do recorrente, das preliminares/nulidades, do merito, dos pedidos (arquivamento, cancelamento,
-  restituicao de pontos, efeito suspensivo) e das provas requeridas. Documentos numerados "doc. N".
-  Linguagem de transito correta (NA × NP; autuacao × penalidade; suspensao × cassacao). Tom
-  {{TOM_VOZ_PERFIL}} intensidade {{TOM_VOZ_INTENSIDADE}}/10. Ative ao redigir ou revisar a forma de
-  qualquer peca de transito.
+  Estilo juridico de transito Camada 3 (Tier 1). Ative ao redigir ou revisar a forma de qualquer peca de transito.
 metadata:
   version: "0.1.0"
   area: "Direito de Transito"

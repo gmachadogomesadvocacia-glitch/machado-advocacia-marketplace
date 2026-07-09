@@ -1,14 +1,7 @@
 ---
 name: execucao-penal
 description: >
-  Skill Tier 2 — execucao penal (LEP 7.210/84). Cobre os incidentes da execucao: progressao de regime
-  (lapsos do art. 112 LEP com a redacao da Lei 13.964/2019 — fracoes por tipo de crime/condicao do reu;
-  requisito objetivo + bom comportamento), regressao de regime, livramento condicional (CP 83), remicao
-  (LEP 126 — trabalho, estudo e leitura), saidas temporarias e trabalho externo, falta grave (LEP 50 —
-  consequencias e perda de ate 1/3 da remicao, LEP art. 127), detracao (CP 42), unificacao/soma de penas,
-  indulto e comutacao. Define a competencia do juizo da execucao e a estrutura dos pedidos e do agravo em
-  execucao (LEP 197). Polo: defesa (sentenciado). Ative em progressao, regressao, livramento condicional,
-  remicao, falta grave, detracao, saida temporaria, indulto, agravo em execucao, LEP.
+  Skill Tier 2 — execucao penal (LEP 7.210/84). Ative em progressao, regressao, livramento condicional, remicao, falta grave, detracao, saida temporaria, indulto, agravo em execucao, LEP.
 metadata:
   version: "0.1.0"
   area: "Direito Penal e Processo Penal"

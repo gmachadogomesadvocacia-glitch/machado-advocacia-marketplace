@@ -1,15 +1,7 @@
 ---
 name: encerrar-caso
 description: >
-  ENCERRAR CASO — Skill Tier 1, fecha o ciclo de vida do caso no acervo (contraparte da
-  instrumentar-caso, que abre). Quatro etapas: (1) confirma que o caso encerrou de verdade
-  (transito em julgado, acordo cumprido, arquivamento definitivo — execucao pendente NAO encerra);
-  (2) preenche o DESFECHO do bloco jurimetrico via instrumentar-caso (resultado, quantum_obtido,
-  forma e data de encerramento) com sincronizacao DataJud final; (3) fecha a memoria do caso
-  (MEMORY.md) com o resumo final; (4) arquiva a pasta do caso no acervo formal — o OPERADOR
-  escolhe o destino, a skill nunca decide sozinha — movendo (nunca apagando) e conferindo a
-  integridade. Acione em: encerrar caso, arquivar caso, caso transitou em julgado, acordo
-  cumprido/quitado, desistencia homologada, baixa definitiva.
+  ENCERRAR CASO — Skill Tier 1, fecha o ciclo de vida do caso no acervo (contraparte da instrumentar-caso, que abre). Acione em: encerrar caso, arquivar caso, caso transitou em julgado, acordo cumprido/quitado, desistencia homologada, baixa definitiva.
 metadata:
   version: "0.1.0"
   area: "Jurimetria"

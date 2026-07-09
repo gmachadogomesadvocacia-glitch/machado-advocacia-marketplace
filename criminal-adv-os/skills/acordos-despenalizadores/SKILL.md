@@ -1,16 +1,7 @@
 ---
 name: acordos-despenalizadores
 description: >
-  Skill Tier 2 — solucoes consensuais no processo penal. Cobre o ANPP (acordo de nao persecucao penal,
-  CPP 28-A — requisitos: confissao formal e circunstanciada, crime sem violencia ou grave ameaca, pena
-  minima inferior a 4 anos, nao reincidente; condicoes; homologacao judicial; cumprimento integral
-  extingue a punibilidade), a transacao penal (Lei 9.099 art. 76 — JECrim, infracoes de menor potencial
-  ofensivo), a suspensao condicional do processo / sursis processual (Lei 9.099 art. 89 — pena minima
-  igual ou inferior a 1 ano; condicoes; periodo de prova de 2 a 4 anos) e a composicao civil dos danos
-  (extingue a punibilidade nas acoes privadas e publicas condicionadas). Analisa quando vale aceitar x
-  litigar. NAO confunde sursis processual (art. 89) com sursis da pena (CP 77). Polo: defesa. Ative em
-  ANPP, transacao penal, suspensao condicional do processo, sursis processual, composicao civil, acordo
-  penal, Lei 9.099.
+  Skill Tier 2 — solucoes consensuais no processo penal. Ative em ANPP, transacao penal, suspensao condicional do processo, sursis processual, composicao civil, acordo penal, Lei 9.099.
 metadata:
   version: "0.1.0"
   area: "Direito Penal e Processo Penal"

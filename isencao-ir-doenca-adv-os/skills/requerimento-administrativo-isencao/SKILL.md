@@ -1,12 +1,7 @@
 ---
 name: requerimento-administrativo-isencao
 description: >
-  REQUERIMENTO ADMINISTRATIVO ISENCAO — Skill Tier 2 (lado contribuinte). Redige o requerimento de
-  isencao de IRPF por doenca grave a FONTE PAGADORA (INSS via Meu INSS / RPPS do orgao / fundo de pensao
-  EFPC) e orienta a retificacao da DIRPF na Receita para a restituicao. Inclui a juntada do LAUDO DE
-  SERVICO MEDICO OFICIAL (exigencia administrativa), o pedido de cessacao da retencao e de devolucao do
-  retido, prazos de resposta e o uso do silencio/recusa como prova pre-constituida (Protocolo P4).
-  Acione na via administrativa pelo contribuinte. Exige Selo P1, laudo oficial e comprovantes de IR retido.
+  REQUERIMENTO ADMINISTRATIVO ISENCAO — Skill Tier 2 (lado contribuinte). Acione na via administrativa pelo contribuinte. Exige Selo P1, laudo oficial e comprovantes de IR retido.
 metadata:
   version: "0.1.0"
   area: "Isencao de IRPF por Doenca Grave"

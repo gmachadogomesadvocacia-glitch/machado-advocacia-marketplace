@@ -1,7 +1,7 @@
 ---
 name: medico-master
 description: >
-  Orquestrador e constituicao operacional do plugin. SEMPRE ativa em demanda de direito medico, direito da saude ou direito odontologico. Injeta as 4 Camadas (22 PAs + 6 Protocolos + identidade FIRAC), faz a triagem 4D (sujeito x modo x esfera x subdominio), roteia ao Tier correto (0-6 + transversais). Garante que nenhuma peca, parecer, contrato ou defesa em PED roda sem o Selo de Validacao Legal Previa (P1). Aciona: erro medico, responsabilidade civil medica, defesa CRM, defesa CRO, PED, cassacao, suspensao preventiva, MS contra conselho, prontuario, TCLE, pericia, plano de saude, ANS, ANVISA, telemedicina, oncologia, home care, OPME, TEA, reajuste plano, rescisao coletivo, tutela urgencia saude, sociedade medica, pejotizacao medica, credenciamento, LGPD saude, publicidade medica, sigilo medico, omissao socorro, falsidade atestado, parto distocico, cirurgia estetica, HOF, implante, ortodontia, reproducao assistida, internacao involuntaria, saude mental, DAV.
+  Orquestrador e constituicao operacional do plugin. Aciona: erro medico, responsabilidade civil medica, defesa CRM, defesa CRO, PED, cassacao, suspensao preventiva, MS contra conselho, prontuario, TCLE, pericia, plano de saude, ANS, ANVISA, telemedicina, oncologia, home care, OPME, TEA, reajuste plano, rescisao coletivo, tutela urgencia saude, sociedade medica, pejotizacao medica, credenciamento, LGPD saude, publicidade medica, sigilo medico, omissao socorro, falsidade atestado, parto distocico, cirurgia estetica, HOF, implante, ortodontia, reproducao assistida, internacao involuntaria, saude mental, DAV.
 ---
 
 # MEDICO MASTER

@@ -1,15 +1,7 @@
 ---
 name: calculos-civeis
 description: >
-  Calculos civeis Tier 1 — nucleo de liquidacao. (a) Dano material: dano emergente + lucro cessante
-  (CC 402) — base, prova e projecao. (b) Dano moral/estetico: parametros do arbitramento (sem tabela;
-  razoabilidade/proporcionalidade, CC 944). (c) Juros de mora: taxa (CC 406 — SELIC ou 1% conforme
-  entendimento; validar), termo inicial (Sum. 54 STJ — extracontratual desde o evento; contratual desde
-  a citacao/mora). (d) Correcao monetaria: indice e termo (Sum. 362 moral pelo arbitramento; Sum. 43
-  material pelo prejuizo). (e) Prescricao/decadencia: CC 205/206; reparacao civil 3 anos; cobranca de
-  divida liquida em instrumento 5 anos; anulacao 4 anos (CC 178); execucao de cheque. Memoria de calculo
-  passo a passo com datas. Ative para liquidar dano, juros, correcao, quantum ou conferir prazo. PA-05,
-  PA-06.
+  Calculos civeis Tier 1 — nucleo de liquidacao. Ative para liquidar dano, juros, correcao, quantum ou conferir prazo. PA-05, PA-06.
 metadata:
   version: "0.1.0"
   area: "Direito Civil e Processo Civil"

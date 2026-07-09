@@ -1,11 +1,7 @@
 ---
 name: embargos-declaracao-familia
 description: >
-  EMBARGOS-DECLARACAO-FAMILIA — Tier 2 (Produção). Redige embargos de declaração em ações
-  de família e sucessões para sanar omissão, contradição, obscuridade ou erro material na
-  decisão judicial (art. 1.022 CPC). Também usados para fins de prequestionamento (antes
-  de REsp ou RE). Acionar quando houver decisão com pontos não enfrentados, contraditórios
-  ou obscuros, ou quando for necessário prequestionar matéria para recurso ao STJ.
+  EMBARGOS-DECLARACAO-FAMILIA — Tier 2 (Produção). Acionar quando houver decisão com pontos não enfrentados, contraditórios ou obscuros, ou quando for necessário prequestionar matéria para recurso ao STJ.
 metadata:
   version: "1.0.0"
 ---

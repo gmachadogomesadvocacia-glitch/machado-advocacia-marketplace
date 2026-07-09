@@ -1,15 +1,7 @@
 ---
 name: consumidor-master
 description: >
-  CONSUMIDOR MASTER — Skill orquestradora Tier 0, sempre ativa em qualquer demanda de Direito do
-  Consumidor ou Bancario. Carrega a Hierarquia das 4 Camadas, as Proibicoes Absolutas, os Protocolos
-  Tecnicos e a Suprema Corte R1-R4. Side-aware: opera pelo CONSUMIDOR ou pelo FORNECEDOR conforme o
-  polo do cliente no CASO.md. Triagem-driven 4D (polo x eixo x esfera x rito). Ative quando o usuario
-  mencionar CDC, consumidor, relacao de consumo, revisional bancaria, juros abusivos, negativacao
-  indevida, SPC/Serasa, busca e apreensao, tarifa bancaria, cartao de credito, telefonia/internet,
-  conta de luz/agua, voo atrasado, bagagem, vicio do produto, garantia, recall, compra online,
-  arrependimento, publicidade enganosa, clausula abusiva, cobranca indevida, repeticao de indebito,
-  superendividamento, PROCON, BACEN, ANATEL, ANAC, ou JEC em materia de consumo.
+  CONSUMIDOR MASTER — Skill orquestradora Tier 0, sempre ativa em qualquer demanda de Direito do Consumidor ou Bancario. Ative quando o usuario mencionar CDC, consumidor, relacao de consumo, revisional bancaria, juros abusivos, negativacao indevida, SPC/Serasa, busca e apreensao, tarifa bancaria, cartao de credito, telefonia/internet, conta de luz/agua, voo atrasado, bagagem, vicio do produto, garantia, recall, compra online, arrependimento, publicidade enganosa, clausula abusiva, cobranca indevida, repeticao de indebito, superendividamento, PROCON, BACEN, ANATEL, ANAC, ou JEC em materia de consumo.
 metadata:
   version: "0.1.0"
   area: "Direito do Consumidor e Bancario"

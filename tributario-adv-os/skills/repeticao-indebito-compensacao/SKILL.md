@@ -1,15 +1,7 @@
 ---
 name: repeticao-indebito-compensacao
 description: >
-  Conduz restituicao de tributo pago indevidamente ou a maior (CTN 165-168) e
-  compensacao tributaria (CTN 170; Lei 9.430/96 art. 74 — PER/DCOMP federal).
-  Aciona quando o cliente pagou tributo indevido/a maior, quer reaver valores,
-  compensar creditos com debitos, ou recuperar indebito reconhecido em decisao.
-  Cobre prazo de 5 anos (CTN 168; LC 118/2005 — termo no lancamento por
-  homologacao; tese dos 5+5 superada para pagamentos pos-LC 118 — validar),
-  legitimidade na repeticao de tributos indiretos (CTN 166), via administrativa
-  (PER/DCOMP, restituicao) x judicial (acao de repeticao + compensacao) e
-  correcao pela SELIC. Lado padrao: contribuinte.
+  Conduz restituicao de tributo pago indevidamente ou a maior (CTN 165-168) e compensacao tributaria (CTN 170; Lei 9.430/96 art. 74. Aciona quando o cliente pagou tributo indevido/a maior, quer reaver valores, compensar creditos com debitos, ou recuperar indebito reconhecido em decisao. Cobre prazo de 5 anos (CTN 168; LC 118/2005 — termo no lancamento por homologacao; tese dos 5+5 superada para pagamentos pos-LC 118 — validar), legitimidade na repeticao de tributos indiretos (CTN 166), via administrativa (PER/DCOMP, restituicao) x judicial (acao de repeticao + compensacao) e correcao pela SELIC. Lado padrao: contribuinte.
 metadata:
   version: "0.1.0"
   area: "Direito Tributario"

@@ -1,13 +1,7 @@
 ---
 name: instrumentar-caso
 description: >
-  INSTRUMENTAR CASO — Skill Tier 1, operacionaliza o Protocolo P2 (Instrumentacao). Insere ou
-  atualiza o bloco jurimetrico de um CASO.md (schema chave: valor entre marcadores
-  jurimetria:inicio/fim): identificacao (numero CNJ, tribunal), classificacao CNJ (classe, assunto,
-  orgao — a chave do benchmark), caso (polo, tese, valor) e desfecho (resultado, quantum
-  pretendido/obtido) ao encerrar. Sincroniza duracao/andamentos via DataJud e carimba datajud_sync.
-  Acione ao abrir caso novo, ao encerrar caso (preencher desfecho), quando a coleta apontar casos
-  sem bloco, ou antes de qualquer analise de caso.
+  INSTRUMENTAR CASO — Skill Tier 1, operacionaliza o Protocolo P2 (Instrumentacao). Acione ao abrir caso novo, ao encerrar caso (preencher desfecho), quando a coleta apontar casos sem bloco, ou antes de qualquer analise de caso.
 metadata:
   version: "0.1.0"
   area: "Jurimetria"

@@ -1,7 +1,7 @@
 ---
 name: documentos-extrajudiciais-trabalhistas
 description: >
-  DOCUMENTOS EXTRAJUDICIAIS TRABALHISTAS — Skill Tier 2 transversal. Redige notificacoes, interpelacoes e comunicacoes formais extrajudiciais trabalhistas. Use quando menciona notificacao extrajudicial trabalhista, interpelacao, comunicado formal trabalhista.
+  DOCUMENTOS EXTRAJUDICIAIS TRABALHISTAS — Skill Tier 2 transversal. Use quando menciona notificacao extrajudicial trabalhista, interpelacao, comunicado formal trabalhista.
 ---
 
 # DOCUMENTOS EXTRAJUDICIAIS TRABALHISTAS

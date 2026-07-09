@@ -1,12 +1,7 @@
 ---
 name: onboarding-jurimetria
 description: >
-  ONBOARDING JURIMETRIA — Skill Tier 1, wizard de configuracao do plugin no ambiente do escritorio.
-  Conduz perguntas estruturadas para criar a pasta jurimetria/ com a identidade do advogado (nome,
-  OAB, cidade/UF), a raiz do acervo (CASE_ROOT com os CASO.md), os tribunais de referencia para o
-  benchmark DataJud, o N minimo e as preferencias de relatorio. Gera persona.md, config.md e aponta
-  JURI_PERSONA no settings.local.json. Acione quando o operador disser configurar jurimetria,
-  instalar, primeira vez, /start-jurimetria, ou onboarding.
+  ONBOARDING JURIMETRIA — Skill Tier 1, wizard de configuracao do plugin no ambiente do escritorio. Acione quando o operador disser configurar jurimetria, instalar, primeira vez, /start-jurimetria, ou onboarding.
 metadata:
   version: "0.1.0"
   area: "Jurimetria"

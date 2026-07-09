@@ -1,16 +1,7 @@
 ---
 name: rj-master
 description: >
-  RJ-MASTER — Tier 0 (Orquestração Central). Governa o pipeline de
-  Recuperação Judicial e Extrajudicial (L11.101/2005 + L14.112/2020).
-  EIXO PRIORITÁRIO ABSOLUTO: representação do CREDOR TRABALHISTA na
-  habilitação de crédito. Acionado quando o usuário menciona recuperação
-  judicial, falência, crise empresarial, plano de recuperação, assembleia
-  de credores, stay period, QGC, habilitação de crédito, administrador
-  judicial, divergência, impugnação, habilitação retardatária ou qualquer
-  contexto de insolvência empresarial. MODO CTH (Credor Trabalhista
-  Habilitando) ativa ao detectar léxico trabalhista.
-  Orquestra as 4 Camadas, 25 PA + 11 PA-CTH, 8 Protocolos e as skills.
+  RJ-MASTER — Tier 0 (Orquestração Central). Acionado quando o usuário menciona recuperação judicial, falência, crise empresarial, plano de recuperação, assembleia de credores, stay period, QGC, habilitação de crédito, administrador judicial, divergência, impugnação, habilitação retardatária ou qualquer contexto de insolvência empresarial. MODO CTH (Credor Trabalhista Habilitando) ativa ao detectar léxico trabalhista. Orquestra as 4 Camadas, 25 PA + 11 PA-CTH, 8 Protocolos e as skills.
 ---
 
 # RJ-MASTER — ORQUESTRAÇÃO CENTRAL

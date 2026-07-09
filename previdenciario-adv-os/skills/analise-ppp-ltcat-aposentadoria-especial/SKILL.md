@@ -1,15 +1,7 @@
 ---
 name: analise-ppp-ltcat-aposentadoria-especial
 description: >
-  ANALISE PPP / LTCAT / APOSENTADORIA ESPECIAL — Skill Tier 2 C. Analisa Perfil
-  Profissiografico Previdenciario (PPP) e Laudo Tecnico das Condicoes Ambientais do
-  Trabalho (LTCAT) para aposentadoria especial. Verifica agente nocivo, nivel de
-  exposicao, EPI eficaz (Tema 555 STF), periodo de atividade especial, conversao de
-  tempo especial em comum (entendimento consolidado — validar). Cobre os tres periodos de
-  ruido (Anexo do Decreto 4.882/2003 — validar) e todos os agentes quimicos e biologicos
-  do Decreto 3.048/99. Acionar quando o caso
-  envolver aposentadoria especial (B46), contestacao de PPP pelo INSS, ou necessidade de
-  reconhecimento de atividade especial para conversao.
+  ANALISE PPP / LTCAT / APOSENTADORIA ESPECIAL. Acionar quando o caso envolver aposentadoria especial (B46), contestacao de PPP pelo INSS, ou necessidade de reconhecimento de atividade especial para conversao.
 ---
 
 # ANALISE PPP / LTCAT / APOSENTADORIA ESPECIAL

@@ -1,14 +1,7 @@
 ---
 name: jurisprudencia-civel
 description: >
-  Jurisprudencia civel Tier 1 — validacao jurisprudencial (PA-01). Hierarquia STF > STJ > TJ. Como
-  confirmar sumula, tema repetitivo e precedente ANTES de citar (nunca alucinar). Catalogo de sumulas
-  STJ consagradas em materia civel (sempre validar): Sum. 54 (juros de mora desde o evento na
-  extracontratual), Sum. 362 (correcao do dano moral desde o arbitramento), Sum. 37 (cumulacao de dano
-  material e moral), Sum. 387 (cumulacao de dano estetico e moral), Sum. 403 (dano pelo uso de imagem com
-  fins economicos), Sum. 326 (sem sucumbencia ao autor por dano moral arbitrado a menor), Sum. 43
-  (correcao do dano material desde o efetivo prejuizo). Ative quando o usuario pedir jurisprudencia,
-  sumula, tema, precedente ou fundamento de tribunal em materia civel.
+  Jurisprudencia civel Tier 1 — validacao jurisprudencial (PA-01). Ative quando o usuario pedir jurisprudencia, sumula, tema, precedente ou fundamento de tribunal em materia civel.
 metadata:
   version: "0.1.0"
   area: "Direito Civil e Processo Civil"

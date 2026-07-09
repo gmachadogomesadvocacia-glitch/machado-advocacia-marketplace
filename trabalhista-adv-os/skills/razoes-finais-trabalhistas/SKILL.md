@@ -1,7 +1,7 @@
 ---
 name: razoes-finais-trabalhistas
 description: >
-  RAZOES FINAIS TRABALHISTAS — Skill Tier 2 transversal. Produz as razoes finais / memoriais apos a instrucao, consolidando prova e tese para qualquer um dos polos. Use quando menciona razoes finais, memoriais, alegacoes finais trabalhistas, encerrada a instrucao.
+  RAZOES FINAIS TRABALHISTAS — Skill Tier 2 transversal. Use quando menciona razoes finais, memoriais, alegacoes finais trabalhistas, encerrada a instrucao.
 ---
 
 # RAZOES FINAIS TRABALHISTAS

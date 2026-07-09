@@ -1,14 +1,7 @@
 ---
 name: responsabilidade-civil
 description: >
-  Skill flagship Tier 2 — responsabilidade civil e acao indenizatoria (CC 186, 187, 927 e seguintes).
-  Cobre os dois polos: AUTOR/lesado (acao de reparacao) e REU/causador (defesa). Trata os pressupostos
-  (conduta, dano, nexo causal, culpa) e a responsabilidade objetiva (CC 927 § unico — risco), as
-  modalidades de dano (material — dano emergente e lucro cessante; moral; estetico; perda de uma
-  chance), o quantum (criterios e arbitramento — Sum. 362 STJ), juros e correcao (Sum. 54 STJ), as
-  excludentes (caso fortuito/forca maior, culpa exclusiva da vitima, fato de terceiro) e a estrutura da
-  peca. Ative em dano moral, dano material, dano estetico, ato ilicito, indenizacao, reparacao ou
-  defesa em acao indenizatoria.
+  Skill flagship Tier 2 — responsabilidade civil e acao indenizatoria (CC 186, 187, 927 e seguintes). Ative em dano moral, dano material, dano estetico, ato ilicito, indenizacao, reparacao ou defesa em acao indenizatoria.
 metadata:
   version: "0.1.0"
   area: "Direito Civil e Processo Civil"

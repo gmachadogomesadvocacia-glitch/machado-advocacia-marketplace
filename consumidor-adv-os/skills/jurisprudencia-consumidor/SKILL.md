@@ -1,13 +1,7 @@
 ---
 name: jurisprudencia-consumidor
 description: >
-  JURISPRUDENCIA CONSUMIDOR — Skill Tier 1, apoio ao Selo P1. Faz a busca viva, a validacao e a
-  classificacao de precedentes consumeristas/bancarios em 3 niveis (VALIDADA / [VERIFICAR] /
-  IMPOSSIBILIDADE). PA-01: nunca citar sumula/Tema sem validar — sem confirmacao, marcar [VERIFICAR].
-  Acione sempre que uma peca, parecer ou tese precisar de fundamento jurisprudencial, quando o usuario
-  pedir sumula/Tema/precedente, ou quando outra skill devolver um [VERIFICAR]. Gatilhos: jurisprudencia,
-  sumula, Tema repetitivo, STJ, STF, precedente, entendimento dos tribunais, ha sumula sobre, qual o
-  Tema, validar jurisprudencia, Sumula 385/530/539, dobro do art. 42, Convencao de Montreal.
+  JURISPRUDENCIA CONSUMIDOR — Skill Tier 1, apoio ao Selo P1. Gatilhos: jurisprudencia, sumula, Tema repetitivo, STJ, STF, precedente, entendimento dos tribunais, ha sumula sobre, qual o Tema, validar jurisprudencia, Sumula 385/530/539, dobro do art. 42, Convencao de Montreal.
 metadata:
   version: "0.1.0"
   area: "Direito do Consumidor e Bancario"

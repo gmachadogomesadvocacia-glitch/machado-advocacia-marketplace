@@ -1,7 +1,7 @@
 ---
 name: recurso-revista-trabalhista
 description: >
-  RECURSO DE REVISTA TRABALHISTA — Skill Tier 2 recursal transversal. Produz o Recurso de Revista ao TST (transcendencia, divergencia/violacao), o Agravo de Instrumento em RR (AIRR) para destrancar revista negada, o Recurso Adesivo e as contrarrazoes de RR / contraminuta de AIRR. Prazo: 8 dias uteis. Use quando menciona recurso de revista, RR, AIRR, agravo de instrumento, transcendencia, TST.
+  RECURSO DE REVISTA TRABALHISTA — Skill Tier 2 recursal transversal. Use quando menciona recurso de revista, RR, AIRR, agravo de instrumento, transcendencia, TST.
 ---
 
 # RECURSO DE REVISTA TRABALHISTA

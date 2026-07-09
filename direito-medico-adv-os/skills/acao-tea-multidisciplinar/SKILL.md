@@ -1,7 +1,7 @@
 ---
 name: acao-tea-multidisciplinar
 description: >
-  Acao contra operadora por negativa/limitacao de tratamento multidisciplinar de Transtorno do Espectro Autista (TEA) — terapia ABA, fonoaudiologia, terapia ocupacional, psicologia, psicomotricidade, equoterapia, musicoterapia, integracao sensorial. Aplica Lei 12.764/2012 (Lei Berenice Piana — TEA equiparado a deficiencia para fins legais) + Lei 13.146/2015 (LBI) + Lei 14.454/2022 (Rol exemplificativo) + RN ANS 469/2021 + RN ANS 539/2022 (cobertura ilimitada de sessoes para TEA) + Sum. 608 STJ + ADI 7.265 STF (rol taxativo mitigado). Vedacao de limite numerico de sessoes (RN 539). Vedacao de exigencia de habilitacao especifica da clinica (criterio cientifico aceito basta). Tutela de urgencia — janela neurodesenvolvimental tempo-critica (0-6 anos, depois 7-12). Conservadorismo (PA-21). Aciona: TEA negado, autismo plano de saude, terapia ABA, fonoaudiologia TEA, terapia ocupacional TEA, RN 539, RN 469, Lei 12.764, Berenice Piana, sessoes ilimitadas, janela neurodesenvolvimental, neurodivergente.
+  Acao contra operadora por negativa/limitacao de tratamento multidisciplinar de Transtorno do Espectro Autista (TEA). Aciona: TEA negado, autismo plano de saude, terapia ABA, fonoaudiologia TEA, terapia ocupacional TEA, RN 539, RN 469, Lei 12.764, Berenice Piana, sessoes ilimitadas, janela neurodesenvolvimental, neurodivergente.
 ---
 
 # ACAO TEA — TRATAMENTO MULTIDISCIPLINAR

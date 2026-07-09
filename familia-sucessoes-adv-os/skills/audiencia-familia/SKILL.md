@@ -1,11 +1,7 @@
 ---
 name: audiencia-familia
 description: >
-  AUDIENCIA-FAMILIA — Tier 2 (Produção). Prepara o advogado para audiências em ações de família
-  e sucessões: audiência de mediação e conciliação (art. 334 CPC), audiência de instrução e
-  julgamento, audiência de justificação de tutela, audiência para oitiva de menor (art. 699 CPC),
-  audiência em ação de alimentos (L5.478/1968), e audiências de inventário. Inclui roteiro de
-  perguntas, estratégia de oitiva de testemunhas e do cliente, e postura em cada tipo de audiência.
+  AUDIENCIA-FAMILIA — Tier 2 (Produção). Prepara o advogado para audiências em ações de família e sucessões: audiência de mediação e conciliação (art. 334 CPC), audiência de instrução e julgamento, audiência de justificação de tutela, audiência para oitiva de menor (art. 699 CPC), audiência em ação de alimentos (L5.478/1968), e audiências de inventário. Inclui roteiro de perguntas, estratégia de oitiva de testemunhas e do cliente, e postura em cada tipo de audiência.
 metadata:
   version: "1.0.0"
 ---

@@ -1,7 +1,7 @@
 ---
 name: suspensao-preventiva-conselho
 description: >
-  Defesa de urgencia contra suspensao preventiva do exercicio profissional aplicada por Conselho (CRM/CRO/COFEN/COFFITO/CFF) durante PED em curso (Res. CFM 2.145/2016 art. 33; Res. CFO 71/2006 dispositivo correlato). A medida tem natureza cautelar administrativa — exige motivacao concreta, fumus de gravidade do fato + risco a coletividade/pacientes (periculum). Defesa: presuncao de inocencia (CF 5o LVII), ausencia de motivacao adequada (Lei 9.784 art. 50), desproporcionalidade (CF 5o LIV), ausencia de periculum concreto, periculum in mora inverso (destruicao imediata da atividade profissional). Vias: pedido de reconsideracao no proprio Conselho + simultaneo Mandado de Seguranca com tutela de urgencia (Lei 12.016 art. 7o III) na JF (CF art. 109 VIII + Tema 258 STF). Prazo decadencial MS: 120 dias do ato. Aciona: suspensao preventiva CRM, suspensao preventiva CRO, cautelar etica, afastamento medico, periculum in mora inverso, Lei 12.016, presuncao inocencia conselho, Res. CFM 2.145 art. 33.
+  Defesa de urgencia contra suspensao preventiva do exercicio profissional aplicada por Conselho (CRM/CRO/COFEN/COFFITO/CFF) durante PED em curso (Res. Aciona: suspensao preventiva CRM, suspensao preventiva CRO, cautelar etica, afastamento medico, periculum in mora inverso, Lei 12.016, presuncao inocencia conselho, Res. CFM 2.145 art. 33.
 ---
 
 # SUSPENSAO PREVENTIVA EM CONSELHO

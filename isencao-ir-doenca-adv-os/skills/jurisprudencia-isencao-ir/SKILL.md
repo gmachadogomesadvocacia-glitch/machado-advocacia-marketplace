@@ -1,13 +1,7 @@
 ---
 name: jurisprudencia-isencao-ir
 description: >
-  JURISPRUDENCIA ISENCAO-IR — Skill Tier 1 (apoio ao Selo P1). Busca viva, valida e classifica
-  precedentes em 3 niveis: VALIDADA / [VERIFICAR] / IMPOSSIBILIDADE. Precedentes-ancora: Sumula 598
-  STJ (desnecessario laudo oficial; prova por outros meios), Sumula 627 STJ (isencao mantida sem
-  contemporaneidade/recidiva), nao-extensao a rendimentos de ATIVO (so proventos), IN RFB 1500/2014.
-  PA-01: nunca citar sumula/Tema sem validar. Acione quando o usuario pedir fundamento jurisprudencial
-  ou para emitir o Selo P1. Gatilhos: sumula, Tema, STJ, jurisprudencia, ha sumula sobre, precedente,
-  Sumula 598, Sumula 627, isencao mantida em remissao, prova da doenca sem laudo oficial.
+  JURISPRUDENCIA ISENCAO-IR — Skill Tier 1 (apoio ao Selo P1). Gatilhos: sumula, Tema, STJ, jurisprudencia, ha sumula sobre, precedente, Sumula 598, Sumula 627, isencao mantida em remissao, prova da doenca sem laudo oficial.
 metadata:
   version: "0.1.0"
   area: "Isencao de IRPF por Doenca Grave"

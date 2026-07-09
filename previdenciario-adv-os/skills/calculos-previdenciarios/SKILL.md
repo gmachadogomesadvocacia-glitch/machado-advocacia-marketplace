@@ -1,14 +1,7 @@
 ---
 name: calculos-previdenciarios
 description: >
-  CALCULOS PREVIDENCIARIOS — Skill Tier 2 C. Consolida tres modalidades de calculo:
-  (1) RMI — Renda Mensal Inicial: PBC, SB, fator previdenciario, aliquotas EC 103,
-  regras de transicao (pontos progressivos, por idade, por tempo + reducao, pedagio);
-  (2) RMA — Reajuste / Manutencao de Beneficio: INPC acumulado, teto historico;
-  (3) Calculo do SB pela Regra da Vida Toda (art. 29, II). Protocolo P5 obrigatorio
-  (memorial comparativo antes/depois). Auto-ataque: verificar se outra regra gera RMI
-  maior. Acionar sempre que houver calculo de beneficio, simulacao de aposentadoria,
-  ou contestacao de valor calculado pelo INSS.
+  CALCULOS PREVIDENCIARIOS — Skill Tier 2 C. Acionar sempre que houver calculo de beneficio, simulacao de aposentadoria, ou contestacao de valor calculado pelo INSS.
 ---
 
 # CALCULOS PREVIDENCIARIOS

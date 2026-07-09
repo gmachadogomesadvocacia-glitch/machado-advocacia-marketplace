@@ -1,13 +1,7 @@
 ---
 name: suprema-corte-previdenciaria
 description: >
-  SUPREMA CORTE PREVIDENCIARIA — Skill Tier 3 (Quality Gate). Gate de qualidade automatico
-  R1-R4 que avalia toda saida das skills Tier 2 antes de entregar ao usuario. R1: Verificacao
-  de Proibicoes Absolutas (22 PAs); R2: Verificacao de Fundamentacao Legal (citar norma +
-  jurisprudencia); R3: Auto-critica (argumento mais forte contra a tese); R4: Sinal Verde
-  (apto para entrega) ou Sinal Vermelho (reformular). Ativa por padrao em todas as saidas —
-  bypassar apenas com --no-corte (rascunhos). Acionar automaticamente ao final de cada
-  resposta substantiva previdenciaria.
+  SUPREMA CORTE PREVIDENCIARIA — Skill Tier 3 (Quality Gate). Acionar automaticamente ao final de cada resposta substantiva previdenciaria.
 ---
 
 # SUPREMA CORTE PREVIDENCIARIA

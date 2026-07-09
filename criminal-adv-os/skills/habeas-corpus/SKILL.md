@@ -1,13 +1,7 @@
 ---
 name: habeas-corpus
 description: >
-  Skill flagship Tier 2 — habeas corpus (CF 5 LXVIII; CPP 647-667). Remedio constitucional contra
-  coacao ou ameaca ilegal a liberdade de locomocao. Cobre as hipoteses do CPP 648: ausencia de justa
-  causa, excesso de prazo, incompetencia, cessada a causa da prisao, nulidade, extincao da punibilidade.
-  Aplicacoes: trancamento de inquerito/acao penal por falta de justa causa, relaxamento de prisao
-  ilegal, revogacao de preventiva, liberdade, nulidades. HC liberatorio e preventivo (salvo-conduto).
-  Define competencia (autoridade coatora), liminar, e a vedacao da Sumula 691 STF e sua superacao.
-  Ative em prisao ilegal, constrangimento ilegal, trancamento, excesso de prazo ou ameaca a liberdade.
+  Skill flagship Tier 2 — habeas corpus (CF 5 LXVIII; CPP 647-667). Ative em prisao ilegal, constrangimento ilegal, trancamento, excesso de prazo ou ameaca a liberdade.
 metadata:
   version: "0.1.0"
   area: "Direito Penal e Processo Penal"

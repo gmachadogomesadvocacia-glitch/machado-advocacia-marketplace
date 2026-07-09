@@ -1,14 +1,7 @@
 ---
 name: renovatoria-revisional
 description: >
-  Locacao NAO residencial/empresarial — duas acoes. (1) Renovatoria (art. 51 Lei 8.245):
-  protege fundo de comercio/ponto; requisitos cumulativos e PRAZO DECADENCIAL FATAL do
-  1o ano ao 6o mes anteriores ao fim do contrato (art. 51 §5o — PA-07). (2) Revisional de
-  aluguel (art. 19): apos 3 anos, ajuste a mercado com aluguel provisorio (art. 68).
-  Acione quando: renovacao compulsoria, renovacao de locacao comercial, ponto comercial,
-  fundo de comercio, exceptio/exceção de retomada (art. 52), revisao de aluguel, ajuste
-  de aluguel a mercado, aluguel provisorio, locacao empresarial. Side-aware locador x
-  locatario. NAO usar para locacao residencial nem despejo (ver skill despejo).
+  Locacao NAO residencial/empresarial — duas acoes. Acione quando: renovacao compulsoria, renovacao de locacao comercial, ponto comercial, fundo de comercio, exceptio/exceção de retomada (art. 52), revisao de aluguel, ajuste de aluguel a mercado, aluguel provisorio, locacao empresarial. Side-aware locador x locatario. NAO usar para locacao residencial nem despejo (ver skill despejo).
 metadata:
   version: "0.1.0"
   area: "Direito Imobiliario e Locacao"

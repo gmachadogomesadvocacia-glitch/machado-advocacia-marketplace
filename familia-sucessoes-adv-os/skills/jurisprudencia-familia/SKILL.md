@@ -1,12 +1,7 @@
 ---
 name: jurisprudencia-familia
 description: >
-  JURISPRUDENCIA-FAMILIA — Tier 1 (Insumos). Pesquisa, organiza e valida jurisprudência
-  em Direito de Família e Sucessões: STJ (3ª e 4ª Turmas, 2ª Seção), STF (Plenário e
-  1ª/2ª Turmas), TJ{{UF}} (Câmaras de Família) e temas repetitivos. Cobre alimentos, guarda,
-  divórcio, união estável, meação, herança, inventário, planejamento sucessório, interdição.
-  Acionar quando precisar de fundamentos jurisprudenciais para peças, pareceres ou estratégia,
-  ou quando houver dúvida sobre a jurisprudência atual do STJ em matéria de família.
+  JURISPRUDENCIA-FAMILIA — Tier 1 (Insumos). Acionar quando precisar de fundamentos jurisprudenciais para peças, pareceres ou estratégia, ou quando houver dúvida sobre a jurisprudência atual do STJ em matéria de família.
 metadata:
   version: "1.0.0"
 ---

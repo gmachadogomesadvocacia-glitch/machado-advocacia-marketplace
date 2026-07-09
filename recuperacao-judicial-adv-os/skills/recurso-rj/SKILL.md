@@ -1,12 +1,7 @@
 ---
 name: recurso-rj
 description: >
-  RECURSO-RJ — Tier 2 (Produção). Redige recursos em processos de recuperação judicial e
-  falência: agravo de instrumento (principal recurso em RJ — art. 17 LFRJ), apelação,
-  agravo interno, recurso especial ao STJ, e mandado de segurança em matéria falimentar.
-  Inclui análise de cabimento, prazo e efeito suspensivo. Acionar quando o usuário precisar
-  recorrer de decisão em processo de RJ, falência ou RE, independentemente do polo (devedor
-  ou credor). Verificar prazos com urgência — decisões em RJ têm prazos curtos.
+  RECURSO-RJ — Tier 2 (Produção). Redige recursos em processos de recuperação judicial e falência: agravo de instrumento (principal recurso em RJ — art. Acionar quando o usuário precisar recorrer de decisão em processo de RJ, falência ou RE, independentemente do polo (devedor ou credor). Verificar prazos com urgência — decisões em RJ têm prazos curtos.
 ---
 
 # RECURSO-RJ

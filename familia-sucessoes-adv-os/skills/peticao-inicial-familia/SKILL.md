@@ -1,12 +1,7 @@
 ---
 name: peticao-inicial-familia
 description: >
-  PETICAO-INICIAL-FAMILIA — Tier 2 (Produção). Redige petições iniciais completas para ações
-  de Direito de Família e Sucessões: divórcio litigioso, dissolução de união estável, ação de
-  alimentos, regulamentação de guarda/visitas, reconhecimento de paternidade, ação de
-  inventário judicial, habilitação de crédito em espólio, ação de sonegados, petição de herança,
-  interdição e curatela. Adapta cada peça ao polo do cliente, ao tipo de ação e ao CASO.md.
-  Acionar quando o advogado precisar redigir a petição que dará início ao processo judicial.
+  PETICAO-INICIAL-FAMILIA — Tier 2 (Produção). Acionar quando o advogado precisar redigir a petição que dará início ao processo judicial.
 metadata:
   version: "1.0.0"
 ---

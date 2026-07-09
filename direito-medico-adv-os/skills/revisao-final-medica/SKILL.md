@@ -1,7 +1,7 @@
 ---
 name: revisao-final-medica
 description: >
-  Skill invariante de Revisao Tecnica R1-R4 (Suprema Corte do plugin) — auditoria obrigatoria de 4 rodadas (R1 brief/escopo + dados; R2 tecnica juridica; R3 conformidade etico-regulatoria + cruzamento P4; R4 entrega/clareza/ressalva OAB) sobre toda peca, parecer, contrato ou estrategia antes da entrega. Reprovacao em qualquer rodada bloqueia entrega e devolve ao produtor. Operacionaliza Protocolo P6. Bypass disponivel `--no-revisao`, `--quick` (R1+R2 apenas), `/revisao off`. Aciona: revisar peca, auditoria final, conferir antes entregar, revisao final, R1-R4, Suprema Corte medica, /revisao-final.
+  Skill invariante de Revisao Tecnica R1-R4 (Suprema Corte do plugin). Aciona: revisar peca, auditoria final, conferir antes entregar, revisao final, R1-R4, Suprema Corte medica, /revisao-final.
 ---
 
 # REVISAO FINAL MEDICA (R1-R4)

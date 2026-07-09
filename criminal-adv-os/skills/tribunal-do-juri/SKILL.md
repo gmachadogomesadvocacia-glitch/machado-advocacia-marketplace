@@ -1,14 +1,7 @@
 ---
 name: tribunal-do-juri
 description: >
-  Skill Tier 2 — rito do Tribunal do Juri (crimes dolosos contra a vida; CF 5 XXXVIII; CPP 406-497). Cobre
-  as duas fases: (1) sumario da culpa / judicium accusationis — defesa na instrucao e os possiveis
-  desfechos: pronuncia, impronuncia (CPP 414), absolvicao sumaria (CPP 415) e desclassificacao (CPP 419);
-  ataque a pronuncia por excesso de linguagem ou ausencia de indicios de autoria; (2) plenario / judicium
-  causae — preparo, debates, sistema de quesitos (CPP 482-484), teses defensivas (negativa de autoria,
-  legitima defesa, desclassificacao, clemencia/absolvicao por quesito generico) e o recurso de apelacao
-  contra decisao dos jurados manifestamente contraria a prova (CPP 593 III d). Polo: defesa. Ative em juri,
-  pronuncia, impronuncia, absolvicao sumaria, desclassificacao, quesitos, plenario, homicidio doloso.
+  Skill Tier 2 — rito do Tribunal do Juri (crimes dolosos contra a vida; CF 5 XXXVIII; CPP 406-497). Ative em juri, pronuncia, impronuncia, absolvicao sumaria, desclassificacao, quesitos, plenario, homicidio doloso.
 metadata:
   version: "0.1.0"
   area: "Direito Penal e Processo Penal"

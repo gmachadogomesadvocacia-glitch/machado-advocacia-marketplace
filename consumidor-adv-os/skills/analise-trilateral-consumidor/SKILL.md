@@ -1,14 +1,7 @@
 ---
 name: analise-trilateral-consumidor
 description: >
-  ANALISE TRILATERAL CONSUMIDOR — Skill Tier 1. Antes de definir a linha estrategica, analisa o caso
-  por tres prismas obrigatorios: Cliente (o que sustenta a tese — flipa conforme o polo), Adversario
-  (a melhor defesa ou ataque da parte contraria) e Juiz (como o caso aparece para quem decide). Gera
-  a matriz pontos fortes x fragilidades x contra-teses e pre-carrega o arsenal adversarial consumerista
-  (Sumula 385, taxa media BACEN, engano justificavel do art. 42, decadencia art. 26, ausencia de
-  relacao de consumo, excludentes do fornecedor, inexistencia de defeito). Acione apos a triagem e
-  antes da linha estrategica; quando o usuario pedir analise de forcas e fraquezas, simular a defesa
-  adversa, antecipacao adversarial, pontos fracos do caso, riscos da tese, ou como o juiz vera a causa.
+  ANALISE TRILATERAL CONSUMIDOR — Skill Tier 1. Acione apos a triagem e antes da linha estrategica; quando o usuario pedir analise de forcas e fraquezas, simular a defesa adversa, antecipacao adversarial, pontos fracos do caso, riscos da tese, ou como o juiz vera a causa.
 metadata:
   version: "0.1.0"
   area: "Direito do Consumidor e Bancario"

@@ -1,7 +1,7 @@
 ---
 name: acao-negativa-cobertura-oncologica
 description: >
-  Acao contra operadora por negativa de cobertura de tratamento oncologico — quimioterapia/imunoterapia/terapia-alvo (incluindo off-label e nao-Rol), cirurgia oncologica, radioterapia, PET-CT, transplante, medicamentos de alto custo. Aplica Lei 9.656/1998 + Lei 14.454/2022 (criterios legais p/ cobertura fora do rol) + ADI 7.265 STF (2025 — rol taxativo mitigado, 5 requisitos) + Sum. 608 STJ (CDC) + Sum. 597 (CDC + autogestao). Criterios pos-Lei 14.454 art. 10§13: comprovacao de eficacia + recomendacao de orgao tecnico (CONITEC, SBOC, NICE, etc.) ou aprovacao FDA/EMA/PMDA + bula nacional/internacional + ausencia de substituto pelo Rol. Tutela de urgencia CPC 300 — gravidade clinica + tempo (chance de cura tempo-dependente — perda de chance). Conservadorismo (PA-21) no quantum. Aciona: negativa oncologia, quimioterapia negada, imunoterapia, off-label, Lei 14.454, ADI 7.265, rol taxativo mitigado, alto custo plano, transplante negado, PET-CT negado, SBOC, NICE, CONITEC, terapia alvo.
+  Acao contra operadora por negativa de cobertura de tratamento oncologico. Aciona: negativa oncologia, quimioterapia negada, imunoterapia, off-label, Lei 14.454, ADI 7.265, rol taxativo mitigado, alto custo plano, transplante negado, PET-CT negado, SBOC, NICE, CONITEC, terapia alvo.
 ---
 
 # ACAO NEGATIVA DE COBERTURA ONCOLOGICA

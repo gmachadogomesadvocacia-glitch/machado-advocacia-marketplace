@@ -1,13 +1,7 @@
 ---
 name: analise-documental-tributaria
 description: >
-  Protocolo P2 — analise documental tributaria. Checklist de integridade dos documentos: auto de
-  infracao, notificacao de lancamento, CDA (requisitos LEF art. 2º §5º/§6º + CTN art. 202), processo
-  administrativo fiscal, guias DARF/DAE, escrituracao (SPED, EFD, ECD, ECF), notas fiscais, DIRPF,
-  DCTF, GFIP, comprovantes de pagamento/parcelamento. Extrai os dados-chave (tributo, competencia,
-  fato gerador, valor originario, multa, juros/SELIC, fundamento legal, sujeito passivo) e marca
-  lacunas. Alimenta calculos e teses. Ative ao receber documentos fiscais para conferir antes de
-  produzir. PA-03 (vedada alucinacao fatica) e PA-12 (sigilo fiscal).
+  Protocolo P2 — analise documental tributaria. Ative ao receber documentos fiscais para conferir antes de produzir. PA-03 (vedada alucinacao fatica) e PA-12 (sigilo fiscal).
 metadata:
   version: "0.1.0"
   area: "Direito Tributario"

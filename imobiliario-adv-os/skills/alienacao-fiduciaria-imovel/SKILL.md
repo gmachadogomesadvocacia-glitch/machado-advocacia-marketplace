@@ -1,14 +1,7 @@
 ---
 name: alienacao-fiduciaria-imovel
 description: >
-  Alienacao fiduciaria de bem imovel (Lei 9.514/97). Dois polos. (a) DEFESA DO FIDUCIANTE/
-  devedor: purgacao da mora (art. 26 §1o — 15 dias da intimacao pelo cartorio), nulidade
-  da consolidacao/leilao (art. 27 — vicios na intimacao, preco vil, ausencia de 2o leilao),
-  restituicao do excedente (art. 27 §4o), direito de preferencia (art. 27 §2o-B), Tema 982
-  STF (RE 860.631) (validar). (b) CREDOR FIDUCIARIO: consolidacao e leilao (rito art. 26-27 — PA-09).
-  Acione quando: alienacao fiduciaria de imovel, leilao extrajudicial, consolidacao da
-  propriedade, purgacao da mora, intimacao do cartorio, suspender leilao, retomada de
-  imovel financiado, Lei 9.514. Side-aware fiduciante x credor fiduciario.
+  Alienacao fiduciaria de bem imovel (Lei 9.514/97). Dois polos. (a) DEFESA DO FIDUCIANTE/ devedor: purgacao da mora (art. 26 §1o. Acione quando: alienacao fiduciaria de imovel, leilao extrajudicial, consolidacao da propriedade, purgacao da mora, intimacao do cartorio, suspender leilao, retomada de imovel financiado, Lei 9.514. Side-aware fiduciante x credor fiduciario.
 metadata:
   version: "0.1.0"
   area: "Direito Imobiliario e Locacao"

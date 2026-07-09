@@ -1,14 +1,7 @@
 ---
 name: isencao-ir-master
 description: >
-  ISENCAO-IR MASTER — Skill orquestradora Tier 0, sempre ativa em qualquer demanda de isencao de IRPF
-  por doenca grave. Carrega a Hierarquia das 4 Camadas, as Proibicoes Absolutas, os Protocolos e a
-  Suprema Corte R1-R4. Side-aware: contribuinte/beneficiario (autor) x Fazenda/fonte pagadora.
-  Ative quando o usuario mencionar isencao de imposto de renda, IRPF, doenca grave, art. 6 XIV Lei
-  7.713, neoplasia maligna/cancer, cardiopatia grave, cegueira, Parkinson, esclerose multipla,
-  nefropatia/hepatopatia grave, AIDS, hanseniase, paralisia irreversivel, proventos de aposentadoria/
-  pensao, restituicao de IR retido, Receita Federal, fonte pagadora, laudo medico, Sumula 598/627 STJ,
-  ou retificacao da DIRPF.
+  ISENCAO-IR MASTER — Skill orquestradora Tier 0, sempre ativa em qualquer demanda de isencao de IRPF por doenca grave. Ative quando o usuario mencionar isencao de imposto de renda, IRPF, doenca grave, art. 6 XIV Lei 7.713, neoplasia maligna/cancer, cardiopatia grave, cegueira, Parkinson, esclerose multipla, nefropatia/hepatopatia grave, AIDS, hanseniase, paralisia irreversivel, proventos de aposentadoria/ pensao, restituicao de IR retido, Receita Federal, fonte pagadora, laudo medico, Sumula 598/627 STJ, ou retificacao da DIRPF.
 metadata:
   version: "0.1.0"
   area: "Isencao de IRPF por Doenca Grave"

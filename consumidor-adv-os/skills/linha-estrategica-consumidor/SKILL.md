@@ -1,13 +1,7 @@
 ---
 name: linha-estrategica-consumidor
 description: >
-  LINHA ESTRATEGICA CONSUMIDOR — Skill Tier 1. Consolida o resultado da analise trilateral e da
-  jurisprudencia e define a linha mais benefica ao polo do cliente: tese central, teses subsidiarias
-  e riscos. Decide a VIA (judicial x administrativa PROCON/BACEN/ANATEL/ANAC x ambas em paralelo —
-  Protocolo P4), o RITO (JEC x vara comum x acao coletiva — Protocolo P5) e se cabe tutela de urgencia.
-  Respeita o modo {{MODO_MELHOR_SAIDA}} (recomendar-e-listar ou apenas-listar). Acione apos a trilateral,
-  quando o usuario pedir a estrategia do caso, a melhor tese, qual via seguir, JEC ou vara comum, se
-  cabe liminar, qual o caminho mais vantajoso, ou a linha de acao/defesa.
+  LINHA ESTRATEGICA CONSUMIDOR — Skill Tier 1. Acione apos a trilateral, quando o usuario pedir a estrategia do caso, a melhor tese, qual via seguir, JEC ou vara comum, se cabe liminar, qual o caminho mais vantajoso, ou a linha de acao/defesa.
 metadata:
   version: "0.1.0"
   area: "Direito do Consumidor e Bancario"

@@ -1,7 +1,7 @@
 ---
 name: trabalhista-master
 description: >
-  TRABALHISTA MASTER — Skill orquestradora sempre ativa em qualquer demanda trabalhista brasileira. Carrega a Hierarquia das 4 Camadas, as 25 Proibicoes Absolutas, os 7 Protocolos Tecnicos e a auditoria Suprema Corte R1-R5. Side-aware: opera pelo reclamante OU pela reclamada conforme o polo do cliente registrado no CASO.md. Ative quando o usuario mencionar trabalhista, Reclamacao Trabalhista, RT, CLT, vara do trabalho, TRT, TST, vinculo empregaticio, FGTS, horas extras, insalubridade, periculosidade, rescisao, justa causa, estabilidade gestante, contestacao, recurso ordinario, recurso de revista, ou qualquer demanda perante a Justica do Trabalho.
+  TRABALHISTA MASTER — Skill orquestradora sempre ativa em qualquer demanda trabalhista brasileira. Ative quando o usuario mencionar trabalhista, Reclamacao Trabalhista, RT, CLT, vara do trabalho, TRT, TST, vinculo empregaticio, FGTS, horas extras, insalubridade, periculosidade, rescisao, justa causa, estabilidade gestante, contestacao, recurso ordinario, recurso de revista, ou qualquer demanda perante a Justica do Trabalho.
 ---
 
 # TRABALHISTA MASTER

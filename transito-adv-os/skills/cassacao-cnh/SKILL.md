@@ -1,13 +1,7 @@
 ---
 name: cassacao-cnh
 description: >
-  Skill Tier 2 — processo de CASSACAO da CNH (CTB 263). Hipoteses: dirigir com a CNH SUSPENSA;
-  reincidencia em certas infracoes no periodo de suspensao; condenacao por crime de trânsito. Efeito:
-  recolhimento do documento e impossibilidade de obter nova habilitacao por 2 anos (REABILITACAO so apos
-  o prazo, com novos exames). Distingue-se da suspensao (temporaria, mantem a habilitacao). Defesa e
-  recurso ao CETRAN. Crime de trânsito (306, 302/303) → criminal-adv-os (PA-09). Norma vigente na infracao
-  (PA-04). Ative em cassacao da CNH, recolhimento da carteira, reabilitacao apos cassacao, dirigir com CNH
-  suspensa, ou distincao entre suspensao e cassacao.
+  Skill Tier 2 — processo de CASSACAO da CNH (CTB 263). Ative em cassacao da CNH, recolhimento da carteira, reabilitacao apos cassacao, dirigir com CNH suspensa, ou distincao entre suspensao e cassacao.
 metadata:
   version: "0.1.0"
   area: "Direito de Transito"

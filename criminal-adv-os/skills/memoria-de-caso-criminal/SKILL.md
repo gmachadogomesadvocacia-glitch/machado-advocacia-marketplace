@@ -1,13 +1,7 @@
 ---
 name: memoria-de-caso-criminal
 description: >
-  Memoria de caso criminal Tier 1 — Protocolo P3. Estrutura e mantem o CASO.md: cliente e polo, crime e
-  capitulacao, numero do processo/IP, vara e comarca, situacao prisional e datas (fato, flagrante,
-  denuncia, sentenca), documentos numerados "doc. N", prazos com datas (prescricao, recursos), fase
-  atual, pecas produzidas, proximos passos e teses/estrategia. Atualiza apos cada entrega. Sigilo
-  reforcado — dado penal NAO versionado (pasta gitignored). Nomenclatura AAAA-MM-DD - Cliente - tipo.ext
-  e entrega em .txt. Ative em novo caso, abrir/retomar caso, CASO.md, memoria do caso, /caso-criminal ou
-  ao registrar prazo/documento de caso penal.
+  Memoria de caso criminal Tier 1 — Protocolo P3. Ative em novo caso, abrir/retomar caso, CASO.md, memoria do caso, /caso-criminal ou ao registrar prazo/documento de caso penal.
 metadata:
   version: "0.1.0"
   area: "Direito Penal e Processo Penal"

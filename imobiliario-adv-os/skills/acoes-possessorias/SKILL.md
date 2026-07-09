@@ -1,14 +1,7 @@
 ---
 name: acoes-possessorias
 description: >
-  Acoes possessorias (arts. 554-568 CPC + arts. 1.196-1.224 CC): reintegracao de posse
-  (esbulho), manutencao de posse (turbacao) e interdito proibitorio (ameaca). Distingue
-  FORCA NOVA (<1 ano e dia — rito especial com liminar, CPC 558) de FORCA VELHA (rito
-  comum). Liminar exige CPC 561. Fungibilidade (CPC 554) e carater duplice (CPC 556).
-  VEDADA discussao de dominio (PA-05; exceptio proprietatis vedada art. 557 CPC; Sum 487
-  STF). Nao confundir com reivindicatoria (petitoria, do proprietario). Acione quando:
-  esbulho, turbacao, ameaca a posse, invasao, reintegracao, manutencao, interdito
-  proibitorio, esbulhador, ocupacao, retomada de posse. Side-aware possuidor x esbulhador.
+  Acoes possessorias (arts. 554-568 CPC + arts. 1.196-1.224 CC): reintegracao de posse (esbulho), manutencao de posse (turbacao) e interdito proibitorio (ameaca). Distingue FORCA NOVA (<1 ano e dia. Acione quando: esbulho, turbacao, ameaca a posse, invasao, reintegracao, manutencao, interdito proibitorio, esbulhador, ocupacao, retomada de posse. Side-aware possuidor x esbulhador.
 metadata:
   version: "0.1.0"
   area: "Direito Imobiliario e Locacao"

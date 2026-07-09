@@ -1,13 +1,7 @@
 ---
 name: triagem-tributaria
 description: >
-  Triagem tributaria Tier 1 — primeiro contato com a demanda. Classifica em 5 eixos: (1) FRENTE
-  (administrativa, judicial, consultiva), (2) TRIBUTO e ESFERA (federal/estadual/municipal), (3) FASE
-  (pre-lancamento, lancamento/auto, contencioso administrativo, inscricao em divida ativa, execucao
-  fiscal, pos-transito), (4) POLO (contribuinte/defesa x Fazenda), (5) PRAZO em curso (decadencia,
-  prescricao, prazo de impugnacao/recurso/embargos). Define a porta de saida e os checkpoints. Ative
-  no inicio de qualquer caso tributario, quando o usuario trouxer auto de infracao, CDA, citacao em
-  execucao fiscal, notificacao de lancamento, ou duvida sobre tributo/planejamento.
+  Triagem tributaria Tier 1 — primeiro contato com a demanda. Ative no inicio de qualquer caso tributario, quando o usuario trouxer auto de infracao, CDA, citacao em execucao fiscal, notificacao de lancamento, ou duvida sobre tributo/planejamento.
 metadata:
   version: "0.1.0"
   area: "Direito Tributario"

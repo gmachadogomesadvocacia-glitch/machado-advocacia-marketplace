@@ -1,14 +1,7 @@
 ---
 name: estilo-juridico-criminal
 description: >
-  Estilo juridico criminal Tier 1 — Camada 3. Define o estilo das pecas penais: tecnico, garantista,
-  objetivo, com estrutura padrao (enderecamento, qualificacao, dos fatos, do direito/teses, dos pedidos
-  — liberdade/absolvicao/nulidade, provas e diligencias). Documentos numerados "doc. N". Linguagem penal
-  correta — nao confundir prescricao com decadencia; tipicidade/antijuridicidade/culpabilidade;
-  dolo/culpa; absolvicao (CPP 386) x impronuncia. Tom {{TOM_VOZ_PERFIL}} intensidade
-  {{TOM_VOZ_INTENSIDADE}}/10, combatividade dirigida a prova e as teses, defesa intransigente das
-  garantias. Sensibilidade (cliente pode estar preso). Ative ao redigir, revisar a forma ou definir o
-  tom de qualquer peca penal.
+  Estilo juridico criminal Tier 1 — Camada 3. Ative ao redigir, revisar a forma ou definir o tom de qualquer peca penal.
 metadata:
   version: "0.1.0"
   area: "Direito Penal e Processo Penal"

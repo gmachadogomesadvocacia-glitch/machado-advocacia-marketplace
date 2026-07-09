@@ -1,7 +1,7 @@
 ---
 name: credenciamento-plano-saude
 description: >
-  Contratos e contencioso de credenciamento de clinica/hospital/medico com operadoras de planos de saude. Aplica Lei 9.656/1998 art. 17 (dever de cobertura assistencial em rede credenciada + dever de informacao do descredenciamento ao beneficiario) + RN ANS 365/2014 (regras de credenciamento + descredenciamento substitutivo) + Lei 9.961/2000 art. 32 (ressarcimento ao SUS — operadora deve reembolsar SUS quando beneficiario usa rede publica) + ADI 1.931. Aborda glosa de procedimento (Lei 9.656 + RN 305/2012), descredenciamento unilateral (substitutivo x sem substituicao — beneficiario protegido), revisao de tabela praticada, contrato de credenciamento por hospital x medico individual. Sinaliza ressarcimento ao SUS como obrigacao tributaria-administrativa da operadora. Aciona: credenciamento ANS, descredenciamento hospital, glosa procedimento, RN 365, Lei 9.961 ressarcimento SUS, tabela TUSS, contrato credenciamento, revisao tabela operadora, ADI 1.931.
+  Contratos e contencioso de credenciamento de clinica/hospital/medico com operadoras de planos de saude. Aciona: credenciamento ANS, descredenciamento hospital, glosa procedimento, RN 365, Lei 9.961 ressarcimento SUS, tabela TUSS, contrato credenciamento, revisao tabela operadora, ADI 1.931.
 ---
 
 # CREDENCIAMENTO COM PLANO DE SAUDE

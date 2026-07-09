@@ -1,15 +1,7 @@
 ---
 name: jurimetria-master
 description: >
-  JURIMETRIA MASTER — Skill orquestradora Tier 0, sempre ativa em qualquer demanda jurimetrica.
-  Carrega a Hierarquia das 4 Camadas, as Proibicoes Estatisticas (PE-01 a PE-14, SEM bypass), os
-  Protocolos Tecnicos e a Suprema Corte R1-R4. Plugin ANALITICO: a saida e relatorio/analise/parecer
-  descritivo, nunca peca processual. Espinha do sistema: DataJud (tempo/andamentos, gratuito) +
-  CASO.md (quantum/desfecho), unidos pelo numero CNJ. Ative quando o usuario mencionar jurimetria,
-  estatistica processual, taxa de exito, duracao media, tempo de tramitacao, benchmark de tribunal,
-  quantum medio, faixa de condenacao, historico do acervo, quantos casos, viabilidade com dados,
-  DataJud, classe/assunto CNJ, relatorio gerencial do escritorio, ou proposta de honorarios apoiada
-  em dados.
+  JURIMETRIA MASTER — Skill orquestradora Tier 0, sempre ativa em qualquer demanda jurimetrica. Ative quando o usuario mencionar jurimetria, estatistica processual, taxa de exito, duracao media, tempo de tramitacao, benchmark de tribunal, quantum medio, faixa de condenacao, historico do acervo, quantos casos, viabilidade com dados, DataJud, classe/assunto CNJ, relatorio gerencial do escritorio, ou proposta de honorarios apoiada em dados.
 metadata:
   version: "0.1.0"
   area: "Jurimetria"

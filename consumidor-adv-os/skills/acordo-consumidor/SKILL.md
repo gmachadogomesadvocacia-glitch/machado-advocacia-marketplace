@@ -1,14 +1,7 @@
 ---
 name: acordo-consumidor
 description: >
-  ACORDO CONSUMIDOR — Skill Tier 2 transversal e side-aware. Redige a transacao/conciliacao judicial
-  ou extrajudicial em materia de consumo: minuta de termo de acordo com clausulas essenciais (objeto,
-  valor/forma de pagamento, quitacao, obrigacoes de fazer, multa por descumprimento, confidencialidade),
-  homologacao judicial como titulo executivo, acordo em audiencia (JEC/conciliacao) e, no
-  superendividamento, o plano de pagamento. Calibra teor e tom conforme o polo (consumidor x fornecedor)
-  e alerta os riscos de renuncia e de quitacao ampla. Acione quando o usuario pede acordo, transacao,
-  conciliacao, minuta de termo, proposta de acordo, homologacao, fechar com a outra parte. Exige Selo
-  P1 emitido.
+  ACORDO CONSUMIDOR — Skill Tier 2 transversal e side-aware. Acione quando o usuario pede acordo, transacao, conciliacao, minuta de termo, proposta de acordo, homologacao, fechar com a outra parte. Exige Selo P1 emitido.
 metadata:
   version: "0.1.0"
   area: "Direito do Consumidor e Bancario"

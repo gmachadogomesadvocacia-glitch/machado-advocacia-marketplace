@@ -1,7 +1,7 @@
 ---
 name: pericia-trabalhista
 description: >
-  PERICIA TRABALHISTA — Skill Tier 2 transversal. Estrategia pericial em insalubridade, periculosidade e acidentaria: prepara a atuacao na pericia e analisa/impugna o laudo pericial. Use quando o caso envolve pericia, insalubridade, periculosidade, laudo pericial, adicional de insalubridade ou periculosidade, acidente de trabalho.
+  PERICIA TRABALHISTA — Skill Tier 2 transversal. Use quando o caso envolve pericia, insalubridade, periculosidade, laudo pericial, adicional de insalubridade ou periculosidade, acidente de trabalho.
 ---
 
 # PERICIA TRABALHISTA

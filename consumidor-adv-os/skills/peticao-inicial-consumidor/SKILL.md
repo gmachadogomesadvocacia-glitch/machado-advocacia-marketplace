@@ -1,12 +1,7 @@
 ---
 name: peticao-inicial-consumidor
 description: >
-  PETICAO INICIAL CONSUMIDOR — Skill Tier 2 (lado consumidor/autor). Redige a peticao inicial
-  consumerista completa e enxuta: enderecamento, qualificacao, dos fatos, do direito (FIRAC, com
-  inversao do onus art. 6 VIII), tutela de urgencia quando cabivel, pedidos determinados (declaratorio
-  + condenatorio + dano moral quantificado), valor da causa e requerimentos. E a peca-base que as
-  acoes especificas de cada eixo reaproveitam. Acione quando o cliente e o consumidor e o usuario pede
-  peticao inicial, acao, processar a empresa, ajuizar, reclamar judicialmente. Exige Selo P1 emitido.
+  PETICAO INICIAL CONSUMIDOR — Skill Tier 2 (lado consumidor/autor). Acione quando o cliente e o consumidor e o usuario pede peticao inicial, acao, processar a empresa, ajuizar, reclamar judicialmente. Exige Selo P1 emitido.
 metadata:
   version: "0.1.0"
   area: "Direito do Consumidor e Bancario"

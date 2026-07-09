@@ -1,7 +1,7 @@
 ---
 name: tutela-urgencia-plano-saude
 description: >
-  Modelo unificado de tutela de urgencia em acoes contra operadora de plano de saude — paciente que precisa de cobertura imediata (oncologico, home care, OPME, TEA, rescisao em tratamento, exame critico, internacao, cirurgia). Aplica CPC art. 300 (tutela de urgencia — probabilidade + periculum) + CPC art. 537 (astreintes proporcionais — STJ EAREsp 650.536) + CPC art. 854 (SISBAJUD em descumprimento) + Sum. 608 STJ + Lei 14.454/2022. Articula 3 pilares: probabilidade do direito (Lei 9.656 + jurisprudencia consolidada por subtipo); perigo de dano (tempo-critico, irreparabilidade); proporcionalidade (sem excesso). Mecanismos pos-deferimento: astreintes + intimacao com prazo curto + bloqueio SISBAJUD + envio direto a hospital/clinica. Conservadorismo (PA-21) em astreintes (limite e teto). Aciona: tutela urgencia plano de saude, antecipacao tutela, CPC 300, astreintes plano, SISBAJUD, EAREsp 650.536, bloqueio operadora, multa diaria plano, modelo tutela, urgencia oncologica.
+  Modelo unificado de tutela de urgencia em acoes contra operadora de plano de saude. Aciona: tutela urgencia plano de saude, antecipacao tutela, CPC 300, astreintes plano, SISBAJUD, EAREsp 650.536, bloqueio operadora, multa diaria plano, modelo tutela, urgencia oncologica.
 ---
 
 # TUTELA DE URGENCIA — PLANO DE SAUDE (MODELO UNIFICADO)

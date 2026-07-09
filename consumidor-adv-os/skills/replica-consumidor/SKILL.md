@@ -1,13 +1,7 @@
 ---
 name: replica-consumidor
 description: >
-  REPLICA CONSUMIDOR — Skill Tier 2 (lado consumidor/autor). Redige a replica / impugnacao a
-  contestacao: rebate as preliminares (CPC art. 337) e as prejudiciais (afasta prescricao art. 27 /
-  decadencia art. 26 — apontando os obstativos: reclamacao comprovada, vicio oculto), impugna
-  especificamente o merito da defesa e os documentos novos juntados, reforca a inicial e a relacao de
-  consumo, reafirma a inversao do onus (art. 6, VIII) e especifica as provas a produzir. Calibrada ao
-  polo consumidor. Acione quando o cliente e o consumidor e ha contestacao a impugnar, ou o usuario
-  pede replica, impugnacao a contestacao, manifestacao sobre a defesa. Exige Selo P1.
+  REPLICA CONSUMIDOR — Skill Tier 2 (lado consumidor/autor). Acione quando o cliente e o consumidor e ha contestacao a impugnar, ou o usuario pede replica, impugnacao a contestacao, manifestacao sobre a defesa. Exige Selo P1.
 metadata:
   version: "0.1.0"
   area: "Direito do Consumidor e Bancario"

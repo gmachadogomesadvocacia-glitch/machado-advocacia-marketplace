@@ -1,13 +1,7 @@
 ---
 name: memoria-de-caso-transito
 description: >
-  Memoria de caso de transito Tier 1 — Protocolo P3. Estrutura e mantem o CASO.md em
-  <CASE_ROOT>/<slug>/ (pasta gitignored, sigilo + LGPD). Registra cliente/polo, veiculo (placa,
-  RENAVAM), auto (AIT, codigo, data/local, orgao), fase atual, pontuacao e situacao da CNH, documentos
-  numerados "doc. N", prazos com datas (defesa previa, JARI, CETRAN), pecas produzidas, proximos passos e
-  teses/estrategia. Atualiza apos cada entrega. Nomenclatura de arquivos AAAA-MM-DD - Cliente - tipo.ext e
-  entrega em .txt. Ative ao abrir um caso novo, retomar caso, registrar documentos/prazos, atualizar o
-  CASO.md ou no comando /caso-transito.
+  Memoria de caso de transito Tier 1 — Protocolo P3. Ative ao abrir um caso novo, retomar caso, registrar documentos/prazos, atualizar o CASO.md ou no comando /caso-transito.
 metadata:
   version: "0.1.0"
   area: "Direito de Transito"

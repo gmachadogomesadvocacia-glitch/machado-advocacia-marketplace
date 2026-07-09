@@ -1,12 +1,7 @@
 ---
 name: manutencao-isencao
 description: >
-  MANUTENCAO DA ISENCAO — Skill Tier 2 (lado contribuinte). DEFENDE a isencao ja reconhecida contra
-  cancelamento/revisao pela Receita ou pela fonte pagadora (ex.: exigencia de reavaliacao periodica,
-  alegacao de cura/remissao, fim do prazo de validade do laudo). Tese central: Sumula 627 STJ — a isencao
-  independe da contemporaneidade dos sintomas e da recidiva; nao se exige reavaliacao para mante-la.
-  Cobre o recurso administrativo e a medida judicial. Acione quando a fonte/Receita ameacar voltar a reter
-  ou exigir nova pericia de quem ja tem a isencao. Side-aware (contribuinte). Exige Selo P1 e o laudo.
+  MANUTENCAO DA ISENCAO — Skill Tier 2 (lado contribuinte). Acione quando a fonte/Receita ameacar voltar a reter ou exigir nova pericia de quem ja tem a isencao. Side-aware (contribuinte). Exige Selo P1 e o laudo.
 metadata:
   version: "0.1.0"
   area: "Isencao de IRPF por Doenca Grave"

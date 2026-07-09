@@ -1,13 +1,7 @@
 ---
 name: estilo-juridico-familia
 description: >
-  ESTILO-JURIDICO-FAMILIA — Transversal (Padrão de Redação). Define e aplica o padrão técnico
-  de redação jurídica para peças de Direito de Família e Sucessões: vocabulário específico,
-  tratamento das partes, estrutura de pedidos, forma de citar o CC/2002 e jurisprudência do STJ.
-  Ajusta o tom conforme o tipo de peça: conciliatório (acordos, mediação), técnico-firme
-  (petições), combativo (resistência a abuso). Consultar quando o usuário precisar padronizar
-  ou revisar o estilo de uma peça, ou quando uma peça estiver tecnicamente correta mas
-  com linguagem inadequada para o tipo de demanda familiar.
+  ESTILO-JURIDICO-FAMILIA — Transversal (Padrão de Redação). Define e aplica o padrão técnico de redação jurídica para peças de Direito de Família e Sucessões: vocabulário específico, tratamento das partes, estrutura de pedidos, forma de citar o CC/2002 e jurisprudência do STJ. Ajusta o tom conforme o tipo de peça: conciliatório (acordos, mediação), técnico-firme (petições), combativo (resistência a abuso). Consultar quando o usuário precisar padronizar ou revisar o estilo de uma peça, ou quando uma peça estiver tecnicamente correta mas com linguagem inadequada para o tipo de demanda familiar.
 metadata:
   version: "1.0.0"
 ---

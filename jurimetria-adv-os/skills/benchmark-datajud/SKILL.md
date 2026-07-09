@@ -1,12 +1,7 @@
 ---
 name: benchmark-datajud
 description: >
-  BENCHMARK DATAJUD — Skill Tier 2, Modulo B (regua publica). Consulta o DataJud por CLASSE + ASSUNTO
-  + ORGAO JULGADOR (nao por numero) e devolve estatisticas descritivas de duracao da amostra publica:
-  N, mediana, quartis, min-max, composicao por grau. Compara com o acervo proprio usando o MESMO
-  recorte CNJ (harmonizacao — maca com maca). Acione para "meus casos demoram mais que a media?",
-  "quanto demora um processo dessa classe nessa vara?", "qual vara e mais rapida?", ou qualquer regua
-  externa de tempo. NAO responde quantum (DataJud nao tem — usar analise-quantum).
+  BENCHMARK DATAJUD — Skill Tier 2, Modulo B (regua publica). Acione para "meus casos demoram mais que a media?", "quanto demora um processo dessa classe nessa vara?", "qual vara e mais rapida?", ou qualquer regua externa de tempo. NAO responde quantum (DataJud nao tem — usar analise-quantum).
 metadata:
   version: "0.1.0"
   area: "Jurimetria"

@@ -1,7 +1,7 @@
 ---
 name: estilo-juridico-trabalhista
 description: >
-  ESTILO JURIDICO TRABALHISTA — Skill Tier 1 de apoio. Define a estrutura canonica e o estilo de toda peca trabalhista: raciocinio FIRAC, enderecamento, qualificacao, narrativa de fatos, fundamentacao, pedidos, valor da causa. Calibra o tom combativo conforme a persona e o polo. Acionada por todo Tenente Tier 2.
+  ESTILO JURIDICO TRABALHISTA — Skill Tier 1 de apoio. Acionada por todo Tenente Tier 2.
 ---
 
 # ESTILO JURIDICO TRABALHISTA

@@ -1,7 +1,7 @@
 ---
 name: memoria-de-caso-medico
 description: >
-  Skill invariante de Memoria de Caso — CASO.md compartimentado por cliente em `<cwd>/direito-medico/casos/<slug>/`. Operacionaliza PA-22 (compartimentacao absoluta) + PA-16/PA-17 (sigilo medico + LGPD art. 11). Estrutura: CASO.md (estado vivo do caso), MEMORY.md (decisoes e historico), `arquivos/` (prontuario, exames, TCLE), `pecas/` (produzidos). Pasta gitignored por default. Alerta quando workspace e pasta sincronizada (iCloud/OneDrive/Dropbox/Google Drive). Garante que nenhum dado de paciente persista no plugin distribuido. Aciona: novo caso medico, abrir caso, CASO.md, memoria do caso, retomar caso, /caso-medico, prontuario pasta caso, sigilo LGPD compartimentacao.
+  Skill invariante de Memoria de Caso — CASO.md compartimentado por cliente em `<cwd>/direito-medico/casos/<slug>/`. Aciona: novo caso medico, abrir caso, CASO.md, memoria do caso, retomar caso, /caso-medico, prontuario pasta caso, sigilo LGPD compartimentacao.
 ---
 
 # MEMORIA DE CASO MEDICO

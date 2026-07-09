@@ -1,15 +1,7 @@
 ---
 name: cruzamento-jt-rj
 description: >
-  CRUZAMENTO-JT-RJ — Protocolo Técnico P8 (transversal). Toda vez que
-  houver crédito de origem trabalhista, cruza o caso do plug-in
-  `recuperacao-judicial-adv-os` com o caso correspondente no plug-in
-  `trabalhista-adv-os`: identifica o mesmo cliente, o mesmo processo
-  trabalhista, o mesmo crédito; reaproveita memoria-de-caso-trabalhista;
-  verifica reciprocamente o status (sentença, trânsito, liquidação, CH,
-  execução suspensa); garante coerência entre o que está habilitado na
-  RJ e o que está em curso na JT. Sem cruzamento, há risco de duplicidade,
-  contradição estratégica e prejuízo ao crédito.
+  CRUZAMENTO-JT-RJ — Protocolo Técnico P8 (transversal). Toda vez que houver crédito de origem trabalhista, cruza o caso do plug-in `recuperacao-judicial-adv-os` com o caso correspondente no plug-in `trabalhista-adv-os`: identifica o mesmo cliente, o mesmo processo trabalhista, o mesmo crédito; reaproveita memoria-de-caso-trabalhista; verifica reciprocamente o status (sentença, trânsito, liquidação, CH, execução suspensa); garante coerência entre o que está habilitado na RJ e o que está em curso na JT. Sem cruzamento, há risco de duplicidade, contradição estratégica e prejuízo ao crédito.
 ---
 
 # CRUZAMENTO-JT-RJ — PROTOCOLO P8

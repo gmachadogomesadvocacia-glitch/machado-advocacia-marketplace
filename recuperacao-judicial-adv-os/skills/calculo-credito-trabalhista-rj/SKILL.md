@@ -1,15 +1,7 @@
 ---
 name: calculo-credito-trabalhista-rj
 description: >
-  CALCULO-CREDITO-TRABALHISTA-RJ — Tier 2 (Produção). Calcula o crédito
-  trabalhista a habilitar em recuperação judicial: atualiza o valor
-  histórico até a data do pedido de RJ (art. 9º, II — congelamento de
-  juros e correção), aplica o teto de 150 salários-mínimos (art. 83, I)
-  com excedente migrando para Classe III, segrega verbas com tratamento
-  próprio (FGTS — Tema 1.051 STJ; multas 477 e 467 CLT; honorários
-  sucumbenciais; INSS empregado; contribuição sindical) e produz planilha
-  discriminada verba × classe × valor. Integra-se ao plug-in
-  `calculos-pjecalc` quando instalado. Acionada por `credor-trabalhista-rj`.
+  CALCULO-CREDITO-TRABALHISTA-RJ — Tier 2 (Produção). Acionada por `credor-trabalhista-rj`.
 ---
 
 # CALCULO-CREDITO-TRABALHISTA-RJ

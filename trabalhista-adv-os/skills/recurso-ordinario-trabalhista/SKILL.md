@@ -1,7 +1,7 @@
 ---
 name: recurso-ordinario-trabalhista
 description: >
-  RECURSO ORDINARIO TRABALHISTA — Skill Tier 2 recursal transversal. Produz o Recurso Ordinario contra sentenca (e contra acordao originario de TRT), o Recurso Adesivo e as contrarrazoes de RO quando o cliente e o recorrido. Prazo: 8 dias uteis. Use quando o usuario menciona recurso ordinario, RO, recorrer da sentenca trabalhista, contrarrazoes de recurso ordinario.
+  RECURSO ORDINARIO TRABALHISTA — Skill Tier 2 recursal transversal. Use quando o usuario menciona recurso ordinario, RO, recorrer da sentenca trabalhista, contrarrazoes de recurso ordinario.
 ---
 
 # RECURSO ORDINARIO TRABALHISTA

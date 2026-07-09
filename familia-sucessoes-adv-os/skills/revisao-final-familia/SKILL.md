@@ -1,12 +1,7 @@
 ---
 name: revisao-final-familia
 description: >
-  REVISAO-FINAL-FAMILIA — Tier 3 (Auditoria Pré-entrega). Executa a auditoria obrigatória
-  R1-R4 em todas as peças produzidas antes do protocolo ou entrega ao cliente. Verifica: base
-  normativa (CC/2002 + CPC/2015 + ECA + leis especiais), coerência de polo, validade de
-  jurisprudência, prazos, consistência com o CASO.md, e qualidade da redação. Esta skill é
-  OBRIGATÓRIA antes de qualquer protocolo — é o Protocolo P6 do sistema. Acionar sempre que
-  uma peça de família ou sucessões estiver pronta para entrega ou protocolo.
+  REVISAO-FINAL-FAMILIA — Tier 3 (Auditoria Pré-entrega). Acionar sempre que uma peça de família ou sucessões estiver pronta para entrega ou protocolo.
 metadata:
   version: "1.0.0"
 ---

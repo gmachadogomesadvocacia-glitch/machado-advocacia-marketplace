@@ -1,13 +1,7 @@
 ---
 name: previdenciario-onboarding
 description: >
-  PREVIDENCIARIO ONBOARDING — Skill Engine. Wizard de entrada para casos previdenciarios:
-  guia o usuario atraves de 6 blocos de coleta de informacoes (identificacao do segurado,
-  situacao atual do beneficio, historico laboral resumido, documentacao disponivel,
-  objetivo do cliente, urgencias e prazos), produz ficha de caso estruturada e roteia
-  automaticamente para as skills corretas. Acionar com /start-previdenciario ou quando
-  o usuario disser "tenho um caso previdenciario", "preciso analisar um caso do INSS",
-  ou similar — especialmente quando as informacoes ainda nao foram coletadas.
+  PREVIDENCIARIO ONBOARDING — Skill Engine. Acionar com /start-previdenciario ou quando o usuario disser "tenho um caso previdenciario", "preciso analisar um caso do INSS", ou similar — especialmente quando as informacoes ainda nao foram coletadas.
 ---
 
 # PREVIDENCIARIO ONBOARDING

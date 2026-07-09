@@ -1,12 +1,7 @@
 ---
 name: onboarding-tributario
 description: >
-  Onboarding Tier 1 — configura o escritorio/persona do plugin tributario. Explica o fluxo
-  /start-tributario que gera persona.md a partir do template e coleta os dados do operador (nome,
-  OAB/UF, numero, firma, cidade, UF, email, tom de voz e intensidade). Mostra como o estado de caso e
-  criado (CASO.md, MEMORY-caso) e aponta para /status-tributario e /caso-tributario. Ative na primeira
-  vez, quando o usuario disser configurar plugin tributario, instalar, comecar a usar, configurar
-  escritorio, persona, ou digitar /start-tributario.
+  Onboarding Tier 1 — configura o escritorio/persona do plugin tributario. Ative na primeira vez, quando o usuario disser configurar plugin tributario, instalar, comecar a usar, configurar escritorio, persona, ou digitar /start-tributario.
 metadata:
   version: "0.1.0"
   area: "Direito Tributario"

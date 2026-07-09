@@ -1,13 +1,7 @@
 ---
 name: triagem-civel
 description: >
-  Triagem civel Tier 1 — primeiro contato com a demanda. PRIMEIRO confirma que a materia e civel
-  residual (e nao de consumidor/familia/imovel/medico/fiscal/penal/trabalho/INSS — senao roteia). Depois
-  classifica em 5 eixos: (1) FRENTE (responsabilidade civil/indenizatorias, contratos/obrigacoes,
-  cobranca/execucao, obrigacoes/tutelas), (2) POLO (autor — credor/lesado — x reu — devedor/causador),
-  (3) RELACAO/FATO (contrato? ato ilicito? titulo de credito? acidente?), (4) VALOR/QUANTUM pretendido,
-  (5) PRAZO em curso (prescricao CC 206, decadencia, contestacao 15 dias). Define a porta de saida.
-  Ative no inicio de qualquer caso civel.
+  Triagem civel Tier 1 — primeiro contato com a demanda. Ative no inicio de qualquer caso civel.
 metadata:
   version: "0.1.0"
   area: "Direito Civil e Processo Civil"

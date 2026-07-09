@@ -1,12 +1,7 @@
 ---
 name: revisao-final-tributaria
 description: >
-  Revisao final Tier 3 — Suprema Corte R1-R4. Ultima barreira antes de qualquer entrega de peca,
-  parecer ou calculo tributario. R1 valida fundamentos (CTN, lei do tributo vigente no fato gerador,
-  LEF, Dec. 70.235) e jurisprudencia (Sumula/Tema STF/STJ/CARF) contra alucinacao (PA-01/PA-02/PA-04);
-  R2 audita fatos, valores, CDA, datas, decadencia x prescricao (PA-03/PA-05); R3 verifica coerencia
-  de polo, via processual e estrategia (PA-07/PA-08/PA-10); R4 confere forma, prazo, enderecamento,
-  sigilo fiscal e LGPD (PA-12). Ative SEMPRE antes de entregar qualquer produto tributario ao usuario.
+  Revisao final Tier 3 — Suprema Corte R1-R4. Ative SEMPRE antes de entregar qualquer produto tributario ao usuario.
 metadata:
   version: "0.1.0"
   area: "Direito Tributario"

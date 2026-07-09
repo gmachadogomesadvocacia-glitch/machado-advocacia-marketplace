@@ -1,13 +1,7 @@
 ---
 name: recursos-consumidor
 description: >
-  RECURSOS CONSUMIDOR — Skill Tier 2 recursal e side-aware. Roteia para o recurso cabivel conforme o
-  rito e a parte que recorre: apelacao (vara comum, CPC art. 1.009); recurso inominado (JEC, Lei 9.099
-  art. 41); agravo de instrumento (interlocutorias/tutela, art. 1.015); recurso especial ao STJ
-  (prequestionamento; Sumula 7 veda reexame de prova). Cobre preparo/custas e gratuidade, efeitos
-  (suspensivo/devolutivo) e a escolha conforme o rito definido na triagem. Side-aware: declarar qual
-  parte recorre (consumidor ou fornecedor). Acione quando o usuario pede recurso, recorrer, apelacao,
-  recurso inominado, agravo, REsp em materia de consumo. Exige Selo P1 e o prazo conferido (PA-08).
+  RECURSOS CONSUMIDOR — Skill Tier 2 recursal e side-aware. Acione quando o usuario pede recurso, recorrer, apelacao, recurso inominado, agravo, REsp em materia de consumo. Exige Selo P1 e o prazo conferido (PA-08).
 metadata:
   version: "0.1.0"
   area: "Direito do Consumidor e Bancario"

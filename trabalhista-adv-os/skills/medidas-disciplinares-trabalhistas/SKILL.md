@@ -1,7 +1,7 @@
 ---
 name: medidas-disciplinares-trabalhistas
 description: >
-  MEDIDAS DISCIPLINARES TRABALHISTAS — Skill Tier 2 (lado reclamada / consultivo). Fundamenta e redige medidas disciplinares — advertencia, suspensao e justa causa — com proporcionalidade, gradacao e respaldo probatorio. Use quando o cliente e empregador e menciona advertencia, suspensao, justa causa, demitir por justa causa, punicao de empregado.
+  MEDIDAS DISCIPLINARES TRABALHISTAS — Skill Tier 2 (lado reclamada / consultivo). Use quando o cliente e empregador e menciona advertencia, suspensao, justa causa, demitir por justa causa, punicao de empregado.
 ---
 
 # MEDIDAS DISCIPLINARES TRABALHISTAS

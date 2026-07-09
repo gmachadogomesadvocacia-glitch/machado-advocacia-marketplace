@@ -1,12 +1,7 @@
 ---
 name: inventario-arrolamento
 description: >
-  INVENTARIO-ARROLAMENTO — Tier 2 (Produção). Conduz o processo de inventário judicial e
-  extrajudicial, arrolamento comum e arrolamento sumário em casos de família e sucessões.
-  Cobre: abertura do inventário judicial (CPC arts. 610-673), inventário extrajudicial
-  (Res. 35/2007 CNJ), arrolamento comum (art. 664 CPC), arrolamento sumário (art. 659 CPC),
-  primeiras declarações, partilha, pagamento de ITCMD/{{UF}}, colação, sonegados e sobrepartilha.
-  Acionar sempre que houver falecimento e necessidade de transmitir o patrimônio aos herdeiros.
+  INVENTARIO-ARROLAMENTO — Tier 2 (Produção). Acionar sempre que houver falecimento e necessidade de transmitir o patrimônio aos herdeiros.
 metadata:
   version: "1.0.0"
 ---

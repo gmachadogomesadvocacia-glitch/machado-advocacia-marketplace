@@ -1,14 +1,7 @@
 ---
 name: planejamento-tributario
 description: >
-  Produz parecer consultivo de planejamento tributario LICITO (elisao fiscal).
-  Aciona quando o cliente quer reduzir carga tributaria de forma legal, escolher
-  regime (Simples Nacional, Lucro Presumido, Lucro Real), reorganizar a estrutura
-  societaria, aproveitar beneficios/incentivos, segregar atividades ou montar
-  holding patrimonial. Distingue rigorosamente elisao licita de evasao/simulacao/
-  sonegacao (PA-06 — nunca orientar ilicito), alerta sobre a norma antielisiva
-  (CTN 116, paragrafo unico) e a jurisprudencia do CARF sobre proposito negocial
-  e substancia sobre forma. Entrega: PARECER consultivo (nao e peca processual).
+  Produz parecer consultivo de planejamento tributario LICITO (elisao fiscal). Aciona quando o cliente quer reduzir carga tributaria de forma legal, escolher regime (Simples Nacional, Lucro Presumido, Lucro Real), reorganizar a estrutura societaria, aproveitar beneficios/incentivos, segregar atividades ou montar holding patrimonial. Distingue rigorosamente elisao licita de evasao/simulacao/ sonegacao (PA-06 — nunca orientar ilicito), alerta sobre a norma antielisiva (CTN 116, paragrafo unico) e a jurisprudencia do CARF sobre proposito negocial e substancia sobre forma. Entrega: PARECER consultivo (nao e peca processual).
 metadata:
   version: "0.1.0"
   area: "Direito Tributario"

@@ -1,7 +1,7 @@
 ---
 name: acordo-trabalhista
 description: >
-  ACORDO TRABALHISTA — Skill Tier 2 transversal. Calcula e redige acordos trabalhistas judiciais e extrajudiciais, inclusive via Comissao de Conciliacao Previa (CCP) e acordo extrajudicial homologado. Use quando menciona acordo trabalhista, conciliacao, proposta de acordo, CCP, acordo extrajudicial.
+  ACORDO TRABALHISTA — Skill Tier 2 transversal. Use quando menciona acordo trabalhista, conciliacao, proposta de acordo, CCP, acordo extrajudicial.
 ---
 
 # ACORDO TRABALHISTA

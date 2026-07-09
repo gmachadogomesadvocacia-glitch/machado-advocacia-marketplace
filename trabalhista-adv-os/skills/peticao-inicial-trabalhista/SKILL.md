@@ -1,7 +1,7 @@
 ---
 name: peticao-inicial-trabalhista
 description: >
-  PETICAO INICIAL TRABALHISTA — Skill Tier 2 (lado reclamante). Redige a Reclamacao Trabalhista completa: qualificacao, narrativa do vinculo e dos fatos, causas de pedir, pedidos determinados com valores, tutelas de urgencia, requerimentos. Use quando o cliente e o reclamante e o usuario pede peticao inicial, reclamatoria, ajuizar acao trabalhista, processar a empresa.
+  PETICAO INICIAL TRABALHISTA — Skill Tier 2 (lado reclamante). Use quando o cliente e o reclamante e o usuario pede peticao inicial, reclamatoria, ajuizar acao trabalhista, processar a empresa.
 ---
 
 # PETICAO INICIAL TRABALHISTA

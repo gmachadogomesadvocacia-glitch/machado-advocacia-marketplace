@@ -1,7 +1,7 @@
 ---
 name: tcle-especialidades
 description: >
-  Gerador de TCLE especifico por especialidade — 12 modalidades: cirurgia plastica estetica, oncologia (quimio/radio), obstetricia (parto/cesarea), anestesia, telemedicina (Res. CFM 2.314/2022), reproducao assistida (Res. CFM 2.320/2022), estetica nao-cirurgica (botox/preenchedor), ortodontia, implantodontia, transfusao sanguinea (incluindo Testemunha de Jeova — Res. CFM 1.021 + 2.232), exames invasivos (cateterismo/endoscopia/biopsia), HOF (Res. CFM 2.337/2023). Aplica STJ REsp 1.526.466/RS (estetica obrigacao de resultado), REsp 1.540.580/DF (dever de informar), Lei 15.378/2026 (linguagem acessivel). Para VALIDAR TCLE existente, ver `analise-tcle` (Tier 1). Aciona: redigir TCLE, gerar termo de consentimento, modelo TCLE, TCLE para cirurgia, TCLE estetica, TCLE oncologia, TCLE anestesia, TCLE telemedicina, TCLE reproducao, TCLE implante, TCLE ortodontia, TCLE transfusao, TCLE HOF, TCLE harmonização orofacial.
+  Gerador de TCLE especifico por especialidade. Aciona: redigir TCLE, gerar termo de consentimento, modelo TCLE, TCLE para cirurgia, TCLE estetica, TCLE oncologia, TCLE anestesia, TCLE telemedicina, TCLE reproducao, TCLE implante, TCLE ortodontia, TCLE transfusao, TCLE HOF, TCLE harmonização orofacial.
 ---
 
 # TCLE ESPECIALIDADES

@@ -1,13 +1,7 @@
 ---
 name: acao-publicidade-abusiva
 description: >
-  ACAO PUBLICIDADE E PRATICAS ABUSIVAS — Skill Tier 2 (lado consumidor). Trata publicidade enganosa
-  e abusiva (art. 37), o principio da VINCULACAO DA OFERTA (art. 30/35 — cumprimento forcado da oferta
-  veiculada), venda casada e demais praticas abusivas (art. 39), com inversao do onus da prova da
-  veracidade da publicidade (art. 38 — onus de quem patrocina). Pedidos: cumprimento da oferta /
-  perdas e danos / dano moral (e coletivo quando cabivel). Tem recorte individual ou coletivo. Acione
-  quando o consumidor reclama de propaganda enganosa, oferta nao cumprida, preco anunciado e nao
-  honrado, venda casada, brinde condicionado, ou pratica comercial abusiva. Exige Selo P1.
+  ACAO PUBLICIDADE E PRATICAS ABUSIVAS — Skill Tier 2 (lado consumidor). Acione quando o consumidor reclama de propaganda enganosa, oferta nao cumprida, preco anunciado e nao honrado, venda casada, brinde condicionado, ou pratica comercial abusiva. Exige Selo P1.
 metadata:
   version: "0.1.0"
   area: "Direito do Consumidor e Bancario"

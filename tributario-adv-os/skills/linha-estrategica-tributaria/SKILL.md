@@ -1,13 +1,7 @@
 ---
 name: linha-estrategica-tributaria
 description: >
-  Linha estrategica tributaria Tier 1. Consolida a trilateral e a jurisprudencia e define a VIA
-  (administrativa x judicial) e a sequencia. Criterios: suspensao da exigibilidade (CTN art. 151 —
-  impugnacao/recurso administrativo III; deposito II; liminar IV/V; parcelamento VI), custo
-  (sucumbencia, garantia), tempo, chance, efeito sobre CND/CPEN (certidao) e risco de redirecionamento.
-  Decide quando vale impugnar administrativamente (suspende sem garantia) antes de judicializar e
-  quando ir direto a MS/anulatoria. Decisao documentada. Aponta a porta de producao. Ative apos a
-  trilateral, quando o usuario pedir a estrategia, a melhor via ou a linha de defesa/acao.
+  Linha estrategica tributaria Tier 1. Consolida a trilateral e a jurisprudencia e define a VIA (administrativa x judicial) e a sequencia. Criterios: suspensao da exigibilidade (CTN art. 151. Ative apos a trilateral, quando o usuario pedir a estrategia, a melhor via ou a linha de defesa/acao.
 metadata:
   version: "0.1.0"
   area: "Direito Tributario"

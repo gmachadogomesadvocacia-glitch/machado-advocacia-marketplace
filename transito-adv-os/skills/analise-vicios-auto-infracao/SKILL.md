@@ -1,14 +1,7 @@
 ---
 name: analise-vicios-auto-infracao
 description: >
-  Skill flagship Tier 2 — analise de vicios e nulidades do auto de infracao de transito (CTB 280-281;
-  Resolucao CONTRAN). E o motor da defesa: examina o AIT e o procedimento em busca de teses anulatorias,
-  aplicaveis em qualquer instancia (defesa previa, JARI, CETRAN, judicial). Catalogo de nulidades:
-  vicios formais do auto (CTB 280 — dados obrigatorios), ausencia/intempestividade da dupla notificacao
-  (autuacao + penalidade — Sum. 312 STJ), cerceamento de defesa, erro na identificacao do veiculo/
-  condutor, equipamento sem aferição valida (INMETRO), sinalizacao irregular, incompetencia do agente/
-  orgao, e decadencia do prazo para julgar/notificar. Ative ao analisar um auto de infracao, montar a
-  defesa ou identificar nulidades.
+  Skill flagship Tier 2 — analise de vicios e nulidades do auto de infracao de transito (CTB 280-281; Resolucao CONTRAN). Ative ao analisar um auto de infracao, montar a defesa ou identificar nulidades.
 metadata:
   version: "0.1.0"
   area: "Direito de Transito"

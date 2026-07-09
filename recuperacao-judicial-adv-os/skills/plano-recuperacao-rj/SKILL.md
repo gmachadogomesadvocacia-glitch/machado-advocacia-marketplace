@@ -1,13 +1,7 @@
 ---
 name: plano-recuperacao-rj
 description: >
-  PLANO-RECUPERACAO-RJ — Tier 2 (Produção). Redige o Plano de Recuperação Judicial completo
-  conforme os arts. 53, 54 e 50 da LFRJ. Estrutura: discriminação detalhada dos meios de
-  recuperação, laudo de viabilidade econômica, demonstração de cumprimento por classe de
-  credores, cláusulas de haircut, carência, correção e garantias. Acionar quando o usuário
-  precisar elaborar ou revisar o plano de RJ para o devedor, ou elaborar plano alternativo
-  de credores (art. 56, §6º). Requer CASO.md atualizado, RAD (auditoria documental)
-  e laudo de viabilidade (analise-viabilidade-rj) concluídos.
+  PLANO-RECUPERACAO-RJ — Tier 2 (Produção). Acionar quando o usuário precisar elaborar ou revisar o plano de RJ para o devedor, ou elaborar plano alternativo de credores (art. 56, §6º). Requer CASO.md atualizado, RAD (auditoria documental) e laudo de viabilidade (analise-viabilidade-rj) concluídos.
 ---
 
 # PLANO-RECUPERACAO-RJ

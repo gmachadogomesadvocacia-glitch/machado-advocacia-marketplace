@@ -1,14 +1,7 @@
 ---
 name: memoria-de-caso-civel
 description: >
-  Memoria de caso civel Tier 1 — Protocolo P3. Cria e mantem o CASO.md compartimentado por cliente em
-  civel/casos/<slug>/. Estrutura: partes e polo, relacao juridica/fato, numero do processo,
-  vara/comarca, valor/quantum, datas (fato/contrato, inadimplemento/evento, citacao), documentos
-  numerados "doc. N", prazos com datas (prescricao, recursos, contestacao), fase atual, pecas
-  produzidas, proximos passos e estrategia. Atualiza apos cada entrega. Sigilo + LGPD (pasta gitignored).
-  Nomenclatura AAAA-MM-DD - Cliente - tipo.ext e entrega em .txt por padrao. Ative quando o usuario abrir
-  caso novo, retomar caso, pedir CASO.md, memoria do caso, /caso-civel, ou ao final de cada producao para
-  registrar o estado.
+  Memoria de caso civel Tier 1 — Protocolo P3. Ative quando o usuario abrir caso novo, retomar caso, pedir CASO.md, memoria do caso, /caso-civel, ou ao final de cada producao para registrar o estado.
 metadata:
   version: "0.1.0"
   area: "Direito Civil e Processo Civil"

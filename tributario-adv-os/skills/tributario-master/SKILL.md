@@ -1,14 +1,7 @@
 ---
 name: tributario-master
 description: >
-  TRIBUTARIO MASTER — Skill orquestradora Tier 0, sempre ativa em qualquer demanda de Direito
-  Tributario. Carrega a Hierarquia das 4 Camadas, as Proibicoes Absolutas, os Protocolos e a Suprema
-  Corte R1-R4. Side-aware: contribuinte (defesa) x Fazenda. Cobre as 3 frentes (administrativa,
-  judicial, consultiva) nas 3 esferas (federal/estadual/municipal). Ative quando o usuario mencionar
-  tributo, fisco, Fazenda, Receita, auto de infracao, lancamento, CDA, execucao fiscal, embargos,
-  excecao de pre-executividade, CARF, impugnacao, ICMS, ISS, IPTU, ITBI, IR, PIS, COFINS, CSLL, IPI,
-  repeticao de indebito, compensacao, decadencia, prescricao, mandado de seguranca tributario,
-  anulatoria, planejamento tributario, parcelamento, transacao, Simples, CBS, IBS ou reforma tributaria.
+  TRIBUTARIO MASTER — Skill orquestradora Tier 0, sempre ativa em qualquer demanda de Direito Tributario. Ative quando o usuario mencionar tributo, fisco, Fazenda, Receita, auto de infracao, lancamento, CDA, execucao fiscal, embargos, excecao de pre-executividade, CARF, impugnacao, ICMS, ISS, IPTU, ITBI, IR, PIS, COFINS, CSLL, IPI, repeticao de indebito, compensacao, decadencia, prescricao, mandado de seguranca tributario, anulatoria, planejamento tributario, parcelamento, transacao, Simples, CBS, IBS ou reforma tributaria.
 metadata:
   version: "0.1.0"
   area: "Direito Tributario"

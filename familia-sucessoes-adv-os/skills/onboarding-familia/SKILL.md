@@ -1,12 +1,7 @@
 ---
 name: onboarding-familia
 description: >
-  ONBOARDING-FAMILIA — Tier 1 (Insumos). Configura o escritório e o cliente no plugin de
-  família e sucessões: cadastra dados do advogado ({{ADVOGADO_NOME}}, OAB/{{OAB_UF}} {{OAB_NUMERO}},
-  {{FIRM_NAME}}), preferências de estilo, tom e fluxo de trabalho. Também realiza o
-  onboarding do cliente novo: cadastro inicial de dados pessoais, do caso e expectativas.
-  Acionar no início de cada novo caso para garantir que todos os dados essenciais estão
-  registrados antes de iniciar qualquer trabalho processual.
+  ONBOARDING-FAMILIA — Tier 1 (Insumos). Configura o escritório e o cliente no plugin de família e sucessões: cadastra dados do advogado ({{ADVOGADO_NOME}}, OAB/{{OAB_UF}} {{OAB_NUMERO}}, {{FIRM_NAME}}), preferências de estilo, tom e fluxo de trabalho. Acionar no início de cada novo caso para garantir que todos os dados essenciais estão registrados antes de iniciar qualquer trabalho processual.
 metadata:
   version: "1.0.0"
 ---

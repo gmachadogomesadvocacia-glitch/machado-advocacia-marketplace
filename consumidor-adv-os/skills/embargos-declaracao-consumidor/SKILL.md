@@ -1,13 +1,7 @@
 ---
 name: embargos-declaracao-consumidor
 description: >
-  EMBARGOS DE DECLARACAO CONSUMIDOR — Skill Tier 2 recursal. Redige embargos de declaracao: na vara
-  comum CPC art. 1.022 (5 dias) e no JEC Lei 9.099 art. 48 a 50 (5 dias). Hipoteses estritas: omissao,
-  contradicao, obscuridade e erro material. Cumpre a funcao de prequestionamento para o REsp e admite
-  efeitos infringentes apenas excepcionalmente. NAO rediscute o merito (nao e recurso de revisao).
-  Interrompe o prazo dos demais recursos. Side-aware: declarar qual parte embarga (consumidor ou
-  fornecedor). Acione quando o usuario pede embargos de declaracao, aclaratorios, sanar omissao/
-  contradicao/obscuridade, ou prequestionar. Exige Selo P1 e o prazo conferido (PA-08).
+  EMBARGOS DE DECLARACAO CONSUMIDOR — Skill Tier 2 recursal. Acione quando o usuario pede embargos de declaracao, aclaratorios, sanar omissao/ contradicao/obscuridade, ou prequestionar. Exige Selo P1 e o prazo conferido (PA-08).
 metadata:
   version: "0.1.0"
   area: "Direito do Consumidor e Bancario"

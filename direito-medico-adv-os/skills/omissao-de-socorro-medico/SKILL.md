@@ -1,7 +1,7 @@
 ---
 name: omissao-de-socorro-medico
 description: >
-  Defesa criminal em omissao de socorro praticada por profissional da saude (CP art. 135) e omissao impropria (CP art. 13§2o "a" — medico como garantidor). Aplica Lei 9.099/95 art. 89 (sursis), CP art. 24 (estado de necessidade), recusa esclarecida do paciente (Lei 15.378/2026 + Res. CFM 1.995/2012 DAV), triagem hospitalar (Res. CFM 2.077/2014). Distincao critica: dolo eventual (omissao consciente do risco aceito) x culpa consciente (acredita evitar desfecho). Casos tipicos: nao atendimento em PA, transferencia indevida, abandono pos-op, recusa por inadimplencia. Teses: ausencia do dever de agir, justa causa, atendimento prestado por terceiro, recusa documentada do paciente, perigo concreto inexistente. Aciona: omissao de socorro medico, omissao impropria, CP 135, garantidor, dolo eventual medico, culpa consciente, recusa atendimento PA, transferencia hospitalar, triagem Manchester, abandono pos-op.
+  Defesa criminal em omissao de socorro praticada por profissional da saude (CP art. 135) e omissao impropria (CP art. 13§2o "a". Aciona: omissao de socorro medico, omissao impropria, CP 135, garantidor, dolo eventual medico, culpa consciente, recusa atendimento PA, transferencia hospitalar, triagem Manchester, abandono pos-op.
 ---
 
 # OMISSAO DE SOCORRO MEDICO

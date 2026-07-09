@@ -1,14 +1,7 @@
 ---
 name: dano-fracionado-actio-nata
 description: >
-  DANO FRACIONADO E ACTIO NATA AUTONOMA — prescricao quando a parte fraciona os danos do mesmo
-  evento medico em pretensoes com termos iniciais proprios (ex.: obito prescrito x "dano autonomo"
-  descoberto anos depois). Sistematiza o teste de autonomia do dano (dano NOVO e distinto x mero
-  desdobramento/agravamento do dano ja conhecido), a actio nata (Sum. 278 STJ por analogia — ciencia
-  inequivoca do dano E de sua extensao) e as estrategias dos dois lados: autor fundamentando a
-  autonomia; reu impugnando o fracionamento artificial que ressuscita pretensao prescrita.
-  Complementa a prescricao-erro-medico. Aciona: dano autonomo, fracionamento de danos, actio nata,
-  prescricao parcial, dano descoberto depois, agravamento x dano novo, prejudicial relegada ao merito.
+  DANO FRACIONADO E ACTIO NATA AUTONOMA — prescricao quando a parte fraciona os danos do mesmo evento medico em pretensoes com termos iniciais proprios (ex.: obito prescrito x "dano autonomo" descoberto anos depois). Aciona: dano autonomo, fracionamento de danos, actio nata, prescricao parcial, dano descoberto depois, agravamento x dano novo, prejudicial relegada ao merito.
 metadata:
   version: "0.1.0"
   area: "Direito Medico"

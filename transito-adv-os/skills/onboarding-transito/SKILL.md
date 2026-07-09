@@ -1,13 +1,7 @@
 ---
 name: onboarding-transito
 description: >
-  Onboarding de transito Tier 1 — configura o escritorio e a persona do operador no plugin de Direito
-  de Transito. Fluxo /start-transito: coleta identidade (nome, OAB/UF/numero, firma, cidade/UF, email),
-  tom de voz (perfil + intensidade) e os eixos de atuacao (administrativo, CNH/habilitacao, judicial,
-  analise de vicios); gera o persona.md a partir do template e inicializa o estado de caso. Aponta para
-  /start-transito (configurar), /status-transito (estado atual) e /caso-transito (abrir/retomar caso).
-  Ative quando o usuario disser configurar transito, instalar, primeira vez, onboarding, /start-transito,
-  configurar escritorio, persona.
+  Onboarding de transito Tier 1 — configura o escritorio e a persona do operador no plugin de Direito de Transito. Ative quando o usuario disser configurar transito, instalar, primeira vez, onboarding, /start-transito, configurar escritorio, persona.
 metadata:
   version: "0.1.0"
   area: "Direito de Transito"

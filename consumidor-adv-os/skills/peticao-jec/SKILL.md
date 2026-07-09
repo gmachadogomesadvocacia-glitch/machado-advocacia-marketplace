@@ -1,13 +1,7 @@
 ---
 name: peticao-jec
 description: >
-  PETICAO JEC — Skill Tier 2 transversal e side-aware. Redige a peticao para o Juizado Especial Civel
-  (Lei 9.099/95) quando a triagem definiu o rito JEC. Cobre competencia e teto (ate 40 SM; ate 20 SM
-  dispensa advogado), pedido simplificado e liquido, foro, vedacao a causas que exijam pericia complexa,
-  conciliacao obrigatoria, revelia, recurso inominado e embargos de declaracao. Qualquer eixo
-  (bancario, negativacao, telecom, aereo, produto) pode usa-la como a forma da peca no JEC. Acione
-  quando o rito definido for JEC, o usuario pede peticao no juizado especial, causa de pequeno valor,
-  acao no JEC, recurso inominado. Exige Selo P1 emitido.
+  PETICAO JEC — Skill Tier 2 transversal e side-aware. Acione quando o rito definido for JEC, o usuario pede peticao no juizado especial, causa de pequeno valor, acao no JEC, recurso inominado. Exige Selo P1 emitido.
 metadata:
   version: "0.1.0"
   area: "Direito do Consumidor e Bancario"

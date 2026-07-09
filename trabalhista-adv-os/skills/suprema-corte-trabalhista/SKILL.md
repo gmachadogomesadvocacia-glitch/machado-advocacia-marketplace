@@ -1,7 +1,7 @@
 ---
 name: suprema-corte-trabalhista
 description: >
-  SUPREMA CORTE TRABALHISTA — Skill Tier 3, auditoria final invariante. Audita todo documento juridico trabalhista em 5 etapas obrigatorias antes da entrega: R1 coleta de dados (documentos, CCT); R2 base juridica (lei vigente, jurisprudencia classificada, prescricao, competencia, prazo recursal correto); R3 tese (fato-nexo-direito, antecipacao adversarial, coerencia de polo); R4 completude (estilo do tipo de peca, tom, valor da causa, pedido determinado); R5 verificacao adversarial (red-team tenta derrubar o documento). Cada etapa emite APROVADO, APROVADO COM RESSALVAS ou REPROVADO. Bypass via --no-corte. Use SEMPRE antes de entregar qualquer peca, recurso, parecer ou calculo trabalhista.
+  SUPREMA CORTE TRABALHISTA — Skill Tier 3, auditoria final invariante. Use SEMPRE antes de entregar qualquer peca, recurso, parecer ou calculo trabalhista.
 ---
 
 # SUPREMA CORTE TRABALHISTA — Auditoria R1-R2-R3-R4-R5

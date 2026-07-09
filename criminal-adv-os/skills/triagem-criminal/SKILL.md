@@ -1,13 +1,7 @@
 ---
 name: triagem-criminal
 description: >
-  Triagem criminal Tier 1 — primeiro contato com a demanda. Classifica em 5 eixos: (1) FASE
-  (investigacao/inquerito, acao penal, juri, recursos, execucao penal, acordos), (2) POLO do cliente
-  (defesa — investigado/reu/sentenciado — x assistencia de acusacao/vitima), (3) CRIME e TIPIFICACAO
-  (capitulacao, pena cominada, competencia — comum/juri/JECrim), (4) SITUACAO PRISIONAL (solto, preso
-  em flagrante, preventiva, temporaria, cumprindo pena), (5) PRAZO em curso (prescricao, resposta a
-  acusacao 10 dias, RESE 5 dias, apelacao 5 dias, excesso de prazo). Define a porta de saida. Ative
-  no inicio de qualquer caso penal.
+  Triagem criminal Tier 1 — primeiro contato com a demanda. Ative no inicio de qualquer caso penal.
 metadata:
   version: "0.1.0"
   area: "Direito Penal e Processo Penal"

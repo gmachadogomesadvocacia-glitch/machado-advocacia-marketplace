@@ -1,7 +1,7 @@
 ---
 name: liquidacao-execucao-trabalhista
 description: >
-  LIQUIDACAO E EXECUCAO TRABALHISTA — Skill Tier 2 transversal. Atua na fase de liquidacao e execucao: liquidacao de sentenca, impugnacao aos calculos de liquidacao, embargos a execucao, defesa do executado. Cobre tambem a execucao FRUSTRADA promovida pelo exequente: penhora de credito contra terceiro (art. 855 CPC), IDPJ (art. 855-A CLT + arts. 133-137 CPC + Tema 1232 STF), sucessao (art. 448-A CLT), fraude a execucao (art. 792 CPC) e interposta pessoa (art. 50 CC). Use quando menciona liquidacao de sentenca, impugnacao aos calculos, embargos a execucao, fase de execucao trabalhista, penhora, execucao frustrada, desconsideracao, redirecionamento.
+  LIQUIDACAO E EXECUCAO TRABALHISTA — Skill Tier 2 transversal. Use quando menciona liquidacao de sentenca, impugnacao aos calculos, embargos a execucao, fase de execucao trabalhista, penhora, execucao frustrada, desconsideracao, redirecionamento.
 ---
 
 # LIQUIDACAO E EXECUCAO TRABALHISTA

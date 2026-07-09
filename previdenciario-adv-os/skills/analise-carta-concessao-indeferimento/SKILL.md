@@ -1,12 +1,7 @@
 ---
 name: analise-carta-concessao-indeferimento
 description: >
-  ANALISE DE CARTA DE CONCESSAO / INDEFERIMENTO — Skill Tier 2 C. Le e interpreta cartas
-  de concessao de beneficio (verifica DIB, RMI, especie concedida, regra de transicao
-  aplicada, tempo de contribuicao computado) e cartas de indeferimento (identifica fundamento
-  legal do INSS, carencia negada, tempo insuficiente, qualidade de segurado perdida, alta
-  medica indevida, DII posterior a DER). Emite diagnostico com pontos de impugnacao.
-  Acionar sempre que o usuario apresentar uma carta do INSS — seja concessao ou indeferimento.
+  ANALISE DE CARTA DE CONCESSAO / INDEFERIMENTO. Acionar sempre que o usuario apresentar uma carta do INSS — seja concessao ou indeferimento.
 ---
 
 # ANALISE DE CARTA DE CONCESSAO / INDEFERIMENTO

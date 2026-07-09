@@ -1,13 +1,7 @@
 ---
 name: previdencia-complementar
 description: >
-  PREVIDENCIA COMPLEMENTAR — Skill Tier 2 E. Consolida analise de EFPC (Entidade Fechada
-  de Previdencia Complementar — fundos de pensao) e EAPC (Entidade Aberta — PGBL/VGBL
-  e planos de risco). Cobre: analise de regulamento de plano, calculo de beneficio de
-  renda de aposentadoria, resgate e portabilidade, contribuicao extraordinaria e deficit
-  atuarial, retirada de patrocinador, exclusao de participante, acao de cobranca de
-  beneficio negado, e aspectos tributarios PGBL/VGBL. Acionar quando o caso envolver
-  fundo de pensao (empresa ou servidor publico), PGBL, VGBL, ou plano coletivo averbado.
+  PREVIDENCIA COMPLEMENTAR — Skill Tier 2 E. Acionar quando o caso envolver fundo de pensao (empresa ou servidor publico), PGBL, VGBL, ou plano coletivo averbado.
 ---
 
 # PREVIDENCIA COMPLEMENTAR

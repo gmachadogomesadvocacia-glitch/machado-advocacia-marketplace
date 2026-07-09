@@ -1,13 +1,7 @@
 ---
 name: triagem-imobiliaria
 description: >
-  Triagem imobiliaria Tier 1 — primeiro contato com a demanda. Classifica em 5 eixos: (1) FRENTE
-  (locacao, contratos imobiliarios, direitos reais e posse, consultivo), (2) POLO do cliente (locador
-  x locatario, comprador x vendedor, possuidor x esbulhador, condominio x condomino, fiduciante x
-  credor fiduciario), (3) IMOVEL (urbano/rural, matricula, endereco, area, registrado?), (4) CONTRATO
-  (tipo, data, vigencia, garantia), (5) PRAZO em curso (decadencia da renovatoria, purgacao da mora,
-  contestacao possessoria, consolidacao na fiduciaria). Define a porta de saida. Ative no inicio de
-  qualquer caso imobiliario ou locaticio.
+  Triagem imobiliaria Tier 1 — primeiro contato com a demanda. Ative no inicio de qualquer caso imobiliario ou locaticio.
 metadata:
   version: "0.1.0"
   area: "Direito Imobiliario e Locacao"

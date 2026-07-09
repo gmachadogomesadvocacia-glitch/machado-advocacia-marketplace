@@ -1,14 +1,7 @@
 ---
 name: reclamacao-administrativa
 description: >
-  RECLAMACAO ADMINISTRATIVA — Skill Tier 2, esfera administrativa, side-aware. Redige a reclamacao
-  nos orgaos de protecao e agencias reguladoras: PROCON, consumidor.gov.br, BACEN (registro de
-  demanda bancaria), ANATEL (telecom), ANAC (aereo) e demais agencias. Cobre a estrutura da
-  reclamacao, pedido claro, documentos, prazos de resposta do fornecedor/orgao, e o uso da reclamacao
-  e do silencio/recusa como prova pre-constituida na futura acao. Opera o Protocolo P4 (Cruzamento
-  Judicial-Administrativo). Acione quando o usuario pede reclamacao no PROCON, consumidor.gov.br,
-  abrir demanda no BACEN, reclamar na ANATEL/ANAC, via administrativa, notificar a agencia reguladora.
-  Exige Selo P1 emitido.
+  RECLAMACAO ADMINISTRATIVA — Skill Tier 2, esfera administrativa, side-aware. Acione quando o usuario pede reclamacao no PROCON, consumidor.gov.br, abrir demanda no BACEN, reclamar na ANATEL/ANAC, via administrativa, notificar a agencia reguladora. Exige Selo P1 emitido.
 metadata:
   version: "0.1.0"
   area: "Direito do Consumidor e Bancario"

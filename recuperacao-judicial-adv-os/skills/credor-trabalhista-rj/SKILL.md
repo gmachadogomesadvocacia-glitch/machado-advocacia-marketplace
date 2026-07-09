@@ -1,15 +1,7 @@
 ---
 name: credor-trabalhista-rj
 description: >
-  CREDOR-TRABALHISTA-RJ — Tier 2 (Produção) / Eixo Prioritário. Acionada
-  AUTOMATICAMENTE quando o caso envolver crédito trabalhista em recuperação
-  judicial: sentença da JT, reclamatória, acordo homologado, liquidação,
-  certidão de crédito, verbas rescisórias, FGTS, vínculo, execução
-  trabalhista, honorários sucumbenciais trabalhistas. Coleta 22 campos,
-  decide via (divergência / impugnação / retardatária / art. 6º §2º),
-  classifica concursal x extraconcursal pelo fato gerador, aplica teto de
-  150 SM (excedente Classe III), verifica prescrição e entrega peça +
-  cálculo + índice. Foco: REPRESENTAÇÃO DO CREDOR TRABALHISTA.
+  CREDOR-TRABALHISTA-RJ — Tier 2 (Produção) / Eixo Prioritário. Acionada AUTOMATICAMENTE quando o caso envolver crédito trabalhista em recuperação judicial: sentença da JT, reclamatória, acordo homologado, liquidação, certidão de crédito, verbas rescisórias, FGTS, vínculo, execução trabalhista, honorários sucumbenciais trabalhistas. Coleta 22 campos, decide via (divergência / impugnação / retardatária / art. 6º §2º), classifica concursal x extraconcursal pelo fato gerador, aplica teto de 150 SM (excedente Classe III), verifica prescrição e entrega peça + cálculo + índice. Foco: REPRESENTAÇÃO DO CREDOR TRABALHISTA.
 ---
 
 # CREDOR-TRABALHISTA-RJ — EIXO PRIORITÁRIO

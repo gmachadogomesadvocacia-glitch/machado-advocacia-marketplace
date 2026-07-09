@@ -1,13 +1,7 @@
 ---
 name: linha-estrategica-isencao-ir
 description: >
-  LINHA ESTRATEGICA ISENCAO-IR — Skill Tier 1. Consolida a analise trilateral e a jurisprudencia e
-  define: a VIA (administrativa x judicial x ambas em paralelo — Protocolo P4), o rito (JEF Federal ate
-  60 SM x vara federal), se cabe tutela de urgencia (cessar a retencao) ou MS, o marco da isencao (data
-  do laudo/inicio da doenca) e a extensao da restituicao (ultimos 5 anos — CTN 168). Respeita o
-  modo_melhor_saida. Saida: linha estrategica para o advogado validar. Acione apos a trilateral, quando
-  o usuario pede a estrategia, a melhor via, o caminho do caso, administrativo ou judicial, se cabe
-  liminar.
+  LINHA ESTRATEGICA ISENCAO-IR — Skill Tier 1. Acione apos a trilateral, quando o usuario pede a estrategia, a melhor via, o caminho do caso, administrativo ou judicial, se cabe liminar.
 metadata:
   version: "0.1.0"
   area: "Isencao de IRPF por Doenca Grave"

@@ -1,17 +1,7 @@
 ---
 name: responsabilidade-estado
 description: >
-  Tier 2 — responsabilidade civil do ESTADO / Fazenda Publica (Uniao, Estados, Municipios,
-  autarquias, fundacoes e prestadoras de servico publico). Cobre os dois polos: AUTOR/lesado (acao
-  indenizatoria) e REU/ente publico (defesa). RESPONSABILIDADE OBJETIVA (CF 37 §6º — teoria do RISCO
-  ADMINISTRATIVO: conduta + dano + nexo, dispensada a culpa) e suas EXCLUDENTES (culpa exclusiva da
-  vitima, caso fortuito/forca maior, fato de terceiro). OMISSAO — responsabilidade subjetiva/faute du
-  service x objetiva (controverso — validar). Denunciacao da lide ao agente / acao de regresso (dolo ou
-  culpa — CF 37 §6º). PRESCRICAO quinquenal (Decreto 20.910/32 — 5 anos contra a Fazenda; validar tese
-  atual). Particularidades: prazos processuais, precatorio/RPV, REEXAME NECESSARIO (CPC 496), juros e
-  correcao (Lei 11.960/09; Tema 810 STF / 905 STJ — validar). Ative em indenizacao contra o Estado/
-  Municipio/Uniao/INSS/autarquia, responsabilidade do poder publico, erro do Estado, risco
-  administrativo, dano por agente publico ou Fazenda Publica. (Pode migrar a plugin administrativo.)
+  Tier 2 — responsabilidade civil do ESTADO / Fazenda Publica (Uniao, Estados, Municipios, autarquias, fundacoes e prestadoras de servico publico). Ative em indenizacao contra o Estado/ Municipio/Uniao/INSS/autarquia, responsabilidade do poder publico, erro do Estado, risco administrativo, dano por agente publico ou Fazenda Publica. (Pode migrar a plugin administrativo.)
 metadata:
   version: "0.1.0"
   area: "Direito Civil e Processo Civil"

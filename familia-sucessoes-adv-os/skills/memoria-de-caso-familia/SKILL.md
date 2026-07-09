@@ -1,12 +1,7 @@
 ---
 name: memoria-de-caso-familia
 description: >
-  MEMORIA-DE-CASO-FAMILIA — Transversal (Estado Vivo do Processo). Cria, lê, atualiza e
-  consolida o CASO.md de cada caso de família ou sucessões. Deve ser consultada no início
-  de toda sessão de trabalho e atualizada ao final. Armazena: polo, fase, patrimônio mapeado,
-  filhos, acordos parciais, prazos, histórico de peças e alertas ativos. Acionar quando o
-  usuário pedir para "salvar o caso", "atualizar o status", "onde estamos no processo",
-  "registrar o acordo parcial" ou ao iniciar uma nova sessão sobre um caso já triado.
+  MEMORIA-DE-CASO-FAMILIA — Transversal (Estado Vivo do Processo). Acionar quando o usuário pedir para "salvar o caso", "atualizar o status", "onde estamos no processo", "registrar o acordo parcial" ou ao iniciar uma nova sessão sobre um caso já triado.
 metadata:
   version: "1.0.0"
 ---

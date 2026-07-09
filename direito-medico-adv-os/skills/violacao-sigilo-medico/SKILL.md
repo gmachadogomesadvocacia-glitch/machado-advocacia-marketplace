@@ -1,7 +1,7 @@
 ---
 name: violacao-sigilo-medico
 description: >
-  Defesa criminal em violacao de segredo profissional (CP art. 154) e desdobramentos civis/eticos/ANPD. Articula sigilo medico tripartite — penal (CP 154), etico (CEM 2.217/2018 art. 73 + Res. CFM 1.605/2000 + 1.821/2007) e LGPD art. 11 (dado sensivel). Mapeia excecoes legitimas: notificacao compulsoria (Portaria GM/MS 264/2020 + Lei 6.259/75), denuncia obrigatoria (ECA art. 13; EI art. 19; Lei 10.778/2003), estado de necessidade (CP 24), justa causa, consentimento. Teses: justa causa, estado de necessidade, ausencia de dolo, consentimento, sigilo cessado, comunicacao interna licita. Casos: prontuario vazado, foto em rede social, depoimento em juizo extrapolado, perito que excede. Aciona: violacao sigilo medico, CP 154, segredo profissional, LGPD saude, vazamento prontuario, foto paciente rede social, notificacao compulsoria, ECA 13, ANPD, dado sensivel.
+  Defesa criminal em violacao de segredo profissional (CP art. 154) e desdobramentos civis/eticos/ANPD. Articula sigilo medico tripartite. Aciona: violacao sigilo medico, CP 154, segredo profissional, LGPD saude, vazamento prontuario, foto paciente rede social, notificacao compulsoria, ECA 13, ANPD, dado sensivel.
 ---
 
 # VIOLACAO DE SIGILO MEDICO

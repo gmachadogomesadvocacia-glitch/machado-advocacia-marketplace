@@ -1,12 +1,7 @@
 ---
 name: contestacao-rj
 description: >
-  CONTESTACAO-RJ — Tier 2 (Produção). Redige contestações, impugnações e defesas em
-  processos de recuperação judicial: impugnação ao pedido de RJ (pelo credor), impugnação
-  ao plano de recuperação (pelo credor), contestação ao pedido de falência (pelo devedor),
-  resposta à impugnação de crédito, e defesa contra atos de revogação do período suspeito.
-  Acionar quando o usuário precisar contestar qualquer medida em processo de insolvência,
-  independentemente do polo. Side-aware: a estratégia muda completamente conforme o polo.
+  CONTESTACAO-RJ — Tier 2 (Produção). Redige contestações, impugnações e defesas em processos de recuperação judicial: impugnação ao pedido de RJ (pelo credor), impugnação ao plano... Acionar quando o usuário precisar contestar qualquer medida em processo de insolvência, independentemente do polo. Side-aware: a estratégia muda completamente conforme o polo.
 ---
 
 # CONTESTACAO-RJ

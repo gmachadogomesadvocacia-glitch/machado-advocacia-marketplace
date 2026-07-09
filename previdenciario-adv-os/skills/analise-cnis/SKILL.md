@@ -1,13 +1,7 @@
 ---
 name: analise-cnis
 description: >
-  ANALISE DE CNIS — Skill Tier 2 C. Le e analisa Cadastro Nacional de Informacoes Sociais
-  (CNIS): identifica vinculos empregaticios, periodos de contribuicao como CI/MEI, gaps,
-  salarios-de-contribuicao por competencia, DER potencial, tempo total de contribuicao
-  valido, carencia acumulada, qualidade de segurado, e periodos de beneficio. Detecta
-  inconsistencias (vinculos sem salario, recolhimentos abaixo do piso, periodos rurais
-  nao registrados). Acionar sempre que um CNIS for disponibilizado para analise ou quando
-  o caso envolver discussao sobre tempo de contribuicao, carencia ou DER.
+  ANALISE DE CNIS — Skill Tier 2 C. Le e analisa Cadastro Nacional de Informacoes Sociais (CNIS): identifica vinculos empregaticios, periodos de contribuicao como CI/MEI, gaps, salarios-de-contribuicao por competencia, DER potencial, tempo total de contribuicao valido, carencia acumulada, qualidade de segurado, e periodos de beneficio. Acionar sempre que um CNIS for disponibilizado para analise ou quando o caso envolver discussao sobre tempo de contribuicao, carencia ou DER.
 ---
 
 # ANALISE DE CNIS

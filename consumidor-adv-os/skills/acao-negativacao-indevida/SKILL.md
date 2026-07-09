@@ -1,13 +1,7 @@
 ---
 name: acao-negativacao-indevida
 description: >
-  ACAO NEGATIVACAO INDEVIDA — Skill Tier 2 (eixo negativacao, lado consumidor). Redige a acao
-  declaratoria de inexistencia de debito cumulada com dano moral e tutela de baixa da inscricao em
-  SPC/Serasa/SCPC. Trata o ponto critico da Sumula 385 STJ (inscricao legitima preexistente afasta o dano
-  moral) e o dever de notificacao previa do orgao (Sumula 359 / art. 43, §2 CDC), com dano moral in re
-  ipsa e quantum ancorado em precedente. Acione quando o cliente e o consumidor e o caso envolve nome
-  negativado, inscricao indevida, SPC, Serasa, SCPC, cadastro de inadimplentes, negativacao por divida
-  paga/inexistente. Exige Selo P1 e o extrato dos orgaos de protecao ao credito.
+  ACAO NEGATIVACAO INDEVIDA — Skill Tier 2 (eixo negativacao, lado consumidor). Acione quando o cliente e o consumidor e o caso envolve nome negativado, inscricao indevida, SPC, Serasa, SCPC, cadastro de inadimplentes, negativacao por divida paga/inexistente. Exige Selo P1 e o extrato dos orgaos de protecao ao credito.
 metadata:
   version: "0.1.0"
   area: "Direito do Consumidor e Bancario"

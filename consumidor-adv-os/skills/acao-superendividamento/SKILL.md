@@ -1,14 +1,7 @@
 ---
 name: acao-superendividamento
 description: >
-  ACAO SUPERENDIVIDAMENTO — Skill Tier 2 (lado consumidor). Conduz a repactuacao de dividas da
-  Lei 14.181/2021, que inseriu no CDC os arts. 54-A a 54-G (regime material) e 104-A a 104-C
-  (processo). Cobre o conceito de superendividamento e consumidor de boa-fe, a preservacao do
-  minimo existencial, a audiencia conciliatoria global com todos os credores, o plano de pagamento
-  em ate 5 anos e o plano compulsorio quando frustrada a conciliacao. Acione quando o cliente esta
-  superendividado de boa-fe, nao consegue pagar o conjunto das dividas sem comprometer a subsistencia,
-  ou pede repactuacao, plano de pagamento, renegociacao global, conciliacao com credores. Exige Selo
-  P1 emitido.
+  ACAO SUPERENDIVIDAMENTO — Skill Tier 2 (lado consumidor). Acione quando o cliente esta superendividado de boa-fe, nao consegue pagar o conjunto das dividas sem comprometer a subsistencia, ou pede repactuacao, plano de pagamento, renegociacao global, conciliacao com credores. Exige Selo P1 emitido.
 metadata:
   version: "0.1.0"
   area: "Direito do Consumidor e Bancario"

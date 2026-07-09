@@ -1,7 +1,7 @@
 ---
 name: cirurgia-estetica-resultado
 description: >
-  Skill especializada em responsabilidade civil em cirurgia plastica estetica e procedimentos esteticos (botox, preenchedor, peeling profundo, lipo, mamoplastia, abdominoplastia, blefaroplastia, ritidoplastia). Aplica STJ REsp 1.526.466/RS, REsp 985.888/SP e REsp 1.395.254/SC — **obrigacao de resultado** (inversao da presuncao: medico/clinica prova que resultado nao-alcance decorre de causa alheia). Distincao critica meio (estetica reparadora pos-trauma/oncologica) x resultado (estetica pura). Defesa do medico estetico: TCLE realista, fotografia pre-procedimento, plano de seguimento, descumprimento do paciente (orientacoes nao-seguidas, cuidados pos-operatorios). Conservadorismo no quantum (PA-21) — STJ corta valores inflados. Aciona: cirurgia plastica estetica, REsp 1.526.466, obrigacao de resultado, mamoplastia, abdominoplastia, lipo, blefaroplastia, ritidoplastia, botox, preenchedor, peeling, defesa medico esteta, cicatriz queloide, assimetria estetica.
+  Skill especializada em responsabilidade civil em cirurgia plastica estetica e procedimentos esteticos (botox, preenchedor, peeling profundo, lipo, mamoplastia, abdominoplastia, blefaroplastia, ritidoplastia). Aciona: cirurgia plastica estetica, REsp 1.526.466, obrigacao de resultado, mamoplastia, abdominoplastia, lipo, blefaroplastia, ritidoplastia, botox, preenchedor, peeling, defesa medico esteta, cicatriz queloide, assimetria estetica.
 ---
 
 # CIRURGIA ESTETICA RESULTADO

@@ -1,7 +1,7 @@
 ---
 name: pareceres-viabilidade-recursal
 description: >
-  PARECERES DE VIABILIDADE RECURSAL — Skill Tier 2 transversal. Produz o parecer previo que avalia se vale a pena recorrer ou contra-arrazoar: cabimento, pressupostos, prequestionamento, transcendencia, prognostico e custo-beneficio. Use quando o usuario pergunta se vale recorrer, viabilidade do recurso, parecer recursal, chance de exito.
+  PARECERES DE VIABILIDADE RECURSAL — Skill Tier 2 transversal. Use quando o usuario pergunta se vale recorrer, viabilidade do recurso, parecer recursal, chance de exito.
 ---
 
 # PARECERES DE VIABILIDADE RECURSAL

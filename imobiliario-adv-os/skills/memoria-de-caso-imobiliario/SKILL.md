@@ -1,13 +1,7 @@
 ---
 name: memoria-de-caso-imobiliario
 description: >
-  Memoria de caso imobiliario Tier 1 — Protocolo P3. Cria e mantem o CASO.md compartimentado por
-  cliente: partes e polo, imovel (matricula, endereco, area), contrato (tipo, data, garantia), fatos e
-  datas, documentos numerados "doc. N", prazos com datas (decadencia da renovatoria, purgacao da mora,
-  fases da alienacao fiduciaria), fase atual, pecas produzidas, proximos passos e decisoes
-  estrategicas. Pasta de caso gitignored por sigilo (PA-12 / LGPD). Nomenclatura de arquivos
-  "AAAA-MM-DD - Cliente - tipo.ext" e entrega em .txt. Atualizar apos cada entrega. Ative ao abrir,
-  retomar ou listar caso, ao registrar documento/prazo, ou no comando /caso-imobiliario.
+  Memoria de caso imobiliario Tier 1 — Protocolo P3. Ative ao abrir, retomar ou listar caso, ao registrar documento/prazo, ou no comando /caso-imobiliario.
 metadata:
   version: "0.1.0"
   area: "Direito Imobiliario e Locacao"

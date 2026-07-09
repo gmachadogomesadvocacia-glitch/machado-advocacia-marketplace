@@ -1,13 +1,7 @@
 ---
 name: linha-estrategica-criminal
 description: >
-  Linha estrategica criminal Tier 1 — consolida a trilateral e a jurisprudencia e define a tese central
-  e a sequencia de atos. Eixos: liberdade primeiro (relaxamento/liberdade/HC se preso), teses de
-  absolvicao (CPP 386 — atipicidade, negativa de autoria, legitima defesa e demais excludentes,
-  insuficiencia de prova), nulidades, prescricao, desclassificacao, e despenalizacao (ANPP, transacao,
-  sursis processual quando cabivel) x litigar. Decide quando impetrar HC x aguardar e quando aceitar
-  ANPP. Entrega decisao documentada e aponta a porta de producao. Ative apos a analise trilateral, ou
-  quando pedir estrategia, melhor tese, linha de defesa ou plano do caso.
+  Linha estrategica criminal Tier 1 — consolida a trilateral e a jurisprudencia e define a tese central e a sequencia de atos. Ative apos a analise trilateral, ou quando pedir estrategia, melhor tese, linha de defesa ou plano do caso.
 metadata:
   version: "0.1.0"
   area: "Direito Penal e Processo Penal"

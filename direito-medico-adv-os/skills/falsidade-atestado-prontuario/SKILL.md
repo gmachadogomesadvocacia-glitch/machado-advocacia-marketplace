@@ -1,7 +1,7 @@
 ---
 name: falsidade-atestado-prontuario
 description: >
-  Defesa criminal em falsidade documental praticada por profissional de saude — atestado falso (CP art. 302 — crime proprio do medico/dentista) e falsidade ideologica (CP art. 299 — quando documento nao e atestado em sentido estrito ou e laudo/declaracao). Aplica CP art. 297 (falsidade documental publica — quando profissional atende a servico publico SUS), CP art. 304 (uso de documento falso), CP art. 171§3o (estelionato qualificado — atestado para enganar INSS/seguro/empregador). Articula reflexo civel (CC 935) e PED (CEM 2.217 art. 80-81). Teses: ausencia de dolo (equivoco tecnico, boa-fe), divergencia clinica entre profissionais, erro de diagnostico, atestado retroativo legitimo (Res. CFM 1.658/2002), pedido do paciente (justa causa indireta), revogacao/correcao tempestiva. Aciona: falsidade atestado, atestado medico falso, CP 302, CP 299, CP 297, falsidade prontuario, atestado retroativo, Res. CFM 1.658, estelionato medico, INSS atestado, declaracao de obito, laudo falso, divergencia clinica boa-fe.
+  Defesa criminal em falsidade documental praticada por profissional de saude. Aciona: falsidade atestado, atestado medico falso, CP 302, CP 299, CP 297, falsidade prontuario, atestado retroativo, Res. CFM 1.658, estelionato medico, INSS atestado, declaracao de obito, laudo falso, divergencia clinica boa-fe.
 ---
 
 # FALSIDADE DE ATESTADO/PRONTUARIO MEDICO

@@ -1,12 +1,7 @@
 ---
 name: revisao-final-isencao-ir
 description: >
-  REVISAO FINAL ISENCAO-IR — Skill Tier 3, a Suprema Corte do plugin. Auditoria invariante R1-R4
-  obrigatoria sobre todo documento (acao, requerimento administrativo, MS, calculo, parecer) ANTES da
-  entrega: R1 coleta/escopo, R2 base juridica, R3 tese/coerencia de polo, R4 completude/estilo. Cada
-  etapa emite APROVADO, APROVADO COM RESSALVAS ou REPROVADO; reprovacao bloqueia a entrega. Acione
-  SEMPRE antes de entregar, ou quando o usuario pedir revisar/auditar/conferir antes de protocolar.
-  Bypass so com --no-corte/--quick explicito.
+  REVISAO FINAL ISENCAO-IR — Skill Tier 3, a Suprema Corte do plugin. Acione SEMPRE antes de entregar, ou quando o usuario pedir revisar/auditar/conferir antes de protocolar. Bypass so com --no-corte/--quick explicito.
 metadata:
   version: "0.1.0"
   area: "Isencao de IRPF por Doenca Grave"

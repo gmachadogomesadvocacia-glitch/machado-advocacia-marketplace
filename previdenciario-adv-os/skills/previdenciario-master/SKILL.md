@@ -1,15 +1,7 @@
 ---
 name: previdenciario-master
 description: >
-  PREVIDENCIARIO MASTER — Skill orquestradora SEMPRE ativa em qualquer contexto
-  previdenciario. Carrega as 4 Camadas de Governanca, 22 Proibicoes Absolutas, persona
-  do operador e roteia para as 26 skills especializadas. Acionada automaticamente quando
-  o prompt contem: INSS, RGPS, RPPS, CNIS, PPP, LTCAT, B41, B31, B91, B94, EC 103,
-  aposentadoria, beneficio previdenciario, contribuicao previdenciaria, fator previdenciario,
-  tempo de contribuicao, carencia, qualidade de segurado, salario-de-beneficio, RMI, PBC,
-  NIT, DIB, DER, DCB, NTEP, FAP, RAT, CAT, desaposentacao, pensao por morte, auxilio-doenca,
-  BPC, LOAS, acidente de trabalho, doenca ocupacional, CRPS, JR, TNU, pericia previdenciaria,
-  ou qualquer combinacao de fatos com legislacao da previdencia social brasileira.
+  PREVIDENCIARIO MASTER — Skill orquestradora SEMPRE ativa em qualquer contexto previdenciario. Acionada automaticamente quando o prompt contem: INSS, RGPS, RPPS, CNIS, PPP, LTCAT, B41, B31, B91, B94, EC 103, aposentadoria, beneficio previdenciario, contribuicao previdenciaria, fator previdenciario, tempo de contribuicao, carencia, qualidade de segurado, salario-de-beneficio, RMI, PBC, NIT, DIB, DER, DCB, NTEP, FAP, RAT, CAT, desaposentacao, pensao por morte, auxilio-doenca, BPC, LOAS, acidente de trabalho, doenca ocupacional, CRPS, JR, TNU, pericia previdenciaria, ou qualquer combinacao de fatos com legislacao da previdencia social brasileira.
 ---
 
 # PREVIDENCIARIO-MASTER

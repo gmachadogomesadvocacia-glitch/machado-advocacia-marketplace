@@ -1,11 +1,7 @@
 ---
 name: recurso-familia
 description: >
-  RECURSO-FAMILIA — Tier 2 (Produção). Redige recursos em ações de família e sucessões:
-  apelação (art. 1.009 CPC), agravo de instrumento (art. 1.015 CPC — especialmente em tutelas,
-  alimentos provisionais e guarda provisória), agravo interno, recurso especial ao STJ e
-  recurso extraordinário ao STF em matéria de família. Verifica cabimento, tempestividade,
-  preparo e fundamentos. Acionar quando houver decisão desfavorável a ser impugnada.
+  RECURSO-FAMILIA — Tier 2 (Produção). Redige recursos em ações de família e sucessões: apelação (art. Acionar quando houver decisão desfavorável a ser impugnada.
 metadata:
   version: "1.0.0"
 ---

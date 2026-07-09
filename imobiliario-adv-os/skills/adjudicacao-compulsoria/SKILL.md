@@ -1,15 +1,7 @@
 ---
 name: adjudicacao-compulsoria
 description: >
-  Acao de adjudicacao compulsoria — obter a outorga da escritura definitiva quando o
-  vendedor/promitente se recusa ou se omite (CC 1.418; suprimento da vontade arts.
-  501-504 CPC). Sumula 239 STJ: o direito independe do registro previo da promessa.
-  Requisitos: promessa/contrato quitado, recusa/inercia do promitente vendedor. A
-  sentenca SUPRE a declaracao de vontade (CPC 501) e serve de titulo para registro. Nota
-  da VIA EXTRAJUDICIAL em cartorio (Lei 6.015 art. 216-B; Provimento CNJ). Acione quando:
-  adjudicacao compulsoria, outorga de escritura, vendedor se recusa a escriturar, promessa
-  quitada sem escritura, suprimento de vontade, regularizar imovel quitado. Side-aware
-  promissario comprador (autor) x promitente vendedor.
+  Acao de adjudicacao compulsoria — obter a outorga da escritura definitiva quando o vendedor/promitente se recusa ou se omite (CC 1.418; suprimento da vontade arts. Acione quando: adjudicacao compulsoria, outorga de escritura, vendedor se recusa a escriturar, promessa quitada sem escritura, suprimento de vontade, regularizar imovel quitado. Side-aware promissario comprador (autor) x promitente vendedor.
 metadata:
   version: "0.1.0"
   area: "Direito Imobiliario e Locacao"

@@ -1,14 +1,7 @@
 ---
 name: timeline-consumidor
 description: >
-  TIMELINE CONSUMIDOR — Skill Tier 1. Monta a linha do tempo fatico-processual do caso e coordena as
-  esferas paralelas (judicial + administrativa — Protocolo P4), evitando teses contraditorias entre as
-  frentes. Marca os prazos criticos: decadencia do vicio (30/90 dias, art. 26), prescricao do fato do
-  produto/servico (5 anos, art. 27), arrependimento (7 dias, art. 49 — so fora do estabelecimento),
-  prazo de resposta do PROCON/consumidor.gov.br e recurso no JEC (10 dias, Lei 9.099). Saida: timeline
-  com datas, eventos, pecas e alertas de prazo. Acione quando o usuario pedir a linha do tempo do caso,
-  a cronologia dos fatos, controle de prazos, calcular decadencia/prescricao, quando vence o prazo,
-  ordenar eventos, ou coordenar as frentes judicial e administrativa.
+  TIMELINE CONSUMIDOR — Skill Tier 1. Monta a linha do tempo fatico-processual do caso e coordena as esferas paralelas (judicial + administrativa — Protocolo P4), evitando teses contraditorias entre as frentes. Acione quando o usuario pedir a linha do tempo do caso, a cronologia dos fatos, controle de prazos, calcular decadencia/prescricao, quando vence o prazo, ordenar eventos, ou coordenar as frentes judicial e administrativa.
 metadata:
   version: "0.1.0"
   area: "Direito do Consumidor e Bancario"

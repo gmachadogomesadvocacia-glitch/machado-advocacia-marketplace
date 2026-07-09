@@ -1,14 +1,7 @@
 ---
 name: revisao-final-jurimetria
 description: >
-  REVISAO FINAL JURIMETRIA — Skill Tier 3, a Suprema Corte do plugin. Auditoria invariante R1-R4
-  obrigatoria sobre toda saida jurimetrica (relatorio, analise, benchmark, quadro de viabilidade,
-  faixa de quantum, resposta com numeros) ANTES da entrega: R1 dados/proveniencia, R2 metodo, R3
-  interpretacao (descritivo x preditivo x promessa), R4 forma/sigilo. R5 red-team: o estatistico
-  cetico tenta derrubar cada numero. Cada etapa emite APROVADO, APROVADO COM RESSALVAS ou REPROVADO;
-  reprovacao bloqueia a entrega. Acione SEMPRE antes de entregar qualquer analise, ou quando o
-  usuario pedir revisar/auditar/conferir. Bypass so com --no-revisao/--quick explicito, registrado
-  (PE-14) — as demais PEs nao tem bypass.
+  REVISAO FINAL JURIMETRIA — Skill Tier 3, a Suprema Corte do plugin. Acione SEMPRE antes de entregar qualquer analise, ou quando o usuario pedir revisar/auditar/conferir. Bypass so com --no-revisao/--quick explicito, registrado (PE-14) — as demais PEs nao tem bypass.
 metadata:
   version: "0.1.0"
   area: "Jurimetria"

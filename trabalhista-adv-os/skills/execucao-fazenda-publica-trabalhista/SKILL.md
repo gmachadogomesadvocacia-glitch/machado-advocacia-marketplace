@@ -1,14 +1,7 @@
 ---
 name: execucao-fazenda-publica-trabalhista
 description: >
-  EXECUCAO CONTRA A FAZENDA PUBLICA TRABALHISTA — Skill Tier 2. Executa ente publico condenado
-  (em regra devedor SUBSIDIARIO — Sumula 331 V/VI TST) na Justica do Trabalho: esgotamento da via
-  contra a devedora principal, redirecionamento nos exatos limites do titulo, intimacao da Fazenda
-  na forma do art. 535 CPC (sem penhora), pagamento por precatorio ou RPV (CF art. 100), juros
-  contra a Fazenda subsidiaria (sem a reducao da Lei 9.494/97 — OJ 382 SDI-1), impugnacao tipica
-  da Fazenda e como respode-la. Use quando menciona: executar a Fazenda, devedora subsidiaria ente
-  publico, precatorio, RPV, requisicao de pequeno valor, art. 535 CPC, redirecionamento a tomadora
-  publica, beneficio de ordem.
+  EXECUCAO CONTRA A FAZENDA PUBLICA TRABALHISTA. Use quando menciona: executar a Fazenda, devedora subsidiaria ente publico, precatorio, RPV, requisicao de pequeno valor, art. 535 CPC, redirecionamento a tomadora publica, beneficio de ordem.
 metadata:
   version: "0.1.0"
   area: "Trabalhista"

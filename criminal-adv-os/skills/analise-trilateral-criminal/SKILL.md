@@ -1,13 +1,7 @@
 ---
 name: analise-trilateral-criminal
 description: >
-  Analise trilateral criminal Tier 1 — FIRAC adaptado ao processo penal. Antes de qualquer producao,
-  examina o caso pelos 3 vertices obrigatorios: ACUSACAO/MP (a tese acusatoria mais forte), DEFESA (o
-  que sustenta o cliente) e JULGADOR (como o caso aparece para quem decide). Antecipa a linha do juizo e
-  do orgao acusador. Trabalha o onus da prova como da acusacao (in dubio pro reo), mapeia provas,
-  ilicitudes e nulidades, e faz a antecipacao adversarial dura. Entrega um quadro de forcas (pontos
-  fortes, fragilidades, contra-teses) antes de definir a estrategia. Ative apos a analise documental e
-  antes da linha estrategica, ou quando pedir analise do caso, prismas, forcas e fraquezas.
+  Analise trilateral criminal Tier 1 — FIRAC adaptado ao processo penal. Ative apos a analise documental e antes da linha estrategica, ou quando pedir analise do caso, prismas, forcas e fraquezas.
 metadata:
   version: "0.1.0"
   area: "Direito Penal e Processo Penal"

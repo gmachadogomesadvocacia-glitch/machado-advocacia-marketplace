@@ -1,14 +1,7 @@
 ---
 name: acao-imobiliario-consumo
 description: >
-  ACAO IMOBILIARIO DE CONSUMO — Skill Tier 2 de INTERFACE (lado consumidor/adquirente). Cobre a
-  relacao de consumo com a incorporadora: atraso de obra (prazo de tolerancia de 180 dias;
-  lucros cessantes/multa), distrato/resolucao do compromisso (Lei 13.786/2018 — percentual de
-  retencao; e a Sumula 543 STJ sobre devolucao imediata e em parcela unica do que foi pago, com
-  retencao limitada, quando aplicavel) e incorporacao imobiliaria. Skill de interface: migra para o
-  futuro plugin `imobiliario-adv-os` quando este existir. Casos puramente reais (sem relacao de
-  consumo) vao a advogado imobiliario. Acione quando o consumidor reclama de atraso na entrega do
-  imovel, distrato com a construtora, devolucao de valores pagos, ou compra na planta. Exige Selo P1.
+  ACAO IMOBILIARIO DE CONSUMO — Skill Tier 2 de INTERFACE (lado consumidor/adquirente). Acione quando o consumidor reclama de atraso na entrega do imovel, distrato com a construtora, devolucao de valores pagos, ou compra na planta. Exige Selo P1.
 metadata:
   version: "0.1.0"
   area: "Direito do Consumidor e Bancario"

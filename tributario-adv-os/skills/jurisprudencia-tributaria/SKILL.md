@@ -1,12 +1,7 @@
 ---
 name: jurisprudencia-tributaria
 description: >
-  Protocolo de validacao jurisprudencial (PA-01) em materia tributaria. Define a hierarquia STF
-  (repercussao geral/Temas, sumulas vinculantes) > STJ (repetitivos/Temas, sumulas) > CARF (sumulas e
-  precedentes, vinculacao interna) > TRFs/TJs. Ensina a confirmar que a sumula/Tema existe e diz o que
-  se afirma ANTES de citar. Lista as sumulas STJ consagradas em execucao fiscal e tributario (430, 435,
-  436, 392, 393, 112, 314, 555). Regra de ouro: nunca citar sem validar. Ative quando precisar de
-  fundamento jurisprudencial, citar sumula/Tema, ou checar posicao dos tribunais sobre tese tributaria.
+  Protocolo de validacao jurisprudencial (PA-01) em materia tributaria. Ative quando precisar de fundamento jurisprudencial, citar sumula/Tema, ou checar posicao dos tribunais sobre tese tributaria.
 metadata:
   version: "0.1.0"
   area: "Direito Tributario"

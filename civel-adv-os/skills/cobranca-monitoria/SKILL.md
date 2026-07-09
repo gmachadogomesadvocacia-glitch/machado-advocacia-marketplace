@@ -1,16 +1,7 @@
 ---
 name: cobranca-monitoria
 description: >
-  Tier 2 — recuperacao de credito SEM titulo executivo ou com prova escrita sem eficacia de titulo.
-  Cobre os dois polos: AUTOR/credor (cobra) e REU/devedor (embargos/contestacao). (a) ACAO MONITORIA
-  (CPC 700-702) — prova escrita sem forca executiva: cheque/nota promissoria prescritos, contrato,
-  duplicata sem aceite, extrato; mandado de pagamento; embargos monitorios; Sum. 247, 282, 299, 384,
-  503, 504, 531 STJ (validar). (b) ACAO DE COBRANCA (rito comum) — divida sem qualquer titulo,
-  provando-se a relacao e o credito. Diferenca para a EXECUCAO de titulo extrajudicial (PA-08 — via
-  adequada). Juros, correcao e prescricao da divida subjacente. Ative em cobrar divida, acao
-  monitoria, cheque prescrito, nota promissoria prescrita, contrato sem testemunhas, acao de cobranca,
-  duplicata sem aceite ou recuperacao de credito sem titulo. NAO confundir com execucao (titulo
-  liquido/certo/exigivel) — rotear a `execucao-titulo-extrajudicial`.
+  Tier 2 — recuperacao de credito SEM titulo executivo ou com prova escrita sem eficacia de titulo. Ative em cobrar divida, acao monitoria, cheque prescrito, nota promissoria prescrita, contrato sem testemunhas, acao de cobranca, duplicata sem aceite ou recuperacao de credito sem titulo. NAO confundir com execucao (titulo liquido/certo/exigivel) — rotear a `execucao-titulo-extrajudicial`.
 metadata:
   version: "0.1.0"
   area: "Direito Civil e Processo Civil"

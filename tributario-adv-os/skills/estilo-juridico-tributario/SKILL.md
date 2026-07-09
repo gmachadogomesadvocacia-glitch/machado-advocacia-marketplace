@@ -1,12 +1,7 @@
 ---
 name: estilo-juridico-tributario
 description: >
-  Camada 3 — estilo das pecas tributarias. Enxuto (~5 paginas quando couber), tecnico, documentos
-  numerados "doc. N" citados por numero, sem rol de documentos ao final, antecipacao adversarial dura.
-  Define a estrutura padrao de cada peca (enderecamento, qualificacao, sintese, fundamentos, pedidos,
-  valor da causa, provas) e a linguagem fiscal correta (nao confundir decadencia x prescricao, elisao x
-  evasao). Tom {{TOM_VOZ_PERFIL}} intensidade {{TOM_VOZ_INTENSIDADE}}/10, combatividade dirigida a
-  teses. Ative na formatacao final de qualquer peca tributaria, ao ajustar tom, estrutura ou redacao.
+  Camada 3 — estilo das pecas tributarias. Ative na formatacao final de qualquer peca tributaria, ao ajustar tom, estrutura ou redacao.
 metadata:
   version: "0.1.0"
   area: "Direito Tributario"

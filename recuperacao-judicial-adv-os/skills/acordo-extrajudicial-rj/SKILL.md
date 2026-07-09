@@ -1,13 +1,7 @@
 ---
 name: acordo-extrajudicial-rj
 description: >
-  ACORDO-EXTRAJUDICIAL-RJ — Tier 2 (Produção). Estrutura e redige instrumentos de
-  recuperação extrajudicial (RE) conforme os arts. 161-167 da LFRJ (com reforma pela
-  L14.112/2020): plano de RE, carta de adesão de credores, pedido de homologação
-  judicial, e estratégia de negociação pré-processual. Também cobre negociações
-  out-of-court e acordos bilaterais de reestruturação de dívida antes do pedido
-  de RJ. Acionar quando o usuário quiser evitar o processo de RJ, negociar
-  diretamente com credores, ou avaliar se a RE é mais adequada que a RJ.
+  ACORDO-EXTRAJUDICIAL-RJ — Tier 2 (Produção). Acionar quando o usuário quiser evitar o processo de RJ, negociar diretamente com credores, ou avaliar se a RE é mais adequada que a RJ.
 ---
 
 # ACORDO-EXTRAJUDICIAL-RJ

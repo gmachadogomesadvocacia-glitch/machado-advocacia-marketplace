@@ -1,7 +1,7 @@
 ---
 name: cct-normas-coletivas
 description: >
-  CCT E NORMAS COLETIVAS — Skill Tier 1. Trata a Convencao/Acordo Coletivo de Trabalho da categoria: le a norma anexada ao caso, indexa as clausulas e aplica na peca; se faltar, tenta localizar no sistema Mediador do MTE e em portais sindicais, sempre marcando [VERIFICAR]. Nunca inventa clausula. Use quando o caso envolver CCT, ACT, convencao coletiva, acordo coletivo, norma da categoria, sindicato, piso normativo.
+  CCT E NORMAS COLETIVAS — Skill Tier 1. Trata a Convencao/Acordo Coletivo de Trabalho da categoria: le a norma anexada ao caso, indexa as clausulas e aplica na peca; se faltar, tenta localizar no sistema Mediador do MTE e em portais sindicais, sempre marcando [VERIFICAR]. Use quando o caso envolver CCT, ACT, convencao coletiva, acordo coletivo, norma da categoria, sindicato, piso normativo.
 ---
 
 # CCT E NORMAS COLETIVAS

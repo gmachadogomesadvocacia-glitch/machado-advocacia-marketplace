@@ -1,15 +1,7 @@
 ---
 name: imobiliario-master
 description: >
-  IMOBILIARIO MASTER — Skill orquestradora Tier 0, sempre ativa em qualquer demanda de Direito
-  Imobiliario e Locacao. Carrega a Hierarquia das 4 Camadas, as Proibicoes Absolutas, os Protocolos e
-  a Suprema Corte R1-R4. Side-aware: locador x locatario, comprador x vendedor, possuidor x esbulhador,
-  condominio x condomino, fiduciante x credor fiduciario. Cobre as 4 frentes (locacao, contratos
-  imobiliarios, direitos reais e posse, consultivo). Ative quando o usuario mencionar locacao, aluguel,
-  despejo, denuncia vazia, revisional, renovatoria, fiador, caucao, compra e venda, promessa, arras,
-  distrato, vicio redibitorio, eviccao, adjudicacao compulsoria, posse, reintegracao, esbulho, condominio,
-  cota condominial, alienacao fiduciaria, Lei 9.514, matricula, registro de imoveis, IPTU/ITBI ou
-  due diligence imobiliaria.
+  IMOBILIARIO MASTER — Skill orquestradora Tier 0, sempre ativa em qualquer demanda de Direito Imobiliario e Locacao. Ative quando o usuario mencionar locacao, aluguel, despejo, denuncia vazia, revisional, renovatoria, fiador, caucao, compra e venda, promessa, arras, distrato, vicio redibitorio, eviccao, adjudicacao compulsoria, posse, reintegracao, esbulho, condominio, cota condominial, alienacao fiduciaria, Lei 9.514, matricula, registro de imoveis, IPTU/ITBI ou due diligence imobiliaria.
 metadata:
   version: "0.1.0"
   area: "Direito Imobiliario e Locacao"

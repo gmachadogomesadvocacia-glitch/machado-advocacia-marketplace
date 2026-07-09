@@ -1,12 +1,7 @@
 ---
 name: analise-documental-familia
 description: >
-  ANALISE-DOCUMENTAL-FAMILIA — Tier 1 (Insumos). Analisa e interpreta documentos em casos de
-  família e sucessões: certidões civis (casamento, nascimento, óbito), matrículas de imóveis,
-  escrituras, testamentos, contratos de convivência, declarações de IR, holerites, extratos
-  bancários, laudos médicos e psicológicos, estudos psicossociais, e contratos sociais.
-  Identifica inconsistências, patrimônio oculto e riscos. Acionar quando o usuário fornecer
-  documentos para análise ou quando precisar saber quais documentos são necessários para um caso.
+  ANALISE-DOCUMENTAL-FAMILIA — Tier 1 (Insumos). Acionar quando o usuário fornecer documentos para análise ou quando precisar saber quais documentos são necessários para um caso.
 metadata:
   version: "1.0.0"
 ---

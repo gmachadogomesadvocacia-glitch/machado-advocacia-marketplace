@@ -1,13 +1,7 @@
 ---
 name: analise-trilateral-tributaria
 description: >
-  Analise trilateral tributaria (FIRAC adaptada). Antes de qualquer producao, ve a controversia pelos
-  tres vertices: CONTRIBUINTE (tese do cliente), FAZENDA (a defesa/ataque fiscal mais forte) e
-  JULGADOR (CARF ou juizo — linha provavel de decisao). Antecipa a tese fazendaria e mapeia o onus da
-  prova (em regra do Fisco quanto a higidez do lancamento; do contribuinte quanto a fato extintivo,
-  modificativo ou impeditivo). Produz um quadro de forcas antes da estrategia. Antecipacao adversarial
-  dura. Ative apos a triagem e antes da redacao, quando o usuario pedir analise do caso, forcas e
-  fragilidades, ou contra-teses.
+  Analise trilateral tributaria (FIRAC adaptada). Antes de qualquer producao, ve a controversia pelos tres vertices: CONTRIBUINTE (tese do cliente), FAZENDA (a defesa/ataque fiscal mais forte) e JULGADOR (CARF ou juizo. Ative apos a triagem e antes da redacao, quando o usuario pedir analise do caso, forcas e fragilidades, ou contra-teses.
 metadata:
   version: "0.1.0"
   area: "Direito Tributario"

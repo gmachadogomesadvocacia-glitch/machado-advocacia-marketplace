@@ -1,15 +1,7 @@
 ---
 name: due-diligence-imobiliaria
 description: >
-  CONSULTIVO (nao e peca processual). Auditoria juridica previa a aquisicao ou locacao de
-  imovel: analise da matricula (cadeia dominial 20 anos, onus, indisponibilidade),
-  certidoes do IMOVEL (negativa de onus, IPTU/foro, acoes reais) e do VENDEDOR (civel,
-  fiscal, trabalhista, falencia, execucoes — risco de fraude a execucao/credores, CC
-  158-159, Sum 375 STJ), regularidade fisica (habite-se, averbacao de construcao, espolio/
-  representacao) e parecer de riscos com recomendacao. Acione quando: due diligence
-  imobiliaria, auditar imovel antes de comprar, analisar matricula, certidoes do vendedor,
-  risco de fraude a execucao, regularidade do imovel, parecer de compra, checklist pre-
-  aquisicao. Entrega checklist + parecer de riscos.
+  CONSULTIVO (nao e peca processual). Auditoria juridica previa a aquisicao ou locacao de imovel: analise da matricula (cadeia dominial 20 anos, onus, indisponibilidade), certidoes... Acione quando: due diligence imobiliaria, auditar imovel antes de comprar, analisar matricula, certidoes do vendedor, risco de fraude a execucao, regularidade do imovel, parecer de compra, checklist pre- aquisicao. Entrega checklist + parecer de riscos.
 metadata:
   version: "0.1.0"
   area: "Direito Imobiliario e Locacao"

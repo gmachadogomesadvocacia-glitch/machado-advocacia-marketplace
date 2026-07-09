@@ -1,13 +1,7 @@
 ---
 name: viabilidade-jurimetrica
 description: >
-  VIABILIDADE JURIMETRICA — Skill Tier 2, apoio a decisao de negocio: vale aceitar o caso? que
-  esforco/proposta fazem sentido? Monta o dossie descritivo do caso candidato: precedente interno
-  (casos semelhantes do acervo e como terminaram), faixa de quantum (analise-quantum), tempo tipico
-  (tempo-processual/benchmark) e custo de oportunidade. NAO calcula "probabilidade de ganhar" — a
-  saida e um quadro comparativo honesto para o advogado decidir. Acione para "vale pegar este caso",
-  "que proposta de honorarios fazer com base no historico", "ja tivemos caso parecido?", triagem de
-  cliente novo com apoio de dados.
+  VIABILIDADE JURIMETRICA — Skill Tier 2, apoio a decisao de negocio: vale aceitar o caso? que esforco/proposta fazem sentido? Monta o dossie descritivo do caso candidato: precedente interno (casos semelhantes do acervo e como terminaram), faixa de quantum (analise-quantum), tempo tipico (tempo-processual/benchmark) e custo de oportunidade. Acione para "vale pegar este caso", "que proposta de honorarios fazer com base no historico", "ja tivemos caso parecido?", triagem de cliente novo com apoio de dados.
 metadata:
   version: "0.1.0"
   area: "Jurimetria"

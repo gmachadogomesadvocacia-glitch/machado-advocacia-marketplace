@@ -1,16 +1,7 @@
 ---
 name: defesa-civel
 description: >
-  Tier 2 — defesa do REU no processo civil civel. Skill do LADO OPOSTO (PA-10): aciona quando o cliente
-  e o reu/executado. CONTESTACAO (CPC 335-342) — prazo 15 dias uteis, onus da impugnacao especificada
-  (CPC 341), preliminares processuais (CPC 337 — incompetencia, inepcia, litispendencia, coisa julgada,
-  ilegitimidade, falta de interesse, conexao, convencao de arbitragem, etc.), prejudiciais de merito
-  (prescricao e decadencia), merito, principio da EVENTUALIDADE/concentracao da defesa. RECONVENCAO
-  (CPC 343 — pretensao propria conexa). Impugnacao ao CUMPRIMENTO DE SENTENCA (CPC 525) e EMBARGOS A
-  EXECUCAO (CPC 914-920). REVELIA e seus efeitos/excecoes (CPC 344-346). Distribuicao do onus da prova
-  (CPC 373; dinamica §1º). Ative em contestar, contestacao, defesa do reu, reconvencao, impugnacao ao
-  cumprimento de sentenca, embargos a execucao, revelia ou resposta do reu. Se a materia for de outro
-  plugin (consumo/familia/etc.), redigir a defesa la — rotear (PA-09).
+  Tier 2 — defesa do REU no processo civil civel. Ative em contestar, contestacao, defesa do reu, reconvencao, impugnacao ao cumprimento de sentenca, embargos a execucao, revelia ou resposta do reu. Se a materia for de outro plugin (consumo/familia/etc.), redigir a defesa la — rotear (PA-09).
 metadata:
   version: "0.1.0"
   area: "Direito Civil e Processo Civil"

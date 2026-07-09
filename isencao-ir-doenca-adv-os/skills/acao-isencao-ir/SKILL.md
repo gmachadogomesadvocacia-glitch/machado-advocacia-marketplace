@@ -1,12 +1,7 @@
 ---
 name: acao-isencao-ir
 description: >
-  ACAO ISENCAO-IR — Skill Tier 2 (lado contribuinte), peca principal. Redige a acao declaratoria de
-  isencao de IRPF por doenca grave cumulada com repeticao de indebito dos ultimos 5 anos e tutela de
-  urgencia para cessar a retencao. Fundamenta no art. 6 XIV Lei 7.713/88 + Sumulas 598 e 627 STJ;
-  trata a nao-extensao a rendimentos de ativo (so proventos) e a restituicao quinquenal (CTN 168).
-  Acione quando a via for judicial e o cliente e o contribuinte/beneficiario. Exige Selo P1, laudo e os
-  comprovantes de IR retido.
+  ACAO ISENCAO-IR — Skill Tier 2 (lado contribuinte), peca principal. Acione quando a via for judicial e o cliente e o contribuinte/beneficiario. Exige Selo P1, laudo e os comprovantes de IR retido.
 metadata:
   version: "0.1.0"
   area: "Isencao de IRPF por Doenca Grave"

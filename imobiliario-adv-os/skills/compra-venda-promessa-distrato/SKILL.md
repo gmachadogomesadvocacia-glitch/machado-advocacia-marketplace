@@ -1,15 +1,7 @@
 ---
 name: compra-venda-promessa-distrato
 description: >
-  Promessa/compromisso de compra e venda (direito real do promitente comprador se
-  registrado — CC 1.417/1.418; irretratabilidade), arras/sinal (CC 417-420 —
-  confirmatorias x penitenciais), distrato/resolucao por inadimplemento, Lei 13.786/2018
-  (incorporacao: retencao, prazo de tolerancia 180 dias, clausula penal), Sum 543 STJ
-  (restituicao imediata em parcela unica se culpa do vendedor), vicios redibitorios (CC
-  441), eviccao (CC 447). Notificacao premonitoria (DL 745). Acione quando: compromisso
-  de compra e venda, rescisao de compra, distrato de imovel, devolucao de parcelas,
-  arras, sinal, atraso na entrega de obra, vicio no imovel, eviccao, inadimplemento de
-  comprador/vendedor. Side-aware comprador x vendedor/incorporadora.
+  Promessa/compromisso de compra e venda (direito real do promitente comprador se registrado. Acione quando: compromisso de compra e venda, rescisao de compra, distrato de imovel, devolucao de parcelas, arras, sinal, atraso na entrega de obra, vicio no imovel, eviccao, inadimplemento de comprador/vendedor. Side-aware comprador x vendedor/incorporadora.
 metadata:
   version: "0.1.0"
   area: "Direito Imobiliario e Locacao"

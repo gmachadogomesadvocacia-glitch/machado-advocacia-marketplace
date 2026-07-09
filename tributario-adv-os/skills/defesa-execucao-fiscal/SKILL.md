@@ -1,13 +1,7 @@
 ---
 name: defesa-execucao-fiscal
 description: >
-  Skill flagship Tier 2 — defesa do contribuinte/executado na execucao fiscal (Lei 6.830/80 — LEF).
-  Cobre as duas vias: EMBARGOS A EXECUCAO (defesa ampla, exige garantia do juizo — penhora, deposito,
-  fianca/seguro garantia) e EXCECAO DE PRE-EXECUTIVIDADE (sem garantia, so materia de ordem publica
-  conhecivel de oficio e sem dilacao probatoria — Sum. 393 STJ). Trata nulidade da CDA, decadencia,
-  prescricao (inclusive intercorrente — Sum. 314 STJ + Tema 566 STJ), ilegitimidade passiva,
-  redirecionamento ao socio (art. 135 CTN, Sum. 435, Tema 962 STJ), excesso de execucao e garantia.
-  Ative quando houver citacao em execucao fiscal, penhora, CDA, embargos ou excecao de pre-executividade.
+  Skill flagship Tier 2 — defesa do contribuinte/executado na execucao fiscal (Lei 6.830/80 — LEF). Ative quando houver citacao em execucao fiscal, penhora, CDA, embargos ou excecao de pre-executividade.
 metadata:
   version: "0.1.0"
   area: "Direito Tributario"

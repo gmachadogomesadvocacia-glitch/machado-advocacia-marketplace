@@ -1,7 +1,7 @@
 ---
 name: linha-estrategica-trabalhista
 description: >
-  LINHA ESTRATEGICA TRABALHISTA — Skill Tier 1. Consolida o resultado da analise trilateral e da jurisprudencia e define a linha estrategica mais benefica ao polo do cliente. Apresenta a tese central, as teses subsidiarias e os riscos. Use apos a trilateral, quando o usuario pede a estrategia do caso, a melhor tese, a linha de defesa ou de acao.
+  LINHA ESTRATEGICA TRABALHISTA — Skill Tier 1. Use apos a trilateral, quando o usuario pede a estrategia do caso, a melhor tese, a linha de defesa ou de acao.
 ---
 
 # LINHA ESTRATEGICA TRABALHISTA

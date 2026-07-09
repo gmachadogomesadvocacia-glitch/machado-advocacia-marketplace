@@ -1,12 +1,7 @@
 ---
 name: contestacao-familia
 description: >
-  CONTESTACAO-FAMILIA — Tier 2 (Produção). Redige contestações e respostas em ações de família
-  e sucessões: contestação em divórcio litigioso, resposta em ação de alimentos, impugnação
-  em ação de guarda, contestação em ação de inventário, resposta à petição de herança,
-  contestação em ação de interdição, impugnação à partilha. Adapta ao polo requerido,
-  desmonta os pedidos do requerente e apresenta versão do fato e do direito favorável ao cliente.
-  Acionar quando o advogado atuar pelo réu e precisar redigir a resposta ao processo.
+  CONTESTACAO-FAMILIA — Tier 2 (Produção). Acionar quando o advogado atuar pelo réu e precisar redigir a resposta ao processo.
 metadata:
   version: "1.0.0"
 ---

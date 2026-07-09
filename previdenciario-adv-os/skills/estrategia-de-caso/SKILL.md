@@ -1,13 +1,7 @@
 ---
 name: estrategia-de-caso
 description: >
-  ESTRATEGIA DE CASO PREVIDENCIARIA — Skill Tier 1 (Estado-Maior). Constroi o plano
-  estrategico do caso previdenciario apos triagem-dogmatica e analise-trilateral: define
-  o caminho (administrativo vs judicial vs hibrido), identifica a janela temporal otima,
-  mapeia riscos e oportunidades, prioriza teses por escala de comprometimento, e antecipa
-  os contra-argumentos do INSS. Acionar quando o caso tiver complexidade acima do trivial
-  ou quando o usuario precisar decidir entre via administrativa e judicial, ou entre
-  diferentes teses disponiveis.
+  ESTRATEGIA DE CASO PREVIDENCIARIA — Skill Tier 1 (Estado-Maior). Acionar quando o caso tiver complexidade acima do trivial ou quando o usuario precisar decidir entre via administrativa e judicial, ou entre diferentes teses disponiveis.
 ---
 
 # ESTRATEGIA DE CASO PREVIDENCIARIA

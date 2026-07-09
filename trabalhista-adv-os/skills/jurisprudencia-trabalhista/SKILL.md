@@ -1,7 +1,7 @@
 ---
 name: jurisprudencia-trabalhista
 description: >
-  JURISPRUDENCIA TRABALHISTA — Skill Tier 1. Localiza, classifica e prioriza precedentes trabalhistas. Busca viva via WebSearch/WebFetch/firecrawl nos portais do TST, TRTs e JusBrasil; classifica em 3 niveis (validada/indicativa/impossibilidade); nunca alucina. Conhece Sumulas do TST, OJs da SDI-1/SDI-2 e Precedentes Normativos. Use quando precisar de jurisprudencia, sumula, precedente, OJ, entendimento do TST/TRT.
+  JURISPRUDENCIA TRABALHISTA — Skill Tier 1. Use quando precisar de jurisprudencia, sumula, precedente, OJ, entendimento do TST/TRT.
 ---
 
 # JURISPRUDENCIA TRABALHISTA

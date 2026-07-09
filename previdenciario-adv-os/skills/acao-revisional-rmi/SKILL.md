@@ -1,12 +1,7 @@
 ---
 name: acao-revisional-rmi
 description: >
-  ACAO REVISIONAL DE RMI — Skill Tier 2 A. Produz acao para revisar a Renda Mensal Inicial
-  de beneficio ja concedido: revisao da vida toda (Tema 1102 STF (RE 1.276.977) / Tema 999 STJ (REsp 1.596.203) — art. 29 II Lei 8.213),
-  revisao por erro no PBC, revisao por aplicacao de regra de transicao incorreta, revisao
-  por fator previdenciario equivocado, e revisao por salarios-de-contribuicao nao computados.
-  Inclui memorial de calculo comparativo antes/depois. Acionar quando segurado tem beneficio
-  concedido mas a RMI e inferior ao correto, e a decadencia (10 anos) ainda nao ocorreu.
+  ACAO REVISIONAL DE RMI — Skill Tier 2 A. Acionar quando segurado tem beneficio concedido mas a RMI e inferior ao correto, e a decadencia (10 anos) ainda nao ocorreu.
 ---
 
 # ACAO REVISIONAL DE RMI

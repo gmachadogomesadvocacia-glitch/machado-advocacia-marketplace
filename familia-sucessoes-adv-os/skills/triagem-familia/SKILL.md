@@ -1,12 +1,7 @@
 ---
 name: triagem-familia
 description: >
-  TRIAGEM-FAMILIA — Tier 1 (Porta de Entrada). Realiza o enquadramento jurídico-estratégico
-  inicial de casos de Direito de Família e Sucessões: identifica o polo, a natureza do caso
-  (dissolução conjugal, guarda, alimentos, inventário, planejamento), os documentos necessários,
-  a competência (Vara de Família de {{CIDADE}}/TJ{{UF}} ou cartório extrajudicial),
-  e cria o CASO.md. Acionar sempre que um novo caso de família ou sucessões for aberto ou quando
-  o usuário descrever uma situação familiar sem ainda ter identificado o caminho jurídico adequado.
+  TRIAGEM-FAMILIA — Tier 1 (Porta de Entrada). Acionar sempre que um novo caso de família ou sucessões for aberto ou quando o usuário descrever uma situação familiar sem ainda ter identificado o caminho jurídico adequado.
 metadata:
   version: "1.0.0"
 ---

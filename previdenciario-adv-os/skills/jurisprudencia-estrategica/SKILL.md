@@ -1,13 +1,7 @@
 ---
 name: jurisprudencia-estrategica
 description: >
-  JURISPRUDENCIA ESTRATEGICA PREVIDENCIARIA — Skill Tier 1 (Estado-Maior). Pesquisa,
-  valida e posiciona estrategicamente jurisprudencia previdenciaria: STF (repercussao geral),
-  STJ (temas repetitivos), TNU (sumulas vinculantes para JEF), TRF (precedentes regionais).
-  Realiza Baloney Detection — identifica teses vencidas (ex: desaposentacao Tema 709) e
-  alerta sobre precedentes superados. Toda citacao e auditavel: orgao, numero, data, tese
-  fixada. Acionar quando precisar de fundamento jurisprudencial para peca, recurso ou parecer
-  previdenciario, ou quando o caso envolver tema repetitivo STJ/STF em aberto.
+  JURISPRUDENCIA ESTRATEGICA PREVIDENCIARIA. Acionar quando precisar de fundamento jurisprudencial para peca, recurso ou parecer previdenciario, ou quando o caso envolver tema repetitivo STJ/STF em aberto.
 ---
 
 # JURISPRUDENCIA ESTRATEGICA PREVIDENCIARIA

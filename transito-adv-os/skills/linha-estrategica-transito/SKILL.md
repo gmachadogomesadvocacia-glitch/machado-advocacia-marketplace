@@ -1,13 +1,7 @@
 ---
 name: linha-estrategica-transito
 description: >
-  Linha estrategica de transito Tier 1 — consolida a trilateral, a jurisprudencia e os calculos e define
-  a instancia e a sequencia. Eixos de decisao: qual fase/instancia atacar (defesa previa × JARI × CETRAN ×
-  judicial), efeito suspensivo, custo/beneficio (valor da multa × pontos × risco de suspensao), quando
-  esgotar a via administrativa antes do judicial, quando ir direto ao mandado de seguranca (vicio formal
-  evidente, direito liquido e certo). Avalia indicacao do real condutor × defesa. Decisao documentada e
-  porta de producao indicada. Ative apos a trilateral, quando o usuario pedir a estrategia, a melhor tese,
-  a instancia certa ou a sequencia de recursos.
+  Linha estrategica de transito Tier 1 — consolida a trilateral, a jurisprudencia e os calculos e define a instancia e a sequencia. Ative apos a trilateral, quando o usuario pedir a estrategia, a melhor tese, a instancia certa ou a sequencia de recursos.
 metadata:
   version: "0.1.0"
   area: "Direito de Transito"

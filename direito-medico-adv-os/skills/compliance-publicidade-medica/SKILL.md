@@ -1,7 +1,7 @@
 ---
 name: compliance-publicidade-medica
 description: >
-  Compliance de publicidade medica/odontologica em redes sociais e midia tradicional. Aplica Res. CFM 2.336/2023 + Res. CFO 196/2019 + Lei 9.294/96 + CDC art. 37 (publicidade enganosa). Identifica vedacoes nucleares: sensacionalismo, antes/depois com cobertura, promessa de cura, autopromocao excessiva, foto de paciente sem consentimento valido, "Dr." sem CRM/CRO visivel, sorteio/promo, equipamento "exclusivo", influencer-medico irregular. Distingue publicidade institucional (permitida) de personalismo. Sinaliza PROAD no CFM/CFO. Cruza com LGPD (consentimento de imagem). Aciona: publicidade medica, publicidade odontologica, Res. CFM 2.336, Res. CFO 196, antes e depois, influencer medico, PROAD CFM, marketing medico, instagram medico, tiktok dentista, promessa de resultado, sorteio procedimento.
+  Compliance de publicidade medica/odontologica em redes sociais e midia tradicional. Aciona: publicidade medica, publicidade odontologica, Res. CFM 2.336, Res. CFO 196, antes e depois, influencer medico, PROAD CFM, marketing medico, instagram medico, tiktok dentista, promessa de resultado, sorteio procedimento.
 ---
 
 # COMPLIANCE PUBLICIDADE MEDICA/ODONTOLOGICA

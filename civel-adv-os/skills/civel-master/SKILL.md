@@ -1,16 +1,7 @@
 ---
 name: civel-master
 description: >
-  CIVEL MASTER — Skill orquestradora Tier 0, sempre ativa em qualquer demanda de Direito Civil ou
-  Processo Civil (CIVEL RESIDUAL — o que nao esta nos plugins especializados). Carrega a Hierarquia das
-  4 Camadas, as Proibicoes Absolutas, os Protocolos e a Suprema Corte R1-R4. Side-aware: autor
-  (credor/lesado) x reu (devedor/causador). Cobre 4 frentes (responsabilidade civil e indenizatorias,
-  contratos e obrigacoes, cobranca e execucao, obrigacoes e tutelas). Ative quando o usuario mencionar
-  responsabilidade civil, ato ilicito, dano moral/material/estetico, indenizacao, acidente de transito,
-  responsabilidade do Estado, contrato, inadimplemento, revisao/rescisao contratual, anulacao de negocio
-  juridico, vicio do consentimento, acao de cobranca, monitoria, execucao de titulo, busca e apreensao,
-  obrigacao de fazer/nao fazer/dar, tutela provisoria, consignacao em pagamento, prescricao ou decadencia
-  — e NAO for materia de consumidor, familia, imovel, medico, fiscal, trabalho, INSS ou penal.
+  CIVEL MASTER — Skill orquestradora Tier 0, sempre ativa em qualquer demanda de Direito Civil ou Processo Civil (CIVEL RESIDUAL — o que nao esta nos plugins especializados). Ative quando o usuario mencionar responsabilidade civil, ato ilicito, dano moral/material/estetico, indenizacao, acidente de transito, responsabilidade do Estado, contrato, inadimplemento, revisao/rescisao contratual, anulacao de negocio juridico, vicio do consentimento, acao de cobranca, monitoria, execucao de titulo, busca e apreensao, obrigacao de fazer/nao fazer/dar, tutela provisoria, consignacao em pagamento, prescricao ou decadencia — e NAO for materia de consumidor, familia, imovel, medico, fiscal, trabalho, INSS ou penal.
 metadata:
   version: "0.1.0"
   area: "Direito Civil e Processo Civil"

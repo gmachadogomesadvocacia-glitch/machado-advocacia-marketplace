@@ -1,7 +1,7 @@
 ---
 name: recurso-extraordinario-trabalhista
 description: >
-  RECURSO EXTRAORDINARIO TRABALHISTA — Skill Tier 2 recursal transversal. Produz o Recurso Extraordinario ao STF (materia constitucional, repercussao geral, prequestionamento) e o Agravo em RE (ARE) contra a inadmissao, alem das contrarrazoes/contraminuta. Prazo: 15 dias uteis (excecao — segue o CPC, nao a CLT). Use quando menciona recurso extraordinario, RE, STF, repercussao geral, ARE.
+  RECURSO EXTRAORDINARIO TRABALHISTA — Skill Tier 2 recursal transversal. Use quando menciona recurso extraordinario, RE, STF, repercussao geral, ARE.
 ---
 
 # RECURSO EXTRAORDINARIO TRABALHISTA

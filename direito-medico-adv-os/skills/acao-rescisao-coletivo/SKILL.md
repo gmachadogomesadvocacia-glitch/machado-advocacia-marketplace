@@ -1,7 +1,7 @@
 ---
 name: acao-rescisao-coletivo
 description: >
-  Acao do beneficiario contra rescisao/descredenciamento unilateral de plano coletivo empresarial ou por adesao. Aplica Lei 9.656/1998 art. 13 paragrafo unico (vedacao a rescisao unilateral em individual; coletivo tem regime diferente) + Tema 1.082 STJ (rescisao coletivo exige aviso 60 dias + manutencao para beneficiario em tratamento medico em curso de doenca grave) + RN ANS 412/2016 (portabilidade especial em rescisao unilateral) + Sum. 608 STJ. Tese central: protecao do beneficiario em tratamento (manutencao); portabilidade especial; vedacao de seletividade (rescisao seletiva discriminatoria). Tutela de urgencia para manter o plano enquanto tramita a demanda — tempo-dependente (paciente em quimioterapia, dialise, transplante). Conservadorismo (PA-21). Aciona: rescisao coletivo, descredenciamento plano, Tema 1082 STJ, doenca grave manutencao plano, portabilidade especial, RN 412, plano empresarial cancelado, dialise plano, transplante em curso, quimioterapia plano cortado.
+  Acao do beneficiario contra rescisao/descredenciamento unilateral de plano coletivo empresarial ou por adesao. Aciona: rescisao coletivo, descredenciamento plano, Tema 1082 STJ, doenca grave manutencao plano, portabilidade especial, RN 412, plano empresarial cancelado, dialise plano, transplante em curso, quimioterapia plano cortado.
 ---
 
 # ACAO RESCISAO DE PLANO COLETIVO

@@ -1,13 +1,7 @@
 ---
 name: coleta-acervo
 description: >
-  COLETA ACERVO — Skill Tier 2, Modulo C (portfolio proprio). Varre TODOS os CASO.md sob o CASE_ROOT,
-  extrai os blocos jurimetricos e consolida o dataset do escritorio com estatisticas descritivas: N
-  por area/tribunal/status/resultado, quantum obtido, taxa de exito — com freio automatico de
-  N-minimo (abaixo do limiar, sem media) e lista dos casos SEM bloco (fora da conta). Opcional:
-  enriquecer cada caso com duracao via DataJud. E o retrato do portfolio: taxa de exito, quantum e
-  desfechos vem daqui, nao do DataJud. Acione para "relatorio do acervo", "taxa de exito", "quantos
-  casos temos em X", "quanto ja recuperamos", ou como perna propria de um benchmark.
+  COLETA ACERVO — Skill Tier 2, Modulo C (portfolio proprio). Acione para "relatorio do acervo", "taxa de exito", "quantos casos temos em X", "quanto ja recuperamos", ou como perna propria de um benchmark.
 metadata:
   version: "0.1.0"
   area: "Jurimetria"

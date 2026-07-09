@@ -1,13 +1,7 @@
 ---
 name: revisao-final-consumidor
 description: >
-  REVISAO FINAL CONSUMIDOR — Skill Tier 3, a Suprema Corte do plugin. Auditoria invariante R1-R4
-  obrigatoria sobre todo documento consumerista (peca, defesa, parecer, calculo, reclamacao
-  administrativa) ANTES da entrega: R1 coleta/escopo, R2 base juridica, R3 tese/coerencia de polo, R4
-  completude/estilo. Cada etapa emite APROVADO, APROVADO COM RESSALVAS ou REPROVADO; reprovacao bloqueia
-  a entrega e devolve ao produtor. Acione SEMPRE antes de entregar qualquer documento, ou quando o
-  usuario pedir revisar, auditar, conferir antes de protocolar. Bypass so com --no-corte/--quick
-  explicito, registrado.
+  REVISAO FINAL CONSUMIDOR — Skill Tier 3, a Suprema Corte do plugin. Acione SEMPRE antes de entregar qualquer documento, ou quando o usuario pedir revisar, auditar, conferir antes de protocolar. Bypass so com --no-corte/--quick explicito, registrado.
 metadata:
   version: "0.1.0"
   area: "Direito do Consumidor e Bancario"

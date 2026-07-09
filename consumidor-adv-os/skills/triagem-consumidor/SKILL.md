@@ -1,13 +1,7 @@
 ---
 name: triagem-consumidor
 description: >
-  TRIAGEM CONSUMIDOR — Skill Tier 1, porta de entrada de toda demanda consumerista/bancaria.
-  Executa a triagem 4D (polo x eixo x esfera x rito), identifica a relacao de consumo e o polo do
-  cliente, abre ou atualiza o CASO.md e sugere as proximas skills. Acione quando chegar um caso novo
-  de consumidor, quando o usuario pedir para classificar/enquadrar uma demanda, abrir caso, ou antes
-  de qualquer producao quando o CASO.md ainda nao existe. Gatilhos: novo caso, cliente novo, analisar
-  demanda, qual a via, JEC ou vara comum, e qualquer relato de cobranca, negativacao, revisional,
-  voo, produto com defeito, conta de luz/telefone, compra online, divida, plano de pagamento.
+  TRIAGEM CONSUMIDOR — Skill Tier 1, porta de entrada de toda demanda consumerista/bancaria. Gatilhos: novo caso, cliente novo, analisar demanda, qual a via, JEC ou vara comum, e qualquer relato de cobranca, negativacao, revisional, voo, produto com defeito, conta de luz/telefone, compra online, divida, plano de pagamento.
 metadata:
   version: "0.1.0"
   area: "Direito do Consumidor e Bancario"

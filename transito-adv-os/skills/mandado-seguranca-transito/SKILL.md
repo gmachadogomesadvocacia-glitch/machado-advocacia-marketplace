@@ -1,13 +1,7 @@
 ---
 name: mandado-seguranca-transito
 description: >
-  Skill Tier 2 — MANDADO DE SEGURANCA contra ato de autoridade de trânsito (Lei 12.016/2009). Exige
-  DIREITO LIQUIDO E CERTO com PROVA PRE-CONSTITUIDA (vicio formal evidente, documental, sem necessidade
-  de dilacao — ex.: ausencia de dupla notificacao/Sum. 312, radar sem certidao de aferição). Autoridade
-  coatora = quem pratica/ordena o ato (diretor do DETRAN/orgao executivo). Prazo decadencial de 120 dias
-  do ato. LIMINAR (fumus + periculum) para liberar CNH, suspender pontos ou sustar suspensao/cassacao.
-  Comparar com a anulatoria (que admite prova a produzir). Ative para impetrar MS de trânsito, mandado de
-  seguranca contra DETRAN, liminar para liberar CNH ou suspender penalidade administrativa.
+  Skill Tier 2 — MANDADO DE SEGURANCA contra ato de autoridade de trânsito (Lei 12.016/2009). Ative para impetrar MS de trânsito, mandado de seguranca contra DETRAN, liminar para liberar CNH ou suspender penalidade administrativa.
 metadata:
   version: "0.1.0"
   area: "Direito de Transito"

@@ -1,17 +1,7 @@
 ---
 name: execucao-titulo-extrajudicial
 description: >
-  Tier 2 — execucao por quantia certa fundada em titulo executivo EXTRAJUDICIAL (CPC 783-784: cheque,
-  nota promissoria, duplicata, letra de cambio, contrato assinado por 2 testemunhas, instrumento
-  publico, confissao de divida, transacao referendada). Cobre os dois polos: EXEQUENTE/credor e
-  EXECUTADO/devedor (defesa). Requisitos: certeza, liquidez e exigibilidade; citacao para pagar em 3
-  dias (honorarios reduzidos a metade se paga); penhora, avaliacao, expropriacao; embargos a execucao
-  (CPC 914-920, sem efeito suspensivo automatico — CPC 919); impenhorabilidade (CPC 833; bem de familia
-  Lei 8.009). Inclui BUSCA E APREENSAO de bem alienado fiduciariamente (veiculo — DL 911/69: mora,
-  notificacao/protesto, liminar, purgacao, consolidacao da propriedade, conversao em execucao). Ative
-  em executar cheque/NP/duplicata/contrato, execucao de titulo extrajudicial, penhora, embargos a
-  execucao, busca e apreensao, alienacao fiduciaria, DL 911 ou cobrar com titulo. Defesa do consumidor
-  na busca e apreensao → rotear (PA-09).
+  Tier 2 — execucao por quantia certa fundada em titulo executivo EXTRAJUDICIAL (CPC 783-784: cheque, nota promissoria, duplicata, letra de cambio, contrato assinado por 2 testemunhas, instrumento publico, confissao de divida, transacao referendada). Ative em executar cheque/NP/duplicata/contrato, execucao de titulo extrajudicial, penhora, embargos a execucao, busca e apreensao, alienacao fiduciaria, DL 911 ou cobrar com titulo. Defesa do consumidor na busca e apreensao → rotear (PA-09).
 metadata:
   version: "0.1.0"
   area: "Direito Civil e Processo Civil"

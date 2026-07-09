@@ -1,7 +1,7 @@
 ---
 name: defesa-culpa-medica-criminal
 description: >
-  Defesa criminal do profissional da saude em homicidio culposo (CP art. 121§3o), lesao corporal culposa (CP art. 129§6o) e modalidades correlatas. Aplica CPP art. 158-159 (pericia oficial IML x assistente tecnico), CPP art. 386 (especies de absolvicao com efeito cruzado civel/PED — CC art. 935 + PA-12), CP art. 18 II (culpa: negligencia, imprudencia, impericia), CP art. 13§2o (relevancia da omissao por garantidor). Vias defensivas: HC trancamento, absolvicao sumaria CPP art. 397, sursis processual Lei 9.099/95 art. 89 (pena minima ate 1 ano), transacao penal art. 76. Teses: ausencia de nexo, ausencia de previsibilidade, observancia da lex artis, erro escusavel, culpa exclusiva do paciente, fato de terceiro. Aciona: homicidio culposo medico, lesao culposa medica, parto distocico criminal, anestesia letal, erro cirurgico criminal, IML, assistente tecnico, sursis processual, HC trancamento, absolvicao sumaria, CP art. 121, CP art. 129, lex artis, dolo eventual medico, culpa consciente.
+  Defesa criminal do profissional da saude em homicidio culposo (CP art. Aciona: homicidio culposo medico, lesao culposa medica, parto distocico criminal, anestesia letal, erro cirurgico criminal, IML, assistente tecnico, sursis processual, HC trancamento, absolvicao sumaria, CP art. 121, CP art. 129, lex artis, dolo eventual medico, culpa consciente.
 ---
 
 # DEFESA CRIMINAL — CULPA MEDICA

@@ -1,7 +1,7 @@
 ---
 name: contestacao-trabalhista
 description: >
-  CONTESTACAO TRABALHISTA — Skill Tier 2 (lado reclamada). Redige a contestacao empresarial completa: preliminares, prejudiciais de merito (prescricao), impugnacao especificada dos fatos e pedidos, impugnacao a documentos e ao valor da causa. Use quando o cliente e a reclamada e o usuario pede contestacao, defesa da empresa, defender a empresa na reclamacao trabalhista.
+  CONTESTACAO TRABALHISTA — Skill Tier 2 (lado reclamada). Use quando o cliente e a reclamada e o usuario pede contestacao, defesa da empresa, defender a empresa na reclamacao trabalhista.
 ---
 
 # CONTESTACAO TRABALHISTA

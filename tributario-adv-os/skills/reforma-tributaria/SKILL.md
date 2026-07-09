@@ -1,15 +1,7 @@
 ---
 name: reforma-tributaria
 description: >
-  Skill consultiva/informativa sobre a Reforma Tributaria do consumo (EC 132/2023
-  + LC 214/2025 — validar numeros e vigencia). Aciona quando o cliente pergunta
-  sobre IVA dual, CBS, IBS, Imposto Seletivo, fim de PIS/COFINS/IPI/ICMS/ISS,
-  cronograma de transicao, nao-cumulatividade ampla, credito financeiro, split
-  payment, cashback, cesta basica, ou impacto setorial da reforma. Cobre a
-  substituicao dos tributos, o cronograma de transicao 2026-2033 (apresentado
-  como cronograma A VALIDAR) e o ponto critico PA-04: na janela de transicao
-  convivem regras antigas e novas — aplicar a norma vigente no fato gerador.
-  Nao e peca processual; e orientacao tecnica.
+  Skill consultiva/informativa sobre a Reforma Tributaria do consumo (EC 132/2023 + LC 214/2025. Aciona quando o cliente pergunta sobre IVA dual, CBS, IBS, Imposto Seletivo, fim de PIS/COFINS/IPI/ICMS/ISS, cronograma de transicao, nao-cumulatividade ampla, credito financeiro, split payment, cashback, cesta basica, ou impacto setorial da reforma. Cobre a substituicao dos tributos, o cronograma de transicao 2026-2033 (apresentado como cronograma A VALIDAR) e o ponto critico PA-04: na janela de transicao convivem regras antigas e novas — aplicar a norma vigente no fato gerador. Nao e peca processual; e orientacao tecnica.
 metadata:
   version: "0.1.0"
   area: "Direito Tributario"

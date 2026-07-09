@@ -1,12 +1,7 @@
 ---
 name: falencia-habilitacao-rj
 description: >
-  Producao em FALENCIA (Lei 11.101/2005 + Lei 14.112/2020), lado CREDOR por padrao. Ative em:
-  pedido de falencia (art. 94 — impontualidade, execucao frustrada, atos de falencia),
-  habilitacao/impugnacao de credito na falencia, classificacao dos creditos (art. 83), pedido de
-  RESTITUICAO (art. 85 / bem de terceiro), acoes revocatorias e ineficacia (arts. 129-130),
-  ordem de pagamento, encerramento. Tambem defesa do devedor contra pedido de falencia. So apos
-  triagem + Selo. Encerra em revisao-final-rj (R1-R5). NAO confundir com habilitacao em RJ.
+  Producao em FALENCIA (Lei 11.101/2005 + Lei 14.112/2020), lado CREDOR por padrao. Ative em: pedido de falencia (art. 94 — impontualidade, execucao frustrada, atos de falencia), habilitacao/impugnacao de credito na falencia, classificacao dos creditos (art. 83), pedido de RESTITUICAO (art. 85 / bem de terceiro), acoes revocatorias e ineficacia (arts. 129-130), ordem de pagamento, encerramento. Tambem defesa do devedor contra pedido de falencia. So apos triagem + Selo. Encerra em revisao-final-rj (R1-R5). NAO confundir com habilitacao em RJ.
 ---
 
 # FALENCIA — PEDIDO, HABILITACAO E CLASSIFICACAO (Lei 11.101/2005)

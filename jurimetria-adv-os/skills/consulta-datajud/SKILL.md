@@ -1,12 +1,7 @@
 ---
 name: consulta-datajud
 description: >
-  CONSULTA DATAJUD — Skill Tier 2, Modulo A (caso unico). Consulta um processo por numero CNJ na API
-  Publica do DataJud: capa (classe, assuntos, orgao julgador, grau, data de ajuizamento) e movimentos
-  (duracao ate o ultimo andamento, contagem e ritmo de movimentos, ultima movimentacao). Roteia o
-  tribunal automaticamente pelo numero (TJRJ/TRT1/TRF2/...). Cruza com o bloco jurimetrico do CASO.md
-  quando existir. Acione para "quanto tempo este processo esta levando", "qual o ultimo andamento",
-  "esta parado?", verificacao de fase, ou para sincronizar a duracao de um caso do acervo.
+  CONSULTA DATAJUD — Skill Tier 2, Modulo A (caso unico). Acione para "quanto tempo este processo esta levando", "qual o ultimo andamento", "esta parado?", verificacao de fase, ou para sincronizar a duracao de um caso do acervo.
 metadata:
   version: "0.1.0"
   area: "Jurimetria"

@@ -1,12 +1,7 @@
 ---
 name: mandado-seguranca-isencao
 description: >
-  MANDADO DE SEGURANCA ISENCAO — Skill Tier 2 (lado contribuinte). Redige o MS contra ato coator
-  (retencao indevida ou negativa ilegal da isencao de IRPF por doenca grave) quando ha DIREITO LIQUIDO E
-  CERTO demonstravel de plano (laudo claro + doenca inequivocamente no rol). Inclui pedido de LIMINAR para
-  cessar a retencao, o prazo decadencial de 120 dias e a orientacao de quando preferir MS x acao ordinaria
-  (MS = prova pre-constituida, sem dilacao; ordinaria = quando precisa de pericia/instrucao). Acione na via
-  judicial pelo contribuinte quando a prova for documental e robusta. Exige Selo P1, laudo e comprovantes.
+  MANDADO DE SEGURANCA ISENCAO — Skill Tier 2 (lado contribuinte). Acione na via judicial pelo contribuinte quando a prova for documental e robusta. Exige Selo P1, laudo e comprovantes.
 metadata:
   version: "0.1.0"
   area: "Isencao de IRPF por Doenca Grave"

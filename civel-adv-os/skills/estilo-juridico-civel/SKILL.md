@@ -1,14 +1,7 @@
 ---
 name: estilo-juridico-civel
 description: >
-  Estilo juridico civel Tier 1 — Camada 3. Define o estilo das pecas civeis: enxuto, tecnico, objetivo.
-  Estrutura padrao (enderecamento, qualificacao das partes, dos fatos, do direito, dos pedidos, valor da
-  causa, requerimento de provas). Documentos numerados "doc. N" e citados por numero. Linguagem civil
-  correta — nao confundir prescricao/decadencia, responsabilidade contratual/extracontratual, dano
-  emergente/lucro cessante, nulidade/anulabilidade. Tom {{TOM_VOZ_PERFIL}} intensidade
-  {{TOM_VOZ_INTENSIDADE}}/10, combatividade dirigida a teses e nunca a pessoas. Ative ao redigir ou
-  revisar a forma de qualquer peca civel, ou quando o usuario pedir para ajustar o estilo, o tom ou a
-  estrutura da peca.
+  Estilo juridico civel Tier 1 — Camada 3. Ative ao redigir ou revisar a forma de qualquer peca civel, ou quando o usuario pedir para ajustar o estilo, o tom ou a estrutura da peca.
 metadata:
   version: "0.1.0"
   area: "Direito Civil e Processo Civil"

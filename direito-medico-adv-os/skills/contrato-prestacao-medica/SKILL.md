@@ -1,7 +1,7 @@
 ---
 name: contrato-prestacao-medica
 description: >
-  Contratos de prestacao de servicos medicos/odontologicos em 3 modalidades — PJ-PJ (clinica contrata empresa de plantonistas), PJ-PF (clinica contrata medico autonomo), PF-PF (paciente x medico privado). Atencao especial a pejotizacao (Lei 13.467/2017 — reforma trabalhista admite + STF RE 958.252 + Sum. 331 TST — distinguir vinculo CLT de PJ legitima), plantao (medico-plantonista CLT x PJ), responsabilidade civil compartilhada (Sum. 608 STJ + CDC art. 14 + CC art. 951), nao-concorrencia, sigilo, exclusividade, multa, rescisao. Aplica Lei 12.842/2013 (ato medico privativo) + CC arts. 593-609 (prestacao de servico) + CDC 14 + CLT 3o (vinculo). Aciona: contrato prestacao medica, pejotizacao medica, plantao medico, contrato plantonista, vinculo CLT medico, RE 958.252, Sum 331 TST, nao concorrencia medica, contrato PJ clinica, contrato medico autonomo.
+  Contratos de prestacao de servicos medicos/odontologicos em 3 modalidades. Aciona: contrato prestacao medica, pejotizacao medica, plantao medico, contrato plantonista, vinculo CLT medico, RE 958.252, Sum 331 TST, nao concorrencia medica, contrato PJ clinica, contrato medico autonomo.
 ---
 
 # CONTRATO DE PRESTACAO MEDICA

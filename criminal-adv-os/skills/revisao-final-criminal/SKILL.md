@@ -1,13 +1,7 @@
 ---
 name: revisao-final-criminal
 description: >
-  Revisao final Tier 3 — Suprema Corte R1-R4. Ultima barreira antes de qualquer entrega de peca,
-  parecer ou calculo penal. R1 valida fundamentos (CP, CPP, LEP, leis especiais vigentes + lei penal
-  no tempo) e jurisprudencia (Sumula/Tema/Vinculante STF/STJ) contra alucinacao (PA-01/PA-02/PA-04);
-  R2 audita fatos, tipificacao, pena, datas, prescricao e dosimetria (PA-03/PA-05/PA-06); R3 verifica
-  coerencia de polo, garantias constitucionais e a vedacao etico-penal (PA-07/PA-08/PA-09/PA-10); R4
-  confere forma, competencia, situacao prisional, sigilo e LGPD (PA-12). Ative SEMPRE antes de entregar
-  qualquer produto criminal ao usuario.
+  Revisao final Tier 3 — Suprema Corte R1-R4. Ative SEMPRE antes de entregar qualquer produto criminal ao usuario.
 metadata:
   version: "0.1.0"
   area: "Direito Penal e Processo Penal"

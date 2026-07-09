@@ -1,12 +1,7 @@
 ---
 name: replica-prev
 description: >
-  REPLICA PREVIDENCIARIA — Skill Tier 2 A. Produz replica a contestacao do INSS em acoes
-  previdenciarias: rebate ponto a ponto os argumentos da autarquia, introduz novas provas,
-  reafirma a tese do autor com jurisprudencia TNU/STJ/STF atualizada, e reforca o pedido
-  de tutela de urgencia se negada na liminar. Acionar quando o INSS apresentar contestacao
-  em acao de concessao, revisao ou manutencao de beneficio, e o autor precisar responder
-  dentro do prazo regimental.
+  REPLICA PREVIDENCIARIA — Skill Tier 2 A. Acionar quando o INSS apresentar contestacao em acao de concessao, revisao ou manutencao de beneficio, e o autor precisar responder dentro do prazo regimental.
 ---
 
 # REPLICA PREVIDENCIARIA

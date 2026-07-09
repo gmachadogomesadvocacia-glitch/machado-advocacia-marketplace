@@ -1,12 +1,7 @@
 ---
 name: tutela-urgencia-rj
 description: >
-  TUTELA-URGENCIA-RJ — Tier 2 (Produção). Redige pedidos de tutela de urgência em processos
-  de insolvência: extensão ou destravamento do stay period (art. 6º), liminares para sustar
-  leilões, arrestos, penhoras ou execuções durante a RJ, pedidos de suspensão cautelar de
-  assembleia irregular, e pedido de deferimento liminar do processamento da RJ. Acionar
-  quando o usuário descrever situação de urgência em processo de RJ — leilão marcado,
-  penhora de ativos essenciais, execução fiscal durante o stay, constrição de bem estratégico.
+  TUTELA-URGENCIA-RJ — Tier 2 (Produção). Redige pedidos de tutela de urgência em processos de insolvência: extensão ou destravamento do stay period (art. Acionar quando o usuário descrever situação de urgência em processo de RJ — leilão marcado, penhora de ativos essenciais, execução fiscal durante o stay, constrição de bem estratégico.
 ---
 
 # TUTELA-URGENCIA-RJ

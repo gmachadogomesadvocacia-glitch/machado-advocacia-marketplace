@@ -1,13 +1,7 @@
 ---
 name: analise-trilateral-imobiliaria
 description: >
-  Analise trilateral imobiliaria Tier 1 — analise FIRAC adaptada que ve a controversia pelos 3
-  vertices: cliente, parte adversa e juizo. Antecipa a tese adversa mais forte e a linha provavel do
-  julgador, mapeia o onus da prova e monta o quadro de forcas antes da estrategia. Antecipacao
-  adversarial dura. Side-aware (locador x locatario, comprador x vendedor, possuidor x esbulhador,
-  condominio x condomino, fiduciante x credor fiduciario). Ative apos a analise documental e antes da
-  linha estrategica, sempre que precisar avaliar pontos fortes, fragilidades, contra-teses e o risco
-  do caso imobiliario.
+  Analise trilateral imobiliaria Tier 1 — analise FIRAC adaptada que ve a controversia pelos 3 vertices: cliente, parte adversa e juizo. Ative apos a analise documental e antes da linha estrategica, sempre que precisar avaliar pontos fortes, fragilidades, contra-teses e o risco do caso imobiliario.
 metadata:
   version: "0.1.0"
   area: "Direito Imobiliario e Locacao"

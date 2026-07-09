@@ -1,12 +1,7 @@
 ---
 name: auditoria-documental-rj
 description: >
-  AUDITORIA-DOCUMENTAL-RJ — Tier 1 (Insumo). Analisa os documentos de recuperação judicial:
-  demonstrações contábeis, relação de credores, balanços, extratos, certidões e todos os
-  documentos do art. 51 da LFRJ. Identifica lacunas, inconsistências, ativos ocultos,
-  passivos contingentes e riscos de impugnação. Acionar quando o usuário precisar revisar
-  documentos financeiros de empresa em RJ, analisar o art. 51, ou preparar a auditoria
-  pré-petição para o devedor ou pré-habilitação para o credor.
+  AUDITORIA-DOCUMENTAL-RJ — Tier 1 (Insumo). Acionar quando o usuário precisar revisar documentos financeiros de empresa em RJ, analisar o art. 51, ou preparar a auditoria pré-petição para o devedor ou pré-habilitação para o credor.
 ---
 
 # AUDITORIA-DOCUMENTAL-RJ

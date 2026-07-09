@@ -1,14 +1,7 @@
 ---
 name: acao-transporte-aereo
 description: >
-  ACAO TRANSPORTE AEREO — Skill Tier 2 (lado consumidor). Redige a acao do eixo aereo: atraso,
-  cancelamento e overbooking (dano moral + material) e extravio ou avaria de bagagem. Aplica o divisor
-  CRITICO entre voo DOMESTICO (CDC + Resolucao ANAC 400) e voo INTERNACIONAL (Tema 210 STF: a Convencao
-  de Montreal prevalece sobre o CDC nos danos MATERIAIS — indenizacao tarifada, prazo de 2 anos; o dano
-  MORAL segue o CDC). Analisa criticamente as excludentes da companhia (forca maior, meteorologia,
-  seguranca, conexao perdida) e o prazo prescricional (Montreal 2 anos x CDC 5 anos). Acione quando o
-  consumidor reclama de voo atrasado, cancelado, overbooking, bagagem extraviada/danificada, no-show,
-  conexao perdida ou indenizacao de companhia aerea. Exige Selo P1.
+  ACAO TRANSPORTE AEREO — Skill Tier 2 (lado consumidor). Acione quando o consumidor reclama de voo atrasado, cancelado, overbooking, bagagem extraviada/danificada, no-show, conexao perdida ou indenizacao de companhia aerea. Exige Selo P1.
 metadata:
   version: "0.1.0"
   area: "Direito do Consumidor e Bancario"

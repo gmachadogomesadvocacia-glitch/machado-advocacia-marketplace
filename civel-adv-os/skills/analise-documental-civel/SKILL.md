@@ -1,14 +1,7 @@
 ---
 name: analise-documental-civel
 description: >
-  Analise documental civel Tier 1 — Protocolo P2. Checklist de integridade dos documentos antes de
-  qualquer producao: contrato (partes, objeto, valor, prazo, foro de eleicao, assinaturas/testemunhas),
-  titulos de credito (cheque, nota promissoria, duplicata — requisitos, endosso, prazos de
-  apresentacao/prescricao), prova do dano (notas, orcamentos, laudos, fotos) e do nexo, BO/registro de
-  acidente, notificacoes extrajudiciais, comprovantes de pagamento, instrumento particular/publico.
-  Extrai dados-chave (partes, datas, valores) e marca lacunas. Ative quando o usuario enviar contrato,
-  titulo, cheque, nota promissoria, duplicata, comprovante, BO, laudo, notificacao, ou pedir analise de
-  documentos civeis. PA-03, PA-12.
+  Analise documental civel Tier 1 — Protocolo P2. Ative quando o usuario enviar contrato, titulo, cheque, nota promissoria, duplicata, comprovante, BO, laudo, notificacao, ou pedir analise de documentos civeis. PA-03, PA-12.
 metadata:
   version: "0.1.0"
   area: "Direito Civil e Processo Civil"

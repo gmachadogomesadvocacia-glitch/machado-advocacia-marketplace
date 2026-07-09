@@ -1,14 +1,7 @@
 ---
 name: calculos-consumidor
 description: >
-  CALCULOS CONSUMIDOR — Skill Tier 1, motor de calculo consumerista/bancario. Cobre revisional
-  bancaria (taxa do contrato x taxa media BACEN, expurgo de capitalizacao nao pactuada), repeticao de
-  indebito (simples x dobro do art. 42), expurgo de tarifas, atualizacao (correcao + juros de mora) e
-  quantificacao de dano moral por ancoragem. PA-20: nunca calculo estimativo silencioso — sem dado-base
-  (contrato, taxas, valores, datas), NAO calcular: sinalizar o que falta. Acione quando o usuario pedir
-  para calcular, liquidar, apurar o indebito, revisar parcelas, atualizar a divida ou dimensionar o dano
-  moral. Gatilhos: calcular, quanto, valor da causa, revisional, repeticao de indebito, dobro, indebito,
-  tarifa indevida, atualizar, correcao monetaria, juros de mora, Selic, memoria de calculo, taxa media.
+  CALCULOS CONSUMIDOR — Skill Tier 1, motor de calculo consumerista/bancario. Gatilhos: calcular, quanto, valor da causa, revisional, repeticao de indebito, dobro, indebito, tarifa indevida, atualizar, correcao monetaria, juros de mora, Selic, memoria de calculo, taxa media.
 metadata:
   version: "0.1.0"
   area: "Direito do Consumidor e Bancario"

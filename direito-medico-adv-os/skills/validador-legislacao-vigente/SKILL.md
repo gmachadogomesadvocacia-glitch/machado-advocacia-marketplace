@@ -1,7 +1,7 @@
 ---
 name: validador-legislacao-vigente
 description: >
-  Protocolo 1 do plugin. Valida vigencia normativa nos 4 niveis (federal + conselho profissional CFM/CFO + regulador ANS/ANVISA + estadual/municipal) e a jurisprudencia STJ/STF/TRFs (Sumulas e Temas repetitivos) no ANO DO FATO GERADOR. Emite o Selo de Validacao Legal Previa — pre-requisito absoluto de toda peca, parecer, contrato, defesa e calculo de quantum. Cobre a reforma 2022-2026: Lei 14.510/2022 (telemedicina), Lei 14.454/2022 (criterios p/ fora do rol; ADI 7.265 STF — rol taxativo mitigado), Lei 15.378/2026 (Estatuto do Paciente), Res. CFM 2.336/2023 (publicidade), Res. CFM 2.337/2023 (HOF), Res. CFM 2.320/2022 (reproducao). Marca [VERIFICAR] em alvo movel (Rol ANS, RN, prazos locais, sumula em revisao). Aciona: validar legislacao, lei vigente, a norma ainda vale, datar fato gerador, qual regime se aplica, reforma medica, Lei 14.454, ADI 7.265, rol taxativo mitigado, Sum. 608/597 STJ, Res. CFM, Res. CFO, RDC ANVISA, RN ANS, emitir o Selo.
+  Protocolo 1 do plugin. Valida vigencia normativa nos 4 niveis (federal + conselho profissional CFM/CFO + regulador ANS/ANVISA + estadual/municipal) e a jurisprudencia STJ/STF/TRFs (Sumulas e Temas repetitivos) no ANO DO FATO GERADOR. Aciona: validar legislacao, lei vigente, a norma ainda vale, datar fato gerador, qual regime se aplica, reforma medica, Lei 14.454, ADI 7.265, rol taxativo mitigado, Sum. 608/597 STJ, Res. CFM, Res. CFO, RDC ANVISA, RN ANS, emitir o Selo.
 ---
 
 # VALIDADOR DE LEGISLACAO VIGENTE

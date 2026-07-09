@@ -1,13 +1,7 @@
 ---
 name: estilo-relatorio-jurimetrico
 description: >
-  ESTILO RELATORIO JURIMETRICO — Skill Tier 2 transversal, invariante. Define COMO todo numero e todo
-  relatorio do plugin saem: estrutura fixa (pergunta -> dados e metodo -> resultados -> limitacoes ->
-  leitura), carimbo completo em cada numero (N, metodo, fonte, data), mediana antes de media,
-  limitacoes nunca vazias, linguagem sobria sem promessa. Aplica o template
-  relatorio-jurimetrico.md.tpl e a convencao do escritorio (.txt, portugues pleno com acentos).
-  Acione sempre que redigir relatorio, analise, quadro ou qualquer texto com numero jurimetrico —
-  inclusive respostas curtas em chat.
+  ESTILO RELATORIO JURIMETRICO — Skill Tier 2 transversal, invariante. Acione sempre que redigir relatorio, analise, quadro ou qualquer texto com numero jurimetrico — inclusive respostas curtas em chat.
 metadata:
   version: "0.1.0"
   area: "Jurimetria"

@@ -1,15 +1,7 @@
 ---
 name: via-processual-rj
 description: >
-  VIA-PROCESSUAL-RJ — Tier 1 (Insumo / Decisora). Skill decisora pura.
-  Recebe o estado processual (publicação do edital, presença na relação
-  do AJ, presença na relação consolidada, homologação do QGC, existência
-  de liquidação trabalhista pendente) e devolve A VIA CORRETA com
-  fundamento legal, endereçamento, prazo e alertas: divergência
-  administrativa (art. 7º §1º), impugnação judicial (art. 8º), habilitação
-  retardatária (art. 10) ou reserva pelo art. 6º §2º. Não produz peças.
-  Acionada por `credor-trabalhista-rj` e `habilitacao-credito-rj` antes
-  de qualquer redação.
+  VIA-PROCESSUAL-RJ — Tier 1 (Insumo / Decisora). Acionada por `credor-trabalhista-rj` e `habilitacao-credito-rj` antes de qualquer redação.
 ---
 
 # VIA-PROCESSUAL-RJ — DECISORA DE VIA

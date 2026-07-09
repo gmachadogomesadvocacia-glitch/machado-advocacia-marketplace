@@ -1,6 +1,6 @@
 {
   "name": "imobiliario-adv-os",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Sistema operacional do advogado de Direito Imobiliario e Locacao brasileiro, no padrao Adv-OS. Cobre as quatro frentes — LOCACAO (Lei 8.245/91: despejo por falta de pagamento + purgacao, denuncia vazia, infracao contratual; revisional de aluguel; renovatoria art. 51; consignatoria de aluguel/chaves; garantias locaticias), CONTRATOS IMOBILIARIOS (promessa de compra e venda, arras, distrato/rescisao Lei 13.786/2018, vicios redibitorios, eviccao, adjudicacao compulsoria Sum. 239 STJ), DIREITOS REAIS E POSSE (acoes possessorias — reintegracao/manutencao/interdito; condominio edilicio e cobranca de cotas propter rem; alienacao fiduciaria de imovel Lei 9.514/97 — purgacao da mora, leilao) e CONSULTIVO (due diligence imobiliaria, revisao de contratos, regularizacao). Side-aware: locador x locatario, comprador x vendedor, possuidor x esbulhador, condominio x condomino, fiduciante x credor fiduciario. 20 skills (Tier 0-3), 4 Camadas, 13 Proibicoes Absolutas, Selo de Validacao Legal Previa e Suprema Corte R1-R4; engine com persona em runtime e 13 commands. Interfaces: usucapiao -> usucapiao-adv-os; IPTU/ITBI em execucao fiscal -> tributario-adv-os; imovel na planta/CDC -> consumidor-adv-os; partilha/inventario -> familia-sucessoes-adv-os. Persona em runtime via /start-imobiliario.",
   "author": {
     "name": "Machado Advocacia"

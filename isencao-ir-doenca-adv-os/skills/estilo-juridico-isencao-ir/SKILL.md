@@ -1,12 +1,7 @@
 ---
 name: estilo-juridico-isencao-ir
 description: >
-  ESTILO JURIDICO ISENCAO-IR — Skill Tier 1 transversal (Camada 3). Define o padrao de redacao de TODA
-  peca de isencao de IRPF por doenca grave: FIRAC, enxuto, docs "doc. N", antecipacao adversarial dura
-  (enquadramento no rol; so proventos; contemporaneidade Sum. 627; prova Sum. 598; prescricao 5 anos),
-  valor da restituicao quantificado. TOM firme mas HUMANO — o cliente e pessoa doente. Protege o dado de
-  saude (PA-10): segredo de justica quando necessario, sem expor CID alem do indispensavel. Apoia toda a
-  producao. Acione ao redigir/revisar a forma de qualquer peca, requerimento, MS ou parecer de isencao.
+  ESTILO JURIDICO ISENCAO-IR — Skill Tier 1 transversal (Camada 3). Acione ao redigir/revisar a forma de qualquer peca, requerimento, MS ou parecer de isencao.
 metadata:
   version: "0.1.0"
   area: "Isencao de IRPF por Doenca Grave"

@@ -1,12 +1,7 @@
 ---
 name: onboarding-isencao-ir
 description: >
-  ONBOARDING ISENCAO-IR — Skill Tier 1, wizard de configuracao do plugin no ambiente do escritorio.
-  Conduz perguntas estruturadas para criar a pasta isencao-ir/ com identidade do advogado (nome, OAB,
-  cidade/UF), frentes de atuacao (administrativa / judicial / manutencao / consultivo), tom, modo de
-  melhor saida e ferramentas. Gera persona.md, config.md, a pasta casos/ e aponta ISIR_PERSONA no
-  settings.local.json. Alerta LGPD reforcado — dado de saude e SENSIVEL (art. 11). Acione quando o
-  operador disser configurar isencao-ir, instalar, primeira vez, /start-isencao-ir, ou onboarding.
+  ONBOARDING ISENCAO-IR — Skill Tier 1, wizard de configuracao do plugin no ambiente do escritorio. Acione quando o operador disser configurar isencao-ir, instalar, primeira vez, /start-isencao-ir, ou onboarding.
 metadata:
   version: "0.1.0"
   area: "Isencao de IRPF por Doenca Grave"

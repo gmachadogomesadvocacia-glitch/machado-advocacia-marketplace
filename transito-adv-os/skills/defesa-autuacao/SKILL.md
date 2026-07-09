@@ -1,14 +1,7 @@
 ---
 name: defesa-autuacao
 description: >
-  Skill Tier 2 — DEFESA PREVIA / defesa da autuacao (CTB 281-282). 1º momento de defesa,
-  apresentada apos a Notificacao de Autuacao (NA) e ANTES da aplicacao da penalidade (NP).
-  Objetivo: o ARQUIVAMENTO do auto antes de virar multa. NAO e recurso (PA-08) — recurso so
-  apos a NP, na JARI/CETRAN (ver recursos-administrativos). Prazo, em regra, 30 dias da NA
-  (preclusivo — PA-05). Conteudo: nulidades formais do AIT (CTB 280), vicios da notificacao,
-  erro de identificacao do veiculo/condutor, equipamento sem aferição valida, e merito
-  (inexistencia da infracao). Ative ao receber a Notificacao de Autuacao, redigir defesa previa,
-  defesa da autuacao, ou impugnar o auto antes de virar multa.
+  Skill Tier 2 — DEFESA PREVIA / defesa da autuacao (CTB 281-282). Ative ao receber a Notificacao de Autuacao, redigir defesa previa, defesa da autuacao, ou impugnar o auto antes de virar multa.
 metadata:
   version: "0.1.0"
   area: "Direito de Transito"

@@ -1,7 +1,7 @@
 ---
 name: triagem-medica
 description: >
-  Porta de entrada de todo caso de direito medico — executa a triagem 4D (sujeito x modo x esfera x subdominio), grava o CASO.md compartimentado (PA-22 LGPD) e aciona o validador-legislacao-vigente para emitir o Selo. Roteia ao Tier correto (2 RC, 3 criminal, 4 PED, 5 plano, 6 consultivo, transversais). Identifica casos multi-frente (Protocolo 4 — civel + criminal + etico + regulatorio simultaneos). Captura foro/competencia (Protocolo 5) e datacao do fato gerador (PA-09). Aciona: novo caso, triagem, classificar caso, sujeito do caso, abrir caso, retomar caso, qual Tier, multi-frente, multi-esfera, fato gerador, foro competente, parto distocico, erro medico, negativa cobertura, PED, MS conselho.
+  Porta de entrada de todo caso de direito medico. Aciona: novo caso, triagem, classificar caso, sujeito do caso, abrir caso, retomar caso, qual Tier, multi-frente, multi-esfera, fato gerador, foro competente, parto distocico, erro medico, negativa cobertura, PED, MS conselho.
 ---
 
 # TRIAGEM MEDICA

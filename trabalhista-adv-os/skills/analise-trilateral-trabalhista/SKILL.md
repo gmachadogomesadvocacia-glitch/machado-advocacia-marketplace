@@ -1,7 +1,7 @@
 ---
 name: analise-trilateral-trabalhista
 description: >
-  ANALISE TRILATERAL TRABALHISTA — Skill Tier 1. Antes de qualquer producao, analisa o caso por tres prismas obrigatorios: Cliente (o que sustenta a tese), Parte adversa (a defesa/ataque adversarial mais forte) e Juiz (como o caso aparece para quem decide). O prisma Cliente flipa conforme o polo. Gera matriz de pontos fortes, fragilidades e contra-teses. Acionada apos a triagem, antes da redacao.
+  ANALISE TRILATERAL TRABALHISTA — Skill Tier 1. Acionada apos a triagem, antes da redacao.
 ---
 
 # ANALISE TRILATERAL TRABALHISTA

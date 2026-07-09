@@ -1,12 +1,7 @@
 ---
 name: divorcio-separacao
 description: >
-  DIVORCIO-SEPARACAO — Tier 2 (Produção). Conduz todos os aspectos do divórcio judicial e
-  extrajudicial, consensual e litigioso: verificação de requisitos, modalidade (judicial ou
-  cartório), partilha de bens, meação, alimentos entre cônjuges, guarda dos filhos integrada
-  ao divórcio. Também aborda separação judicial (ainda possível para quem não quer o divórcio
-  definitivo) e conversão de separação em divórcio. Acionar quando o assunto principal for
-  a dissolução do vínculo conjugal.
+  DIVORCIO-SEPARACAO — Tier 2 (Produção). Conduz todos os aspectos do divórcio judicial e extrajudicial, consensual e litigioso: verificação de requisitos, modalidade (judicial ou cartório), partilha de bens, meação, alimentos entre cônjuges, guarda dos filhos integrada ao divórcio. Acionar quando o assunto principal for a dissolução do vínculo conjugal.
 metadata:
   version: "1.0.0"
 ---

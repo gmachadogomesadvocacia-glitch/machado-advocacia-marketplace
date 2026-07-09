@@ -1,7 +1,7 @@
 ---
 name: acao-reajuste-abusivo
 description: >
-  Acao revisional/declaratoria contra reajuste abusivo de mensalidade de plano de saude — individual/familiar (controle ANS via IPCA-Saude) e coletivo empresarial/por adesao (controle nao-direto da ANS). Aplica Lei 9.656/1998 + Tema 952 STJ (reajuste por faixa etaria — exige base atuarial e nao pode ser excessivo) + Sum. 608 STJ (CDC nos planos, salvo autogestao) + Lei 10.741/2003 art. 15§3o (Estatuto do Idoso — vedacao a reajuste apos 60a por faixa) + RN ANS 565/2022 e 563/2022 + RN 195/2009. Distingue 3 modalidades: reajuste anual (IPCA + variacao de custos); reajuste por faixa etaria (10 faixas); reajuste por sinistralidade (coletivos). Tese central: razoabilidade + base atuarial + transparencia + vedacao a discriminacao etaria. Tutela de urgencia (descontinuidade do plano). Conservadorismo (PA-21). Aciona: reajuste abusivo, mensalidade abusiva, Tema 952, faixa etaria, Estatuto Idoso plano, sinistralidade coletivo, IPCA-Saude, RN 195, Sum 608, revisional plano, RN 565 ANS.
+  Acao revisional/declaratoria contra reajuste abusivo de mensalidade de plano de saude. Aciona: reajuste abusivo, mensalidade abusiva, Tema 952, faixa etaria, Estatuto Idoso plano, sinistralidade coletivo, IPCA-Saude, RN 195, Sum 608, revisional plano, RN 565 ANS.
 ---
 
 # ACAO REAJUSTE ABUSIVO DE PLANO DE SAUDE

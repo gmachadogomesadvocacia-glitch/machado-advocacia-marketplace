@@ -1,14 +1,7 @@
 ---
 name: especificacao-de-provas-medica
 description: >
-  ESPECIFICACAO DE PROVAS MEDICA — peca de especificacao/justificacao de provas em litigio medico
-  (apos saneador ou despacho de especificacao, CPC arts. 348-357 e 369-380). Estrutura canonica:
-  cada prova requerida com finalidade e pontos controvertidos que alcanca; pericia (arts. 464-465)
-  como prova central do nexo, SEMPRE com pedido subsidiario de pericia como prova PROPRIA (nao so
-  adesao a pericia da parte adversa) e custeio do reu hipossuficiente (CPC arts. 95 par.3, 98 par.5,
-  99 par.3); depoimento pessoal sob pena de confissao (art. 385); renuncia a testemunhas como
-  decisao estrategica registrada. Aciona: especificar provas, justificar provas, despacho de provas,
-  saneamento, quais provas requerer, protesto generico por provas.
+  ESPECIFICACAO DE PROVAS MEDICA — peca de especificacao/justificacao de provas em litigio medico (apos saneador ou despacho de especificacao, CPC arts. Aciona: especificar provas, justificar provas, despacho de provas, saneamento, quais provas requerer, protesto generico por provas.
 metadata:
   version: "0.1.0"
   area: "Direito Medico"

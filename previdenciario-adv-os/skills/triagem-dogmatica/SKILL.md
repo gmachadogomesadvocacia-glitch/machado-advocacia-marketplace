@@ -1,12 +1,7 @@
 ---
 name: triagem-dogmatica
 description: >
-  TRIAGEM DOGMATICA PREVIDENCIARIA — Skill Tier 1 (Estado-Maior). Primeira skill acionada
-  em qualquer caso previdenciario. Realiza enquadramento dogmatico completo: identifica
-  especie do beneficio (B-code), categoria do segurado (empregado/CI/MEI/rural/especial),
-  regime (RGPS/RPPS), data de filiacao, regra de transicao EC 103/2019 aplicavel, DER/DIB/DCB
-  relevantes, qualidade de segurado, carencia, e competencia judicial (JEF/JF/CRPS). Cria
-  CASO.md e roteia para analise-trilateral. Acionar SEMPRE como primeira skill em novo caso.
+  TRIAGEM DOGMATICA PREVIDENCIARIA — Skill Tier 1 (Estado-Maior). Acionar SEMPRE como primeira skill em novo caso.
 ---
 
 # TRIAGEM DOGMATICA PREVIDENCIARIA

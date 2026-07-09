@@ -1,13 +1,7 @@
 ---
 name: calculos-tributarios
 description: >
-  Nucleo de calculo tributario. Apura DECADENCIA (CTN art. 173, I — regra geral, 1º dia do exercicio
-  seguinte; x art. 150 §4º — lancamento por homologacao, do fato gerador, salvo dolo/fraude/simulacao),
-  PRESCRICAO (CTN art. 174, 5 anos da constituicao definitiva; interrupcao pelo despacho que ordena a
-  citacao — LC 118/2005), PRESCRICAO INTERCORRENTE (LEF art. 40 + Sum. 314 STJ + Tema 566 STJ — 1 ano
-  de suspensao + 5 anos), atualizacao do debito (SELIC, multa de mora x multa de oficio, juros,
-  confisco) e prazo de repeticao/compensacao (5 anos — CTN 168/LC 118). Sempre refazer, nunca presumir.
-  Ative para conferir prazos, decadencia, prescricao ou montante do debito. PA-05, PA-03, PA-09.
+  Nucleo de calculo tributario. Apura DECADENCIA (CTN art. 173, I. Ative para conferir prazos, decadencia, prescricao ou montante do debito. PA-05, PA-03, PA-09.
 metadata:
   version: "0.1.0"
   area: "Direito Tributario"

@@ -1,7 +1,7 @@
 ---
 name: timeline-multiesfera
 description: >
-  Skill ancora do Protocolo 4 — articulacao integrada das esferas civel + criminal + etico-disciplinar (CRM/CRO) + regulatorio (ANS/ANVISA) quando o mesmo caso aciona 2 ou mais simultaneamente. Mapeia linha do tempo de cada esfera, prazos prescricionais distintos (CC art. 206 §3o V vs CDC art. 27 vs CP arts. 109-110 vs Res. CFM 2.145/2016), prejudicialidades (CC art. 935 — coisa julgada penal alcanca civel/etico em hipoteses especificas), aproveitamento defensivo cruzado de provas/teses (perícia, prontuario, depoimento). Aplica STJ AgInt no AREsp 1.245.831/MG e independencia relativa (PA-12). Aciona: caso multi-frente, multi-esfera, civel e criminal e PED, parto distocico, erro medico grave, cruzamento de esferas, CC art. 935, independencia das instancias, prejudicialidade, aproveitamento de prova.
+  Skill ancora do Protocolo 4 — articulacao integrada das esferas civel + criminal + etico-disciplinar (CRM/CRO) + regulatorio (ANS/ANVISA) quando o mesmo caso aciona 2 ou mais simultaneamente. Aciona: caso multi-frente, multi-esfera, civel e criminal e PED, parto distocico, erro medico grave, cruzamento de esferas, CC art. 935, independencia das instancias, prejudicialidade, aproveitamento de prova.
 ---
 
 # TIMELINE MULTI-ESFERA

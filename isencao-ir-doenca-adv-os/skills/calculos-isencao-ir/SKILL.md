@@ -1,13 +1,7 @@
 ---
 name: calculos-isencao-ir
 description: >
-  CALCULOS ISENCAO-IR — Skill Tier 1. Apura a RESTITUICAO do indebito: soma do IR retido indevidamente,
-  competencia a competencia, nos ULTIMOS 5 ANOS (CTN art. 168), com atualizacao pela Selic. Entrega
-  memoria de calculo discriminada (competencia x base x IR retido x Selic x total). Sem os comprovantes
-  de retencao (informes de rendimento), NAO calcula — sinaliza o que falta (PA-03/PA-11). Restituicao
-  limitada a 5 anos (PA-09); so sobre PROVENTOS (PA-06). Acione apos a analise documental. Gatilhos:
-  calcular, quanto vou receber, restituicao, valor retido, atualizar pela Selic, memoria de calculo,
-  indebito, quanto da pra pedir de volta.
+  CALCULOS ISENCAO-IR — Skill Tier 1. Apura a RESTITUICAO do indebito: soma do IR retido indevidamente, competencia a competencia, nos ULTIMOS 5 ANOS (CTN art. Gatilhos: calcular, quanto vou receber, restituicao, valor retido, atualizar pela Selic, memoria de calculo, indebito, quanto da pra pedir de volta.
 metadata:
   version: "0.1.0"
   area: "Isencao de IRPF por Doenca Grave"

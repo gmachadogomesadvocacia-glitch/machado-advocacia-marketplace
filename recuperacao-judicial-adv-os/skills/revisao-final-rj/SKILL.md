@@ -1,12 +1,7 @@
 ---
 name: revisao-final-rj
 description: >
-  REVISAO-FINAL-RJ — Tier 3 (Auditoria Pré-entrega). Executa a auditoria obrigatória R1-R4
-  em todas as peças produzidas pelo pipeline de recuperação judicial antes do protocolo.
-  Verifica: base normativa (L11.101/2005 + L14.112/2020), coerência de polo, validade de
-  jurisprudência, prazos, consistência com o CASO.md, e qualidade da redação jurídica.
-  Esta skill é OBRIGATÓRIA antes de qualquer protocolo — é o Protocolo P6 do sistema.
-  Acionar sempre que uma peça de RJ estiver pronta para entrega ou protocolo.
+  REVISAO-FINAL-RJ — Tier 3 (Auditoria Pré-entrega). Acionar sempre que uma peça de RJ estiver pronta para entrega ou protocolo.
 ---
 
 # REVISAO-FINAL-RJ

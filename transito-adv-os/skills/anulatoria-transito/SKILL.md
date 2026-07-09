@@ -1,14 +1,7 @@
 ---
 name: anulatoria-transito
 description: >
-  Skill Tier 2 — ACAO ANULATORIA judicial de multa/auto de infracao ou de penalidade de
-  suspensao/cassacao da CNH (rito comum). Competencia: Vara da Fazenda Publica ou Juizado Especial da
-  Fazenda Publica (Lei 12.153/2009), conforme o valor/complexidade. Cabimento independe de exaurir a via
-  administrativa (inafastabilidade — CF 5º XXXV). Teses: as mesmas nulidades da via administrativa
-  (CTB 280, dupla notificacao — Sum. 312, equipamento sem aferição) + ilegalidade do ato. Tutela de
-  urgencia para suspender exigibilidade/pontos. Valor da causa. Nao confundir instancias (PA-08).
-  Ative para anular multa na Justica, acao judicial contra multa, anular suspensao/cassacao, ou levar a
-  questao de trânsito ao Judiciario por rito ordinario.
+  Skill Tier 2 — ACAO ANULATORIA judicial de multa/auto de infracao ou de penalidade de suspensao/cassacao da CNH (rito comum). Ative para anular multa na Justica, acao judicial contra multa, anular suspensao/cassacao, ou levar a questao de trânsito ao Judiciario por rito ordinario.
 metadata:
   version: "0.1.0"
   area: "Direito de Transito"

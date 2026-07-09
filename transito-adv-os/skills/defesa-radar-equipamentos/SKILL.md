@@ -1,14 +1,7 @@
 ---
 name: defesa-radar-equipamentos
 description: >
-  Skill Tier 2 — defesa especifica de multas por EQUIPAMENTO MEDIDOR DE VELOCIDADE (radar) e afins,
-  a categoria de maior volume. Teses: ausencia ou invalidade da CERTIDAO DE AFERICAO anual
-  (INMETRO/IPEM) e da verificacao; equipamento nao homologado; falta de aplicacao da MARGEM DE
-  TOLERANCIA (Resolucao CONTRAN/INMETRO); sinalizacao de advertencia da fiscalizacao eletronica
-  ausente/inadequada; foto/registro ilegivel; local sem regulamentacao da velocidade. Inclui como requerer
-  a certidao de aferição ao orgao. Serve a qualquer instancia (defesa previa, JARI, CETRAN, judicial).
-  Ative em multa de radar, excesso de velocidade, lombada eletronica, aferição do equipamento, margem de
-  tolerancia ou fiscalizacao eletronica.
+  Skill Tier 2 — defesa especifica de multas por EQUIPAMENTO MEDIDOR DE VELOCIDADE (radar) e afins, a categoria de maior volume. Ative em multa de radar, excesso de velocidade, lombada eletronica, aferição do equipamento, margem de tolerancia ou fiscalizacao eletronica.
 metadata:
   version: "0.1.0"
   area: "Direito de Transito"

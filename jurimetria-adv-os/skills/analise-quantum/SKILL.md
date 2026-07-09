@@ -1,12 +1,7 @@
 ---
 name: analise-quantum
 description: >
-  ANALISE QUANTUM — Skill Tier 2. Constroi a faixa de valores (quantum) de um tema combinando as duas
-  fontes que TEM valor: o acervo proprio (quantum pretendido/obtido dos blocos jurimetricos) e a
-  jurisprudencia dos tribunais (valores em acordaos de temas semelhantes). Metodo bifasico inspirado
-  na ABJ: primeiro a taxa de procedencia do tema, depois a distribuicao de valor entre os
-  procedentes. O DataJud NAO participa (nao tem quantum). Acione para "qual a faixa de condenacao em
-  X", "quanto vale um caso desses", "quanto pedir", ou a perna de valor de uma viabilidade.
+  ANALISE QUANTUM — Skill Tier 2. Constroi a faixa de valores (quantum) de um tema combinando as duas fontes que TEM valor: o acervo proprio (quantum pretendido/obtido dos blocos jurimetricos) e a jurisprudencia dos tribunais (valores em acordaos de temas semelhantes). Acione para "qual a faixa de condenacao em X", "quanto vale um caso desses", "quanto pedir", ou a perna de valor de uma viabilidade.
 metadata:
   version: "0.1.0"
   area: "Jurimetria"

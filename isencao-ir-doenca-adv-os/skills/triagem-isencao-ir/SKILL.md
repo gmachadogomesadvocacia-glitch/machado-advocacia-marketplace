@@ -1,12 +1,7 @@
 ---
 name: triagem-isencao-ir
 description: >
-  TRIAGEM ISENCAO-IR — Skill Tier 1, porta de entrada. Verifica os 4 requisitos da isencao de IRPF
-  por doenca grave (doenca no rol do art. 6 XIV; rendimento e PROVENTO de aposentadoria/pensao/reforma;
-  fonte pagadora; periodo de retencao indevida) e a via (administrativa x judicial), abrindo o CASO.md.
-  Acione em todo caso novo, quando o usuario pedir para enquadrar/analisar um caso de isencao de IR,
-  ou antes de qualquer producao. Gatilhos: cliente aposentado com cancer/cardiopatia/doenca grave,
-  IR retido no beneficio, quero pedir isencao, restituir o IR, parar o desconto do IR na aposentadoria.
+  TRIAGEM ISENCAO-IR — Skill Tier 1, porta de entrada. Gatilhos: cliente aposentado com cancer/cardiopatia/doenca grave, IR retido no beneficio, quero pedir isencao, restituir o IR, parar o desconto do IR na aposentadoria.
 metadata:
   version: "0.1.0"
   area: "Isencao de IRPF por Doenca Grave"

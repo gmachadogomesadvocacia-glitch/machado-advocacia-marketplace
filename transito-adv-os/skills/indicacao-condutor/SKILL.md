@@ -1,14 +1,7 @@
 ---
 name: indicacao-condutor
 description: >
-  Skill Tier 2 — INDICACAO DO REAL CONDUTOR INFRATOR (CTB 257 §7º). Quando a infracao e de
-  responsabilidade do condutor e o autuado e o PROPRIETARIO (PJ ou PF), permite transferir a pontuacao a
-  quem efetivamente dirigia. Prazo e formalidades: formulario proprio (FICI), copia da CNH e assinaturas
-  do proprietario e do condutor indicado, no prazo da Notificacao de Autuacao. Nao indicar → multa ao
-  proprietario por nao identificacao (CTB 257 §8º) e a pontuacao recai sobre ele. ALERTA PA-06: a
-  indicacao deve ser do condutor REAL — indicacao falsa e CRIME (art. 299 CP, falsidade ideologica);
-  JAMAIS orientar fraude de pontuacao. Ative em indicacao de condutor, transferir pontos, real condutor
-  infrator, FICI, ou multa de veiculo de empresa.
+  Skill Tier 2 — INDICACAO DO REAL CONDUTOR INFRATOR (CTB 257 §7º). Ative em indicacao de condutor, transferir pontos, real condutor infrator, FICI, ou multa de veiculo de empresa.
 metadata:
   version: "0.1.0"
   area: "Direito de Transito"

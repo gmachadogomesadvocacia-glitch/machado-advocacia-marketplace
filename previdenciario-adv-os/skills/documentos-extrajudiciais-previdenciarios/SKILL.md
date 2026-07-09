@@ -1,12 +1,7 @@
 ---
 name: documentos-extrajudiciais-previdenciarios
 description: >
-  DOCUMENTOS EXTRAJUDICIAIS PREVIDENCIARIOS — Skill Tier 2 D. Consolida quatro categorias
-  de documentos extrajudiciais em previdenciario: (1) Parecer tecnico-juridico previdenciario
-  para cliente PF e PJ; (2) Notificacao extrajudicial ao INSS / empregador; (3) Contrato
-  de honorarios previdenciario com clausulas de exito e carencia; (4) Procuracao especifica
-  para acoes previdenciarias (poderes especiais INSS + JEF). Acionar quando solicitado
-  parecer, notificacao, contrato de honorarios, ou procuracao em materia previdenciaria.
+  DOCUMENTOS EXTRAJUDICIAIS PREVIDENCIARIOS. Acionar quando solicitado parecer, notificacao, contrato de honorarios, ou procuracao em materia previdenciaria.
 ---
 
 # DOCUMENTOS EXTRAJUDICIAIS PREVIDENCIARIOS

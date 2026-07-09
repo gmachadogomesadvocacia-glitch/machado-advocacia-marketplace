@@ -1,14 +1,7 @@
 ---
 name: assistencia-de-acusacao
 description: >
-  Skill Tier 2 — polo da VITIMA/ofendido: assistente de acusacao (CPP 268-273). Cobre a habilitacao do
-  assistente apos recebida a denuncia, os poderes do assistente (propor meios de prova, requerer perguntas
-  as testemunhas, aditar/arrazoar, participar dos debates, recorrer subsidiariamente — CPP 271 e 598),
-  o interesse na condenacao e na reparacao do dano (efeito civil da sentenca, valor minimo CPP 387 IV) e os
-  limites da atuacao. Distingue a assistencia da acao penal privada (queixa-crime) e da acao penal privada
-  subsidiaria da publica (CPP 29 — inercia do MP). LADO OPOSTO do plugin: manter rigorosa coerencia de polo
-  (PA-10). Estrutura do pedido de habilitacao e da atuacao. Ative em assistente de acusacao, vitima,
-  ofendido, habilitacao do assistente, queixa-crime, acao privada subsidiaria, reparacao a vitima.
+  Skill Tier 2 — polo da VITIMA/ofendido: assistente de acusacao (CPP 268-273). Ative em assistente de acusacao, vitima, ofendido, habilitacao do assistente, queixa-crime, acao privada subsidiaria, reparacao a vitima.
 metadata:
   version: "0.1.0"
   area: "Direito Penal e Processo Penal"

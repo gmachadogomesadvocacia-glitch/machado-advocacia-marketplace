@@ -1,7 +1,7 @@
 ---
 name: embargos-declaracao-trabalhista
 description: >
-  EMBARGOS DE DECLARACAO TRABALHISTA — Skill Tier 2 recursal transversal. Produz os Embargos de Declaracao contra sentenca e acordao (omissao, contradicao, obscuridade, erro material, prequestionamento) e as contrarrazoes aos ED com efeitos infringentes. Prazo: 5 dias uteis (art. 897-A CLT). Use quando menciona embargos de declaracao, ED, omissao na sentenca, prequestionar.
+  EMBARGOS DE DECLARACAO TRABALHISTA — Skill Tier 2 recursal transversal. Use quando menciona embargos de declaracao, ED, omissao na sentenca, prequestionar.
 ---
 
 # EMBARGOS DE DECLARACAO TRABALHISTA

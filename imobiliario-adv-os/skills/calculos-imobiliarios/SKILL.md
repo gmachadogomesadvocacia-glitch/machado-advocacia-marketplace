@@ -1,13 +1,7 @@
 ---
 name: calculos-imobiliarios
 description: >
-  Calculos imobiliarios Tier 1 — nucleo de calculo do plugin. Produz memoria de calculo passo a passo,
-  com datas, para: (a) debito locaticio (alugueis + encargos IPTU e condominio + reajuste pelo indice
-  contratual IGP-M/IPCA + multa moratoria + juros); (b) purgacao da mora (art. 62 — total a depositar);
-  (c) revisional (aluguel a mercado); (d) restituicao no distrato (Lei 13.786 — retencao de ate
-  25%/50% na incorporacao + comissao; Sum. 543); (e) restituicao/abatimento por vicios; (f) saldo na
-  alienacao fiduciaria apos leilao (art. 27 §4º — devolucao do excedente). Nao inventa valores, datas
-  ou indices (PA-03). Ative ao calcular debito de aluguel, purgacao, revisional, restituicao ou saldo.
+  Calculos imobiliarios Tier 1 — nucleo de calculo do plugin. Ative ao calcular debito de aluguel, purgacao, revisional, restituicao ou saldo.
 metadata:
   version: "0.1.0"
   area: "Direito Imobiliario e Locacao"

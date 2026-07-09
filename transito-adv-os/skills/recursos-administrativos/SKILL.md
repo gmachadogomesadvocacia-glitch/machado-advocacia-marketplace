@@ -1,13 +1,7 @@
 ---
 name: recursos-administrativos
 description: >
-  Skill Tier 2 — RECURSOS ADMINISTRATIVOS nas duas instancias, apos a Notificacao de Penalidade (NP).
-  (1) Recurso a JARI (Junta Administrativa de Recursos de Infracoes — 1ª instancia; CTB 285); prazo
-  30 dias da NP. (2) Recurso ao CETRAN/CONTRANDIFE (2ª instancia; CTB 288-290); deposito previo
-  VEDADO (validar). Efeitos diferem por instancia (validar CTB 288 §2º). Conteudo: reitera e amplia as
-  nulidades formais do AIT (CTB 280) e da dupla notificacao (Sum. 312) + merito. NAO confundir com defesa
-  previa, que e anterior a NP (PA-08). Ative ao receber a Notificacao de Penalidade, recorrer a JARI ou ao
-  CETRAN, redigir recurso administrativo de multa de transito ou recorrer da decisao da JARI.
+  Skill Tier 2 — RECURSOS ADMINISTRATIVOS nas duas instancias, apos a Notificacao de Penalidade (NP). Ative ao receber a Notificacao de Penalidade, recorrer a JARI ou ao CETRAN, redigir recurso administrativo de multa de transito ou recorrer da decisao da JARI.
 metadata:
   version: "0.1.0"
   area: "Direito de Transito"

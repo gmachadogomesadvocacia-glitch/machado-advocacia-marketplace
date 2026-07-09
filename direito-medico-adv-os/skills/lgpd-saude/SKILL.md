@@ -1,7 +1,7 @@
 ---
 name: lgpd-saude
 description: >
-  Consultivo LGPD aplicado a clinica/hospital/medico — dados de saude sao SENSIVEIS (LGPD art. 5o II + art. 11). Articula bases legais admissiveis (art. 11§2o — consentimento; tutela da saude; cumprimento de obrigacao legal; protecao da vida; exercicio regular do direito; pesquisa) com regulamentacao especifica (Res. CFM 1.821/2007 — prontuario; certificacao SBIS-CFM nivel 2 para PEP). Estrutura programa de privacidade: RIPD, encarregado (DPO), politica de privacidade, contratos com operadores, controle de acesso, retencao (20 anos prontuario CFM 1.821) vs minimizacao (LGPD art. 6o III), incidentes (ANPD), direitos do titular (art. 18). Cruzamento com sigilo medico tripartite (`violacao-sigilo-medico`). Aciona: LGPD saude, dados sensiveis, art 11 LGPD, prontuario eletronico, SBIS-CFM, encarregado DPO clinica, RIPD, politica privacidade clinica, incidente ANPD, base legal tutela da saude, vazamento prontuario.
+  Consultivo LGPD aplicado a clinica/hospital/medico. Aciona: LGPD saude, dados sensiveis, art 11 LGPD, prontuario eletronico, SBIS-CFM, encarregado DPO clinica, RIPD, politica privacidade clinica, incidente ANPD, base legal tutela da saude, vazamento prontuario.
 ---
 
 # LGPD APLICADA A CLINICA / HOSPITAL / MEDICO

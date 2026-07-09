@@ -1,11 +1,7 @@
 ---
 name: replica-familia
 description: >
-  REPLICA-FAMILIA — Tier 2 (Produção). Redige réplicas e manifestações do requerente após
-  a contestação em ações de família e sucessões: impugnação à contestação, réplica à
-  reconvenção, manifestação sobre documentos novos juntados pelo requerido, e resposta
-  à reconvenção. Acionar quando o advogado atua pelo requerente e precisa responder
-  à contestação do réu, especialmente quando há teses novas, documentos novos ou reconvenção.
+  REPLICA-FAMILIA — Tier 2 (Produção). Redige réplicas e manifestações do requerente após a contestação em ações de família e sucessões: impugnação à contestação, réplica à... Acionar quando o advogado atua pelo requerente e precisa responder à contestação do réu, especialmente quando há teses novas, documentos novos ou reconvenção.
 metadata:
   version: "1.0.0"
 ---

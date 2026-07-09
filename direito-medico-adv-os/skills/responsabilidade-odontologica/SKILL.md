@@ -1,7 +1,7 @@
 ---
 name: responsabilidade-odontologica
 description: >
-  Skill especializada em responsabilidade civil em odontologia (CFO — Lei 5.081/1966 + Res. CFO 118/2012 CEO). Aplica STJ Sum. 597 (CDC aplica odontologia + carencia abusiva > 24h em urgencia), REsp 1.715.082 (implantodontia obrigacao de resultado), REsp 985.888 (clareamento dentário). Distincao subdominios: ortodontia (parcialmente meio, parcialmente resultado), endodontia (meio), implantodontia (resultado — osseointegracao), estetica dental — clareamento/lentes (resultado), cirurgia bucomaxilo (meio salvo estetica), periodontia (meio), HOF — Harmonizacao Orofacial (Res. CFM 2.337/2023 x Res. CFO 230/2020 — conflito interconselhos). Defesa do cirurgiao-dentista. Aciona: responsabilidade odontologica, CFO, Sum 597 STJ, implante dental, ortodontia falha, endodontia, clareamento dental, lentes de contato dental, HOF dentista, cirurgia bucomaxilo, periodontia, REsp 1.715.082.
+  Skill especializada em responsabilidade civil em odontologia (CFO. Aciona: responsabilidade odontologica, CFO, Sum 597 STJ, implante dental, ortodontia falha, endodontia, clareamento dental, lentes de contato dental, HOF dentista, cirurgia bucomaxilo, periodontia, REsp 1.715.082.
 ---
 
 # RESPONSABILIDADE ODONTOLOGICA

@@ -1,7 +1,7 @@
 ---
 name: acoes-autonomas-impugnacao-trabalhista
 description: >
-  ACOES AUTONOMAS DE IMPUGNACAO TRABALHISTA — Skill Tier 2 transversal. Produz os meios autonomos de impugnacao de decisoes trabalhistas: Mandado de Seguranca contra ato judicial, Acao Rescisoria, Correicao Parcial e Reclamacao, alem da defesa/resposta quando o cliente e o requerido. Use quando menciona mandado de seguranca contra liminar trabalhista, acao rescisoria trabalhista, correicao parcial, reclamacao ao TST.
+  ACOES AUTONOMAS DE IMPUGNACAO TRABALHISTA. Use quando menciona mandado de seguranca contra liminar trabalhista, acao rescisoria trabalhista, correicao parcial, reclamacao ao TST.
 ---
 
 # ACOES AUTONOMAS DE IMPUGNACAO TRABALHISTA

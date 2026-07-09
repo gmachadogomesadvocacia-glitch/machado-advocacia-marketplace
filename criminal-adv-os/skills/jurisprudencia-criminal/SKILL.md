@@ -1,14 +1,7 @@
 ---
 name: jurisprudencia-criminal
 description: >
-  Jurisprudencia criminal Tier 1 — validacao jurisprudencial (PA-01). Define a hierarquia STF (sumulas
-  vinculantes, repercussao geral) > STJ (recursos repetitivos, sumulas) > TJ/TRF, e o protocolo de
-  confirmacao antes de citar qualquer enunciado. Reune sumulas consagradas (sempre validar): SV 11
-  (algemas), SV 14 (acesso do defensor aos autos), SV 24 (crime tributario material so apos lancamento),
-  Sum. 691 STF (HC contra indeferimento de liminar), Sum. 231 STJ (atenuante nao abaixo do minimo),
-  Sum. 444 STJ (inqueritos/acoes em curso nao agravam pena-base), Sum. 269/440 STJ (regime). Regra:
-  nunca citar sem validar; presuncao de inocencia como vetor. Ative para sumula, tema, precedente ou
-  fundamentar peca penal.
+  Jurisprudencia criminal Tier 1 — validacao jurisprudencial (PA-01). Ative para sumula, tema, precedente ou fundamentar peca penal.
 metadata:
   version: "0.1.0"
   area: "Direito Penal e Processo Penal"

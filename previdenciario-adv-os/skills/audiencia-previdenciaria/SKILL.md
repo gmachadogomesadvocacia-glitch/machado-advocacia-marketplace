@@ -1,12 +1,7 @@
 ---
 name: audiencia-previdenciaria
 description: >
-  AUDIENCIA PREVIDENCIARIA — Skill Tier 2 D. Prepara o advogado para audiencias em acoes
-  previdenciarias no JEF e JF: roteiro de oitiva do autor (atividade rural, incapacidade,
-  historico laboral), perguntas ao perito judicial em audiencia, perguntas ao assistente
-  tecnico do INSS, perguntas para testemunhas em acao rural e acidentaria, estrategia para
-  audiencia de instrucao e julgamento (AIJ), e preparacao para sustentacao oral em TRF/TNU.
-  Acionar quando houver audiencia agendada, intimacao para AIJ, ou pauta de julgamento em colegiado.
+  AUDIENCIA PREVIDENCIARIA — Skill Tier 2 D. Acionar quando houver audiencia agendada, intimacao para AIJ, ou pauta de julgamento em colegiado.
 ---
 
 # AUDIENCIA PREVIDENCIARIA

@@ -1,13 +1,7 @@
 ---
 name: revisional-bancaria
 description: >
-  REVISIONAL BANCARIA — Skill Tier 2 (eixo bancario, lado consumidor). Redige a acao revisional de
-  contrato bancario/financeiro: impugna juros remuneratorios acima da taxa media de mercado, anatocismo/
-  capitalizacao sem pactuacao, tarifas e encargos abusivos, comissao de permanencia cumulada, e mora
-  descaracterizada. Integra-se a calculos-consumidor para a memoria de calculo. Acione quando o cliente
-  e o consumidor e o caso envolve financiamento, emprestimo, cedula de credito, cartao, consignado,
-  juros abusivos, capitalizacao ou tarifas. Exige Selo P1 e dado-base do contrato. Atencao reforcada as
-  Sumulas 382 (taxa >12% nao e per se abusiva) e 530 (taxa media BACEN na impossibilidade de provar a contratada), e 539/541 (capitalizacao).
+  REVISIONAL BANCARIA — Skill Tier 2 (eixo bancario, lado consumidor). Acione quando o cliente e o consumidor e o caso envolve financiamento, emprestimo, cedula de credito, cartao, consignado, juros abusivos, capitalizacao ou tarifas. Exige Selo P1 e dado-base do contrato. Atencao reforcada as Sumulas 382 (taxa >12% nao e per se abusiva) e 530 (taxa media BACEN na impossibilidade de provar a contratada), e 539/541 (capitalizacao).
 metadata:
   version: "0.1.0"
   area: "Direito do Consumidor e Bancario"

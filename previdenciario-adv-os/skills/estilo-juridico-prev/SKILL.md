@@ -1,12 +1,7 @@
 ---
 name: estilo-juridico-prev
 description: >
-  ESTILO JURIDICO PREVIDENCIARIO — Skill Transversal. Define os padroes de linguagem,
-  nomenclatura tecnica e formatacao para todas as pecas e documentos previdenciarios:
-  terminologia correta da EC 103/2019, formato de citacao de sumulas TNU e temas STF/STJ,
-  estilo FIRAC+AIDA para peticoes e pareceres, abreviacoes padronizadas (DER/DIB/DCB/
-  RMI/SB/PBC/TC/SC/NB), e normas de formatacao para JEF (Lei 10.259/2001 + FONAJEF).
-  Acionar automaticamente em toda producao de peca escrita previdenciaria.
+  ESTILO JURIDICO PREVIDENCIARIO — Skill Transversal. Acionar automaticamente em toda producao de peca escrita previdenciaria.
 ---
 
 # ESTILO JURIDICO PREVIDENCIARIO

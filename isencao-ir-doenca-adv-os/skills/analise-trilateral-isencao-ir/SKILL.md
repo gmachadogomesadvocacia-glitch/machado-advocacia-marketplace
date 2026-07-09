@@ -1,13 +1,7 @@
 ---
 name: analise-trilateral-isencao-ir
 description: >
-  ANALISE TRILATERAL ISENCAO-IR — Skill Tier 1. Antes de qualquer producao, analisa o caso por tres
-  prismas obrigatorios: Cliente (enquadramento no rol + laudo + retencao indevida), FAZENDA (a melhor
-  objecao adversarial: doenca fora do rol; rendimento de ativo nao isento; falta de contemporaneidade/
-  laudo; restituicao alem de 5 anos; isencao so a partir do laudo) e Juiz (como o caso aparece para
-  quem decide). Gera a matriz forcas x fragilidades x contra-teses. Acionada apos a triagem, antes da
-  linha estrategica. Gatilhos: analise do caso, pontos fortes e fracos, o que a Fazenda vai alegar,
-  riscos, antes de redigir, trilateral.
+  ANALISE TRILATERAL ISENCAO-IR — Skill Tier 1. Gatilhos: analise do caso, pontos fortes e fracos, o que a Fazenda vai alegar, riscos, antes de redigir, trilateral.
 metadata:
   version: "0.1.0"
   area: "Isencao de IRPF por Doenca Grave"

@@ -1,13 +1,7 @@
 ---
 name: revisao-final-transito
 description: >
-  Revisao final Tier 3 — Suprema Corte R1-R4. Ultima barreira antes de qualquer entrega de defesa,
-  recurso, peca judicial ou parecer de transito. R1 valida fundamentos (CTB, Lei 14.071, Resolucoes
-  CONTRAN vigentes na infracao) e jurisprudencia (Sumula/Tema STF/STJ) contra alucinacao (PA-01/PA-02/
-  PA-04); R2 audita fatos do auto (placa, codigo, data/local, pontuacao) e os prazos preclusivos
-  (PA-03/PA-05); R3 verifica a instancia correta, a dupla notificacao, a vedacao etica (PA-06/PA-07/
-  PA-08/PA-09) e a coerencia de defesa (PA-10); R4 confere forma, orgao competente, sigilo e LGPD
-  (PA-12). Ative SEMPRE antes de entregar qualquer produto de transito ao usuario.
+  Revisao final Tier 3 — Suprema Corte R1-R4. Ative SEMPRE antes de entregar qualquer produto de transito ao usuario.
 metadata:
   version: "0.1.0"
   area: "Direito de Transito"

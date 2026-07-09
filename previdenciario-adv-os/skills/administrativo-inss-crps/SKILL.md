@@ -1,13 +1,7 @@
 ---
 name: administrativo-inss-crps
 description: >
-  ADMINISTRATIVO INSS / CRPS — Skill consolidada para todos os procedimentos administrativos
-  previdenciarios: requerimento inicial de beneficio (DER), recurso ao JR (Junta de Recursos),
-  recurso ao CaJ (Camara de Julgamento), pedido de reconsideracao, impugnacao a cessacao
-  indevida, pedido de prorrogacao de auxilio por incapacidade, e peticao de revisao
-  administrativa de beneficio concedido. Acionar quando a controversia ainda esta na esfera
-  administrativa (antes do judicial) ou quando o prazo para recurso ao CRPS (30 dias) esta
-  em aberto.
+  ADMINISTRATIVO INSS / CRPS — Skill consolidada para todos os procedimentos administrativos previdenciarios: requerimento inicial de beneficio (DER), recurso ao JR (Junta de... Acionar quando a controversia ainda esta na esfera administrativa (antes do judicial) ou quando o prazo para recurso ao CRPS (30 dias) esta em aberto.
 ---
 
 # ADMINISTRATIVO INSS / CRPS

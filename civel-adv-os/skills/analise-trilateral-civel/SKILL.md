@@ -1,14 +1,7 @@
 ---
 name: analise-trilateral-civel
 description: >
-  Analise trilateral civel Tier 1 — FIRAC adaptado em 3 vertices. Antes de definir a estrategia, ve o
-  caso pelos olhos do cliente (o que sustenta a tese), da parte adversa (a defesa/ataque mais forte) e do
-  juizo (como o caso aparece para quem decide). Antecipa a tese adversa e a linha provavel do julgador.
-  Mapeia o onus da prova (CPC 373 — em regra do autor quanto ao fato constitutivo; do reu quanto a
-  impeditivo/modificativo/extintivo; distribuicao dinamica CPC 373 §1º). Antecipacao adversarial dura.
-  Gera o quadro de forcas (pontos fortes, fragilidades, contra-teses) ANTES da linha estrategica. Ative
-  apos a triagem e a analise documental, quando o usuario pedir analise do caso, forcas e fraquezas, tese
-  adversa ou viabilidade.
+  Analise trilateral civel Tier 1 — FIRAC adaptado em 3 vertices. Ative apos a triagem e a analise documental, quando o usuario pedir analise do caso, forcas e fraquezas, tese adversa ou viabilidade.
 metadata:
   version: "0.1.0"
   area: "Direito Civil e Processo Civil"

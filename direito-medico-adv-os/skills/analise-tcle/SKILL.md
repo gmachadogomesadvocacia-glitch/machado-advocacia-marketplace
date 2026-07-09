@@ -1,7 +1,7 @@
 ---
 name: analise-tcle
 description: >
-  Validacao juridica do Termo de Consentimento Livre e Esclarecido (TCLE) por especialidade basica (cirurgia, anestesia, oncologia, estetica, telemedicina, reproducao assistida, ortodontia, implantodontia, transfusao, exame invasivo). Checa especificidade, datacao anterior ao procedimento, assinaturas (paciente/responsavel + medico + testemunha), linguagem acessivel (Lei 15.378/2026 — Estatuto do Paciente), conformidade com STJ REsp 1.540.580 (dever de informar). Diferencia obrigacao de meio x resultado (PA-15). Para gerador especifico de 12 modalidades, ver skill `tcle-especialidades` (Tier 2). Aciona: TCLE, termo de consentimento, consentimento informado, dever de informar, REsp 1.540.580, estética cirurgica, anestesia, oncologia consentimento, reproducao assistida termo, telemedicina TCLE, transfusao consentimento, implante consentimento, ortodontia consentimento.
+  Validacao juridica do Termo de Consentimento Livre e Esclarecido (TCLE) por especialidade basica (cirurgia, anestesia, oncologia, estetica, telemedicina, reproducao assistida, ortodontia, implantodontia, transfusao, exame invasivo). Aciona: TCLE, termo de consentimento, consentimento informado, dever de informar, REsp 1.540.580, estética cirurgica, anestesia, oncologia consentimento, reproducao assistida termo, telemedicina TCLE, transfusao consentimento, implante consentimento, ortodontia consentimento.
 ---
 
 # ANALISE DE TCLE

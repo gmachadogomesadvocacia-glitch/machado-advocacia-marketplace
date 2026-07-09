@@ -1,15 +1,7 @@
 ---
 name: recurso-administrativo-carf
 description: >
-  Redige recurso a 2a instancia administrativa contra decisao da DRJ/orgao de
-  1a instancia. Aciona quando a impugnacao foi julgada improcedente e o cliente
-  quer recorrer: recurso voluntario ao CARF (federal), recurso especial a CSRF
-  por divergencia, ou recurso ao TIT/conselho de contribuintes (estadual/
-  municipal — validar). Cobre tempestividade, pressupostos de admissibilidade,
-  Sumula Vinculante 21/STF (inconstitucional exigir deposito/arrolamento como
-  condicao de recurso), sumulas CARF vinculantes, voto de qualidade pro-
-  contribuinte (Lei 13.988/2020, art. 19-E — validar). Lado padrao:
-  contribuinte. Mantem suspensa a exigibilidade (CTN 151, III).
+  Redige recurso a 2a instancia administrativa contra decisao da DRJ/orgao de 1a instancia. Aciona quando a impugnacao foi julgada improcedente e o cliente quer recorrer: recurso voluntario ao CARF (federal), recurso especial a CSRF por divergencia, ou recurso ao TIT/conselho de contribuintes (estadual/ municipal — validar). Cobre tempestividade, pressupostos de admissibilidade, Sumula Vinculante 21/STF (inconstitucional exigir deposito/arrolamento como condicao de recurso), sumulas CARF vinculantes, voto de qualidade pro- contribuinte (Lei 13.988/2020, art. 19-E — validar). Lado padrao: contribuinte. Mantem suspensa a exigibilidade (CTN 151, III).
 metadata:
   version: "0.1.0"
   area: "Direito Tributario"

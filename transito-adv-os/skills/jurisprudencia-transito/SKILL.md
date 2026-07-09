@@ -1,13 +1,7 @@
 ---
 name: jurisprudencia-transito
 description: >
-  Jurisprudencia de transito Tier 1 — validacao jurisprudencial (PA-01). Define a hierarquia
-  (STF > STJ > TJ), o metodo de confirmacao antes de citar e o catalogo de sumulas/teses uteis a defesa
-  do condutor/proprietario. Sumulas do STJ consagradas (validar enunciado e vigencia): Sum. 312 (dupla
-  notificacao — autuacao e penalidade), Sum. 127 (anotacao de infracao e licenciamento — validar),
-  Sum. 434, Sum. 510. Teses do CTB (dupla notificacao, ampla defesa, afericao de equipamento, decadencia
-  administrativa). Regra de ferro: NUNCA citar sumula, tema ou precedente sem validar. Ative ao precisar
-  de fundamento jurisprudencial, sumula, tese ou precedente para peca de transito.
+  Jurisprudencia de transito Tier 1 — validacao jurisprudencial (PA-01). Ative ao precisar de fundamento jurisprudencial, sumula, tese ou precedente para peca de transito.
 metadata:
   version: "0.1.0"
   area: "Direito de Transito"

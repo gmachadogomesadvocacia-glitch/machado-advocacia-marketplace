@@ -1,14 +1,7 @@
 ---
 name: resposta-acusacao
 description: >
-  Skill Tier 2 — resposta a acusacao (CPP 396 e 396-A), primeira defesa na acao penal, prazo de 10 dias
-  contados da citacao. Conteudo: preliminares (inepcia da denuncia CPP 41, falta de justa causa,
-  incompetencia, ilegitimidade de parte, nulidades, litispendencia/coisa julgada), mérito defensivo,
-  pedido de absolvicao sumaria (CPP 397 — atipicidade, excludentes de ilicitude/culpabilidade,
-  extincao da punibilidade), arrolamento de testemunhas (limite do CPP 401 — 8 na comum, 5 no sumario,
-  5 por fato no juri) e requerimento de diligencias/pericias. Distingue rejeicao x recebimento da
-  denuncia. Polo: defesa. Ative em citacao, denuncia recebida, resposta a acusacao, defesa previa,
-  absolvicao sumaria, inepcia, prazo de 10 dias.
+  Skill Tier 2 — resposta a acusacao (CPP 396 e 396-A), primeira defesa na acao penal, prazo de 10 dias contados da citacao. Ative em citacao, denuncia recebida, resposta a acusacao, defesa previa, absolvicao sumaria, inepcia, prazo de 10 dias.
 metadata:
   version: "0.1.0"
   area: "Direito Penal e Processo Penal"

@@ -1,12 +1,7 @@
 ---
 name: acordo-familia
 description: >
-  ACORDO-FAMILIA — Tier 2 (Produção). Redige acordos extrajudiciais e judiciais em Direito de
-  Família e Sucessões: acordo de divórcio consensual, acordo de guarda e alimentos, escritura
-  de inventário e partilha extrajudicial, acordo de dissolução de união estável, acordo de
-  reconhecimento e regulamentação de guarda entre pais não casados, e termos de conciliação
-  homologados em juízo. Acionar quando as partes chegaram a consenso e precisam formalizar
-  o acordo de forma juridicamente válida e segura.
+  ACORDO-FAMILIA — Tier 2 (Produção). Redige acordos extrajudiciais e judiciais em Direito de Família e Sucessões: acordo de divórcio consensual, acordo de guarda e alimentos... Acionar quando as partes chegaram a consenso e precisam formalizar o acordo de forma juridicamente válida e segura.
 metadata:
   version: "1.0.0"
 ---

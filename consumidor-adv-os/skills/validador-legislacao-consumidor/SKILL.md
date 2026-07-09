@@ -1,13 +1,7 @@
 ---
 name: validador-legislacao-consumidor
 description: >
-  VALIDADOR DE LEGISLACAO CONSUMERISTA — Skill Tier 1 (Protocolo P1). Emite o Selo de Validacao
-  Legal Previa antes de qualquer producao: confirma a vigencia do CDC e da lei especial aplicavel
-  (telecom/ANATEL, aereo/ANAC e Montreal, bancario/BACEN, L14.181 superendividamento, e-commerce),
-  valida sumulas e Temas do STJ pelo marco temporal do fato gerador e sinaliza o que precisa de
-  verificacao viva. Acione ANTES de qualquer peca, defesa, calculo ou parecer; quando o usuario
-  pedir para conferir norma/sumula/Tema; ou quando houver duvida de vigencia. Nenhuma skill de
-  producao roda sem o Selo EMITIDO.
+  VALIDADOR DE LEGISLACAO CONSUMERISTA — Skill Tier 1 (Protocolo P1). Acione ANTES de qualquer peca, defesa, calculo ou parecer; quando o usuario pedir para conferir norma/sumula/Tema; ou quando houver duvida de vigencia. Nenhuma skill de producao roda sem o Selo EMITIDO.
 metadata:
   version: "0.1.0"
   area: "Direito do Consumidor e Bancario"

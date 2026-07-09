@@ -1,13 +1,7 @@
 ---
 name: analise-trilateral
 description: >
-  ANALISE TRILATERAL PREVIDENCIARIA — Skill Tier 1 (Estado-Maior). Antes de qualquer peca
-  ou recurso, realiza a analise tridimensional do caso: (1) FATO — historico completo do
-  segurado com cronologia de vinculos, contribuicoes, adoecimento ou exposicao; (2) NEXO —
-  nexo causal entre fato e beneficio pretendido (ocupacional, medico-legal, contributivo);
-  (3) DIREITO — normas e jurisprudencia aplicaveis com identificacao de teses fortes e fracas
-  (Baloney Detection). Output e a matriz trilateral que alimenta todas as skills Tier 2.
-  Acionar imediatamente apos triagem-dogmatica em qualquer caso previdenciario.
+  ANALISE TRILATERAL PREVIDENCIARIA — Skill Tier 1 (Estado-Maior). Acionar imediatamente apos triagem-dogmatica em qualquer caso previdenciario.
 ---
 
 # ANALISE TRILATERAL PREVIDENCIARIA

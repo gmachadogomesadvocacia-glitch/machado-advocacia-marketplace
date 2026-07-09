@@ -1,7 +1,7 @@
 ---
 name: constituicao-sociedade-medica
 description: >
-  Consultivo para constituicao de sociedade medica/odontologica — tipo societario (LTDA pluripessoal, sociedade simples, LTDA unipessoal), contrato social, clausulas criticas (administracao, exclusao, sucessao, nao-concorrencia), registro no CRM/CRO (Res. CFM 1.493/1998 + Res. CFO 63/2005), CNPJ + alvara + vigilancia sanitaria. Aplica Lei 12.842/2013 (Ato Medico — vedacao de terceirizacao) + Lei 13.874/2019 (LTDA pluripessoal) + CC arts. 982-1.087 + Lei 5.764/71 (cooperativa). Distingue sociedade simples x empresaria (CC 982-983). Slot generico para tributacao (PA-20). Sucessao e clausulas anti-conflito sao nucleos. Aciona: constituicao clinica medica, sociedade medica, contrato social clinica, LTDA medica, Res. CFM 1.493, Lei 12.842, sociedade uniprofissional, registro CRM clinica, alvara sanitario, CNAE medico.
+  Consultivo para constituicao de sociedade medica/odontologica. Aciona: constituicao clinica medica, sociedade medica, contrato social clinica, LTDA medica, Res. CFM 1.493, Lei 12.842, sociedade uniprofissional, registro CRM clinica, alvara sanitario, CNAE medico.
 ---
 
 # CONSTITUICAO DE SOCIEDADE MEDICA/ODONTOLOGICA

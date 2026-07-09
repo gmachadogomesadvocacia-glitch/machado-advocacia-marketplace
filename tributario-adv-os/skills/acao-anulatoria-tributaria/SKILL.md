@@ -1,15 +1,7 @@
 ---
 name: acao-anulatoria-tributaria
 description: >
-  Redige acao anulatoria de debito fiscal (art. 38 da LEF; rito comum do CPC).
-  Aciona quando o cliente quer desconstituir judicialmente um lancamento, auto
-  de infracao ou CDA — antes ou durante a execucao fiscal — e nao cabe (ou nao
-  basta) a via administrativa nem o mandado de seguranca (que exige direito
-  liquido e certo / prova pre-constituida). Cobre cabimento, deposito do
-  montante integral facultativo que suspende a exigibilidade (CTN 151, II;
-  Sumula 112/STJ — em dinheiro), relacao com a execucao fiscal (conexao,
-  suspensao), teses de merito, tutela de urgencia/evidencia, valor da causa =
-  debito. Lado padrao: contribuinte (autor).
+  Redige acao anulatoria de debito fiscal (art. Aciona quando o cliente quer desconstituir judicialmente um lancamento, auto de infracao ou CDA — antes ou durante a execucao fiscal — e nao cabe (ou nao basta) a via administrativa nem o mandado de seguranca (que exige direito liquido e certo / prova pre-constituida). Cobre cabimento, deposito do montante integral facultativo que suspende a exigibilidade (CTN 151, II; Sumula 112/STJ — em dinheiro), relacao com a execucao fiscal (conexao, suspensao), teses de merito, tutela de urgencia/evidencia, valor da causa = debito. Lado padrao: contribuinte (autor).
 metadata:
   version: "0.1.0"
   area: "Direito Tributario"

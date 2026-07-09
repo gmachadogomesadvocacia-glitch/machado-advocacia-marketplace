@@ -1,12 +1,7 @@
 ---
 name: calculos-familia
 description: >
-  CALCULOS-FAMILIA — Tier 2 (Produção). Realiza cálculos jurídicos especializados em Direito
-  de Família e Sucessões: meação do cônjuge/companheiro, monte-mor e quinhões hereditários,
-  legítima e quota disponível, cálculo de alimentos (percentual × renda), ITCMD/{{UF}} (4%),
-  ITBI em {{CIDADE}}, atualização de dívidas alimentares, partilha de bens em cada
-  regime, compensação de passivos na dissolução. Acionar quando o usuário pedir cálculos de
-  partilha, herança, alimentos, tributos de transmissão ou atualização de débito alimentar.
+  CALCULOS-FAMILIA — Tier 2 (Produção). Realiza cálculos jurídicos especializados em Direito de Família e Sucessões: meação do cônjuge/companheiro, monte-mor e quinhões... Acionar quando o usuário pedir cálculos de partilha, herança, alimentos, tributos de transmissão ou atualização de débito alimentar.
 metadata:
   version: "1.0.0"
 ---

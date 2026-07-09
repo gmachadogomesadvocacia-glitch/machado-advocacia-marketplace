@@ -1,14 +1,7 @@
 ---
 name: defesa-investigacao-flagrante
 description: >
-  Skill Tier 2 — fase de investigacao/inquerito e prisao em flagrante. Cobre a analise do auto de prisao
-  em flagrante (APF — legalidade, lavratura, comunicacao em 24h ao juiz e ao MP), a audiencia de custodia
-  (CPP 310 — relaxamento da prisao ilegal, conversao em preventiva, liberdade provisoria com/sem fianca,
-  cautelares diversas CPP 319), o pedido de relaxamento de prisao (prisao ilegal), a liberdade provisoria
-  (CPP 321), o arbitramento/dispensa de fianca (CPP 322-350), nulidades do flagrante e o acompanhamento do
-  IP com garantia do direito ao silencio. Distingue estas medidas das vias do HC. Polo: defesa. Ative em
-  prisao em flagrante, auto de prisao, audiencia de custodia, relaxamento, liberdade provisoria, fianca,
-  inquerito policial, indiciamento, investigado preso.
+  Skill Tier 2 — fase de investigacao/inquerito e prisao em flagrante. Ative em prisao em flagrante, auto de prisao, audiencia de custodia, relaxamento, liberdade provisoria, fianca, inquerito policial, indiciamento, investigado preso.
 metadata:
   version: "0.1.0"
   area: "Direito Penal e Processo Penal"

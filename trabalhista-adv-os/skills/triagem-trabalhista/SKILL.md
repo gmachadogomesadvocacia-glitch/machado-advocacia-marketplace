@@ -1,7 +1,7 @@
 ---
 name: triagem-trabalhista
 description: >
-  TRIAGEM TRABALHISTA — Skill Tier 1, porta de entrada de todo caso. Diagnostica a fase processual e o tipo de tarefa e PERGUNTA se o cliente do escritorio e o reclamante (trabalhador que ajuiza) ou a reclamada (empresa/tomador que se defende). Grava o polo no CASO.md. Abre ou retoma a pasta do caso. Use no inicio de qualquer demanda trabalhista, caso novo, ou quando o usuario diz triagem, analisar caso trabalhista.
+  TRIAGEM TRABALHISTA — Skill Tier 1, porta de entrada de todo caso. Use no inicio de qualquer demanda trabalhista, caso novo, ou quando o usuario diz triagem, analisar caso trabalhista.
 ---
 
 # TRIAGEM TRABALHISTA

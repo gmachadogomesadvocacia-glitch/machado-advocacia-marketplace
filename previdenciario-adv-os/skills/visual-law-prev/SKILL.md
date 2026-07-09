@@ -1,14 +1,7 @@
 ---
 name: visual-law-prev
 description: >
-  VISUAL LAW PREVIDENCIARIO — Skill Tier 2 F. Produz resumos visuais, cronogramas,
-  timelines de beneficio, tabelas comparativas de regras de aposentadoria, diagramas
-  de fluxo de processo previdenciario, e infograficos de calculo de RMI para uso
-  em apresentacoes ao cliente, peticoes enriquecidas e material didatico. Usa ASCII/
-  Markdown estruturado (sem dependencia de biblioteca grafica). Protocolo Camada 2
-  (AIDA — Atencao/Interesse/Desejo/Acao). Acionar quando o usuario pedir um resumo
-  visual, timeline, tabela comparativa, fluxograma, ou qualquer saida visualmente
-  organizada sobre materia previdenciaria.
+  VISUAL LAW PREVIDENCIARIO — Skill Tier 2 F. Acionar quando o usuario pedir um resumo visual, timeline, tabela comparativa, fluxograma, ou qualquer saida visualmente organizada sobre materia previdenciaria.
 ---
 
 # VISUAL LAW PREVIDENCIARIO

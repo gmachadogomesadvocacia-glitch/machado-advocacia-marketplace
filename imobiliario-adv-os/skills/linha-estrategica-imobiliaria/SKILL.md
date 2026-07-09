@@ -1,13 +1,7 @@
 ---
 name: linha-estrategica-imobiliaria
 description: >
-  Linha estrategica imobiliaria Tier 1 — consolida a trilateral e a jurisprudencia e define a via e a
-  sequencia processual mais benefica ao polo do cliente. Avalia: notificacao extrajudicial previa
-  (constituicao em mora, denuncia), medida liminar/tutela cabivel, garantia/caucao, custo (sucumbencia,
-  valor da causa), tempo, foro (situacao do imovel — art. 47 CPC) e risco. Decide entre notificar antes
-  de ajuizar, possessoria x petitoria, despejo x cobranca, defesa na fiduciaria x anulatoria de leilao.
-  Entrega a tese central, as subsidiarias e os riscos, com a decisao documentada. Ative apos a
-  trilateral, quando o usuario pede a estrategia, a melhor via ou a sequencia do caso.
+  Linha estrategica imobiliaria Tier 1 — consolida a trilateral e a jurisprudencia e define a via e a sequencia processual mais benefica ao polo do cliente. Ative apos a trilateral, quando o usuario pede a estrategia, a melhor via ou a sequencia do caso.
 metadata:
   version: "0.1.0"
   area: "Direito Imobiliario e Locacao"

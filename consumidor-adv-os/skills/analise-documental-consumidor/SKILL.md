@@ -1,14 +1,7 @@
 ---
 name: analise-documental-consumidor
 description: >
-  ANALISE DOCUMENTAL CONSUMIDOR — Skill Tier 1 (Protocolo P2, Integridade Documental). Faz o
-  inventario e a aferição de integridade dos documentos do caso, monta o mapa de documentos
-  numerados "doc. N" pronto para citacao no texto e sinaliza documento essencial faltante como
-  [INFORMAR] (PA-15) — sem ele nao se analisa o pedido. Acione apos a triagem e o Selo P1, antes
-  de qualquer analise de merito; quando o usuario juntar contrato/fatura/extrato/print/protocolo,
-  pedir para conferir os documentos, montar o indice de provas ou numerar docs. Gatilhos: tenho os
-  documentos, anexei o contrato, segue a fatura/extrato, print do app, protocolo de atendimento,
-  comprovante de negativacao, SPC/Serasa, bilhete aereo, nota fiscal, ordem de servico, indice de docs.
+  ANALISE DOCUMENTAL CONSUMIDOR — Skill Tier 1 (Protocolo P2, Integridade Documental). Gatilhos: tenho os documentos, anexei o contrato, segue a fatura/extrato, print do app, protocolo de atendimento, comprovante de negativacao, SPC/Serasa, bilhete aereo, nota fiscal, ordem de servico, indice de docs.
 metadata:
   version: "0.1.0"
   area: "Direito do Consumidor e Bancario"

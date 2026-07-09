@@ -1,13 +1,7 @@
 ---
 name: jurisprudencia-imobiliaria
 description: >
-  Jurisprudencia imobiliaria Tier 1 — validacao jurisprudencial (PA-01). Confirma sumulas, Temas
-  repetitivos e precedentes antes de qualquer citacao, na hierarquia STF > STJ > TJ. Lista as sumulas
-  do STJ consagradas em Direito Imobiliario e Locacao (Sum. 543 restituicao no distrato, Sum. 239
-  adjudicacao compulsoria, Sum. 308 hipoteca do agente financeiro, Sum. 84 embargos de terceiro por
-  compromisso sem registro, Sum. 380 mora na revisional, Sum. 619 detencao de bem publico, Sum. 214 fiador e aditamento,
-  Sum. 487/637, Sum. 335 benfeitorias e renuncia em locacao). Regra absoluta: nunca citar sem validar.
-  Ative ao buscar sumula, Tema, precedente ou fundamento jurisprudencial imobiliario.
+  Jurisprudencia imobiliaria Tier 1 — validacao jurisprudencial (PA-01). Ative ao buscar sumula, Tema, precedente ou fundamento jurisprudencial imobiliario.
 metadata:
   version: "0.1.0"
   area: "Direito Imobiliario e Locacao"

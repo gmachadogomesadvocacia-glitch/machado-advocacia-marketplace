@@ -1,7 +1,7 @@
 ---
 name: memoria-de-caso-trabalhista
 description: >
-  MEMORIA DE CASO TRABALHISTA — Skill Tier 1. Cria e mantem a pasta de cada caso (casos/<cliente>-x-<adverso>/), o CASO.md (polo, partes, dados do contrato, fase, linha estrategica, prazos) e o MEMORY.md evolutivo. Garante a compartimentacao entre casos. Use ao abrir um caso, retomar um caso, atualizar o estado de um caso ou registrar memoria do caso.
+  MEMORIA DE CASO TRABALHISTA — Skill Tier 1. Use ao abrir um caso, retomar um caso, atualizar o estado de um caso ou registrar memoria do caso.
 ---
 
 # MEMORIA DE CASO TRABALHISTA

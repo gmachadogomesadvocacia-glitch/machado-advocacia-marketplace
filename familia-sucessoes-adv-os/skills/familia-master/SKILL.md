@@ -1,13 +1,7 @@
 ---
 name: familia-master
 description: >
-  FAMILIA-MASTER — Tier 0 (Orquestração Central). Governa o pipeline completo de Direito de
-  Família e Sucessões. Acionado quando o usuário menciona divórcio, separação, guarda de filhos,
-  alimentos, pensão alimentícia, partilha de bens, inventário, herança, testamento, união estável,
-  interdição, curatela, planejamento sucessório, holding familiar, doação com usufruto, ou qualquer
-  questão envolvendo relações familiares e transmissão de patrimônio. Orquestra as 4 Camadas de
-  Governança e 25 skills especializadas. Use esta skill sempre que o assunto envolver vínculos
-  familiares, dissolução do casamento ou união, disputas sobre filhos ou patrimônio familiar.
+  FAMILIA-MASTER — Tier 0 (Orquestração Central). Use esta skill sempre que o assunto envolver vínculos familiares, dissolução do casamento ou união, disputas sobre filhos ou patrimônio familiar.
 metadata:
   version: "1.0.0"
   area: "Direito de Família e Sucessões"

@@ -1,14 +1,7 @@
 ---
 name: mandado-seguranca-tributario
 description: >
-  Redige mandado de seguranca em materia tributaria contra ato de autoridade
-  fiscal coatora (Lei 12.016/2009). Aciona quando ha direito liquido e certo
-  com prova pre-constituida (documental, sem dilacao) — ex.: exigencia ilegal de
-  tributo, recusa de certidao, obice a compensacao, cobranca contra tese firmada.
-  Cobre liminar (fumus + periculum), prazo decadencial de 120 dias (atos
-  comissivos) x MS preventivo/relacao continuativa (nao decai), Sumulas 213 e
-  460/STJ (compensacao) e 269/271/STF (vedacao de efeito patrimonial pretorito)
-  — validar. MS preventivo x repressivo. Lado padrao: contribuinte (impetrante).
+  Redige mandado de seguranca em materia tributaria contra ato de autoridade fiscal coatora (Lei 12.016/2009). Aciona quando ha direito liquido e certo com prova pre-constituida (documental, sem dilacao) — ex.: exigencia ilegal de tributo, recusa de certidao, obice a compensacao, cobranca contra tese firmada. Cobre liminar (fumus + periculum), prazo decadencial de 120 dias (atos comissivos) x MS preventivo/relacao continuativa (nao decai), Sumulas 213 e 460/STJ (compensacao) e 269/271/STF (vedacao de efeito patrimonial pretorito) — validar. MS preventivo x repressivo. Lado padrao: contribuinte (impetrante).
 metadata:
   version: "0.1.0"
   area: "Direito Tributario"

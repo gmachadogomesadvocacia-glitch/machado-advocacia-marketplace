@@ -1,14 +1,7 @@
 ---
 name: linha-estrategica-civel
 description: >
-  Linha estrategica civel Tier 1 — consolida a trilateral, a jurisprudencia e os calculos e define a VIA
-  e o PEDIDO. Eixos: notificacao previa/constituicao em mora, via adequada (processo de conhecimento x
-  monitoria x execucao; acao declaratoria, condenatoria, constitutiva), tutela provisoria cabivel
-  (urgencia/evidencia), cumulacao de pedidos (CPC 327), valor da causa, foro (CPC 46/53), custo
-  (sucumbencia) e prescricao. Decide quando notificar antes de ajuizar e entre monitoria, cobranca e
-  execucao. Produz a decisao estrategica documentada e aponta a porta de producao. Ative apos a analise
-  trilateral, quando o usuario pedir a estrategia, a melhor via, qual acao propor, a tese central ou a
-  linha de defesa.
+  Linha estrategica civel Tier 1 — consolida a trilateral, a jurisprudencia e os calculos e define a VIA e o PEDIDO. Ative apos a analise trilateral, quando o usuario pedir a estrategia, a melhor via, qual acao propor, a tese central ou a linha de defesa.
 metadata:
   version: "0.1.0"
   area: "Direito Civil e Processo Civil"

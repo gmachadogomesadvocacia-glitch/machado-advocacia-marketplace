@@ -1,7 +1,7 @@
 ---
 name: quesitos-assistente-tecnico
 description: >
-  QUESITOS E ASSISTENTE TECNICO — Skill Tier 2 transversal. Elabora quesitos para a pericia e orienta a atuacao do assistente tecnico, alinhados a tese do polo do cliente. Use quando menciona quesitos de pericia, assistente tecnico, formular quesitos.
+  QUESITOS E ASSISTENTE TECNICO — Skill Tier 2 transversal. Use quando menciona quesitos de pericia, assistente tecnico, formular quesitos.
 ---
 
 # QUESITOS E ASSISTENTE TECNICO

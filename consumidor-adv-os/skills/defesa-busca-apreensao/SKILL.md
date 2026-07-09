@@ -1,13 +1,7 @@
 ---
 name: defesa-busca-apreensao
 description: >
-  DEFESA BUSCA E APREENSAO — Skill Tier 2 (eixo bancario, lado consumidor/devedor). Redige a defesa do
-  devedor na acao de busca e apreensao de bem alienado fiduciariamente (DL 911/69): purgacao da mora pela
-  INTEGRALIDADE da divida (vencidas + vincendas) em 5 dias da execucao da liminar, contestacao por
-  descaracterizacao da mora (encargos abusivos — conexao com revisional-bancaria), invalidade da mora por
-  vicio de notificacao/protesto, restituicao do bem ou conversao em perdas e danos, e tutela para manter a
-  posse. Acione quando o cliente e o consumidor/devedor e o caso envolve busca e apreensao, alienacao
-  fiduciaria, financiamento de veiculo, retomada de bem, liminar de apreensao. Exige Selo P1 e o contrato.
+  DEFESA BUSCA E APREENSAO — Skill Tier 2 (eixo bancario, lado consumidor/devedor). Acione quando o cliente e o consumidor/devedor e o caso envolve busca e apreensao, alienacao fiduciaria, financiamento de veiculo, retomada de bem, liminar de apreensao. Exige Selo P1 e o contrato.
 metadata:
   version: "0.1.0"
   area: "Direito do Consumidor e Bancario"

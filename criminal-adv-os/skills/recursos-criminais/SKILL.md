@@ -1,15 +1,7 @@
 ---
 name: recursos-criminais
 description: >
-  Skill Tier 2 — sistema recursal penal. Cobre apelacao (CPP 593 — sentenca condenatoria/absolutoria;
-  interposicao em 5 dias, razoes em 8), recurso em sentido estrito / RESE (CPP 581 — rol taxativo:
-  rejeicao da denuncia, pronuncia, decisoes interlocutorias; 5 dias + razoes em 2), embargos de declaracao
-  (CPP 619 — omissao, contradicao, ambiguidade, obscuridade; 2 dias), embargos infringentes e de nulidade
-  (CPP 609 § unico — quando ha voto vencido pro reu), recurso ordinario em HC (RHC) e nota sobre REsp/RE e
-  agravo em recurso especial/extraordinario. Trata de efeitos (suspensivo/devolutivo/regressivo) e da
-  vedacao da reformatio in pejus (CPP 617). Define quando cabe cada recurso e a estrutura de cada um. Polo:
-  defesa (ou assistencia, conforme PA-10). Ative em apelacao, RESE, embargos, recurso criminal, prazo
-  recursal, voto vencido, reformatio in pejus.
+  Skill Tier 2 — sistema recursal penal. Cobre apelacao (CPP 593 — sentenca condenatoria/absolutoria; interposicao em 5 dias, razoes em 8), recurso em sentido estrito / RESE (CPP 581 — rol taxativo: rejeicao da denuncia, pronuncia, decisoes interlocutorias; 5 dias + razoes em 2), embargos de declaracao (CPP 619 — omissao, contradicao, ambiguidade, obscuridade; 2 dias), embargos infringentes e de nulidade (CPP 609 § unico — quando ha voto vencido pro reu), recurso ordinario em HC (RHC) e nota sobre REsp/RE e agravo em recurso especial/extraordinario. Ative em apelacao, RESE, embargos, recurso criminal, prazo recursal, voto vencido, reformatio in pejus.
 metadata:
   version: "0.1.0"
   area: "Direito Penal e Processo Penal"

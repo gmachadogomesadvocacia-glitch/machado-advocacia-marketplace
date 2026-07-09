@@ -1,14 +1,7 @@
 ---
 name: cobranca-condominial
 description: >
-  Cobranca de cotas condominiais (taxas ordinarias/extraordinarias, fundo de obras,
-  multas) — natureza PROPTER REM: a obrigacao acompanha o imovel (adquirente responde;
-  arrematante conforme edital/Tema). Via: execucao de titulo extrajudicial (CPC 784, X)
-  ou acao de cobranca. Multa moratoria CC 1.336 §1o (2%); condomino antissocial CC 1.337.
-  Legitimidade do sindico. Penhora do proprio imovel mesmo bem de familia (excecao Lei
-  8.009 art. 3o, IV). Acione quando: cota condominial, taxa de condominio, inadimplencia
-  de condomino, fundo de obras, multa condominial, cobranca de condominio, execucao de
-  condominio, propter rem, condomino antissocial. Side-aware condominio x condomino.
+  Cobranca de cotas condominiais (taxas ordinarias/extraordinarias, fundo de obras, multas). Acione quando: cota condominial, taxa de condominio, inadimplencia de condomino, fundo de obras, multa condominial, cobranca de condominio, execucao de condominio, propter rem, condomino antissocial. Side-aware condominio x condomino.
 metadata:
   version: "0.1.0"
   area: "Direito Imobiliario e Locacao"

@@ -1,17 +1,7 @@
 ---
 name: roteador-adv-os
 description: >
-  ROTEADOR CENTRAL Adv-OS — porta de entrada unica. ATIVE SEMPRE que o usuario
-  descrever um fato, caso, duvida juridica, documento, ou pedir uma peca / analise /
-  calculo SEM ter dito explicitamente a area ou o plugin; e tambem quando o tema
-  parecer AMBIGUO entre areas. Classifica o relato entre as 11 areas do escritorio
-  (tributario, previdenciario, familia/sucessoes, recuperacao judicial, consumidor,
-  imobiliario, criminal, civel, transito, usucapiao, isencao de IR por doenca) e
-  roteia para o plugin correto, mostrando os SINAIS usados e CONFIRMANDO antes de
-  produzir. Gatilhos tipicos: "meu cliente", "tenho um caso", "recebi uma", "fui
-  autuado/citado/intimado", "me processaram", "quero entrar com", "cabe acao",
-  "como faco para", ou qualquer descricao de fato juridico sem plugin definido.
-  NAO ative se o usuario ja indicou a area/plugin (ai va direto ao plugin).
+  ROTEADOR CENTRAL Adv-OS — porta de entrada unica. Gatilhos tipicos: "meu cliente", "tenho um caso", "recebi uma", "fui autuado/citado/intimado", "me processaram", "quero entrar com", "cabe acao", "como faco para", ou qualquer descricao de fato juridico sem plugin definido. NAO ative se o usuario ja indicou a area/plugin (ai va direto ao plugin).
 ---
 
 # ROTEADOR CENTRAL Adv-OS

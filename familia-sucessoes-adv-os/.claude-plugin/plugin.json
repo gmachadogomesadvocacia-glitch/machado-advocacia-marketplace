@@ -1,6 +1,6 @@
 {
   "name": "familia-sucessoes-adv-os",
-  "version": "2.0.2",
+  "version": "2.0.3",
   "description": "Sistema operacional do advogado de Direito de Familia e Sucessoes brasileiro, no padrao Adv-OS. Cobre divorcio, guarda, alimentos, uniao estavel, interdicao/curatela, inventario, arrolamento e planejamento sucessorio. 25 skills com 4 Camadas de Governanca, 20 Proibicoes Absolutas, FIRAC Familia, Side-Awareness e Suprema Corte R1-R4; engine com persona em runtime (hooks/scripts/templates) e 12 commands. Onboarding via /start-familia, orquestracao via /familia-master.",
   "author": {
     "name": "Machado Advocacia"

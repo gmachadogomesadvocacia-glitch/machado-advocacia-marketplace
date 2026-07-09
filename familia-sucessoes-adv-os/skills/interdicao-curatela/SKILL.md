@@ -1,12 +1,7 @@
 ---
 name: interdicao-curatela
 description: >
-  INTERDICAO-CURATELA — Tier 2 (Produção). Aborda a ação de interdição judicial, curatela,
-  Tomada de Decisão Apoiada (TDA), curatela de nascituro, tutela de menores, e questões
-  correlatas de incapacidade civil. Integra a Lei Brasileira de Inclusão (LBI — L13.146/2015)
-  e a Convenção de Nova York (CRPD). Acionar quando o caso envolver incapacidade civil,
-  necessidade de representação legal de maior incapaz, ou quando avaliar entre interdição
-  plena e Tomada de Decisão Apoiada.
+  INTERDICAO-CURATELA — Tier 2 (Produção). Acionar quando o caso envolver incapacidade civil, necessidade de representação legal de maior incapaz, ou quando avaliar entre interdição plena e Tomada de Decisão Apoiada.
 metadata:
   version: "1.0.0"
 ---

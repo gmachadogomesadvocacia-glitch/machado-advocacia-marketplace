@@ -1,12 +1,7 @@
 ---
 name: estilo-juridico-consumidor
 description: >
-  ESTILO JURIDICO CONSUMERISTA — Skill Tier 1 transversal (Camada 3). Define o padrao de redacao de
-  toda peca, defesa, parecer e calculo do plugin: estrutura FIRAC, peca enxuta (~5 paginas),
-  documentos numerados "doc. N" e citados por numero, antecipacao adversarial dura, tom calibrado
-  pelo polo e pela persona, dano moral quantificado. Acione quando redigir qualquer peca, quando o
-  usuario pedir para revisar a redacao/estilo, ou para padronizar o texto antes da entrega. Apoia
-  todas as skills de producao do Tier 2.
+  ESTILO JURIDICO CONSUMERISTA — Skill Tier 1 transversal (Camada 3). Acione quando redigir qualquer peca, quando o usuario pedir para revisar a redacao/estilo, ou para padronizar o texto antes da entrega. Apoia todas as skills de producao do Tier 2.
 metadata:
   version: "0.1.0"
   area: "Direito do Consumidor e Bancario"

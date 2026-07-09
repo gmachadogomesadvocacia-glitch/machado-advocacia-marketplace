@@ -1,12 +1,7 @@
 ---
 name: tutela-urgencia-familia
 description: >
-  TUTELA-URGENCIA-FAMILIA — Tier 2 (Urgência). Redige pedidos de tutela de urgência em ações
-  de família e sucessões: alimentos provisionais (art. 4º Lei 5.478/1968), alimentos gravídicos
-  (Lei 11.804/2008), guarda liminar (art. 300 CPC), medida protetiva de urgência (Lei 11.340/2006),
-  arresto ou indisponibilidade de bens para proteger a partilha, suspensão de alienação de bens
-  do espólio, tutela antecipada em inventário. Acionar sempre que houver urgência que não possa
-  aguardar o processamento ordinário.
+  TUTELA-URGENCIA-FAMILIA — Tier 2 (Urgência). Acionar sempre que houver urgência que não possa aguardar o processamento ordinário.
 metadata:
   version: "1.0.0"
 ---

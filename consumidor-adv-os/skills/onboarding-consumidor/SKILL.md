@@ -1,12 +1,7 @@
 ---
 name: onboarding-consumidor
 description: >
-  ONBOARDING CONSUMIDOR — Skill Tier 1, wizard de configuracao do plugin no ambiente do escritorio.
-  Conduz perguntas estruturadas para criar a pasta consumidor/ com a identidade do advogado (nome,
-  OAB, cidade/UF), polos de atuacao (consumidor/fornecedor/ambos), eixos do consumo, tom de voz,
-  modo de melhor saida e ferramentas. Gera persona.md, config.md, a pasta casos/ e aponta
-  CONSUM_PERSONA no settings.local.json. Acione quando o operador disser configurar consumidor,
-  instalar, primeira vez, /start-consumidor, ou onboarding. Wizard travado em CONSUMIDOR.
+  ONBOARDING CONSUMIDOR — Skill Tier 1, wizard de configuracao do plugin no ambiente do escritorio. Acione quando o operador disser configurar consumidor, instalar, primeira vez, /start-consumidor, ou onboarding. Wizard travado em CONSUMIDOR.
 metadata:
   version: "0.1.0"
   area: "Direito do Consumidor e Bancario"

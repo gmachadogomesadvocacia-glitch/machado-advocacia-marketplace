@@ -1,12 +1,7 @@
 ---
 name: memoria-de-caso-isencao-ir
 description: >
-  MEMORIA DE CASO ISENCAO-IR — Skill Tier 1 invariante (Protocolo P3). Gerencia o CASO.md (estado vivo)
-  e o MEMORY.md (decisoes) compartimentados por cliente na pasta unificada `<CASE_ROOT>/<slug>/`.
-  Operacionaliza a PA-10: dado de SAUDE e SENSIVEL (LGPD art. 11 + sigilo) — pasta gitignored e ALERTA
-  AGRESSIVO se o workspace for sincronizado (OneDrive/iCloud/Drive/Dropbox). Suporta novo/retomar/listar/
-  arquivar. Acione ao abrir caso, retomar caso, atualizar o CASO.md, registrar decisao, ou ao fim de cada
-  fase. Gatilhos: novo caso de isencao, abrir CASO.md, memoria do caso, retomar caso, /caso-isencao-ir.
+  MEMORIA DE CASO ISENCAO-IR — Skill Tier 1 invariante (Protocolo P3). Gatilhos: novo caso de isencao, abrir CASO.md, memoria do caso, retomar caso, /caso-isencao-ir.
 metadata:
   version: "0.1.0"
   area: "Isencao de IRPF por Doenca Grave"

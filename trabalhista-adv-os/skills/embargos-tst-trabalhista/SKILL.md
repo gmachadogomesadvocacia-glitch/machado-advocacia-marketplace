@@ -1,7 +1,7 @@
 ---
 name: embargos-tst-trabalhista
 description: >
-  EMBARGOS NO TST — Skill Tier 2 recursal transversal. Produz os Embargos a SDI-1 (art. 894 CLT, divergencia entre Turmas do TST), os Embargos infringentes da SDC (dissidio coletivo) e a impugnacao/contrarrazoes aos embargos. Prazo: 8 dias uteis. Use quando menciona embargos no TST, embargos a SDI, embargos de divergencia, embargos infringentes.
+  EMBARGOS NO TST — Skill Tier 2 recursal transversal. Use quando menciona embargos no TST, embargos a SDI, embargos de divergencia, embargos infringentes.
 ---
 
 # EMBARGOS NO TST

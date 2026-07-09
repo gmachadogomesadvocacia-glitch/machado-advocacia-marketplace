@@ -1,13 +1,7 @@
 ---
 name: consignatoria-locaticia
 description: >
-  Acao de consignacao em pagamento de alugueis e acessorios e/ou DAS CHAVES (art. 67 Lei
-  8.245), quando ha recusa do locador em receber, duvida sobre quem e o credor, ou para
-  fazer cessar a responsabilidade locaticia mediante entrega das chaves. Deposito,
-  purgacao e pedido. Distincao da consignacao comum (CPC 539). Acione quando: locador se
-  recusa a receber aluguel, consignar aluguel, consignacao de chaves, entregar chaves em
-  juizo, duvida sobre o credor do aluguel, cessar responsabilidade do locatario, deposito
-  de alugueis. Side-aware locatario (autor/consignante) x locador (reu/consignatario).
+  Acao de consignacao em pagamento de alugueis e acessorios e/ou DAS CHAVES (art. Acione quando: locador se recusa a receber aluguel, consignar aluguel, consignacao de chaves, entregar chaves em juizo, duvida sobre o credor do aluguel, cessar responsabilidade do locatario, deposito de alugueis. Side-aware locatario (autor/consignante) x locador (reu/consignatario).
 metadata:
   version: "0.1.0"
   area: "Direito Imobiliario e Locacao"

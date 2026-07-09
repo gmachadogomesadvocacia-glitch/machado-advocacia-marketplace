@@ -1,12 +1,7 @@
 ---
 name: planejamento-sucessorio
 description: >
-  PLANEJAMENTO-SUCESSORIO — Tier 2 (Produção). Estrutura o planejamento sucessório e patrimonial
-  preventivo: testamento público e particular, doação com reserva de usufruto, holding familiar
-  (LTDA ou S.A.), partilha em vida (art. 2.018 CC), pacto antenupcial, fideicomisso, substituição
-  testamentária. Analisa ITCMD/{{UF}}, ITBI, IR na transmissão, e estruturas para otimização
-  tributária lícita. Acionar quando o cliente quiser organizar a transmissão do seu patrimônio
-  de forma preventiva, reduzir conflitos familiares futuros e proteger a legítima.
+  PLANEJAMENTO-SUCESSORIO — Tier 2 (Produção). Acionar quando o cliente quiser organizar a transmissão do seu patrimônio de forma preventiva, reduzir conflitos familiares futuros e proteger a legítima.
 metadata:
   version: "1.0.0"
 ---

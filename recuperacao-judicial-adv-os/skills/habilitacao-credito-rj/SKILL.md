@@ -1,15 +1,7 @@
 ---
 name: habilitacao-credito-rj
 description: >
-  HABILITACAO-CREDITO-RJ — Tier 2 (Produção). Skill geral de habilitação,
-  impugnação e divergência de créditos no QGC, para QUALQUER classe de
-  credor (não-trabalhista). Para credor TRABALHISTA, a porta de entrada
-  é `credor-trabalhista-rj` (eixo prioritário). Esta skill cobre os 4
-  sub-fluxos explícitos: §A divergência administrativa (art. 7º §1º),
-  §B impugnação judicial (art. 8º), §C habilitação retardatária (art. 10),
-  §D reserva pelo art. 6º §2º. Antes de redigir, invoca
-  `via-processual-rj` para decidir a via. Atua pelo credor (habilitando
-  ou impugnando QGC) ou pelo devedor/AJ (impugnando créditos fraudulentos).
+  HABILITACAO-CREDITO-RJ — Tier 2 (Produção). Skill geral de habilitação, impugnação e divergência de créditos no QGC, para QUALQUER classe de credor (não-trabalhista). Para credor TRABALHISTA, a porta de entrada é `credor-trabalhista-rj` (eixo prioritário). Esta skill cobre os 4 sub-fluxos explícitos: §A divergência administrativa (art. 7º §1º), §B impugnação judicial (art. 8º), §C habilitação retardatária (art. 10), §D reserva pelo art. 6º §2º. Antes de redigir, invoca `via-processual-rj` para decidir a via. Atua pelo credor (habilitando ou impugnando QGC) ou pelo devedor/AJ (impugnando créditos fraudulentos).
 ---
 
 # HABILITACAO-CREDITO-RJ

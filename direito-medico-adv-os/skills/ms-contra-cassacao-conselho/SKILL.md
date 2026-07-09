@@ -1,7 +1,7 @@
 ---
 name: ms-contra-cassacao-conselho
 description: >
-  Mandado de seguranca contra ato de Conselho Profissional (CRM/CRO/COFEN/COFFITO/CFF) que aplique cassacao, suspensao do exercicio profissional ou ato analogo lesivo a direito liquido e certo. Foro: Justica Federal (CF art. 109 I e VIII + Tema 258 STF — autarquia federal). Aplica Lei 12.016/2009 (MS). Teses: violacao do devido processo (CF 5o LV), cerceamento de defesa, ausencia de motivacao adequada (Lei 9.784 art. 50), desproporcionalidade da sancao (CF 5o LIV), prescricao etica (5a — Res. CFM 2.145 art. 32 / Res. CFO 71 art. 35), nulidade por composicao indevida do colegiado, contradicao com decisao penal absolutoria (CC art. 935). Tutela de urgencia para suspender efeitos da cassacao/suspensao (Lei 12.016 art. 7o III). Prazo decadencial 120 dias (Lei 12.016 art. 23). Aciona: MS contra CRM, MS contra CRO, mandado seguranca conselho, cassacao medica, suspensao etica, suspensao preventiva, CF 109 VIII, Lei 12.016, devido processo PED.
+  Mandado de seguranca contra ato de Conselho Profissional (CRM/CRO/COFEN/COFFITO/CFF) que aplique cassacao, suspensao do exercicio profissional ou ato analogo lesivo a direito liquido e certo. Aciona: MS contra CRM, MS contra CRO, mandado seguranca conselho, cassacao medica, suspensao etica, suspensao preventiva, CF 109 VIII, Lei 12.016, devido processo PED.
 ---
 
 # MS CONTRA CASSACAO/SUSPENSAO EM CONSELHO PROFISSIONAL

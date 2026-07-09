@@ -1,14 +1,7 @@
 ---
 name: acidentario-do-trabalho
 description: >
-  ACIDENTARIO DO TRABALHO — Skill Tier 2 E. Cobre o direito acidentario previdenciario:
-  acidente tipico e doenca ocupacional (NTEP — Nexo Tecnico Epidemiologico), CAT (Comunicacao
-  de Acidente de Trabalho), beneficios acidentarios (B91/B94 acidentarios — sem carencia,
-  maior RMI), estabilidade provisoria de 12 meses (art. 118 Lei 8.213), reabilitacao
-  profissional (B94), auxilio-acidente (B94 sequela permanente), FAP (Fator Acidentario
-  de Prevencao), acao regressiva do INSS contra o empregador, e nexo causal em LER/DORT.
-  Acionar quando o caso envolver acidente de trabalho, doenca ocupacional, CAT, ou
-  beneficio acidentario.
+  ACIDENTARIO DO TRABALHO — Skill Tier 2 E. Acionar quando o caso envolver acidente de trabalho, doenca ocupacional, CAT, ou beneficio acidentario.
 ---
 
 # ACIDENTARIO DO TRABALHO

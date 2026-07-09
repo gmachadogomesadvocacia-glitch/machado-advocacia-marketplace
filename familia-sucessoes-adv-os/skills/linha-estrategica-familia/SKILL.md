@@ -1,12 +1,7 @@
 ---
 name: linha-estrategica-familia
 description: >
-  LINHA-ESTRATEGICA-FAMILIA — Transversal (Estratégia). Define a linha estratégica processual
-  e extrajudicial do caso de família ou sucessões: análise do polo e interesses do cliente,
-  viabilidade das pretensões, sequência ideal de atos, pontos fortes e vulnerabilidades,
-  teses principais e subsidiárias, estratégia de acordo vs. contencioso, e projeção de
-  resultados. Acionar quando o advogado precisar definir ou revisar a estratégia de um caso,
-  avaliar viabilidade antes de ajuizar, ou decidir entre caminho judicial e extrajudicial.
+  LINHA-ESTRATEGICA-FAMILIA — Transversal (Estratégia). Acionar quando o advogado precisar definir ou revisar a estratégia de um caso, avaliar viabilidade antes de ajuizar, ou decidir entre caminho judicial e extrajudicial.
 metadata:
   version: "1.0.0"
 ---

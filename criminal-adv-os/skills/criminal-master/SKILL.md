@@ -1,14 +1,7 @@
 ---
 name: criminal-master
 description: >
-  CRIMINAL MASTER — Skill orquestradora Tier 0, sempre ativa em qualquer demanda de Direito Penal ou
-  Processo Penal. Carrega a Hierarquia das 4 Camadas, as Proibicoes Absolutas, os Protocolos e a Suprema
-  Corte R1-R4. Side-aware: defesa (investigado/reu/sentenciado) x assistencia de acusacao (vitima).
-  Cobre as 6 fases (investigacao/inquerito, acao penal, tribunal do juri, recursos, execucao penal,
-  acordos despenalizadores). Ative quando o usuario mencionar crime, delito, inquerito, flagrante,
-  prisao, habeas corpus, denuncia, queixa-crime, acao penal, juri, dosimetria, pena, prescricao penal,
-  recurso/apelacao, execucao penal/LEP, progressao, livramento, ANPP, transacao penal, sursis, Lei
-  9.099, drogas, Maria da Penha, reu, vitima ou Ministerio Publico.
+  CRIMINAL MASTER — Skill orquestradora Tier 0, sempre ativa em qualquer demanda de Direito Penal ou Processo Penal. Ative quando o usuario mencionar crime, delito, inquerito, flagrante, prisao, habeas corpus, denuncia, queixa-crime, acao penal, juri, dosimetria, pena, prescricao penal, recurso/apelacao, execucao penal/LEP, progressao, livramento, ANPP, transacao penal, sursis, Lei 9.099, drogas, Maria da Penha, reu, vitima ou Ministerio Publico.
 metadata:
   version: "0.1.0"
   area: "Direito Penal e Processo Penal"

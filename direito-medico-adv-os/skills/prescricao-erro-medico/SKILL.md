@@ -1,7 +1,7 @@
 ---
 name: prescricao-erro-medico
 description: >
-  Skill especializada em prescricao em erro medico/odontologico. Distingue 3 anos CC art. 206 §3o V (medico PF autonomo, relacao nao-consumerista) vs 5 anos CDC art. 27 (hospital/clinica/operadora/relacao consumerista). Aplica STJ Sum. 278 (actio nata — termo inicial = ciencia inequivoca do dano), EREsp 1.385.732 (matérias divergentes), REsp 1.708.628/RS (hospital privado em relacao consumerista: 5 anos CDC art. 27 — nao 3 do CC). Trata efeito lesivo continuado (sequela), morte do paciente (sucessao + termo inicial), interrupcao por acao penal (CC art. 200), suspensao por requerimento administrativo. Aciona: prescricao erro medico, prazo prescricional medico, 3 anos CC, 5 anos CDC, actio nata, Sum 278, ciencia inequivoca do dano, EREsp 1.385.732, prescricao odonto, prescricao hospital, prescricao operadora.
+  Skill especializada em prescricao em erro medico/odontologico. Aciona: prescricao erro medico, prazo prescricional medico, 3 anos CC, 5 anos CDC, actio nata, Sum 278, ciencia inequivoca do dano, EREsp 1.385.732, prescricao odonto, prescricao hospital, prescricao operadora.
 ---
 
 # PRESCRICAO ERRO MEDICO

@@ -1,14 +1,7 @@
 ---
 name: calculos-criminais
 description: >
-  Calculos criminais Tier 1 — nucleo de calculo penal. (a) PRESCRICAO: pretensao punitiva (abstrata
-  pela pena maxima; retroativa/superveniente pela pena concreta) x executoria; prazos CP 109; marcos
-  interruptivos CP 117; reducao pela metade do prazo (menor de 21 / maior de 70 — CP 115); causas de
-  aumento/diminuicao. (b) DOSIMETRIA TRIFASICA (CP 68): 1a fase CJ do CP 59 (pena-base), 2a
-  agravantes/atenuantes (CP 61-66; Sum. 231 STJ), 3a causas de aumento/diminuicao; multa; regime inicial
-  (CP 33; Sum. 440/719); substituicao por restritivas (CP 44). (c) detracao (CP 42) e remicao (LEP 126).
-  (d) progressao (art. 112 LEP, Lei 13.964). Memoria de calculo passo a passo. Ative para prescricao,
-  dosimetria, pena, regime, detracao, remicao ou progressao.
+  Calculos criminais Tier 1 — nucleo de calculo penal. Ative para prescricao, dosimetria, pena, regime, detracao, remicao ou progressao.
 metadata:
   version: "0.1.0"
   area: "Direito Penal e Processo Penal"

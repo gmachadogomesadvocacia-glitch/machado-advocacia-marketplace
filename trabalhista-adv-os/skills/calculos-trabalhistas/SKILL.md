@@ -1,7 +1,7 @@
 ---
 name: calculos-trabalhistas
 description: >
-  CALCULOS TRABALHISTAS — Skill Tier 2 transversal. Engine de calculo de verbas e reflexos trabalhistas: rescisorias, horas extras, adicionais, FGTS, juros e correcao monetaria (IPCA-E + Selic, Tema ADC 58/59 STF). Nunca calcula sem dado-base. Use quando menciona calculo trabalhista, liquidar valores, verbas rescisorias, valor da causa, planilha de calculo.
+  CALCULOS TRABALHISTAS — Skill Tier 2 transversal. Use quando menciona calculo trabalhista, liquidar valores, verbas rescisorias, valor da causa, planilha de calculo.
 ---
 
 # CALCULOS TRABALHISTAS

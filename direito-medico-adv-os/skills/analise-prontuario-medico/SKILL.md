@@ -1,7 +1,7 @@
 ---
 name: analise-prontuario-medico
 description: >
-  Leitura juridica probatoria do prontuario medico (Res. CFM 1.821/2007 + LGPD art. 11 + art. 154 CP) — NUNCA emite juizo clinico (PA-03), apenas mapa de risco probatorio. Identifica lacunas (folha em branco em dia critico, evolucao faltante, ausencia de TCLE em procedimento invasivo), rasuras sem ressalva, contradicoes intra-documentais, atestados/laudos fora de ordem, identificacao incompleta do profissional. Aplica o Protocolo 2 (integridade documental) sobre o prontuario. Aciona: prontuario medico, analise de prontuario, lacuna em prontuario, rasura, ausencia de TCLE, evolucao medica, sumario de alta, perda probatoria, falha de documentacao, Res. CFM 1.821, sigilo medico em prontuario.
+  Leitura juridica probatoria do prontuario medico (Res. CFM 1.821/2007 + LGPD art. 11 + art. 154 CP). Aciona: prontuario medico, analise de prontuario, lacuna em prontuario, rasura, ausencia de TCLE, evolucao medica, sumario de alta, perda probatoria, falha de documentacao, Res. CFM 1.821, sigilo medico em prontuario.
 ---
 
 # ANALISE DE PRONTUARIO MEDICO

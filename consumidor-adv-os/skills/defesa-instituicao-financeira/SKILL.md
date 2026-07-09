@@ -1,14 +1,7 @@
 ---
 name: defesa-instituicao-financeira
 description: >
-  DEFESA INSTITUICAO FINANCEIRA — Skill Tier 2 (lado fornecedor: banco/financeira). Redige a defesa do
-  banco em acoes revisionais, de repeticao de indebito e de negativacao. Sustenta a capitalizacao
-  expressamente pactuada (Sum. 539/541), os juros dentro da taxa media BACEN (Sum. 530/382/596), a
-  legalidade das tarifas (Tema 618), o exercicio regular de direito na negativacao do devedor (Sum. 385),
-  a mora caracterizada e o pacta sunt servanda mitigado. Complementa a contestacao-consumidor, que cuida
-  das preliminares e da prescricao. Acione quando o cliente e a instituicao financeira (banco, financeira,
-  administradora de cartao) e ha revisional, repeticao ou negativacao a defender. Exige Selo P1 e o
-  contrato com a evolucao da divida.
+  DEFESA INSTITUICAO FINANCEIRA — Skill Tier 2 (lado fornecedor: banco/financeira). Acione quando o cliente e a instituicao financeira (banco, financeira, administradora de cartao) e ha revisional, repeticao ou negativacao a defender. Exige Selo P1 e o contrato com a evolucao da divida.
 metadata:
   version: "0.1.0"
   area: "Direito do Consumidor e Bancario"

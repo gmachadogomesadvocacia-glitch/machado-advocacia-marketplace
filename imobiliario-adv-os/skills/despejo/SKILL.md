@@ -1,13 +1,7 @@
 ---
 name: despejo
 description: >
-  Skill flagship Tier 2 — acao de despejo e cobranca de alugueis (Lei 8.245/91). Cobre os dois polos:
-  LOCADOR (despejo por falta de pagamento c/c cobranca, denuncia vazia/cheia, infracao contratual,
-  para uso proprio, fim do prazo) e LOCATARIO (defesa, purgacao da mora art. 62, discussao de encargos,
-  retencao por benfeitorias). Trata as liminares de despejo do art. 59 §1º (hipoteses taxativas +
-  caucao de 3 alugueis), a purgacao da mora (art. 62, II), as garantias (fianca/caucao/seguro-fianca),
-  o despejo na denuncia vazia (art. 46/57) e a execucao dos alugueis. Ative em despejo, falta de
-  pagamento, denuncia vazia, retomada, cobranca de aluguel ou defesa do inquilino.
+  Skill flagship Tier 2 — acao de despejo e cobranca de alugueis (Lei 8.245/91). Ative em despejo, falta de pagamento, denuncia vazia, retomada, cobranca de aluguel ou defesa do inquilino.
 metadata:
   version: "0.1.0"
   area: "Direito Imobiliario e Locacao"

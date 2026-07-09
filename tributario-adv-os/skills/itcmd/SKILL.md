@@ -1,12 +1,7 @@
 ---
 name: itcmd
 description: >
-  Producao e consultivo em ITCMD — imposto estadual sobre transmissao causa mortis e doacao
-  (CF art. 155 I + lei do Estado/DF). Ative em: cobranca/lancamento de ITCMD no inventario ou
-  na doacao, base de calculo (valor venal x mercado), aliquota e progressividade, ITCMD sobre
-  bens/doador/de cujus no EXTERIOR, isencoes, excesso de exacao, planejamento sucessorio
-  (holding/doacao com usufruto). Side-aware: contribuinte (defesa) x Fazenda estadual. Interface
-  com familia-sucessoes (inventario). So apos triagem + Selo. Encerra em revisao-final-tributaria.
+  Producao e consultivo em ITCMD — imposto estadual sobre transmissao causa mortis e doacao (CF art. Ative em: cobranca/lancamento de ITCMD no inventario ou na doacao, base de calculo (valor venal x mercado), aliquota e progressividade, ITCMD sobre bens/doador/de cujus no EXTERIOR, isencoes, excesso de exacao, planejamento sucessorio (holding/doacao com usufruto). Side-aware: contribuinte (defesa) x Fazenda estadual. Interface com familia-sucessoes (inventario). So apos triagem + Selo. Encerra em revisao-final-tributaria.
 ---
 
 # ITCMD — TRANSMISSAO CAUSA MORTIS E DOACAO (imposto estadual)

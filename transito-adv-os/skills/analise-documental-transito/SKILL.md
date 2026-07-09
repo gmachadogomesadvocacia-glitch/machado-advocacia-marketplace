@@ -1,13 +1,7 @@
 ---
 name: analise-documental-transito
 description: >
-  Analise documental de transito Tier 1 — Protocolo P2 (Integridade Documental). Checklist de integridade
-  dos documentos do caso: auto de infracao (AIT — dados do CTB 280), Notificacao de Autuacao (NA) e
-  Notificacao de Penalidade (NP) com datas e prazos, foto/registro do equipamento, certidao de afericao
-  do radar (INMETRO/IPEM), CRLV/documento do veiculo, extrato/prontuario de pontuacao, comprovante de
-  envio das notificacoes (AR), decisoes da JARI/CETRAN e instauracao de processo de suspensao/cassacao.
-  Extrai os dados-chave (codigo, natureza, data/local, orgao, pontos) e marca lacunas e vicios. Ative ao
-  receber documentos, conferir o auto, montar o dossie ou checar prazos das notificacoes.
+  Analise documental de transito Tier 1 — Protocolo P2 (Integridade Documental). Ative ao receber documentos, conferir o auto, montar o dossie ou checar prazos das notificacoes.
 metadata:
   version: "0.1.0"
   area: "Direito de Transito"

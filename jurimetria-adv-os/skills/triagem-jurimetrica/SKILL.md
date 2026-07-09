@@ -1,13 +1,7 @@
 ---
 name: triagem-jurimetrica
 description: >
-  TRIAGEM JURIMETRICA — Skill Tier 1, porta de entrada de toda demanda jurimetrica. Transforma o
-  pedido em uma PERGUNTA ANALITICA precisa e classifica em 4 dimensoes: tipo de analise (caso unico x
-  portfolio x benchmark x quantum x tempo x viabilidade) x fonte (acervo/DataJud/jurisprudencia) x
-  recorte (area, classe/assunto CNJ, orgao, periodo) x destino (uso interno, proposta, subsidio de
-  peca). Verifica o N disponivel ANTES de prometer estatistica. Acione quando chegar pedido de
-  numeros, estatistica, relatorio do acervo, benchmark, ou quando a pergunta analitica ainda nao
-  esta definida.
+  TRIAGEM JURIMETRICA — Skill Tier 1, porta de entrada de toda demanda jurimetrica. Acione quando chegar pedido de numeros, estatistica, relatorio do acervo, benchmark, ou quando a pergunta analitica ainda nao esta definida.
 metadata:
   version: "0.1.0"
   area: "Jurimetria"

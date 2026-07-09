@@ -1,15 +1,7 @@
 ---
 name: impugnacao-administrativa
 description: >
-  Redige impugnacao administrativa (defesa de 1a instancia) contra auto de
-  infracao ou lancamento de oficio. Aciona quando o cliente recebeu auto de
-  infracao, notificacao de lancamento, NFLD, AIIM, ou quer impugnar/contestar
-  cobranca fiscal na esfera administrativa antes de ir ao Judiciario. Federal:
-  Dec. 70.235/72 (PAF), prazo 30 dias, julgamento pela DRJ. Estadual/municipal:
-  conferir lei do ente (validar). Efeito: suspende a exigibilidade do credito
-  (CTN 151, III). Nao exige garantia/deposito. Cobre teses de nulidade do auto,
-  vicio de motivacao, erro na base de calculo, decadencia, ilegitimidade e
-  denuncia espontanea (CTN 138).
+  Redige impugnacao administrativa (defesa de 1a instancia) contra auto de infracao ou lancamento de oficio. Aciona quando o cliente recebeu auto de infracao, notificacao de lancamento, NFLD, AIIM, ou quer impugnar/contestar cobranca fiscal na esfera administrativa antes de ir ao Judiciario. Federal: Dec. 70.235/72 (PAF), prazo 30 dias, julgamento pela DRJ. Estadual/municipal: conferir lei do ente (validar). Efeito: suspende a exigibilidade do credito (CTN 151, III). Nao exige garantia/deposito. Cobre teses de nulidade do auto, vicio de motivacao, erro na base de calculo, decadencia, ilegitimidade e denuncia espontanea (CTN 138).
 metadata:
   version: "0.1.0"
   area: "Direito Tributario"

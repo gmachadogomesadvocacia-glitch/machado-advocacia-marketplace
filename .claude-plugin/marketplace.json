@@ -9,7 +9,7 @@
   "plugins": [
     {
       "name": "consumidor-adv-os",
-      "version": "0.1.0",
+      "version": "0.1.1",
       "source": "./consumidor-adv-os",
       "description": "Sistema operacional do advogado de Direito do Consumidor e Bancario. Atende os dois polos (consumidor e fornecedor) com orquestrador side-aware e triagem 4D (polo x eixo x esfera x rito). 35 skills + 14 commands cobrindo os 13 eixos do consumo, governanca de 4 Camadas, Selo de Validacao Legal Previa e Suprema Corte R1-R4. Persona em runtime via /start-consumidor.",
       "author": {
@@ -18,7 +18,7 @@
     },
     {
       "name": "previdenciario-adv-os",
-      "version": "0.2.0",
+      "version": "0.2.2",
       "source": "./previdenciario-adv-os",
       "description": "Sistema operacional do advogado previdenciarista brasileiro (RGPS, RPPS, Previdencia Complementar, Acidentario), no padrao Adv-OS. 28 skills (Tier 0-3) com 4 Camadas, 22 Proibicoes Absolutas e Suprema Corte R1-R4; engine com persona em runtime e 12 commands. Onboarding via /start-previdenciario.",
       "author": {
@@ -27,7 +27,7 @@
     },
     {
       "name": "familia-sucessoes-adv-os",
-      "version": "2.0.0",
+      "version": "2.0.2",
       "source": "./familia-sucessoes-adv-os",
       "description": "Sistema operacional do advogado de Direito de Familia e Sucessoes brasileiro, no padrao Adv-OS. 25 skills com 4 Camadas, 20 Proibicoes Absolutas, FIRAC Familia, Side-Awareness e Suprema Corte R1-R4; engine com persona em runtime e 12 commands. Cobre divorcio, guarda, alimentos, uniao estavel, interdicao, inventario e planejamento sucessorio. Onboarding via /start-familia.",
       "author": {
@@ -36,7 +36,7 @@
     },
     {
       "name": "recuperacao-judicial-adv-os",
-      "version": "0.3.0",
+      "version": "0.3.1",
       "source": "./recuperacao-judicial-adv-os",
       "description": "Sistema operacional do advogado de Recuperacao Judicial e Falencia brasileiro (L11.101/2005 + L14.112/2020), no padrao Adv-OS. EIXO PRIORITARIO: representacao do CREDOR, especialmente o CREDOR TRABALHISTA, em habilitacao de credito (MODO CTH). 19 skills, 25 Proibicoes + 11 PA-CTH, 8 Protocolos (P8 cruzamento JT x RJ) e Suprema Corte R1-R4; engine com persona em runtime e 12 commands. Onboarding via /start-rj.",
       "author": {
@@ -45,7 +45,7 @@
     },
     {
       "name": "isencao-ir-doenca-adv-os",
-      "version": "0.1.1",
+      "version": "0.1.2",
       "source": "./isencao-ir-doenca-adv-os",
       "description": "Sistema operacional do advogado para ISENCAO DE IRPF POR DOENCA GRAVE (art. 6 XIV Lei 7.713/88), no padrao Adv-OS. Isencao do IR sobre proventos de aposentadoria/pensao/reforma de portadores de doenca grave (cancer, cardiopatia, cegueira, Parkinson, etc.). Vias administrativa (fonte pagadora + retificacao DIRPF) e judicial (declaratoria + repeticao de indebito 5 anos + tutela). Teses: Sum. 598 e 627 STJ. 16 skills, 4 Camadas, Suprema Corte R1-R4; engine com persona em runtime e 10 commands. Onboarding via /start-isencao-ir.",
       "author": {
@@ -54,7 +54,7 @@
     },
     {
       "name": "usucapiao-adv-os",
-      "version": "0.1.0",
+      "version": "0.1.1",
       "source": "./usucapiao-adv-os",
       "description": "Sistema operacional do advogado para USUCAPIAO (judicial e extrajudicial), no padrao Adv-OS. As duas vias num so plugin: judicial (acao em todas as modalidades — extraordinaria, ordinaria, especial urbana/rural, familiar, coletiva — com citacao de confrontantes/entes e edital) e extrajudicial/cartorio (CPC 1.071 + Lei 6.015 216-A + Provimento CNJ: ata notarial, planta+ART, anuencias, registro). Side-aware: usucapiente x confrontante. 15 skills, 4 Camadas, Suprema Corte R1-R4; engine com persona em runtime e 10 commands. Onboarding via /start-usucapiao.",
       "author": {
@@ -63,7 +63,7 @@
     },
     {
       "name": "tributario-adv-os",
-      "version": "0.1.1",
+      "version": "0.1.2",
       "source": "./tributario-adv-os",
       "description": "Sistema operacional do advogado de Direito Tributario brasileiro, no padrao Adv-OS. Cobre as TRES FRENTES — administrativa (impugnacao ao auto de infracao, recurso ao CARF/TIT, PAF Dec. 70.235), judicial (defesa em execucao fiscal LEF 6.830 — embargos + excecao de pre-executividade Sum. 393; acao anulatoria; mandado de seguranca; repeticao de indebito e compensacao) e consultiva (planejamento tributario, parcelamento e transacao Lei 13.988) — nas TRES ESFERAS (federal, estadual, municipal). Inclui skill dedicada a REFORMA TRIBUTARIA (CBS/IBS — EC 132/2023 + LC 214/2025). Side-aware: contribuinte x Fazenda. 20 skills (Tier 0-3), 4 Camadas, 13 Proibicoes Absolutas, Selo de Validacao Legal Previa e Suprema Corte R1-R4; engine com persona em runtime e 13 commands. Crimes tributarios (Lei 8.137) = interface com o plugin criminal. Onboarding via /start-tributario.",
       "author": {
@@ -72,7 +72,7 @@
     },
     {
       "name": "imobiliario-adv-os",
-      "version": "0.1.0",
+      "version": "0.1.1",
       "source": "./imobiliario-adv-os",
       "description": "Sistema operacional do advogado de Direito Imobiliario e Locacao brasileiro, no padrao Adv-OS. Cobre as QUATRO FRENTES — LOCACAO (Lei 8.245/91: despejo por falta de pagamento + purgacao, denuncia vazia, infracao; revisional; renovatoria art. 51; consignatoria; garantias locaticias), CONTRATOS IMOBILIARIOS (promessa de compra e venda, arras, distrato/rescisao Lei 13.786/2018, vicios redibitorios, eviccao, adjudicacao compulsoria Sum. 239 STJ), DIREITOS REAIS E POSSE (acoes possessorias — reintegracao/manutencao/interdito; condominio edilicio e cobranca de cotas propter rem; alienacao fiduciaria de imovel Lei 9.514/97 — purgacao da mora, leilao) e CONSULTIVO (due diligence, revisao de contratos, regularizacao). Side-aware: locador x locatario, comprador x vendedor, possuidor x esbulhador, condominio x condomino, fiduciante x credor fiduciario. 20 skills (Tier 0-3), 4 Camadas, 13 Proibicoes Absolutas, Selo de Validacao Legal Previa e Suprema Corte R1-R4; engine com persona em runtime e 13 commands. Interfaces: usucapiao -> usucapiao-adv-os; IPTU/ITBI em execucao fiscal -> tributario-adv-os; imovel na planta/CDC -> consumidor-adv-os; partilha/inventario -> familia-sucessoes-adv-os. Onboarding via /start-imobiliario.",
       "author": {
@@ -81,7 +81,7 @@
     },
     {
       "name": "criminal-adv-os",
-      "version": "0.1.0",
+      "version": "0.1.1",
       "source": "./criminal-adv-os",
       "description": "Sistema operacional do advogado criminalista brasileiro (Direito Penal e Processo Penal), no padrao Adv-OS. Cobre as SEIS FASES — INVESTIGACAO/INQUERITO (flagrante, prisoes preventiva/temporaria, relaxamento, liberdade provisoria, audiencia de custodia), ACAO PENAL (resposta a acusacao art. 396-A CPP, instrucao, alegacoes finais, absolvicao sumaria), TRIBUNAL DO JURI (pronuncia/impronuncia/desclassificacao, plenario, quesitos), RECURSOS (apelacao, RESE, embargos, HC/RHC), EXECUCAO PENAL (LEP 7.210/84 — progressao, livramento, remicao, incidentes) e ACORDOS DESPENALIZADORES (ANPP art. 28-A CPP, transacao penal, suspensao condicional do processo, Lei 9.099). Side-aware: defesa (investigado/reu/sentenciado) x assistencia de acusacao (vitima). 20 skills (Tier 0-3), 4 Camadas, 13 Proibicoes Absolutas (lei penal no tempo, prescricao, dosimetria trifasica, garantias, vedacao etico-penal de orientar crime/destruir prova/coagir, sigilo reforcado), Selo de Validacao Legal Previa e Suprema Corte R1-R4; engine com persona em runtime e 13 commands. Interfaces: crimes tributarios (Lei 8.137) <- tributario-adv-os; crimes de transito (CTB) <- transito-adv-os; violencia domestica/Maria da Penha <-> familia-sucessoes-adv-os. Onboarding via /start-criminal.",
       "author": {
@@ -90,7 +90,7 @@
     },
     {
       "name": "civel-adv-os",
-      "version": "0.1.0",
+      "version": "0.1.1",
       "source": "./civel-adv-os",
       "description": "Sistema operacional do advogado civel (Direito Civil e Processo Civil — CIVEL RESIDUAL) brasileiro, no padrao Adv-OS. Cobre o que NAO esta nos plugins especializados, em QUATRO FRENTES — RESPONSABILIDADE CIVIL E INDENIZATORIAS (ato ilicito CC 186/187/927, dano moral/material/estetico, nexo, culpa x objetiva, quantum; responsabilidade do Estado CF 37 §6º), CONTRATOS E OBRIGACOES (teoria geral, contratos tipicos — prestacao de servico, mutuo, comodato, mandato, doacao, fianca; inadimplemento, revisao/rescisao; anulacao de negocio juridico — erro, dolo, coacao, lesao, estado de perigo, simulacao, fraude — CC 138-184), COBRANCA E EXECUCAO (acao de cobranca, monitoria CPC 700, execucao de titulo extrajudicial, busca e apreensao DL 911/69) e OBRIGACOES E TUTELAS (fazer/nao fazer/dar, tutela provisoria, consignacao em pagamento, defesa civel). Side-aware: autor (credor/lesado) x reu (devedor/causador). 20 skills (Tier 0-3), 4 Camadas, 13 Proibicoes Absolutas (prescricao x decadencia CC 205-206; liquidacao do dano e juros Sum. 54/362 STJ; responsabilidade contratual x extracontratual), Selo de Validacao Legal Previa e Suprema Corte R1-R4; engine com persona em runtime e 13 commands. Interfaces (NAO cobre): consumo->consumidor-adv-os; familia/sucessoes->familia-sucessoes-adv-os; resp. medica->direito-medico-adv-os; locacao/imovel->imobiliario-adv-os; usucapiao->usucapiao-adv-os; fiscal->tributario-adv-os; crime->criminal-adv-os. Onboarding via /start-civel.",
       "author": {
@@ -99,7 +99,7 @@
     },
     {
       "name": "transito-adv-os",
-      "version": "0.1.0",
+      "version": "0.1.1",
       "source": "./transito-adv-os",
       "description": "Sistema operacional do advogado de Direito de Transito brasileiro (recursos de multas e CNH), no padrao Adv-OS. Base: CTB Lei 9.503/97 + Lei 14.071/2020 + Resolucoes CONTRAN. Cobre TRES EIXOS — ADMINISTRATIVO (defesa previa/da autuacao, recurso a JARI 1a instancia, recurso ao CETRAN 2a instancia), CNH/HABILITACAO (suspensao do direito de dirigir por pontuacao 20/30/40 pts ou infracao autossuspensiva; cassacao; reabilitacao; indicacao do real condutor) e JUDICIAL (acao anulatoria de multa/auto; mandado de seguranca — vicio formal, liminar) — mais a ANALISE de vicios/nulidades do auto de infracao. Foco: defesa do condutor/proprietario. 20 skills (Tier 0-3), 4 Camadas, 13 Proibicoes Absolutas (prazos administrativos preclusivos; dupla notificacao Sum. 312 STJ; norma vigente na infracao; vedacao de fraude de pontuacao/indicacao falsa de condutor — crime art. 299 CP), Selo de Validacao Legal Previa e Suprema Corte R1-R4; engine com persona em runtime e 13 commands. Interfaces: crime de transito (embriaguez art. 306, homicidio culposo 302 CTB) -> criminal-adv-os; reparacao civil do acidente / DPVAT -> civel-adv-os. Onboarding via /start-transito.",
       "author": {
@@ -108,7 +108,7 @@
     },
     {
       "name": "jurimetria-adv-os",
-      "version": "0.3.0",
+      "version": "0.3.1",
       "source": "./jurimetria-adv-os",
       "description": "Plugin ANALITICO de jurimetria do advogado brasileiro, no padrao Adv-OS — saida e relatorio/analise descritiva, nunca peca. Espinha: DataJud/CNJ (API publica gratuita — capa e movimentos: duracao, andamentos, classe/assunto/orgao oficiais) + acervo proprio (bloco jurimetrico nos CASO.md — quantum, desfecho, taxa de exito), unidos pelo numero CNJ. Motores: Modulo A consulta de processo, Modulo B benchmark por classe+assunto+orgao com janela de maturacao, Modulo C retrato do portfolio com freio de N-minimo, analise de quantum bifasica (procedencia x valor, metodo ABJ), tempo processual com censura a direita declarada e quadro de viabilidade (apoio a decisao SEM probabilidade de exito). Governanca de 4 Camadas com 14 Proibicoes Estatisticas SEM bypass (nenhum numero sem N+metodo+fonte+data; descritivo != preditivo; nunca promessa de resultado — veda OAB; N<5 so qualitativo; PII fora dos agregados — LGPD) e Suprema Corte R1-R4 + R5 red-team estatistico. Ciclo de vida completo do caso: instrumentar-caso no nascimento e encerrar-caso no fechamento (desfecho + memoria + arquivamento conferido). 14 skills, 14 commands, 4 scripts stdlib-only. Onboarding via /start-jurimetria.",
       "author": {
@@ -117,7 +117,7 @@
     },
     {
       "name": "roteador-adv-os",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "source": "./roteador-adv-os",
       "description": "ROTEADOR CENTRAL dos plugins Adv-OS — porta de entrada unica. Identifica automaticamente, a partir do que o usuario escreve, qual dos 11 plugins juridicos do escritorio atende o tema: classifica o relato, mostra os SINAIS usados e CONFIRMA antes de acionar o /start do plugin certo. Regras de desambiguacao para as fronteiras (negativacao consumidor x civel; execucao fiscal tributario; pensao alimenticia x por morte; alienacao fiduciaria imovel x veiculo; isencao IR por doenca x tributario; usucapiao; locacao/condominio imobiliario). Comportamento: sugerir e confirmar. Acionamento automatico (skill) em Code/Cowork/Chat ou explicito via /rotear.",
       "author": {
@@ -126,7 +126,7 @@
     },
     {
       "name": "trabalhista-adv-os",
-      "version": "0.3.0",
+      "version": "0.3.1",
       "source": "./trabalhista-adv-os",
       "description": "Plugin Claude Code especializado em Direito e Processo do Trabalho brasileiro. Atende os dois polos da Reclamacao Trabalhista — reclamante e reclamada — com orquestrador side-aware, triagem trilateral, auditoria de documentos, 33 skills (Tier 0/1/2/3), Suprema Corte R1-R5 (com rodada adversarial) e busca viva de jurisprudencia. Hierarquia de 4 camadas: 25 Proibicoes Absolutas, 7 Protocolos Tecnicos, identidade FIRAC e skills operacionais. Onboarding via /start-trabalhista. Consolidado no marketplace Machado Advocacia em 06/07/2026 (origem: sbroggioadv/trabalhista-adv-os-marketplace, MIT); engine harmonizado, jurisprudencia auditada e piloto em caso real na v0.2.x.",
       "author": {
@@ -135,7 +135,7 @@
     },
     {
       "name": "direito-medico-adv-os",
-      "version": "0.3.0",
+      "version": "0.3.1",
       "source": "./direito-medico-adv-os",
       "description": "Sistema operacional do advogado especialista em direito medico e direito da saude. 40 skills + 11 commands + 4 hooks orquestrando defesa multi-frente do profissional (civil + criminal + etico-disciplinar), acoes contra plano de saude (oncologia, home care, OPME, TEA, reajuste, rescisao), consultivo empresarial para clinicas/sociedades medicas (Lei 12.842, LGPD, publicidade Res. CFM 2.336/2023) e revisao tecnica R1-R5 (Suprema Corte com rodada adversarial) em toda entrega. Inclui o Protocolo P4 — Cruzamento Multi-esfera (CC art. 935). Rol ANS no regime da ADI 7.265 STF (taxativo mitigado). Onboarding via /start-medico. Consolidado no marketplace Machado Advocacia em 06/07/2026 (origem: sbroggioadv/direito-medico-adv-os-marketplace, MIT); jurisprudencia auditada e piloto em caso real na v0.2.x.",
       "author": {

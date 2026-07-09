@@ -1,6 +1,6 @@
 {
   "name": "recuperacao-judicial-adv-os",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "description": "Sistema operacional do advogado de Recuperacao Judicial e Falencia brasileiro (L11.101/2005 + L14.112/2020), no padrao Adv-OS. EIXO PRIORITARIO: representacao do CREDOR, especialmente o CREDOR TRABALHISTA, em habilitacao de credito (MODO CTH automatico). 19 skills (Tier 0-3), 25 Proibicoes Absolutas + 11 PA-CTH, 8 Protocolos (P8 cruzamento JT x RJ) e Suprema Corte R1-R4; engine com persona em runtime e 12 commands. Cobre triagem, viabilidade, plano, AGC, habilitacao, divergencia (art. 7§1), impugnacao (art. 8), retardataria (art. 10), reserva (art. 6§2) e prescricao. Onboarding via /start-rj.",
   "author": {
     "name": "Machado Advocacia"

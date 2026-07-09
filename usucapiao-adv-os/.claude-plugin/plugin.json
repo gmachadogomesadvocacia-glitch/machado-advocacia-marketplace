@@ -1,6 +1,6 @@
 {
   "name": "usucapiao-adv-os",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Sistema operacional do advogado para USUCAPIAO (judicial e extrajudicial), no padrao Adv-OS. Cobre as duas vias num so plugin: JUDICIAL — acao de usucapiao em todas as modalidades (extraordinaria art. 1.238; ordinaria art. 1.242; especial urbana art. 1.240/CF 183; especial rural art. 1.239/CF 191; familiar art. 1.240-A; coletiva — Estatuto da Cidade), com citacao de confrontantes e da Uniao/Estado/Municipio e edital de reus incertos (CPC 246 §3, 259 III); e EXTRAJUDICIAL/CARTORIO — usucapiao administrativa (CPC art. 1.071 + Lei 6.015 art. 216-A + Provimento CNJ): ata notarial, planta/memorial com ART, anuencia dos confrontantes e titulares, registro de imoveis, impugnacao. Side-aware: usucapiente (autor) x confrontante/oponente. Governanca de 4 Camadas, Selo de Validacao Legal Previa e Suprema Corte R1-R4. Persona em runtime via /start-usucapiao.",
   "author": {
     "name": "Machado Advocacia"

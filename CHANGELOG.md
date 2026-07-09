@@ -2,6 +2,20 @@
 
 Histórico do conjunto de plugins jurídicos (Adv-OS). Datas em AAAA-MM-DD.
 
+## 2026-07-09
+
+### Redução de tokens — descrições dos slash-commands encurtadas (patch em todos os 15 plugins)
+Corte de contexto fixo por turno: cada `description:` de command foi reduzida ao resumo que
+aparece no menu `/` (corte no primeiro travessão " — " ou na primeira frase). 164 de 172
+descrições encurtadas; **o corpo dos comandos não mudou — nenhuma alteração de comportamento.**
+Economia de ~4,4k tokens de contexto fixo por turno com os 15 plugins ativos.
+- Bump de patch em todos: consumidor 0.1.1, previdenciario 0.2.2, familia-sucessoes 2.0.2,
+  recuperacao-judicial 0.3.1, isencao-ir-doenca 0.1.2, usucapiao 0.1.1, tributario 0.1.2,
+  imobiliario 0.1.1, criminal 0.1.1, civel 0.1.1, transito 0.1.1, roteador 1.0.1,
+  jurimetria 0.3.1, trabalhista 0.3.1, direito-medico 0.3.1.
+- Ressincronizados familia e previdenciario, cujo `plugin.json` estava à frente do
+  `marketplace.json` (2.0.1/0.2.0 e 0.2.1/0.2.0) por release anterior incompleta.
+
 ## 2026-07-06
 
 ### Lacunas C7 aprovadas pelo advogado — 5 skills novas (médico 0.3.0, trabalhista 0.3.0, jurimetria 0.3.0)

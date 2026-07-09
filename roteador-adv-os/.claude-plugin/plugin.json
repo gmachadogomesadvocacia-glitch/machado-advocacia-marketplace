@@ -1,6 +1,6 @@
 {
   "name": "roteador-adv-os",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "ROTEADOR CENTRAL dos plugins Adv-OS. Identifica automaticamente, a partir do que o usuario escreve, qual dos 11 plugins juridicos do escritorio deve ser usado — classifica o tema, mostra os sinais e CONFIRMA antes de acionar. Funciona como porta de entrada unica quando a area nao foi dita explicitamente. Sem engine/peca propria: so classifica e roteia.",
   "author": {
     "name": "Machado Advocacia"

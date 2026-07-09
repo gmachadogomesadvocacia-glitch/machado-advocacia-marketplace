@@ -1,6 +1,6 @@
 {
   "name": "consumidor-adv-os",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Sistema operacional do advogado brasileiro de Direito do Consumidor e Bancario. Atende os dois polos (consumidor e fornecedor) com orquestrador side-aware e triagem 4D (polo x eixo x esfera x rito). Cobre os 13 eixos do consumo — bancario/financeiro, negativacao, telecom, servicos essenciais, transporte aereo, vicio e fato do produto, e-commerce, publicidade, clausulas abusivas, cobranca indevida, superendividamento (L14.181) e consumo imobiliario. Governanca de 4 Camadas (Proibicoes Absolutas + Protocolos Tecnicos incluindo Cruzamento Judicial-Administrativo + FIRAC + skills), Selo de Validacao Legal Previa e Suprema Corte R1-R4 sobre toda entrega. Persona em runtime via /start-consumidor.",
   "author": {
     "name": "Machado Advocacia"

@@ -1,5 +1,5 @@
 ---
-description: Via ADMINISTRATIVA — requerimento de isencao a fonte pagadora (INSS/RPPS/fundo) + retificacao da DIRPF na Receita para a restituicao. Cessa a retencao na fonte.
+description: Via ADMINISTRATIVA.
 allowed-tools: Read, Write, Edit, Bash, Glob, Grep
 argument-hint: [dados do beneficio/fonte]
 ---

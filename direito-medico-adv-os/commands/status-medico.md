@@ -1,5 +1,5 @@
 ---
-description: Mostra status do plugin Direito Medico Adv-OS — identidade do operador, configuracao, casos ativos, estado da Revisao Tecnica, frentes habilitadas.
+description: Mostra status do plugin Direito Medico Adv-OS.
 allowed-tools: Read, Write, Edit, Bash, Glob, Grep
 argument-hint: [sem argumentos | --casos | --config]
 ---

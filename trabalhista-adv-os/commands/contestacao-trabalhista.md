@@ -1,5 +1,5 @@
 ---
-description: Produz a contestacao empresarial em Reclamacao Trabalhista — preliminares, prejudiciais, impugnacao ponto a ponto.
+description: Produz a contestacao empresarial em Reclamacao Trabalhista.
 allowed-tools: Read, Write, Edit, Bash, Glob, Grep
 argument-hint: [contexto da contestacao]
 ---

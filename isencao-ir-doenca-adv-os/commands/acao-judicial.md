@@ -1,5 +1,5 @@
 ---
-description: Via JUDICIAL — acao declaratoria de isencao + repeticao de indebito (5 anos) + tutela para cessar a retencao. Ancorada nas Sumulas 598 e 627 STJ.
+description: Via JUDICIAL.
 allowed-tools: Read, Write, Edit, Bash, Glob, Grep
 argument-hint: [dados do caso]
 ---

@@ -1,5 +1,5 @@
 ---
-description: Nucleo AGC — assembleia geral de credores: convocacao, quorum, classes de votacao, cram down (art. 58 §1) e estrategia de voto do credor.
+description: Nucleo AGC.
 allowed-tools: Read, Write, Edit, Bash, Glob, Grep
 argument-hint: [dados da AGC]
 ---

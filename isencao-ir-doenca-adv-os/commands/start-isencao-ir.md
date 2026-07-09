@@ -1,5 +1,5 @@
 ---
-description: Configura o plugin de Isencao de IRPF no ambiente do escritorio — cria a pasta isencao-ir/ com identidade, frentes, tom. Gera persona e aponta ISIR_PERSONA. Alerta LGPD (dado de saude).
+description: Configura o plugin de Isencao de IRPF no ambiente do escritorio.
 allowed-tools: Read, Write, Edit, Bash, Glob, Grep
 argument-hint: [opcional]
 ---

@@ -1,5 +1,5 @@
 ---
-description: Abre, retoma ou lista caso/cliente em `direito-medico/casos/`. Cada caso e compartimentado (PA-22 + LGPD). Suporta `novo <slug>`, `<slug>` (retomar), `list`, `arquivar <slug>`.
+description: Abre, retoma ou lista caso/cliente em `direito-medico/casos/`.
 allowed-tools: Read, Write, Edit, Bash, Glob, Grep
 argument-hint: [novo <slug> | <slug> | list | arquivar <slug>]
 ---

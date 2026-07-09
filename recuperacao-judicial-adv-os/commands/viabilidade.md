@@ -1,5 +1,5 @@
 ---
-description: Nucleo VIABILIDADE — analise de viabilidade da recuperacao e auditoria documental do art. 51 (demonstracoes, relacao de credores, balancos, certidoes).
+description: Nucleo VIABILIDADE.
 allowed-tools: Read, Write, Edit, Bash, Glob, Grep
 argument-hint: [documentos da empresa em RJ]
 ---

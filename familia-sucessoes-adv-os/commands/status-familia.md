@@ -1,5 +1,5 @@
 ---
-description: Mostra o estado do plugin de familia — identidade do operador, area de foco, estado da Revisao Tecnica e casos ativos. Se nao configurado, sugere /start-familia.
+description: Mostra o estado do plugin de familia.
 allowed-tools: Read, Bash, Glob, Grep
 argument-hint: [opcional]
 ---

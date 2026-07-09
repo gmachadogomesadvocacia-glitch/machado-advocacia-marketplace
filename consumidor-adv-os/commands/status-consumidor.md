@@ -1,5 +1,5 @@
 ---
-description: Mostra o estado do plugin consumidor-adv-os — identidade do operador (advogado, OAB, cidade/UF), polos, eixos, estado da Revisao Tecnica e casos ativos. Se nao configurado, sugere /start-consumidor.
+description: Mostra o estado do plugin consumidor-adv-os.
 allowed-tools: Read, Write, Edit, Bash, Glob, Grep
 argument-hint: [opcional]
 ---

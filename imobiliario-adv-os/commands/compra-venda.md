@@ -1,5 +1,5 @@
 ---
-description: Compra e venda / promessa de compra e venda / arras / distrato (Lei 13.786/2018) / vicios redibitorios e eviccao — entre particulares (fora do CDC).
+description: Compra e venda / promessa de compra e venda / arras / distrato (Lei 13.786/2018) / vicios redibitorios e eviccao.
 allowed-tools: Read, Write, Edit, Bash, Glob, Grep
 argument-hint: [descricao do caso]
 ---

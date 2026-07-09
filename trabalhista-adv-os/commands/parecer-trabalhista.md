@@ -1,5 +1,5 @@
 ---
-description: Produz um parecer de viabilidade recursal — avalia se vale recorrer ou contra-arrazoar (cabimento, transcendencia, prognostico).
+description: Produz um parecer de viabilidade recursal.
 allowed-tools: Read, Write, Edit, Bash, Glob, Grep
 argument-hint: [decisao a avaliar]
 ---

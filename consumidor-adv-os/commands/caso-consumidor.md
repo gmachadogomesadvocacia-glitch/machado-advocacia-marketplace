@@ -1,5 +1,5 @@
 ---
-description: Abre, retoma, lista ou arquiva um caso consumerista em consumidor/casos/<slug>/ — CASO.md, MEMORY.md, arquivos/ e pecas/. Suporta novo <slug>, <slug>, list e arquivar <slug>.
+description: Abre, retoma, lista ou arquiva um caso consumerista em consumidor/casos/<slug>/.
 allowed-tools: Read, Write, Edit, Bash, Glob, Grep
 argument-hint: [novo <slug> | <slug> | list | arquivar <slug>]
 ---

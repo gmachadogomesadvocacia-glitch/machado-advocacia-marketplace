@@ -1,5 +1,5 @@
 ---
-description: Ativa a cadeia completa de operacao em direito medico — 4 Camadas, 22 Proibicoes Absolutas, 6 Protocolos Tecnicos (incluindo P4 Cruzamento Multi-esfera) e Revisao Tecnica R1-R4. Comando-coracao do plugin.
+description: Ativa a cadeia completa de operacao em direito medico.
 allowed-tools: Read, Write, Edit, Bash, Glob, Grep
 argument-hint: [contexto opcional da demanda]
 ---

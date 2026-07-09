@@ -1,5 +1,5 @@
 ---
-description: Busca, valida e organiza jurisprudencia consumerista/bancaria — STJ, TJs, sumulas e Temas repetitivos. Protocolo PA-01: nunca citar precedente sem validar a existencia e o teor.
+description: Busca, valida e organiza jurisprudencia consumerista/bancaria.
 allowed-tools: Read, Write, Edit, Bash, Glob, Grep
 argument-hint: [tese ou tema a pesquisar]
 ---

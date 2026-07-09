@@ -1,5 +1,5 @@
 ---
-description: Porta de entrada do plugin — triagem imobiliaria em 5 eixos (frente, polo, imovel, contrato, prazo), grava no CASO.md e roteia para o Selo P1 e a analise documental.
+description: Porta de entrada do plugin.
 allowed-tools: Read, Write, Edit, Bash, Glob, Grep
 argument-hint: [descricao do caso]
 ---

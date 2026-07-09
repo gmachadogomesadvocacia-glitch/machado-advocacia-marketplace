@@ -1,5 +1,5 @@
 ---
-description: Acionamento direto da triagem 4D do plugin — classificacao sujeito x modo x esfera x subdominio. Porta de entrada de toda demanda de direito medico.
+description: Acionamento direto da triagem 4D do plugin.
 allowed-tools: Read, Write, Edit, Bash, Glob, Grep
 argument-hint: [descricao opcional do caso]
 ---

@@ -1,5 +1,5 @@
 ---
-description: Mostra o estado do caso trabalhista ativo — polo, fase, linha estrategica, prazos e pendencias.
+description: Mostra o estado do caso trabalhista ativo.
 allowed-tools: Read, Bash, Glob, Grep
 argument-hint: [nome do caso — opcional]
 ---

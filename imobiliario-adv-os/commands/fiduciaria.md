@@ -1,5 +1,5 @@
 ---
-description: Alienacao fiduciaria de imovel (Lei 9.514/97) — rito da consolidacao e do leilao, purgacao da mora, nulidade de leilao; rito proprio obrigatorio (PA-09).
+description: Alienacao fiduciaria de imovel (Lei 9.514/97).
 allowed-tools: Read, Write, Edit, Bash, Glob, Grep
 argument-hint: [descricao do caso]
 ---

@@ -1,5 +1,5 @@
 ---
-description: Abre, retoma, lista ou arquiva um caso civel em civel/casos/<slug>/ — CASO.md, MEMORY.md, arquivos/ e pecas/. Operacionaliza a Memoria de Caso (Protocolo P3).
+description: Abre, retoma, lista ou arquiva um caso civel em civel/casos/<slug>/.
 allowed-tools: Read, Write, Edit, Bash, Glob, Grep
 argument-hint: [novo <slug> | <slug> | list | arquivar <slug>]
 ---

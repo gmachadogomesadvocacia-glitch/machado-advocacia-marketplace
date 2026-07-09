@@ -1,5 +1,5 @@
 ---
-description: Impugnacao a laudo pericial desfavoravel — quesitos, CID, capacidade x incapacidade, TNU Sumula 25/47. Para casos de incapacidade (B31/B91).
+description: Impugnacao a laudo pericial desfavoravel.
 allowed-tools: Read, Write, Edit, Bash, Glob, Grep
 argument-hint: [dados do laudo]
 ---

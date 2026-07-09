@@ -1,5 +1,5 @@
 ---
-description: Mandado de seguranca contra ato de autoridade de transito (vicio formal; direito liquido e certo) — com pedido de liminar; Lei 12.016/2009.
+description: Mandado de seguranca contra ato de autoridade de transito (vicio formal; direito liquido e certo).
 allowed-tools: Read, Write, Edit, Bash, Glob, Grep
 argument-hint: [descricao do caso]
 ---

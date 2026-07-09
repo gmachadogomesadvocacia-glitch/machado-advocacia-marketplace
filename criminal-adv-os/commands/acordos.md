@@ -1,5 +1,5 @@
 ---
-description: Acordos despenalizadores — ANPP (CPP 28-A), transacao penal e suspensao condicional do processo (Lei 9.099/95).
+description: Acordos despenalizadores.
 allowed-tools: Read, Write, Edit, Bash, Glob, Grep
 argument-hint: [descricao do caso]
 ---

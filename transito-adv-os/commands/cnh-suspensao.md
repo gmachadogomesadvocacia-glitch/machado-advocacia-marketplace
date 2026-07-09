@@ -1,5 +1,5 @@
 ---
-description: Defesa no processo de suspensao do direito de dirigir — por pontuacao acumulada ou infracao autossuspensiva (CTB 261; Lei 14.071/2020).
+description: Defesa no processo de suspensao do direito de dirigir.
 allowed-tools: Read, Write, Edit, Bash, Glob, Grep
 argument-hint: [descricao do caso]
 ---

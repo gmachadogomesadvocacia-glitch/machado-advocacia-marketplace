@@ -1,5 +1,5 @@
 ---
-description: Nucleo GUARDA/ALIMENTOS — guarda (compartilhada/unilateral), regime de convivencia e alimentos (binomio necessidade-possibilidade). Melhor interesse da crianca.
+description: Nucleo GUARDA/ALIMENTOS.
 allowed-tools: Read, Write, Edit, Bash, Glob, Grep
 argument-hint: [dados dos filhos/renda]
 ---

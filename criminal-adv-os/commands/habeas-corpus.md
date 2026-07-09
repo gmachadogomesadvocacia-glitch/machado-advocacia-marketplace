@@ -1,5 +1,5 @@
 ---
-description: Impetra Habeas Corpus (CF 5 LXVIII; CPP 648) — liberdade, trancamento da acao/inquerito, relaxamento de prisao ilegal, excesso de prazo; liminar e Sum. 691 STF.
+description: Impetra Habeas Corpus (CF 5 LXVIII; CPP 648).
 allowed-tools: Read, Write, Edit, Bash, Glob, Grep
 argument-hint: [descricao do caso]
 ---

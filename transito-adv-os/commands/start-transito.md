@@ -1,5 +1,5 @@
 ---
-description: Wizard de configuracao inicial do plugin no escritorio — cria persona, config, pasta de casos e aponta TRAN_PERSONA no settings.local.json. Rode na primeira vez.
+description: Wizard de configuracao inicial do plugin no escritorio.
 allowed-tools: Read, Write, Edit, Bash, Glob, Grep
 argument-hint: [opcional]
 ---

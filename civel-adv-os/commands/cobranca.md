@@ -1,5 +1,5 @@
 ---
-description: Cobranca de divida civel e acao monitoria (CPC 700) — escolha da via conforme a prova escrita sem eficacia de titulo executivo. Liquidez, juros e correcao.
+description: Cobranca de divida civel e acao monitoria (CPC 700).
 allowed-tools: Read, Write, Edit, Bash, Glob, Grep
 argument-hint: [resumo da divida e da prova]
 ---

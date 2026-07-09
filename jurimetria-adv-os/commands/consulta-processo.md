@@ -1,5 +1,5 @@
 ---
-description: Consulta um processo por numero CNJ no DataJud (Modulo A) — capa, duracao, andamentos, ritmo — e cruza com o bloco jurimetrico do CASO.md quando existir.
+description: Consulta um processo por numero CNJ no DataJud (Modulo A).
 allowed-tools: Read, Write, Edit, Bash, Glob, Grep
 argument-hint: <numero-cnj | caminho do CASO.md>
 ---

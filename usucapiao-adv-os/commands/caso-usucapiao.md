@@ -1,5 +1,5 @@
 ---
-description: Abre, retoma ou lista um caso de usucapiao em usucapiao/casos/<slug>/ — CASO.md compartimentado (sigilo + LGPD). Suporta novo <slug>, <slug> e list.
+description: Abre, retoma ou lista um caso de usucapiao em usucapiao/casos/<slug>/.
 allowed-tools: Read, Write, Edit, Bash, Glob, Grep
 argument-hint: [novo <slug> | <slug> | list]
 ---

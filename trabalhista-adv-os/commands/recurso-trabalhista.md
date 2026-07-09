@@ -1,5 +1,5 @@
 ---
-description: Produz o recurso trabalhista cabivel (ou a contrarrazao) — roteia para a skill recursal conforme o tipo, com o prazo correto.
+description: Produz o recurso trabalhista cabivel (ou a contrarrazao).
 allowed-tools: Read, Write, Edit, Bash, Glob, Grep
 argument-hint: [RO | RR | AIRR | agravo | ED | RE | embargos-tst | acao-autonoma]
 ---

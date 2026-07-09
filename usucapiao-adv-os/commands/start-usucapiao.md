@@ -1,5 +1,5 @@
 ---
-description: Configura o plugin de Usucapiao no ambiente do escritorio — cria a pasta usucapiao/ com identidade, frentes, tom. Gera persona e aponta USU_PERSONA.
+description: Configura o plugin de Usucapiao no ambiente do escritorio.
 allowed-tools: Read, Write, Edit, Bash, Glob, Grep
 argument-hint: [opcional]
 ---

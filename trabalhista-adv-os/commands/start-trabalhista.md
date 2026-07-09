@@ -1,5 +1,5 @@
 ---
-description: Inicia o wizard de configuracao do plugin trabalhista — cria a pasta trabalhista/ com identidade, polos de atuacao, tom e modo de fluxo.
+description: Inicia o wizard de configuracao do plugin trabalhista.
 allowed-tools: Read, Write, Edit, Bash, Glob, Grep
 argument-hint: [--update para reconfigurar]
 ---

@@ -1,5 +1,5 @@
 ---
-description: Abre ou atualiza o CASO.md do caso ativo (Protocolo P3) em criminal/casos/<slug>/ — memoria de caso compartimentada (sigilo reforcado + LGPD, dado penal sensivel).
+description: Abre ou atualiza o CASO.md do caso ativo (Protocolo P3) em criminal/casos/<slug>/.
 allowed-tools: Read, Write, Edit, Bash, Glob, Grep
 argument-hint: [novo <slug> | <slug> | list]
 ---

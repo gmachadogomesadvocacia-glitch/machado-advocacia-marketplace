@@ -1,5 +1,5 @@
 ---
-description: Mostra o estado do plugin de Recuperacao Judicial — identidade do operador, frentes ativas, Revisao Tecnica e casos ativos. Se nao configurado, sugere /start-rj.
+description: Mostra o estado do plugin de Recuperacao Judicial.
 allowed-tools: Read, Bash, Glob, Grep
 argument-hint: [opcional]
 ---

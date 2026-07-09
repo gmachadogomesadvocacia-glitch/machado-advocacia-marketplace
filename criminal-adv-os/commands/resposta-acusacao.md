@@ -1,5 +1,5 @@
 ---
-description: Redige a resposta a acusacao (CPP 396-A, prazo 10 dias) — preliminares, materia de defesa, testemunhas e pedido de absolvicao sumaria (CPP 397).
+description: Redige a resposta a acusacao (CPP 396-A, prazo 10 dias).
 allowed-tools: Read, Write, Edit, Bash, Glob, Grep
 argument-hint: [descricao do caso]
 ---

@@ -1,5 +1,5 @@
 ---
-description: Due diligence imobiliaria e revisao de contrato (consultivo) — analise de matricula, certidoes, riscos, regularizacao e minuta/revisao contratual.
+description: Due diligence imobiliaria e revisao de contrato (consultivo).
 allowed-tools: Read, Write, Edit, Bash, Glob, Grep
 argument-hint: [descricao do caso]
 ---

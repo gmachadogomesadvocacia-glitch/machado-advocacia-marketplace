@@ -1,5 +1,5 @@
 ---
-description: Acionamento direto do nucleo criminal — culpa medica, omissao de socorro, violacao de sigilo, falsidade atestado/prontuario. Skills Tier 3.
+description: Acionamento direto do nucleo criminal.
 allowed-tools: Read, Write, Edit, Bash, Glob, Grep
 argument-hint: [descricao opcional do caso criminal]
 ---

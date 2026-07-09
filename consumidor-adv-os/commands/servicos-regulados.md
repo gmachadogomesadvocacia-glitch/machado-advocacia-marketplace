@@ -1,5 +1,5 @@
 ---
-description: Acionamento direto do nucleo SERVICOS REGULADOS — telecom, energia, agua e transporte aereo. Roteia para a acao judicial e a reclamacao administrativa na agencia (ANATEL/ANAC/ANEEL/agencia).
+description: Acionamento direto do nucleo SERVICOS REGULADOS.
 allowed-tools: Read, Write, Edit, Bash, Glob, Grep
 argument-hint: [resumo da demanda de servico regulado]
 ---

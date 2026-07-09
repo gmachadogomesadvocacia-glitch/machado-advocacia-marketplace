@@ -1,5 +1,5 @@
 ---
-description: Produz o mandado de seguranca tributario (Lei 12.016/2009) — direito liquido e certo, autoridade coatora, pedido de liminar. Prazo decadencial de 120 dias.
+description: Produz o mandado de seguranca tributario (Lei 12.016/2009).
 allowed-tools: Read, Write, Edit, Bash, Glob, Grep
 argument-hint: [descricao do caso]
 ---

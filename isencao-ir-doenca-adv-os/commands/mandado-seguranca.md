@@ -1,5 +1,5 @@
 ---
-description: MANDADO DE SEGURANCA — contra retencao indevida/negativa ilegal da isencao, com direito liquido e certo (laudo claro + doenca no rol) e liminar para cessar a retencao. Prazo 120 dias.
+description: MANDADO DE SEGURANCA.
 allowed-tools: Read, Write, Edit, Bash, Glob, Grep
 argument-hint: [ato coator/dados]
 ---

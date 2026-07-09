@@ -1,5 +1,5 @@
 ---
-description: Constroi a faixa de quantum de um tema pelo metodo bifasico (procedencia + valor entre procedentes), combinando acervo proprio e jurisprudencia. Sem promessa de resultado — saida e faixa descritiva carimbada.
+description: Constroi a faixa de quantum de um tema pelo metodo bifasico (procedencia + valor entre procedentes), combinando acervo proprio e jurisprudencia. Sem promessa de resultado.
 allowed-tools: Read, Write, Edit, Bash, Glob, Grep
 argument-hint: <tema/recorte>
 ---

@@ -1,5 +1,5 @@
 ---
-description: Abre um caso trabalhista novo ou retoma um caso existente — cria/le a pasta do caso, o CASO.md e o MEMORY.md.
+description: Abre um caso trabalhista novo ou retoma um caso existente.
 allowed-tools: Read, Write, Edit, Bash, Glob, Grep
 argument-hint: [nome do caso — ex: joao-silva-x-construtora-alfa]
 ---

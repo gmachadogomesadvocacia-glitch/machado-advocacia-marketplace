@@ -1,5 +1,5 @@
 ---
-description: Nucleo HABILITACAO/IMPUGNACAO de credito (QGC) — divergencia (art. 7 §1), impugnacao (art. 8), retardataria (art. 10) e reserva (art. 6 §2), para qualquer classe de credor.
+description: Nucleo HABILITACAO/IMPUGNACAO de credito (QGC).
 allowed-tools: Read, Write, Edit, Bash, Glob, Grep
 argument-hint: [dados do credito/QGC]
 ---

@@ -1,5 +1,5 @@
 ---
-description: Abre, retoma ou lista um caso de isencao de IRPF em isencao-ir/casos/<slug>/ — CASO.md compartimentado (sigilo + LGPD; dado de saude sensivel). Suporta novo <slug>, <slug> e list.
+description: Abre, retoma ou lista um caso de isencao de IRPF em isencao-ir/casos/<slug>/.
 allowed-tools: Read, Write, Edit, Bash, Glob, Grep
 argument-hint: [novo <slug> | <slug> | list]
 ---

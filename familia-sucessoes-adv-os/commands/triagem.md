@@ -1,5 +1,5 @@
 ---
-description: Acionamento direto da triagem de familia/sucessoes — enquadra area, polo, tipo de caso e urgencia, e abre o CASO.md. Porta de entrada de toda demanda.
+description: Acionamento direto da triagem de familia/sucessoes.
 allowed-tools: Read, Write, Edit, Bash, Glob, Grep
 argument-hint: [descricao do caso]
 ---

@@ -1,5 +1,5 @@
 ---
-description: Defesa na execucao fiscal (LEF 6.830/80) — escolhe entre embargos a execucao (art. 16, com garantia) e excecao de pre-executividade (Sum. 393 STJ, sem garantia, so materia de ordem publica).
+description: Defesa na execucao fiscal (LEF 6.830/80).
 allowed-tools: Read, Write, Edit, Bash, Glob, Grep
 argument-hint: [descricao do caso]
 ---

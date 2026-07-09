@@ -1,5 +1,5 @@
 ---
-description: Aciona a governanca central (Tier 0) do plugin imobiliario-adv-os — 4 Camadas, roteamento de skills e leitura da config ativa (persona, frentes, polos).
+description: Aciona a governanca central (Tier 0) do plugin imobiliario-adv-os.
 allowed-tools: Read, Write, Edit, Bash, Glob, Grep
 argument-hint: [pergunta ou contexto opcional]
 ---

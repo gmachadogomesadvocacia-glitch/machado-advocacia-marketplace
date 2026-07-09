@@ -1,5 +1,5 @@
 ---
-description: Acoes possessorias (reintegracao / manutencao / interdito proibitorio) — forca nova x forca velha, liminar, posse x propriedade x dominio (PA-05).
+description: Acoes possessorias (reintegracao / manutencao / interdito proibitorio).
 allowed-tools: Read, Write, Edit, Bash, Glob, Grep
 argument-hint: [descricao do caso]
 ---

@@ -1,5 +1,5 @@
 ---
-description: Ativa a cadeia completa de operacao em Direito Previdenciario — Hierarquia das 4 Camadas, 22 Proibicoes Absolutas, roteamento por Tiers e Suprema Corte R1-R4. Comando-coracao do plugin.
+description: Ativa a cadeia completa de operacao em Direito Previdenciario.
 allowed-tools: Read, Write, Edit, Bash, Glob, Grep
 argument-hint: [contexto opcional da demanda]
 ---

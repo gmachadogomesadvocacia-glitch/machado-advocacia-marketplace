@@ -1,5 +1,5 @@
 ---
-description: Mostra o estado do plugin jurimetria-adv-os — identidade, CASE_ROOT, tribunais de referencia, cobertura de instrumentacao do acervo (CASO.md com/sem bloco) e estado da Revisao R1-R4. Se nao configurado, sugere /start-jurimetria.
+description: Mostra o estado do plugin jurimetria-adv-os.
 allowed-tools: Read, Write, Edit, Bash, Glob, Grep
 argument-hint: [opcional]
 ---

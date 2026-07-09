@@ -1,5 +1,5 @@
 ---
-description: Calcula verbas e reflexos trabalhistas — rescisorias, horas extras, adicionais, FGTS, juros e correcao (ADC 58/59 STF).
+description: Calcula verbas e reflexos trabalhistas.
 allowed-tools: Read, Write, Edit, Bash, Glob, Grep
 argument-hint: [o que calcular]
 ---

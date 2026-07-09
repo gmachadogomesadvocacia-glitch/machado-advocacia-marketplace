@@ -1,5 +1,5 @@
 ---
-description: Roteia para a peca de conhecimento conforme o polo do cliente — peticao inicial (reclamante) ou contestacao (reclamada).
+description: Roteia para a peca de conhecimento conforme o polo do cliente.
 allowed-tools: Read, Write, Edit, Bash, Glob, Grep
 argument-hint: [contexto da peca]
 ---

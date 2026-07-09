@@ -1,5 +1,5 @@
 ---
-description: Mostra o estado do plugin de Isencao de IRPF — identidade do operador, frentes ativas, Revisao Tecnica e casos ativos. Se nao configurado, sugere /start-isencao-ir.
+description: Mostra o estado do plugin de Isencao de IRPF.
 allowed-tools: Read, Bash, Glob, Grep
 argument-hint: [opcional]
 ---

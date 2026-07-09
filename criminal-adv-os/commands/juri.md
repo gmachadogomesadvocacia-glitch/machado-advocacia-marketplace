@@ -1,5 +1,5 @@
 ---
-description: Atuacao no Tribunal do Juri — pronuncia/impronuncia/desclassificacao/absolvicao sumaria, preparacao de plenario e quesitos.
+description: Atuacao no Tribunal do Juri.
 allowed-tools: Read, Write, Edit, Bash, Glob, Grep
 argument-hint: [descricao do caso]
 ---

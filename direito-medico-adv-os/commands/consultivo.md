@@ -1,5 +1,5 @@
 ---
-description: Acionamento direto do nucleo consultivo empresarial — constituicao de sociedade medica, contratos, credenciamento, LGPD-saude, publicidade. Skills Tier 6.
+description: Acionamento direto do nucleo consultivo empresarial.
 allowed-tools: Read, Write, Edit, Bash, Glob, Grep
 argument-hint: [descricao opcional do caso consultivo]
 ---

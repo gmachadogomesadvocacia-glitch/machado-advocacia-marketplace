@@ -1,5 +1,5 @@
 ---
-description: Fecha o ciclo de vida de um caso — confirma o encerramento real, preenche o desfecho do bloco jurimetrico (com sync DataJud final), fecha a memoria do caso e arquiva a pasta no acervo formal com o operador escolhendo o destino.
+description: Fecha o ciclo de vida de um caso.
 allowed-tools: Read, Write, Edit, Bash, Glob, Grep
 argument-hint: <caminho da pasta do caso | nome do caso>
 ---

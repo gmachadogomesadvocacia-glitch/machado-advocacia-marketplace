@@ -1,5 +1,5 @@
 ---
-description: Ativa a cadeia completa de operacao em Direito de Familia e Sucessoes — 4 Camadas de Governanca, 20 Proibicoes Absolutas, FIRAC Familia, roteamento e revisao R1-R4. Comando-coracao do plugin.
+description: Ativa a cadeia completa de operacao em Direito de Familia e Sucessoes.
 allowed-tools: Read, Write, Edit, Bash, Glob, Grep
 argument-hint: [contexto opcional da demanda]
 ---

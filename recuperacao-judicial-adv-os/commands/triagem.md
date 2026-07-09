@@ -1,5 +1,5 @@
 ---
-description: Acionamento direto da triagem de Recuperacao Judicial — polo, classe do credito, fato gerador (concursal x extraconcursal), via e MODO CTH. Porta de entrada.
+description: Acionamento direto da triagem de Recuperacao Judicial.
 allowed-tools: Read, Write, Edit, Bash, Glob, Grep
 argument-hint: [descricao do caso]
 ---

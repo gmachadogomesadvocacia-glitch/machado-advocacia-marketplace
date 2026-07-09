@@ -1,5 +1,5 @@
 ---
-description: Abre, retoma ou lista um caso de familia/sucessoes em familia/casos/<slug>/ — CASO.md compartimentado por cliente (sigilo + LGPD). Suporta novo <slug>, <slug> (retomar) e list.
+description: Abre, retoma ou lista um caso de familia/sucessoes em familia/casos/<slug>/.
 allowed-tools: Read, Write, Edit, Bash, Glob, Grep
 argument-hint: [novo <slug> | <slug> | list]
 ---

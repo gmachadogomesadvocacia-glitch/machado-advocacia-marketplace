@@ -1,5 +1,5 @@
 ---
-description: Responsabilidade civil do Estado / Fazenda Publica — CF 37 §6º (objetiva por ato comissivo; teoria do risco), acao/omissao, regresso contra o agente, prazo e foro.
+description: Responsabilidade civil do Estado / Fazenda Publica.
 allowed-tools: Read, Write, Edit, Bash, Glob, Grep
 argument-hint: [resumo do dano e do ente causador]
 ---

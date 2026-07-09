@@ -1,5 +1,5 @@
 ---
-description: Mostra o estado do plugin de Usucapiao — identidade do operador, frentes ativas, Revisao Tecnica e casos ativos. Se nao configurado, sugere /start-usucapiao.
+description: Mostra o estado do plugin de Usucapiao.
 allowed-tools: Read, Bash, Glob, Grep
 argument-hint: [opcional]
 ---

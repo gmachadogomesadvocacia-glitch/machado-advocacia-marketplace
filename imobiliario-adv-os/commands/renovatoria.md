@@ -1,5 +1,5 @@
 ---
-description: Acao renovatoria e revisional de aluguel (Lei 8.245/91) — locacao nao residencial, requisitos do art. 51 e prazo decadencial do art. 51 §5º (PA-07).
+description: Acao renovatoria e revisional de aluguel (Lei 8.245/91).
 allowed-tools: Read, Write, Edit, Bash, Glob, Grep
 argument-hint: [descricao do caso]
 ---

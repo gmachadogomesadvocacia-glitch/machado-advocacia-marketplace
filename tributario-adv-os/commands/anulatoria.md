@@ -1,5 +1,5 @@
 ---
-description: Produz a acao anulatoria de debito fiscal (art. 38 LEF) — desconstituicao do lancamento/CDA, com pedido de tutela e, quando for o caso, deposito do montante integral.
+description: Produz a acao anulatoria de debito fiscal (art. 38 LEF).
 allowed-tools: Read, Write, Edit, Bash, Glob, Grep
 argument-hint: [descricao do caso]
 ---

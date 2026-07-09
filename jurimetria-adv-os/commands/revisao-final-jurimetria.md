@@ -1,5 +1,5 @@
 ---
-description: Submete uma analise jurimetrica a Suprema Corte do plugin — auditoria R1 dados, R2 metodo, R3 interpretacao, R4 forma/sigilo + R5 red-team estatistico. Reprovacao bloqueia a entrega.
+description: Submete uma analise jurimetrica a Suprema Corte do plugin.
 allowed-tools: Read, Write, Edit, Bash, Glob, Grep
 argument-hint: [caminho ou referencia da analise]
 ---

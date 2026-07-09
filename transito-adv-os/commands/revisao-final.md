@@ -1,5 +1,5 @@
 ---
-description: Dispara a auditoria R1-R4 (Suprema Corte do plugin) sobre uma peca, defesa, recurso ou parecer antes da entrega — inclui a checagem inegociavel da PA-06. Obrigatoria por default.
+description: Dispara a auditoria R1-R4 (Suprema Corte do plugin) sobre uma peca, defesa, recurso ou parecer antes da entrega.
 allowed-tools: Read, Write, Edit, Bash, Glob, Grep
 argument-hint: [arquivo ou peca a auditar]
 ---

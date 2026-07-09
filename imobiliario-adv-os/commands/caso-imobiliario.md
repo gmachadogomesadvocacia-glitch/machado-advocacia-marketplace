@@ -1,5 +1,5 @@
 ---
-description: Abre ou atualiza o CASO.md do caso ativo (Protocolo P3) em imobiliario/casos/<slug>/ — memoria de caso compartimentada (sigilo OAB + LGPD).
+description: Abre ou atualiza o CASO.md do caso ativo (Protocolo P3) em imobiliario/casos/<slug>/.
 allowed-tools: Read, Write, Edit, Bash, Glob, Grep
 argument-hint: [novo <slug> | <slug> | list]
 ---

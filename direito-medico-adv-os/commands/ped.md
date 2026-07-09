@@ -1,5 +1,5 @@
 ---
-description: Acionamento direto do nucleo etico-disciplinar — defesa em PED CRM, PED CRO, MS contra cassacao, suspensao preventiva. Skills Tier 4.
+description: Acionamento direto do nucleo etico-disciplinar.
 allowed-tools: Read, Write, Edit, Bash, Glob, Grep
 argument-hint: [descricao opcional do caso etico-disciplinar]
 ---

@@ -1,5 +1,5 @@
 ---
-description: Recursos criminais — apelacao, RESE, embargos de declaracao/infringentes, RHC e recursos superiores; vedada a reformatio in pejus.
+description: Recursos criminais.
 allowed-tools: Read, Write, Edit, Bash, Glob, Grep
 argument-hint: [descricao do caso]
 ---

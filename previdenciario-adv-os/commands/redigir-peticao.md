@@ -1,5 +1,5 @@
 ---
-description: Redige a peticao inicial previdenciaria (JEF/JF) — FIRAC+AIDA, qualquer especie, com tutela quando cabivel. Exige triagem e estrategia previas.
+description: Redige a peticao inicial previdenciaria (JEF/JF).
 allowed-tools: Read, Write, Edit, Bash, Glob, Grep
 argument-hint: [especie / dados do caso]
 ---

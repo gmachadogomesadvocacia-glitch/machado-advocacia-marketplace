@@ -1,5 +1,5 @@
 ---
-description: Aciona a Suprema Corte do usucapiao — auditoria R1-R4 obrigatoria sobre toda peca/requerimento/parecer antes da entrega. Bypass apenas com --no-corte/--quick explicito.
+description: Aciona a Suprema Corte do usucapiao.
 allowed-tools: Read, Write, Edit, Bash, Glob, Grep
 argument-hint: [documento a auditar]
 ---

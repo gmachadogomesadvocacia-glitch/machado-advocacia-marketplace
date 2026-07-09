@@ -1,5 +1,5 @@
 ---
-description: Planejamento previdenciario para socio/PJ — contribuinte individual, MEI, pro-labore, otimizacao de RMI e do custo contributivo.
+description: Planejamento previdenciario para socio/PJ.
 allowed-tools: Read, Write, Edit, Bash, Glob, Grep
 argument-hint: [perfil do cliente/empresa]
 ---

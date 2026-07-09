@@ -1,5 +1,5 @@
 ---
-description: Nucleo UNIAO ESTAVEL — reconhecimento e dissolucao, regime aplicavel, partilha e direitos do companheiro (inclusive post mortem no inventario).
+description: Nucleo UNIAO ESTAVEL.
 allowed-tools: Read, Write, Edit, Bash, Glob, Grep
 argument-hint: [dados da uniao]
 ---

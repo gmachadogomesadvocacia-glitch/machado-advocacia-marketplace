@@ -1,5 +1,5 @@
 ---
-description: Localiza, classifica e prioriza precedentes trabalhistas — busca viva no TST/TRTs/JusBrasil, classificacao em 3 niveis.
+description: Localiza, classifica e prioriza precedentes trabalhistas.
 allowed-tools: Read, Write, Edit, Bash, Glob, Grep, WebSearch, WebFetch
 argument-hint: [tese ou tema a pesquisar]
 ---

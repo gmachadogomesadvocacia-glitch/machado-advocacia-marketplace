@@ -1,5 +1,5 @@
 ---
-description: Inicia o wizard de configuracao do plugin previdenciario — cria a pasta previdenciario/ com identidade do advogado, frentes de atuacao, tom e modo de fluxo. Gera persona e aponta PREV_PERSONA.
+description: Inicia o wizard de configuracao do plugin previdenciario.
 allowed-tools: Read, Write, Edit, Bash, Glob, Grep
 argument-hint: [opcional]
 ---

@@ -1,5 +1,5 @@
 ---
-description: Analisa duracao e ritmo processual — duracao tipica de um recorte, ritmo de um processo, tempo por fase quando os marcos existem, e lista de casos parados do acervo. Censura a direita sempre declarada.
+description: Analisa duracao e ritmo processual.
 allowed-tools: Read, Write, Edit, Bash, Glob, Grep
 argument-hint: <recorte ou numero-cnj> [parados]
 ---

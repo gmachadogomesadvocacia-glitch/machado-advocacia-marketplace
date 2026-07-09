@@ -1,5 +1,5 @@
 ---
-description: Acionamento direto do nucleo civel — responsabilidade civil medica/odontologica, perda de chance, cirurgia estetica, prescricao. Skills Tier 2.
+description: Acionamento direto do nucleo civel.
 allowed-tools: Read, Write, Edit, Bash, Glob, Grep
 argument-hint: [descricao opcional do caso civel]
 ---

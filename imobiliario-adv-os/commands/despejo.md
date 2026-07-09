@@ -1,5 +1,5 @@
 ---
-description: Acao de despejo e cobranca de alugueis (Lei 8.245/91) — falta de pagamento, denuncia vazia, infracao contratual; liminar art. 59 §1º + caucao (PA-06); purgacao art. 62.
+description: Acao de despejo e cobranca de alugueis (Lei 8.245/91).
 allowed-tools: Read, Write, Edit, Bash, Glob, Grep
 argument-hint: [descricao do caso]
 ---

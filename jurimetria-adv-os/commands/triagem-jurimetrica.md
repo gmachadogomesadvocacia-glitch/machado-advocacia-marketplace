@@ -1,5 +1,5 @@
 ---
-description: Define a pergunta analitica e o enquadramento 4D da demanda jurimetrica (tipo de analise x fonte x recorte x destino), com checagem previa de N. Porta de entrada antes de qualquer motor.
+description: Define a pergunta analitica e o enquadramento 4D da demanda jurimetrica (tipo de analise x fonte x recorte x destino), com checagem previa de N.
 allowed-tools: Read, Write, Edit, Bash, Glob, Grep
 argument-hint: [descricao da demanda]
 ---

@@ -1,5 +1,5 @@
 ---
-description: Submete uma peca, parecer ou calculo ja produzido a auditoria final R1-R4 (Suprema Corte do plugin) antes da entrega. Bypass via --no-corte / --quick. Obrigatoria por PA-22.
+description: Submete uma peca, parecer ou calculo ja produzido a auditoria final R1-R4 (Suprema Corte do plugin) antes da entrega.
 allowed-tools: Read, Write, Edit, Bash, Glob, Grep
 argument-hint: [arquivo ou peca a auditar] [--no-corte|--quick]
 ---

@@ -1,5 +1,5 @@
 ---
-description: Acionamento direto do nucleo SUPERENDIVIDAMENTO — Lei 14.181/2021: repactuacao de dividas e preservacao do minimo existencial. Roteia para acao-superendividamento.
+description: Acionamento direto do nucleo SUPERENDIVIDAMENTO.
 allowed-tools: Read, Write, Edit, Bash, Glob, Grep
 argument-hint: [resumo da situacao de endividamento]
 ---

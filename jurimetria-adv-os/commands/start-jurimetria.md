@@ -1,5 +1,5 @@
 ---
-description: Wizard de configuracao inicial do plugin jurimetria-adv-os — cria a persona do escritorio, aponta o acervo (CASE_ROOT), os tribunais de referencia e grava JURI_PERSONA no settings.local.json. Rode na primeira vez.
+description: Wizard de configuracao inicial do plugin jurimetria-adv-os.
 allowed-tools: Read, Write, Edit, Bash, Glob, Grep
 argument-hint: [opcional]
 ---

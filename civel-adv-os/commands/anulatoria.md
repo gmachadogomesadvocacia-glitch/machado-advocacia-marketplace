@@ -1,5 +1,5 @@
 ---
-description: Anulacao / nulidade de negocio juridico — vicios do consentimento (erro, dolo, coacao, lesao, estado de perigo) e defeitos (simulacao, fraude contra credores). CC 138-184.
+description: Anulacao / nulidade de negocio juridico.
 allowed-tools: Read, Write, Edit, Bash, Glob, Grep
 argument-hint: [resumo do negocio e do vicio]
 ---

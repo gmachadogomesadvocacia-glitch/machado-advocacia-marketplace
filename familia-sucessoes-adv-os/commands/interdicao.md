@@ -1,5 +1,5 @@
 ---
-description: Nucleo INTERDICAO/CURATELA — curatela do incapaz e Tomada de Decisao Apoiada (TDA), com modalidade e extensao corretas (CC + CPC + CRPD).
+description: Nucleo INTERDICAO/CURATELA.
 allowed-tools: Read, Write, Edit, Bash, Glob, Grep
 argument-hint: [dados da pessoa a proteger]
 ---

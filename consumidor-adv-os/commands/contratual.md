@@ -1,5 +1,5 @@
 ---
-description: Acionamento direto do nucleo CONTRATUAL/CLAUSULAS — analise de contrato de adesao, nulidade de clausula abusiva (art. 51 CDC) e cobranca indevida. Roteia conforme o polo.
+description: Acionamento direto do nucleo CONTRATUAL/CLAUSULAS.
 allowed-tools: Read, Write, Edit, Bash, Glob, Grep
 argument-hint: [resumo do contrato ou clausula]
 ---

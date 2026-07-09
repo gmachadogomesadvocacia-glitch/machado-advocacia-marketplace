@@ -1,5 +1,5 @@
 ---
-description: Inicia o wizard de configuracao do plugin Direito Medico Adv-OS — cria a pasta direito-medico/ com identidade do advogado, OAB, cidade/UF, area de foco (defesa-profissional / plano-saude / consultivo / todos), frentes ativas, tom e modo de melhor saida.
+description: Inicia o wizard de configuracao do plugin Direito Medico Adv-OS.
 allowed-tools: Read, Write, Edit, Bash, Glob, Grep
 argument-hint: [--update para reconfigurar]
 ---

@@ -1,5 +1,5 @@
 ---
-description: Planejamento tributario licito (elisao — PA-06) — escolha de regime, reorganizacao, parcelamento/transacao e impacto da Reforma. Roteia para parcelamento-transacao e reforma-tributaria.
+description: Planejamento tributario licito (elisao.
 allowed-tools: Read, Write, Edit, Bash, Glob, Grep
 argument-hint: [descricao do caso ou objetivo do cliente]
 ---

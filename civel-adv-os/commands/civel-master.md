@@ -1,5 +1,5 @@
 ---
-description: Ativa a governanca integral do civel residual — 4 Camadas, 13 Proibicoes Absolutas, Protocolos, roteamento por frente e Suprema Corte R1-R4. Comando-coracao do plugin.
+description: Ativa a governanca integral do civel residual.
 allowed-tools: Read, Write, Edit, Bash, Glob, Grep
 argument-hint: [contexto opcional da demanda]
 ---

@@ -1,5 +1,5 @@
 ---
-description: Via EXTRAJUDICIAL/CARTORIO — usucapiao administrativa no RI (CPC 1.071 + Lei 6.015 216-A + Provimento CNJ): ata notarial, planta+ART, anuencias, requerimento. So com consenso.
+description: Via EXTRAJUDICIAL/CARTORIO.
 allowed-tools: Read, Write, Edit, Bash, Glob, Grep
 argument-hint: [dados do imovel/posse]
 ---

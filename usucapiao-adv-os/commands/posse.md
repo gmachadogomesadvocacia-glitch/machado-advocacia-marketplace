@@ -1,5 +1,5 @@
 ---
-description: Analise da POSSE ad usucapionem — verifica tempo, qualidade (mansa/pacifica/continua/animus domini), distingue posse de detencao e DEFINE a modalidade cabivel.
+description: Analise da POSSE ad usucapionem.
 allowed-tools: Read, Write, Edit, Bash, Glob, Grep
 argument-hint: [historico da posse]
 ---

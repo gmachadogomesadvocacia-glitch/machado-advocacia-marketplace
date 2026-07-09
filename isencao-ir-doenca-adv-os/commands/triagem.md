@@ -1,5 +1,5 @@
 ---
-description: Acionamento direto da triagem — verifica os 4 requisitos da isencao (doenca no rol art. 6 XIV; rendimento e provento; fonte pagadora; periodo retido) e a via. Porta de entrada.
+description: Acionamento direto da triagem.
 allowed-tools: Read, Write, Edit, Bash, Glob, Grep
 argument-hint: [descricao do caso]
 ---

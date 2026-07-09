@@ -1,5 +1,5 @@
 ---
-description: Roda o Modulo B — regua publica de duracao via DataJud por classe+assunto+orgao, com comparacao opcional contra o acervo proprio no mesmo recorte CNJ (mediana com mediana).
+description: Roda o Modulo B.
 allowed-tools: Read, Write, Edit, Bash, Glob, Grep
 argument-hint: <tribunal e classe (+ assunto/orgao)> [vs acervo]
 ---

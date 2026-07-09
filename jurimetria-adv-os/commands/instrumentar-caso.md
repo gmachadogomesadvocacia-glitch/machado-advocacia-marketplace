@@ -1,5 +1,5 @@
 ---
-description: Insere ou atualiza o bloco jurimetrico de um CASO.md (identificacao, classificacao CNJ via DataJud, caso, desfecho) e carimba datajud_sync. Modo lote para os casos que a coleta apontou sem bloco.
+description: Insere ou atualiza o bloco jurimetrico de um CASO.md (identificacao, classificacao CNJ via DataJud, caso, desfecho) e carimba datajud_sync.
 allowed-tools: Read, Write, Edit, Bash, Glob, Grep
 argument-hint: <caminho do CASO.md | lote> [--continuo]
 ---

@@ -1,5 +1,5 @@
 ---
-description: Aciona a governanca central (Tier 0) do plugin tributario-adv-os — 4 Camadas, roteamento de skills e leitura da config ativa (persona, frentes, esferas, polo).
+description: Aciona a governanca central (Tier 0) do plugin tributario-adv-os.
 allowed-tools: Read, Write, Edit, Bash, Glob, Grep
 argument-hint: [pergunta ou contexto opcional]
 ---

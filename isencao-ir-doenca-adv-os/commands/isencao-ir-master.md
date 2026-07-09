@@ -1,5 +1,5 @@
 ---
-description: Ativa a cadeia completa de Isencao de IRPF por doenca grave — 4 Camadas, Proibicoes Absolutas, Protocolos (Selo P1, Cruzamento Administrativo-Judicial) e Suprema Corte R1-R4. Comando-coracao.
+description: Ativa a cadeia completa de Isencao de IRPF por doenca grave.
 allowed-tools: Read, Write, Edit, Bash, Glob, Grep
 argument-hint: [contexto opcional]
 ---

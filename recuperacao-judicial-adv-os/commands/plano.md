@@ -1,5 +1,5 @@
 ---
-description: Nucleo PLANO DE RECUPERACAO — elaboracao/analise do plano (meios de recuperacao, deagio, carencia, classes), com olhar de credor ou de devedor.
+description: Nucleo PLANO DE RECUPERACAO.
 allowed-tools: Read, Write, Edit, Bash, Glob, Grep
 argument-hint: [dados do plano/empresa]
 ---

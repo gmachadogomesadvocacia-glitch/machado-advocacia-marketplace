@@ -1,5 +1,5 @@
 ---
-description: Produz o recurso administrativo — voluntario/especial no CARF e CSRF (federal) ou ao TIT/conselhos de contribuintes (estadual/municipal), apos a decisao de primeira instancia.
+description: Produz o recurso administrativo.
 allowed-tools: Read, Write, Edit, Bash, Glob, Grep
 argument-hint: [descricao do caso]
 ---

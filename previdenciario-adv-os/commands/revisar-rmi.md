@@ -1,5 +1,5 @@
 ---
-description: Acao revisional de RMI — Revisao da Vida Toda (Tema 1102 STF), Tema 999, erros de calculo e de enquadramento. Verifica decadencia decenal (art. 103 Lei 8.213).
+description: Acao revisional de RMI.
 allowed-tools: Read, Write, Edit, Bash, Glob, Grep
 argument-hint: [dados do beneficio]
 ---

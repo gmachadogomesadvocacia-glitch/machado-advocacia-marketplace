@@ -1,5 +1,5 @@
 ---
-description: Monta o quadro de viabilidade de um caso candidato — precedente interno, faixa de quantum, tempo tipico e sinais de atencao — para o advogado decidir aceitar/propor. Sem probabilidade de exito (veda OAB).
+description: Monta o quadro de viabilidade de um caso candidato.
 allowed-tools: Read, Write, Edit, Bash, Glob, Grep
 argument-hint: <descricao do caso candidato>
 ---

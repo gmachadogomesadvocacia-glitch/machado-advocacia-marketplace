@@ -1,5 +1,5 @@
 ---
-description: Indicacao do real condutor infrator (CTB 257 §7o) — transfere a pontuacao a quem efetivamente dirigia. Alerta PA-06: SOMENTE o condutor real, nunca indicacao falsa (crime art. 299 CP).
+description: Indicacao do real condutor infrator (CTB 257 §7o).
 allowed-tools: Read, Write, Edit, Bash, Glob, Grep
 argument-hint: [descricao do caso]
 ---

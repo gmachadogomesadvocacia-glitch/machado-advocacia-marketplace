@@ -1,5 +1,5 @@
 ---
-description: Ativa a cadeia completa de Usucapiao (judicial e extrajudicial) — 4 Camadas, Proibicoes Absolutas, tabela de modalidades, Protocolos (Selo P1, Analise de Posse) e Suprema Corte R1-R4. Comando-coracao.
+description: Ativa a cadeia completa de Usucapiao (judicial e extrajudicial).
 allowed-tools: Read, Write, Edit, Bash, Glob, Grep
 argument-hint: [contexto opcional]
 ---

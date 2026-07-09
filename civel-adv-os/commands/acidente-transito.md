@@ -1,5 +1,5 @@
 ---
-description: Reparacao civil por acidente de transito — danos materiais, morais e esteticos, DPVAT e acao de regresso. Nexo, culpa, excludentes e quantum no contexto viario.
+description: Reparacao civil por acidente de transito.
 allowed-tools: Read, Write, Edit, Bash, Glob, Grep
 argument-hint: [resumo do acidente]
 ---

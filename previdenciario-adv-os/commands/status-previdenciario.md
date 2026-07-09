@@ -1,5 +1,5 @@
 ---
-description: Mostra o estado do plugin previdenciario — identidade do operador, frentes ativas, estado da Revisao Tecnica e casos ativos. Se nao configurado, sugere /start-previdenciario.
+description: Mostra o estado do plugin previdenciario.
 allowed-tools: Read, Bash, Glob, Grep
 argument-hint: [opcional]
 ---

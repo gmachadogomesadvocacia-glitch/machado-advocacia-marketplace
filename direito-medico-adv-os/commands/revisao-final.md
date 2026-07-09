@@ -1,5 +1,5 @@
 ---
-description: Aciona diretamente a Revisao Tecnica R1-R4 (Suprema Corte do plugin) sobre uma peca/parecer ja produzido. Auditoria obrigatoria antes da entrega ao operador.
+description: Aciona diretamente a Revisao Tecnica R1-R4 (Suprema Corte do plugin) sobre uma peca/parecer ja produzido.
 allowed-tools: Read, Write, Edit, Bash, Glob, Grep
 argument-hint: [referencia ao documento a revisar | --quick (R1+R2 apenas) | --no-revisao]
 ---

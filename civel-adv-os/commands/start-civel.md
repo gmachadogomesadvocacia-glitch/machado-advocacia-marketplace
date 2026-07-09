@@ -1,5 +1,5 @@
 ---
-description: Wizard de configuracao do plugin — cria a persona do escritorio, a config, a pasta de casos e aponta CIV_PERSONA no settings.local.json. Rode na primeira vez.
+description: Wizard de configuracao do plugin.
 allowed-tools: Read, Write, Edit, Bash, Glob, Grep
 argument-hint: [opcional]
 ---

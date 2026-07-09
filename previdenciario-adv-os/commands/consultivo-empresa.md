@@ -1,5 +1,5 @@
 ---
-description: Consultivo empresarial INSS — folha de salarios, RAT/FAP, pejotizacao, eSocial e defesa em autuacao fiscal previdenciaria.
+description: Consultivo empresarial INSS.
 allowed-tools: Read, Write, Edit, Bash, Glob, Grep
 argument-hint: [demanda da empresa]
 ---

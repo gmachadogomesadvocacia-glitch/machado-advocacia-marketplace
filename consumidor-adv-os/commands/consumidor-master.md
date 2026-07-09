@@ -1,5 +1,5 @@
 ---
-description: Ativa a cadeia completa de operacao em Direito do Consumidor e Bancario — 4 Camadas, Proibicoes Absolutas, 6 Protocolos (incluindo P4 Cruzamento Judicial-Administrativo) e Suprema Corte R1-R4. Comando-coracao do plugin.
+description: Ativa a cadeia completa de operacao em Direito do Consumidor e Bancario.
 allowed-tools: Read, Write, Edit, Bash, Glob, Grep
 argument-hint: [contexto opcional da demanda]
 ---

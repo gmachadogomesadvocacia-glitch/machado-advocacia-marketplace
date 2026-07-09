@@ -1,5 +1,5 @@
 ---
-description: Nucleo PLANEJAMENTO SUCESSORIO — testamento, holding familiar, doacao com usufruto, respeitando a legitima (sem fraude a legitima).
+description: Nucleo PLANEJAMENTO SUCESSORIO.
 allowed-tools: Read, Write, Edit, Bash, Glob, Grep
 argument-hint: [perfil patrimonial/familiar]
 ---

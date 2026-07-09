@@ -1,5 +1,5 @@
 ---
-description: Acao indenizatoria / responsabilidade civil — dano moral, material e estetico; ato ilicito CC 186/187/927, nexo, culpa x responsabilidade objetiva, quantum.
+description: Acao indenizatoria / responsabilidade civil.
 allowed-tools: Read, Write, Edit, Bash, Glob, Grep
 argument-hint: [resumo do dano e do fato]
 ---

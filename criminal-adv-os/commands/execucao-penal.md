@@ -1,5 +1,5 @@
 ---
-description: Execucao penal (LEP 7.210/84) — progressao de regime, livramento condicional, remicao, comutacao, falta grave e agravo em execucao.
+description: Execucao penal (LEP 7.210/84).
 allowed-tools: Read, Write, Edit, Bash, Glob, Grep
 argument-hint: [descricao do caso]
 ---

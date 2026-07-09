@@ -1,5 +1,5 @@
 ---
-description: Nucleo CREDOR TRABALHISTA (eixo prioritario) — habilitacao do credito trabalhista em RJ: coleta dos 22 campos, via correta, classificacao concursal/extraconcursal, teto 150 SM e prescricao.
+description: Nucleo CREDOR TRABALHISTA (eixo prioritario).
 allowed-tools: Read, Write, Edit, Bash, Glob, Grep
 argument-hint: [dados do credito trabalhista]
 ---

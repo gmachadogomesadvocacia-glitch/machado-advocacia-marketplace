@@ -1,5 +1,5 @@
 ---
-description: Ativa a cadeia completa de Recuperacao Judicial e Falencia — 4 Camadas, 25 Proibicoes Absolutas + 11 PA-CTH, 8 Protocolos (P8 cruzamento JT x RJ), MODO CTH e Suprema Corte R1-R4. Comando-coracao do plugin.
+description: Ativa a cadeia completa de Recuperacao Judicial e Falencia.
 allowed-tools: Read, Write, Edit, Bash, Glob, Grep
 argument-hint: [contexto opcional da demanda]
 ---

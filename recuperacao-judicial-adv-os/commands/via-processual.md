@@ -1,5 +1,5 @@
 ---
-description: Nucleo VIA PROCESSUAL — decide a via correta de habilitacao/impugnacao (divergencia art. 7§1, impugnacao art. 8, retardataria art. 10, reserva art. 6§2) conforme fase, prazo e situacao do credito.
+description: Nucleo VIA PROCESSUAL.
 allowed-tools: Read, Write, Edit, Bash, Glob, Grep
 argument-hint: [situacao do credito/fase]
 ---

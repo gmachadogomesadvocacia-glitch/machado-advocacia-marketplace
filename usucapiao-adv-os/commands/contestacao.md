@@ -1,5 +1,5 @@
 ---
-description: Lado CONFRONTANTE/reu — contestacao a acao de usucapiao ou impugnacao ao pedido extrajudicial. Descaracteriza a posse (detencao, falta de animus domini, interrupcao) e a metragem.
+description: Lado CONFRONTANTE/reu.
 allowed-tools: Read, Write, Edit, Bash, Glob, Grep
 argument-hint: [dados da defesa]
 ---

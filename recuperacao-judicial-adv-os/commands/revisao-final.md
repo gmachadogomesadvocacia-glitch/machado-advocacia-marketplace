@@ -1,5 +1,5 @@
 ---
-description: Aciona a Suprema Corte da RJ — auditoria R1-R4 obrigatoria sobre toda peca/calculo/parecer antes da entrega. Bypass apenas com --no-corte/--quick explicito.
+description: Aciona a Suprema Corte da RJ.
 allowed-tools: Read, Write, Edit, Bash, Glob, Grep
 argument-hint: [documento a auditar]
 ---

@@ -1,5 +1,5 @@
 ---
-description: Acionamento direto do nucleo de acoes contra plano de saude — oncologia, home care, OPME, TEA, reajuste, rescisao, tutela de urgencia. Skills Tier 5.
+description: Acionamento direto do nucleo de acoes contra plano de saude.
 allowed-tools: Read, Write, Edit, Bash, Glob, Grep
 argument-hint: [descricao opcional do caso contra plano]
 ---

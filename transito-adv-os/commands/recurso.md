@@ -1,5 +1,5 @@
 ---
-description: Recursos administrativos apos a Notificacao da Penalidade — JARI (1a instancia) e CETRAN/CONTRANDIFE (2a instancia); prazo preclusivo de 30 dias (PA-05).
+description: Recursos administrativos apos a Notificacao da Penalidade.
 allowed-tools: Read, Write, Edit, Bash, Glob, Grep
 argument-hint: [descricao do caso]
 ---

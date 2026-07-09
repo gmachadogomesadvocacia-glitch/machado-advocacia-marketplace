@@ -1,5 +1,5 @@
 ---
-description: Inicia o wizard de configuracao do plugin de familia — cria a pasta familia/ com identidade do advogado, area de foco, tom e modo de fluxo. Gera persona e aponta FAM_PERSONA.
+description: Inicia o wizard de configuracao do plugin de familia.
 allowed-tools: Read, Write, Edit, Bash, Glob, Grep
 argument-hint: [opcional]
 ---

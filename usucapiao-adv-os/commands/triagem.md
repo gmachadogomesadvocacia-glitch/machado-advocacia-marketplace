@@ -1,5 +1,5 @@
 ---
-description: Acionamento direto da triagem 4D — polo, via (judicial x extrajudicial), modalidade e imovel + pre-check da posse. Porta de entrada.
+description: Acionamento direto da triagem 4D.
 allowed-tools: Read, Write, Edit, Bash, Glob, Grep
 argument-hint: [descricao do caso]
 ---

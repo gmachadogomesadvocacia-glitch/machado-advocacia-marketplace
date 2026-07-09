@@ -1,5 +1,5 @@
 ---
-description: Produz a repeticao de indebito tributario / pedido de compensacao (CTN 165-170) — restituicao do que foi pago indevidamente. Prazo de 5 anos (PA-09).
+description: Produz a repeticao de indebito tributario / pedido de compensacao (CTN 165-170).
 allowed-tools: Read, Write, Edit, Bash, Glob, Grep
 argument-hint: [descricao do caso]
 ---

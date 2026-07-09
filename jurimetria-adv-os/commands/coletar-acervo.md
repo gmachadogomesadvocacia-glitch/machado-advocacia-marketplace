@@ -1,5 +1,5 @@
 ---
-description: Roda o Modulo C — varre todos os CASO.md do acervo, consolida o dataset do portfolio e entrega o relatorio descritivo (composicao, quantum, taxa de exito) com freio de N-minimo e lista dos casos sem bloco.
+description: Roda o Modulo C.
 allowed-tools: Read, Write, Edit, Bash, Glob, Grep
 argument-hint: [recorte opcional: area, status, periodo] [--datajud]
 ---

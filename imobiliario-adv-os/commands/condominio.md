@@ -1,5 +1,5 @@
 ---
-description: Cobranca de cotas condominiais (obrigacao propter rem) e conflitos no condominio edilicio — execucao/cobranca, multas e penalidades (CC art. 1.336-1.337).
+description: Cobranca de cotas condominiais (obrigacao propter rem) e conflitos no condominio edilicio.
 allowed-tools: Read, Write, Edit, Bash, Glob, Grep
 argument-hint: [descricao do caso]
 ---

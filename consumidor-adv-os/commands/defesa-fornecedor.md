@@ -1,5 +1,5 @@
 ---
-description: Acionamento direto do nucleo DEFESA DO FORNECEDOR (polo passivo) — contestacao consumerista e defesa de instituicao financeira. Checa prescricao/decadencia e excludentes (art. 12 §3/14 §3).
+description: Acionamento direto do nucleo DEFESA DO FORNECEDOR (polo passivo).
 allowed-tools: Read, Write, Edit, Bash, Glob, Grep
 argument-hint: [resumo da acao a contestar]
 ---

@@ -1,5 +1,5 @@
 ---
-description: Acionamento direto da triagem dogmatica previdenciaria — B-code (especie do beneficio), competencia, carencia e qualidade de segurado. Porta de entrada de toda demanda.
+description: Acionamento direto da triagem dogmatica previdenciaria.
 allowed-tools: Read, Write, Edit, Bash, Glob, Grep
 argument-hint: [descricao do caso]
 ---

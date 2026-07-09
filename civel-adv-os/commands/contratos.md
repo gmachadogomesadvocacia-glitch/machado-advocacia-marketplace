@@ -1,5 +1,5 @@
 ---
-description: Contratos civis — revisao, rescisao, resolucao por inadimplemento e perdas e danos; contratos tipicos (prestacao de servico, mutuo, comodato, mandato, doacao, fianca civil).
+description: Contratos civis.
 allowed-tools: Read, Write, Edit, Bash, Glob, Grep
 argument-hint: [resumo do contrato e do litigio]
 ---

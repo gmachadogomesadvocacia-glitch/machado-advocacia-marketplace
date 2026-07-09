@@ -1,5 +1,5 @@
 ---
-description: Calculo previdenciario — RMI, RMA, salario de beneficio, com auto-ataque (Protocolo P5). Nunca calcula sem dado-base (CNIS, salarios, marco temporal).
+description: Calculo previdenciario.
 allowed-tools: Read, Write, Edit, Bash, Glob, Grep
 argument-hint: [dados do calculo]
 ---

@@ -1,5 +1,5 @@
 ---
-description: Compara unidades judiciarias da mesma comarca para a mesma classe+assunto (Modulo B por orgao julgador) — mediana/quartis de duracao, N e ritmo, com freios PE-04/PE-09 e leitura do que o numero nao diz. Nunca para escolher vara.
+description: Compara unidades judiciarias da mesma comarca para a mesma classe+assunto (Modulo B por orgao julgador).
 allowed-tools: Read, Bash, Glob, Grep
 argument-hint: <classe + assunto + comarca | "1a x 3a VT p/ execucao">
 ---

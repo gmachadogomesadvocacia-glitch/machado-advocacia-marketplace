@@ -1,5 +1,5 @@
 ---
-description: Acionamento direto do nucleo BANCARIO/financeiro — revisional, busca e apreensao, repeticao de indebito, negativacao indevida. Roteia conforme o polo do cliente.
+description: Acionamento direto do nucleo BANCARIO/financeiro.
 allowed-tools: Read, Write, Edit, Bash, Glob, Grep
 argument-hint: [resumo da demanda bancaria]
 ---

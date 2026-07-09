@@ -1,5 +1,5 @@
 ---
-description: Via JUDICIAL — acao de usucapiao (qualquer modalidade) com citacao de confrontantes, titulares e Uniao/Estado/Municipio + edital de reus incertos.
+description: Via JUDICIAL.
 allowed-tools: Read, Write, Edit, Bash, Glob, Grep
 argument-hint: [dados do imovel/posse]
 ---

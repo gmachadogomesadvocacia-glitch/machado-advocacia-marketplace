@@ -1,5 +1,5 @@
 ---
-description: Porta de entrada — checa se e civel residual (PA-09) e classifica em 5 eixos (frente, polo, relacao/fato, valor, prazo). Grava no CASO.md e roteia para o Selo P1.
+description: Porta de entrada.
 allowed-tools: Read, Write, Edit, Bash, Glob, Grep
 argument-hint: [resumo da demanda]
 ---

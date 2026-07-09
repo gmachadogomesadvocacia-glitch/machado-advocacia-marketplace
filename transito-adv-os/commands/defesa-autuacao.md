@@ -1,5 +1,5 @@
 ---
-description: Defesa previa / da autuacao (CTB 281-282) — apresentada apos a Notificacao da Autuacao e antes da penalidade; prazo preclusivo de 30 dias (PA-05).
+description: Defesa previa / da autuacao (CTB 281-282).
 allowed-tools: Read, Write, Edit, Bash, Glob, Grep
 argument-hint: [descricao do caso]
 ---

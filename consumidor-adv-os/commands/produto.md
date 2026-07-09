@@ -1,5 +1,5 @@
 ---
-description: Acionamento direto do nucleo PRODUTO/SERVICO — vicio e fato do produto (art. 18/12 CDC), garantia e recall. Distingue decadencia (art. 26) de prescricao (art. 27).
+description: Acionamento direto do nucleo PRODUTO/SERVICO.
 allowed-tools: Read, Write, Edit, Bash, Glob, Grep
 argument-hint: [resumo do vicio ou defeito]
 ---

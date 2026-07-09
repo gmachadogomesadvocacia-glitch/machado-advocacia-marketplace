@@ -1,5 +1,5 @@
 ---
-description: Aciona o orquestrador Tier 0 do jurimetria-adv-os — carrega as 4 Camadas (Proibicoes Estatisticas, Protocolos, Estilo, Skills) e roteia a demanda jurimetrica para o motor certo.
+description: Aciona o orquestrador Tier 0 do jurimetria-adv-os.
 allowed-tools: Read, Write, Edit, Bash, Glob, Grep
 argument-hint: [demanda jurimetrica]
 ---

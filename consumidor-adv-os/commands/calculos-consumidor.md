@@ -1,5 +1,5 @@
 ---
-description: Calculos consumeristas/bancarios — revisional bancaria, repeticao de indebito (simples/dobro art. 42), expurgo de tarifas e quantificacao de dano moral. Nunca calcula sem dado-base.
+description: Calculos consumeristas/bancarios.
 allowed-tools: Read, Write, Edit, Bash, Glob, Grep
 argument-hint: [tipo de calculo e dados-base]
 ---

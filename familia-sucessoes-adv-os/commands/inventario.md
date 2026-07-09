@@ -1,5 +1,5 @@
 ---
-description: Nucleo INVENTARIO/ARROLAMENTO — judicial ou extrajudicial, partilha da heranca, ITCMD e prazos. Nao confunde meacao com heranca.
+description: Nucleo INVENTARIO/ARROLAMENTO.
 allowed-tools: Read, Write, Edit, Bash, Glob, Grep
 argument-hint: [dados do espolio]
 ---

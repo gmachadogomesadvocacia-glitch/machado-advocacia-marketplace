@@ -1,5 +1,5 @@
 ---
-description: Ativa a cadeia completa de operacao trabalhista — Hierarquia das 4 Camadas, 25 Proibicoes Absolutas, 7 Protocolos e Suprema Corte R1-R5. Comando-coracao do plugin.
+description: Ativa a cadeia completa de operacao trabalhista.
 allowed-tools: Read, Write, Edit, Bash, Glob, Grep
 argument-hint: [contexto opcional do caso]
 ---

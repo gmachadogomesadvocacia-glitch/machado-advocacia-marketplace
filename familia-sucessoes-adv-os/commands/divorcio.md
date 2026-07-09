@@ -1,5 +1,5 @@
 ---
-description: Nucleo DIVORCIO/SEPARACAO — divorcio judicial ou extrajudicial, partilha de bens conforme o regime, e dissolucao da uniao. Roteia conforme o polo.
+description: Nucleo DIVORCIO/SEPARACAO.
 allowed-tools: Read, Write, Edit, Bash, Glob, Grep
 argument-hint: [dados do casal/regime]
 ---

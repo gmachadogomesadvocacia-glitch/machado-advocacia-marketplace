@@ -1,5 +1,5 @@
 ---
-description: Configura o plugin de Recuperacao Judicial no ambiente do escritorio — cria a pasta recuperacao-judicial/ com identidade do advogado, frentes, tom. Gera persona e aponta RJ_PERSONA.
+description: Configura o plugin de Recuperacao Judicial no ambiente do escritorio.
 allowed-tools: Read, Write, Edit, Bash, Glob, Grep
 argument-hint: [opcional]
 ---

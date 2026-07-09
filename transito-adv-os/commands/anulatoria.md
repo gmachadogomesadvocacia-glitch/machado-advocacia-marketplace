@@ -1,5 +1,5 @@
 ---
-description: Acao anulatoria judicial de multa, auto de infracao ou penalidade de transito — quando esgotada ou inviavel a via administrativa (via judicial, PA-08).
+description: Acao anulatoria judicial de multa, auto de infracao ou penalidade de transito.
 allowed-tools: Read, Write, Edit, Bash, Glob, Grep
 argument-hint: [descricao do caso]
 ---

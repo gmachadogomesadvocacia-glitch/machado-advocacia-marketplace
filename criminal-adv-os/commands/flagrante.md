@@ -1,5 +1,5 @@
 ---
-description: Defesa na investigacao/flagrante — audiencia de custodia, relaxamento da prisao ilegal, liberdade provisoria e fianca (CPP 310). Atuacao de urgencia.
+description: Defesa na investigacao/flagrante.
 allowed-tools: Read, Write, Edit, Bash, Glob, Grep
 argument-hint: [descricao do caso]
 ---

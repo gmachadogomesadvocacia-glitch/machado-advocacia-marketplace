@@ -1,5 +1,5 @@
 ---
-description: Execucao de titulo executivo extrajudicial (CPC 784) e busca e apreensao em alienacao fiduciaria (DL 911/69). Liquidez, certeza, exigibilidade e via adequada.
+description: Execucao de titulo executivo extrajudicial (CPC 784) e busca e apreensao em alienacao fiduciaria (DL 911/69).
 allowed-tools: Read, Write, Edit, Bash, Glob, Grep
 argument-hint: [resumo do titulo ou do contrato fiduciario]
 ---

@@ -1,5 +1,5 @@
 ---
-description: Produz a impugnacao administrativa ao auto de infracao / lancamento (PAF), que suspende a exigibilidade do credito (CTN 151 III). Prazo 30 dias.
+description: Produz a impugnacao administrativa ao auto de infracao / lancamento (PAF), que suspende a exigibilidade do credito (CTN 151 III).
 allowed-tools: Read, Write, Edit, Bash, Glob, Grep
 argument-hint: [descricao do caso]
 ---

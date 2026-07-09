@@ -1,5 +1,5 @@
 ---
-description: Dispara a auditoria R1-R4 da Suprema Corte do plugin sobre uma peca/parecer/calculo civel ja produzido. Obrigatoria antes da entrega ao operador. Bypass via --no-revisao.
+description: Dispara a auditoria R1-R4 da Suprema Corte do plugin sobre uma peca/parecer/calculo civel ja produzido.
 allowed-tools: Read, Write, Edit, Bash, Glob, Grep
 argument-hint: [arquivo ou peca a auditar]
 ---

@@ -1,5 +1,5 @@
 ---
-description: Executa a triagem 4D (polo x eixo x esfera x rito) de toda demanda consumerista/bancaria e grava o diagnostico no CASO.md. Porta de entrada do plugin.
+description: Executa a triagem 4D (polo x eixo x esfera x rito) de toda demanda consumerista/bancaria e grava o diagnostico no CASO.md.
 allowed-tools: Read, Write, Edit, Bash, Glob, Grep
 argument-hint: [resumo da demanda]
 ---

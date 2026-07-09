@@ -1,5 +1,5 @@
 ---
-description: Calcula a restituicao do IR retido indevidamente — soma competencia a competencia dos ultimos 5 anos (CTN 168) + atualizacao Selic. Nunca calcula sem os comprovantes de retencao.
+description: Calcula a restituicao do IR retido indevidamente.
 allowed-tools: Read, Write, Edit, Bash, Glob, Grep
 argument-hint: [valores/informes de rendimento]
 ---

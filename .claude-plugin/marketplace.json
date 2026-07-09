@@ -54,7 +54,7 @@
     },
     {
       "name": "usucapiao-adv-os",
-      "version": "0.1.1",
+      "version": "0.1.2",
       "source": "./usucapiao-adv-os",
       "description": "Sistema operacional do advogado para USUCAPIAO (judicial e extrajudicial), no padrao Adv-OS. As duas vias num so plugin: judicial (acao em todas as modalidades — extraordinaria, ordinaria, especial urbana/rural, familiar, coletiva — com citacao de confrontantes/entes e edital) e extrajudicial/cartorio (CPC 1.071 + Lei 6.015 216-A + Provimento CNJ: ata notarial, planta+ART, anuencias, registro). Side-aware: usucapiente x confrontante. 15 skills, 4 Camadas, Suprema Corte R1-R4; engine com persona em runtime e 10 commands. Onboarding via /start-usucapiao.",
       "author": {

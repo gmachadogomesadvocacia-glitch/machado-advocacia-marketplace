@@ -42,6 +42,14 @@ Comparar com o valor de mercado **liquido**, nunca com a avaliacao judicial (que
 - **CPC, fiscal e trabalhista:** vil = inferior ao minimo do edital; **sem minimo fixado**, inferior a **50% da avaliacao** (CPC 891, p.u.).
 - **SFH (Lei 5.741/1971):** o piso e o **SALDO DEVEDOR** (art. 6º), nao a avaliacao. **Nao aplicar o art. 891 aqui.** Pedir sempre os dois numeros e apresentar a razao `saldo / avaliacao`: acima de 1,0 a arrematacao por terceiro ja e economicamente inviavel, e o desfecho provavel e a adjudicacao ao credor em 48 horas (art. 7º). O saldo costuma ser atualizado ate a data do leilao, entao o piso tende a **subir**.
 - **Fiduciaria:** nao existe preco vil — vale o referencial do art. 27, § 2º, da Lei 9.514/97.
+- **Venda direta judicial:** o piso e o **percentual fixado no edital** (40% da avaliacao e o
+  usual na Justica do Trabalho). **Nao e preco vil**, ainda que abaixo de 50%: o art. 891
+  so reputa vil o valor inferior ao minimo estipulado pelo juiz **quando ha minimo fixado**,
+  e aqui ha. Registrar isso no parecer, porque o cliente costuma estranhar o desconto.
+  Somar sempre a **comissao de 5% do credenciado**, que e paga pelo comprador **sobre o
+  valor total da compra**, e conferir no edital o **sinal** (20% a vista, 25% parcelado, no
+  padrao CAEX) e o **prazo do saldo** — em regra **24 horas**, o que exige caixa disponivel,
+  nao promessa de crédito.
 
 ## 4. PARCELAMENTO (CPC 895)
 

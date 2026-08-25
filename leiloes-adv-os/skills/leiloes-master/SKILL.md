@@ -105,6 +105,28 @@ remir ate a assinatura do auto; o CPC aplica-se apenas **subsidiariamente** (art
 Sinais para identificar: CEF (ou agente do SFH) no polo ativo, Justica Federal, "execucao
 hipotecaria", mencao a Lei 5.741/1971.
 
+**VENDA DIRETA NAO E LEILAO — e a 5a modalidade.** Modalidade de alienacao por
+iniciativa particular (CPC 880), muito usada pela Justica do Trabalho por meio das
+coordenadorias de execucao (no TRT-1, a CAEX, com base em ato interno do tribunal).
+Diferencas que mudam a operacao do cliente:
+
+| | Leilao | **Venda direta** |
+|---|---|---|
+| Quem oferta | qualquer interessado habilitado | **so leiloeiro ou corretor CREDENCIADO no tribunal** |
+| Como | lance na plataforma | **proposta formalizada nos autos**, em janela de dias definida |
+| Disputa | pregao | 2a etapa online **so se houver 2 ou mais propostas** |
+| Piso | preco vil do art. 891 | **o percentual fixado no edital** (40% e usual) |
+| Desempate | maior lance | maior valor **a vista** > maior parcelado > menor parcelamento > primeira apresentada (CPC 895, §§ 7º e 8º) |
+
+**A consequencia pratica vem primeiro no parecer:** o cliente **nao pode ofertar sozinho**.
+Sem contratar um credenciado do tribunal, com folga sobre a data das propostas, ele nao
+participa — e isso e perda por questao operacional, nao por preco. Conferir a lista de
+credenciados no site do tribunal.
+
+**Ler o ato interno do tribunal** que rege o procedimento (no TRT-1, o Ato Conjunto 7/2019,
+citado nos editais da CAEX): cada regional tem o seu, e ele define janela de propostas,
+sinal, prazo de pagamento e desempate. Nao presumir pelo edital anterior.
+
 ---
 
 ## 5. ONUS E DEBITOS — A REGRA DE OURO DO PLUGIN

@@ -30,7 +30,15 @@ Antes de qualquer classificacao: **o cliente compra ou perde o bem?**
 `arrematante consumado` · `pretendente (pre-lance)`
 
 **D2 — VIA**
-`judicial` (CPC 879-908) · `extrajudicial fiduciario` (Lei 9.514/97 c/ Lei 14.711/2023)
+`judicial - leilao` (CPC 879-908) · `judicial - VENDA DIRETA` (CPC 880; na Justica do
+Trabalho, via coordenadoria de execucao, como a CAEX do TRT-1) · `extrajudicial fiduciario`
+(Lei 9.514/97 c/ Lei 14.711/2023)
+
+**Sinais da venda direta:** o proprio titulo do edital ("Edital de Venda Direta"),
+coordenadoria de execucao no cabecalho (CAEX, CEJUSC-JT, nucleo de execucao), mencao a
+"propostas nos autos" em dias determinados, e percentual de partida fixado (40% e usual).
+**Se for venda direta, a primeira coisa a dizer ao cliente e que ele nao pode ofertar
+sozinho** — depende de leiloeiro ou corretor credenciado no tribunal.
 
 **D3 — FASE** (define a peca cabivel)
 

@@ -33,6 +33,28 @@ O inciso VI e o mais importante para o cliente: sua omissao abre a **desistencia
 - **SFH (Lei 5.741/1971, art. 6º)**: edital pelo prazo de **10 dias**; e o mesmo dispositivo que fixa o piso no **saldo devedor**. Conferir se o edital informa saldo E avaliacao — sem os dois nao ha como dizer se o lote e viavel.
 - **Res. CNJ 236/2016**: no eletronico, lances abertos com no minimo 5 dias de antecedencia; leiloeiro credenciado com no minimo 3 anos de exercicio.
 
+## 2-A. SE FOR VENDA DIRETA, CONFERIR TAMBEM
+
+- **quem pode ofertar** (em regra, so credenciado do tribunal) e a **lista de credenciados**;
+- a **janela de apresentacao das propostas** e a data da eventual 2a etapa online;
+- o **percentual de partida** e se ha minimo por lote;
+- **sinal e prazo do saldo** (padrao CAEX: 20% a vista ou 25% parcelado, mais 5% de comissao,
+  saldo em 24 horas);
+- se as propostas sao **irretrataveis** e qual a penalidade da desistencia (perda do sinal e
+  da comissao e o usual);
+- prazo para requerer **direito de preferencia** (48 horas antes, no padrao CAEX);
+- o **ato interno do tribunal** invocado — ler, nao presumir.
+
+**Alerta de citacao (achado de 25/08/2026):** editais da Justica do Trabalho costumam
+invocar a Consolidacao dos Provimentos da CGJT para afirmar a isencao do arrematante. Na
+republicacao de 06/03/2020 o dispositivo e o **art. 110**, e o seu **paragrafo unico diz o
+inverso** quanto aos debitos NAO tributarios: ficam "subrogados **no bem** arrematado" os
+que **constarem expressamente do edital**. Conferir duas coisas: se o edital lista algum
+debito nao tributario especifico (se listar, o risco e do comprador) e se a numeracao citada
+confere com a versao vigente. De todo modo, **CPC 908, § 1º, e lei federal e prevalece**.
+
+---
+
 ## 3. CLAUSULAS QUE O EDITAL NAO PODE IMPOR
 
 - **Debitos tributarios anteriores ao arrematante.** Invalida — CTN 130, p.u., e **Tema 1.134** (atencao a **modulacao por data de divulgacao do edital**).

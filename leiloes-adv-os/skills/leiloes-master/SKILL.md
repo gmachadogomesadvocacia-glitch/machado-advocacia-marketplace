@@ -80,17 +80,30 @@ O mesmo leilao gera casos em plugins diferentes. **E o POLO que decide, nunca o 
 
 ---
 
-## 4. OS TRES RITOS DA VIA JUDICIAL — NUNCA CONFUNDIR
+## 4. OS QUATRO RITOS DA VIA JUDICIAL — NUNCA CONFUNDIR
 
-| | **CPC** | **Fiscal (L6.830)** | **Trabalhista (CLT 888)** |
-|---|---|---|---|
-| Edital | 5 dias antes (887, § 1º) | entre 10 e 30 dias (22, § 1º) | **20 dias** |
-| Sinal | nao ha | — | **20% do lance** |
-| Pagamento | imediato (892) | — | **24 HORAS**, sob pena de perder o sinal |
-| Comissao | do arrematante (884, p.u.) | do arrematante (23, § 2º) | conferir edital |
-| Risco extra | — | Fazenda adjudica com preferencia (24) | exequente prefere na adjudicacao |
+| | **CPC** | **Fiscal (L6.830)** | **Trabalhista (CLT 888)** | **SFH (L5.741/71)** |
+|---|---|---|---|---|
+| Edital | 5 dias antes (887, § 1º) | entre 10 e 30 dias (22, § 1º) | **20 dias** | **10 dias** (art. 6º) |
+| **Lance minimo** | minimo do edital; sem ele, 50% da avaliacao (891) | idem CPC | idem CPC | **O SALDO DEVEDOR** (art. 6º) |
+| Sinal | nao ha | — | **20% do lance** | conferir edital |
+| Pagamento | imediato (892) | — | **24 HORAS**, sob pena de perder o sinal | conferir edital (24h e usual) |
+| Comissao | do arrematante (884, p.u.) | do arrematante (23, § 2º) | conferir edital | conferir edital |
+| Risco extra | — | Fazenda adjudica com preferencia (24) | exequente prefere na adjudicacao | **deserto = adjudicacao ao credor em 48h** (art. 7º) |
 
 Aplicar prazo do CPC em leilao trabalhista custa o negocio do cliente.
+
+**O RITO DO SFH INVERTE A LOGICA DO PISO — atencao maxima.** Na execucao hipotecaria do
+Sistema Financeiro da Habitacao (Lei 5.741/1971, credor tipicamente a CEF, na Justica
+Federal), o art. 6º manda vender "por preco nao inferior do saldo devedor". O piso **nao e**
+a avaliacao: e a **divida**. Quando o mutuario esta inadimplente ha anos, o saldo supera o
+valor do imovel e o leilao tende a ficar deserto — e o art. 7º manda o juiz adjudicar o bem
+ao exequente em **48 horas**, exonerando o executado do restante. Consequencias praticas:
+calcular preco vil pelo art. 891 do CPC aqui e **erro grave**; 1º e 2º leilao costumam
+correr no mesmo dia sob o mesmo piso, sem janela de desconto; o art. 8º permite ao executado
+remir ate a assinatura do auto; o CPC aplica-se apenas **subsidiariamente** (art. 10).
+Sinais para identificar: CEF (ou agente do SFH) no polo ativo, Justica Federal, "execucao
+hipotecaria", mencao a Lei 5.741/1971.
 
 ---
 

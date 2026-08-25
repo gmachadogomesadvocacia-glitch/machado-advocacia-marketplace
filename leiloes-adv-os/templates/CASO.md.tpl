@@ -19,7 +19,7 @@
   <!-- judicial (expropriacao CPC 879-903, em execucao civel, fiscal ou trabalhista)
        | extrajudicial fiduciario (Lei 9.514/97 arts. 26, 26-A, 27 e 30) -->
 - **Rito da execucao (so na via judicial):** {{RELACAO_JURIDICA}}
-  <!-- civel/CPC | fiscal (Lei 6.830/80) | trabalhista (CLT 888)
+  <!-- civel/CPC | fiscal (Lei 6.830/80) | trabalhista (CLT 888) | SFH (Lei 5.741/71)
        DECISIVO: os tres ritos tem prazos e exigencias DIFERENTES para o arrematante
        (publicacao do edital, sinal, prazo de pagamento, preferencias). Nunca aplicar
        prazo do CPC em leilao trabalhista. -->
@@ -57,9 +57,14 @@
 - **Bem:** {{BEM}}
   <!-- imovel: matricula, RI, endereco, area; movel/veiculo: identificacao. -->
 - **Avaliacao / lance pretendido ou dado:** {{QUANTUM}}
-- **Preco vil (CPC 891):** {{PRECO_VIL}}
-  <!-- vil = inferior ao MINIMO do edital; nao havendo minimo fixado, inferior a 50% da
-       avaliacao. Na via fiduciaria NAO se aplica: la vale o referencial do art. 27, § 2º. -->
+- **Piso do lance:** {{PRECO_VIL}}
+  <!-- CPC/fiscal/trabalhista: vil = inferior ao MINIMO do edital; sem minimo, inferior a 50%
+       da avaliacao (CPC 891). SFH (L5.741/71): o piso e o SALDO DEVEDOR (art. 6º), nao a
+       avaliacao — anotar os DOIS numeros e a razao saldo/avaliacao. Fiduciaria: nao ha preco
+       vil; vale o referencial do art. 27, § 2º. -->
+- **Saldo devedor (rito SFH):** {{SALDO_DEVEDOR}}
+  <!-- so no rito da Lei 5.741/71. Se saldo > avaliacao, a arrematacao por terceiro e
+       inviavel e o desfecho provavel e a adjudicacao ao credor em 48h (art. 7º). -->
 - **Onus e gravames na matricula:** {{ONUS}}
   <!-- hipoteca (extingue-se pela arrematacao — CC 1.499, VI), penhoras concorrentes,
        usufruto, indisponibilidade, alienacao fiduciaria, servidao. Um a um, com a fonte. -->

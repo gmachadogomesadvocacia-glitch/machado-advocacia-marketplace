@@ -32,13 +32,16 @@ O mesmo leilao gera casos em plugins diferentes conforme o polo. **E o polo que 
 
 ## Cobertura
 
-**Via judicial** — expropriacao do CPC (arts. 879 a 908), nos tres ritos, que **nao** tem os mesmos prazos:
+**Via judicial** — expropriacao do CPC (arts. 879 a 908), nos quatro ritos, que **nao** tem os mesmos prazos nem o mesmo piso:
 
-| | CPC | Fiscal (L6.830) | Trabalhista (CLT 888) |
-|---|---|---|---|
-| Edital | 5 dias antes | 10 a 30 dias | **20 dias** |
-| Sinal | — | — | **20% do lance** |
-| Pagamento | imediato | — | **24 horas** |
+| | CPC | Fiscal (L6.830) | Trabalhista (CLT 888) | SFH (L5.741/71) |
+|---|---|---|---|---|
+| Edital | 5 dias antes | 10 a 30 dias | **20 dias** | **10 dias** |
+| **Lance minimo** | 50% da avaliacao | idem | idem | **o SALDO DEVEDOR** |
+| Sinal | — | — | **20% do lance** | conferir edital |
+| Pagamento | imediato | — | **24 horas** | conferir edital |
+
+O **rito do SFH inverte a logica do piso**: o minimo e a divida, nao o bem (art. 6º da Lei 5.741/1971). Nao havendo licitante, o juiz adjudica ao credor em 48 horas (art. 7º). Calcular preco vil pelo art. 891 do CPC nesse rito e erro grave.
 
 **Via extrajudicial fiduciaria** — Lei 9.514/97 na redacao da **Lei 14.711/2023**, incluindo a janela do art. 27, § 2º (o credor pode aceitar lance de metade da avaliacao), a blindagem dos §§ 11 e 12 e a reintegracao liminar do art. 30, assegurada expressamente ao adquirente em leilao.
 

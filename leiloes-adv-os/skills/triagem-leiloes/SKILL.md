@@ -49,9 +49,11 @@ Antes de qualquer classificacao: **o cliente compra ou perde o bem?**
 
 ## 2. O RITO (so na via judicial) — DEFINE OS PRAZOS
 
-Identificar **antes** de calcular qualquer coisa: **civel (CPC)** · **fiscal (Lei 6.830/80)** · **trabalhista (CLT 888)**. Tabela comparativa no `leiloes-master` §4.
+Identificar **antes** de calcular qualquer coisa: **civel (CPC)** · **fiscal (Lei 6.830/80)** · **trabalhista (CLT 888)** · **SFH (Lei 5.741/1971)**. Tabela comparativa no `leiloes-master` §4.
 
-Sinais: numero do processo e vara; se ha Fazenda no polo ativo (fiscal); se e Vara do Trabalho (CLT 888, com sinal de 20% e pagamento em 24 horas).
+Sinais: numero do processo e vara; Fazenda no polo ativo (fiscal); Vara do Trabalho (CLT 888, com sinal de 20% e pagamento em 24 horas); **CEF ou agente do SFH no polo ativo + Justica Federal + "execucao hipotecaria" + mencao a Lei 5.741/1971 (rito do SFH)**.
+
+**PERGUNTA OBRIGATORIA NO RITO DO SFH:** qual e o **saldo devedor** e qual e a **avaliacao**? O piso e o saldo (art. 6º), nao a avaliacao. Se o saldo superar o valor do imovel, a operacao ja nasce inviavel para o arrematante e o desfecho provavel e a adjudicacao ao credor (art. 7º) — dizer isso ao cliente **antes** de qualquer outro exame.
 
 ---
 

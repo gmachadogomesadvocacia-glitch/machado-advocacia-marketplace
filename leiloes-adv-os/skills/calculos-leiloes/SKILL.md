@@ -37,9 +37,11 @@ Comparar com o valor de mercado **liquido**, nunca com a avaliacao judicial (que
 
 **Regra:** o **edital manda**. Na ausencia, apresentar a faixa (3% a 5%) como faixa, nunca como numero certo. Calcular o cenario conservador (5%).
 
-## 3. PRECO VIL (so via judicial)
+## 3. PISO DO LANCE — DEPENDE DO RITO
 
-Vil = inferior ao minimo do edital; **sem minimo fixado**, inferior a **50% da avaliacao** (CPC 891, p.u.). Calcular o piso antes de orientar lance. **Nao existe preco vil na via fiduciaria** — la vale o referencial do art. 27, § 2º.
+- **CPC, fiscal e trabalhista:** vil = inferior ao minimo do edital; **sem minimo fixado**, inferior a **50% da avaliacao** (CPC 891, p.u.).
+- **SFH (Lei 5.741/1971):** o piso e o **SALDO DEVEDOR** (art. 6º), nao a avaliacao. **Nao aplicar o art. 891 aqui.** Pedir sempre os dois numeros e apresentar a razao `saldo / avaliacao`: acima de 1,0 a arrematacao por terceiro ja e economicamente inviavel, e o desfecho provavel e a adjudicacao ao credor em 48 horas (art. 7º). O saldo costuma ser atualizado ate a data do leilao, entao o piso tende a **subir**.
+- **Fiduciaria:** nao existe preco vil — vale o referencial do art. 27, § 2º, da Lei 9.514/97.
 
 ## 4. PARCELAMENTO (CPC 895)
 

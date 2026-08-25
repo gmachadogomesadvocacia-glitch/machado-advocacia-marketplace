@@ -20,6 +20,7 @@ Instrucoes de operacao do plugin. Lidas pelo Claude ao trabalhar neste repositor
 4. Citar o **Tema 886** sem dizer que esta **em revisao**, com suspensao nacional.
 5. Aplicar prazo do CPC em leilao **trabalhista** (CLT 888: edital de 20 dias, sinal de 20%, pagamento em **24 horas**).
 6. Aplicar instituto do CPC ao leilao **fiduciario** — la nao ha preco vil, auto de arrematacao nem os 10 dias do art. 903.
+6-A. Calcular preco vil pelo art. 891 do CPC no rito do **SFH (Lei 5.741/1971)**. La o piso e o **SALDO DEVEDOR** (art. 6º), nao a avaliacao — e, nao havendo licitante, o juiz adjudica ao credor em **48 horas** (art. 7º). Sinais do rito: CEF no polo ativo, Justica Federal, "execucao hipotecaria".
 7. Prometer resultado, rentabilidade ou "lucro certo" (PA-07).
 8. Orientar autotutela contra ocupante ou afirmar desocupacao automatica (PA-08, PA-09).
 9. Orientar lance sem conferir o rol de impedidos do CPC 890 — **inclusive advogados de qualquer das partes**.

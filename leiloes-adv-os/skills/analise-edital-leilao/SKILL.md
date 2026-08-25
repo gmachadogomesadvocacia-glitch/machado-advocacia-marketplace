@@ -30,6 +30,7 @@ O inciso VI e o mais importante para o cliente: sua omissao abre a **desistencia
 - **CPC 887, § 1º**: publicacao com pelo menos **5 dias** de antecedencia; § 2º na internet, em sitio designado pelo juizo.
 - **Execucao fiscal (L6.830, art. 22, § 1º)**: entre **10 e 30 dias** da publicacao ao leilao.
 - **Trabalhista (CLT 888)**: edital com **20 dias** de antecedencia.
+- **SFH (Lei 5.741/1971, art. 6º)**: edital pelo prazo de **10 dias**; e o mesmo dispositivo que fixa o piso no **saldo devedor**. Conferir se o edital informa saldo E avaliacao — sem os dois nao ha como dizer se o lote e viavel.
 - **Res. CNJ 236/2016**: no eletronico, lances abertos com no minimo 5 dias de antecedencia; leiloeiro credenciado com no minimo 3 anos de exercicio.
 
 ## 3. CLAUSULAS QUE O EDITAL NAO PODE IMPOR

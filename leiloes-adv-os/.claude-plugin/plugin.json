@@ -1,0 +1,9 @@
+{
+  "name": "leiloes-adv-os",
+  "version": "0.1.0",
+  "description": "Sistema operacional do advogado do ARREMATANTE, no padrao Adv-OS. Unico plugin do marketplace que enxerga o leilao pelos olhos de quem COMPRA. Cobre DUAS VIAS — JUDICIAL (expropriacao, CPC 879-908, nos ritos civel, fiscal Lei 6.830/80 e trabalhista CLT 888) e EXTRAJUDICIAL FIDUCIARIO (Lei 9.514/97 na redacao da Lei 14.711/2023) — em cinco fases: due diligence pre-lance, arrematado sem carta, carta sem posse, posse com litigio residual e desfazimento. Skill flagship: parecer de viabilidade do lote com veredito ARREMATAR / NAO ARREMATAR / ARREMATAR COM RESSALVA e calculo do custo real de aquisicao. 20 skills (Tier 0-3), 4 Camadas, 13 Proibicoes Absolutas (polo restrito a quem compra; judicial != fiduciario; nunca afirmar que a arrematacao extingue todo onus; prazo de 10 dias do art. 903; impedidos de arrematar do art. 890, inclusive advogados das partes; vedacao de promessa de resultado ao investidor; vedacao de autotutela contra ocupante), Selo de Validacao de Norma Vigente e Revisao Tecnica R1-R4; engine com persona em runtime e 13 commands. Base verificada na fonte: CPC 879-908, CTN 130, CC 1.345/1.499/447-457, Lei 8.245 art. 8º, Lei 9.514 arts. 26/26-A/27/30, Dec. 21.981/32, Res. CNJ 236/2016; STJ Temas 1.134 (modulado) e 1.288, com o Tema 886 sinalizado em revisao. INTERFACES: executado, exequente e devedor fiduciante NAO sao atendidos aqui — executado/exequente vao a civel-adv-os, tributario-adv-os ou trabalhista-adv-os; devedor fiduciante e credor fiduciario a imobiliario-adv-os; UPI e falencia a recuperacao-judicial-adv-os. Persona em runtime via /start-leiloes.",
+  "author": {
+    "name": "Machado Advocacia"
+  },
+  "license": "MIT"
+}

@@ -96,14 +96,29 @@ Cada risco recebe **probabilidade** (alta/media/baixa), **impacto em R$** quando
 
 ---
 
-## 5. ESTRUTURA DE ENTREGA
+## 5. ESTRUTURA DE ENTREGA — O PARECER E PARA O CLIENTE
 
-1. Identificacao do lote e do leilao (rito, juizo, datas, avaliacao, minimo)
-2. Sumario do veredito — na **primeira** pagina
-3. Os seis exames, um por secao, com documento e folha citados
-4. Quadro do custo real
-5. Riscos numerados: probabilidade · impacto · providencia
-6. Condicoes da ressalva, quando for o caso
-7. O que ainda falta conferir e o que isso muda
+Os seis exames sao o **trabalho**. O parecer e o que o cliente **le para decidir**, e por
+isso se escreve para ele: objetivo, enxuto, em linguagem que ele entende. Alvo de **1 a 2
+paginas**.
 
-Estilo enxuto (`estilo-juridico-leiloes`), passada anti-rastro e **Revisao R1-R4** antes de entregar.
+1. **A RESPOSTA** — veredito em uma frase, no topo, seguido do porque em tres ou quatro
+   linhas. O cliente nao pode ter de rolar o documento para saber se compra ou nao.
+2. **O LOTE EM QUATRO LINHAS** — o que e, onde fica, quando e o leilao, qual o lance minimo.
+3. **QUANTO CUSTA DE VERDADE** — tabela simples, total destacado, premissas em uma linha.
+4. **O QUE PODE DAR ERRADO** — cada risco em **consequencia pratica**, com valor quando der
+   para calcular e o que fazer a respeito. Nao em categoria juridica.
+5. **O QUE FALTA SABER** — o que nao foi possivel conferir e se isso muda a resposta.
+6. **O QUE VOCE PRECISA DECIDIR E PROVIDENCIAR** — fechamento acionavel.
+7. **BASE LEGAL** — bloco final curto, so o que sustenta de fato. Fora do texto principal.
+
+**Linguagem:** nada de propter rem, eviccao, sub-rogacao, adjudicacao, remicao ou preco vil
+soltos. Se o termo for inevitavel, explicar entre parenteses na primeira vez e seguir com a
+palavra comum. "Voce pode ficar com uma divida de condominio de R$ X", nao "risco de
+responsabilidade propter rem".
+
+**O que NAO muda:** a checagem na fonte, o veredito fechado, a ressalva honesta quando a
+jurisprudencia e aberta e a vedacao de prometer resultado (PA-07). Muda a entrega, nao o
+trabalho. Se o caso pedir, o detalhamento tecnico vai em **anexo separado**, nunca no corpo.
+
+Estilo (`estilo-juridico-leiloes`), passada anti-rastro e **Revisao R1-R4** antes de entregar.

@@ -14,7 +14,13 @@ metadata:
 
 ## 1. VOZ
 
-Peca enxuta, ancorada, sem rol prolixo. Documentos numerados "doc. N" e citados por numero. Combatividade dirigida a teses e fatos, nunca a pessoas. **No parecer pre-lance a voz muda**: e a do conselheiro que da veredito, nao a do advogado que defende tese — o cliente vai decidir com dinheiro proprio e precisa do risco na cara, sem retorica.
+Peca enxuta, ancorada, sem rol prolixo. Documentos numerados "doc. N" e citados por numero. Combatividade dirigida a teses e fatos, nunca a pessoas.
+
+**No PARECER a voz muda por completo, e isso e regra do escritorio (25/08/2026).** O
+destinatario e o **cliente**, nao o juiz nem outro advogado. Objetivo, enxuto, em linguagem
+que ele entende: a resposta no topo, 1 a 2 paginas, risco dito como consequencia pratica,
+base legal em bloco final fora do texto. Se o cliente precisa de um advogado para traduzir o
+parecer do advogado, o documento falhou. Estrutura completa em `due-diligence-lote` §5.
 
 ## 2. ANTI-RASTRO DE IA (obrigatorio)
 

@@ -37,7 +37,11 @@ metadata:
 - [ ] Onus e debitos tratados **um a um**, com a base de cada um.
 - [ ] Impedidos de arrematar conferidos quando ha lance orientado (PA-10).
 - [ ] Nenhum pedido orfao; nenhum documento da pasta relevante ficou de fora.
-- [ ] No parecer: veredito explicito, custo real somado e premissas declaradas.
+- [ ] No parecer: veredito explicito **no topo**, custo real somado e premissas declaradas.
+- [ ] **PARECER = LINGUAGEM DE CLIENTE** (regra de 25/08/2026): 1 a 2 paginas; sem jargao
+      sem traducao (propter rem, eviccao, sub-rogacao, adjudicacao, remicao, preco vil);
+      risco dito como consequencia pratica; base legal em bloco final, fora do corpo; fecho
+      com o que decidir e o que providenciar. Texto de peca em parecer **reprova**.
 
 ## R4 — FORMA E RASTRO
 

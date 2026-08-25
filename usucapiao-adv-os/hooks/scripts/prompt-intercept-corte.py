@@ -87,7 +87,7 @@ DOMAIN_KEYWORDS = [
     r"\bProvimento\s+CNJ\b", r"\bLei\s+6\.?015\b",
     # Confrontantes / partes / citacao
     r"\bconfrontante\b", r"\boponente\b", r"\bvizinho\s+confinante\b",
-    r"\br[ée]us\s+incertos\b", r"\bedital\b",
+    r"\br[ée]us\s+incertos\b", 
     r"\bcita[çc][ãa]o\s+por\s+edital\b",
     r"\bart\.?\s*246\b", r"\bart\.?\s*259\b",
     # Imovel / bem

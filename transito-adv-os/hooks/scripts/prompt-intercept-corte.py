@@ -76,8 +76,8 @@ DOMAIN_KEYWORDS = [
     # Autuacao e processo administrativo
     r"\bmulta\b", r"\binfra[çc][ãa]o\s+de\s+tr[âa]nsito\b",
     r"\bauto\s+de\s+infra[çc][ãa]o\b", r"\bAIT\b",
-    r"\bnotifica[çc][ãa]o\s+de\s+autua[çc][ãa]o\b", r"\bNA\b",
-    r"\bnotifica[çc][ãa]o\s+de\s+penalidade\b", r"\bNP\b",
+    r"\bnotifica[çc][ãa]o\s+de\s+autua[çc][ãa]o\b", 
+    r"\bnotifica[çc][ãa]o\s+de\s+penalidade\b", 
     r"\bdefesa\s+pr[ée]via\b", r"\bdefesa\s+da\s+autua[çc][ãa]o\b",
     r"\brecurso\b", r"\bJARI\b", r"\bCETRAN\b", r"\bCONTRANDIFE\b",
     r"\bCONTRAN\b", r"\bDETRAN\b", r"\borg[ãa]o\s+autuador\b",

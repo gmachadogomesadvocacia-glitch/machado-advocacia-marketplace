@@ -43,10 +43,19 @@ confirmar** (nunca acionar o plugin sem o "ok").
 | **civel-adv-os** | indenizacao/dano moral/material (responsabilidade civil), contratos civeis, anulacao de negocio (erro/dolo/coacao), cobranca, monitoria, execucao de titulo extrajudicial, responsabilidade do Estado | `/start-civel` |
 | **transito-adv-os** | multa, autuacao, CNH, suspensao do direito de dirigir, cassacao, JARI/CETRAN, pontos na carteira, radar, indicacao de condutor | `/start-transito` |
 | **usucapiao-adv-os** | usucapiao, posse longa para virar dono, tempo de posse, usucapiao extrajudicial em cartorio | `/start-usucapiao` |
+| **leiloes-adv-os** | leilao, arrematacao, arrematante, hasta publica, edital de leilao, lance/lote, leiloeiro, carta de arrematacao, imissao na posse do arrematante, preco vil, leilao extrajudicial da Lei 9.514 — **somente pelo lado de QUEM COMPRA** | `/start-leiloes` |
 | **isencao-ir-doenca-adv-os** | isencao de imposto de renda, doenca grave (cancer/neoplasia, cardiopatia, cegueira, Parkinson...), aposentado/pensionista que paga IR, restituicao de IR por doenca | `/start-isencao-ir` |
 
 ## REGRAS DE DESAMBIGUACAO (as fronteiras que mais confundem)
 
+- **Leilao / arrematacao — decide-se pelo POLO, nunca pelo tema.** Quem **COMPRA**
+  (arrematante consumado ou pretendente a lance: due diligence do lote, imissao na posse,
+  defesa da arrematacao, desistencia por onus oculto, eviccao) → **leiloes**. Quem **PERDE
+  o bem** (executado que quer suspender ou anular) → plugin da relacao-base: **civel**,
+  **tributario** (execucao fiscal) ou **trabalhista**. **Devedor fiduciante** (purgacao,
+  anulacao da consolidacao, saldo) e **credor fiduciario** → **imobiliario**. Alienacao de
+  UPI / ativo em falencia (art. 142 LRF) → **recuperacao-judicial**. Na duvida sobre o polo,
+  PERGUNTAR antes de sugerir — o mesmo leilao gera casos em plugins diferentes.
 - **Negativacao / cobranca indevida** → **consumidor** por padrao (relacao de consumo).
   So **civel** se NAO houver relacao de consumo (ex.: divida entre particulares).
 - **Execucao fiscal** → **tributario**. **Civel** so para execucao NAO fiscal (titulo privado).
